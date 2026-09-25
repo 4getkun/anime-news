@@ -1,10 +1,23 @@
 # アニメニュース全部
 
 アニメ関連ニュースのRSSを片っ端から集め、関係ない記事・転載・重複を落として、読みたいものだけに絞り込めるようにした静的サイトです。
-[Curation_NPB](https://github.com/4getkun/Curation_NPB) と同じく、Astro + GitHub Actions + GitHub Pages の無料枠だけで動きます。
+Astro で静的に書き出し、GitHub Actions から Cloudflare Pages へ公開しています。
 
-- 公開URL（Pages有効化後）: https://4getkun.github.io/anime-news/
-- 更新: GitHub Actions が30分ごとにRSSを取得 → コミット → ビルド → 公開
+- 公開URL: https://fourgetkun.com/anime-news/ （fourgetkun-hub 配下）
+- 配信元: https://anime-news-a7f.pages.dev （Cloudflare Pages。直接開くと公開URLへ転送される）
+- 更新: GitHub Actions が1時間ごとにRSSを取得 → コミット → ビルド → `wrangler pages deploy`
+
+## 公開の仕組み
+
+news-lifespan と同じ方式です。ビルド結果は Cloudflare Pages のプロジェクト `anime-news` へ Direct Upload し、
+fourgetkun-hub の Worker（`src/pages-proxy/proxy.js`）が `/anime-news/*` を pages.dev から取ってきて返します。
+リポジトリは private のままで構いません。
+
+- `astro.config.mjs` の `site` / `base` は公開側（`https://fourgetkun.com` / `/anime-news`）に合わせてあります。
+- ハブ側の設定は fourgetkun-hub の `proxy.js` の `SITES`、`wrangler.jsonc` の `run_worker_first`、
+  `public/anime-news/`（トップ索引用の名札）、`build-manifest.js` の `CATEGORY_OF` / `PROXIED` / `PROXIED_SITEMAPS`。
+- 取り次ぎのエッジキャッシュは約5分なので、デプロイから公開側に出るまで最大5分かかります。
+- 共有カード画像 `public/og-image.png` は `python tools/make-og.py`（要 Pillow）で作り直せます。
 
 ## しくみ
 
@@ -54,11 +67,17 @@ npm run probe-feeds  # feeds.json の全フィードの生存確認（URLを渡�
 媒体を追加するときは `npm run probe-feeds <URL>` で取れることを確かめてから `src/data/feeds.json` に足します。
 `kind` は `specialist`（アニメ専門）/ `general`（総合・ゲーム）/ `aggregator`（Googleニュース検索）/ `press`（プレスリリース）のどれかです。
 
-## GitHub Pages の設定
+## GitHub Actions の設定
 
-1. Settings → Pages → Source を **GitHub Actions** にする
-2. Settings → Actions → General → Workflow permissions を **Read and write** にする
-3. Actions タブで「Update news and deploy to GitHub Pages」を手動実行（以後は30分ごとに自動）
+1. リポジトリの Settings → Secrets and variables → Actions に次の2つを登録する（mahjong-war と同じもの）
+   - `CLOUDFLARE_API_TOKEN` … Account > Cloudflare Pages > Edit の権限を持つトークン
+   - `CLOUDFLARE_ACCOUNT_ID` … アカウントID
+   未登録の間は、収集とコミットだけ行いデプロイを飛ばします。
+   （データのコミットに要る書き込み権限は、ワークフローの `permissions: contents: write` で付けている）
+2. Actions タブで「Update news and deploy to Cloudflare Pages」を有効にして手動実行（以後は毎時17分に自動）
+
+間隔を1時間にしているのは、private リポジトリの Actions 無料枠（月2,000分）をほかのリポジトリと分け合っているためです。
+1回およそ1〜2分なので月720〜1,440分かかります。
 
 ## 著作権について
 
