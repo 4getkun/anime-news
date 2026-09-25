@@ -3,9 +3,10 @@
 import Base from "../../layouts/Base.astro";
 import { workPages } from "../../lib/news";
 import { withBase } from "../../lib/url";
+import { breadcrumb } from "../../lib/seo";
 ---
 
-<Base title="作品一覧" description={`ニュースに出てきたアニメ作品${workPages.length}件の一覧。作品ごとのニュースをまとめて読めます。`}>
+<Base jsonLd={breadcrumb([{ name: "作品一覧", path: "/work/" }])} title="作品一覧" description={`ニュースに出てきたアニメ作品${workPages.length}件の一覧。作品ごとのニュースをまとめて読めます。`}>
   <section class="wrap work-index">
     <h1 class="work-title">作品一覧</h1>
     <p class="work-meta">直近30日のニュースに2件以上出てきた作品 {workPages.length}件（記事の多い順）</p>
