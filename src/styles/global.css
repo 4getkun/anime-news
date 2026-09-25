@@ -133,12 +133,12 @@
   gap: 10px;
   white-space: nowrap;
 }
-.logo-lamp {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: var(--onair);
-  box-shadow: 0 0 0 4px var(--onair-soft);
+/* ファビコンと同じマーク(フキダシ＋ON AIRランプ) */
+.logo-mark {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
 }
 .site-nav {
   margin-left: auto;

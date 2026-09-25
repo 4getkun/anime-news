@@ -1,0 +1,16 @@
+{
+  "name": "アニメニュース全部",
+  "short_name": "アニメニュース",
+  "description": "アニメ関連ニュースのRSSを集めて、転載・重複をまとめ、読みたいものだけに絞り込めるサイト",
+  "lang": "ja",
+  "start_url": "/anime-news/",
+  "scope": "/anime-news/",
+  "display": "standalone",
+  "background_color": "#15172B",
+  "theme_color": "#15172B",
+  "icons": [
+    { "src": "/anime-news/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/anime-news/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/anime-news/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
