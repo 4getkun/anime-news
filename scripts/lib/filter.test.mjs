@@ -194,3 +194,20 @@ test("予定の抽出: 過去形の出来事は拾わず、少し前の日付を
   assert.deepEqual(ex("『X』1月8日放送開始"), ["2027-01-08:broadcast"]); // 150日以上前なら来年
   assert.deepEqual(ex("『X』7月15日放送"), ["2026-07-15:broadcast"]); // 72日前なら今年のまま
 });
+
+test("途中で切れた見出しは、同じ書き出しの完全な見出しにまとめる", async () => {
+  const { isTruncatedTitle } = await import("./filter.mjs");
+  assert.equal(isTruncatedTitle("人気ゾンビサバイバルゲーム『7 Days to"), true);
+  assert.equal(isTruncatedTitle("TVアニメ『X』第24話のあらすじ公開！ 東は、平と会えなくなることを分かったうえで…"), false);
+  assert.equal(isTruncatedTitle("新作『X』の発売日が決定"), false);
+  const mk = (title, link, pubDate, kind) => ({
+    title, link, pubDate, kind, summary: "", image: null, categories: [], platforms: [], spoiler: false, score: 0, lang: "ja",
+    works: [], sources: [{ name: link, sourceId: link, link }],
+  });
+  const out = dedupeItems([
+    mk("人気ゾンビサバイバルゲーム『7 Days to", "https://g/1", "2026-09-26T03:00:00Z", "aggregator"),
+    mk("人気ゾンビサバイバルゲーム『7 Days to Die』に“バックパック”が実装", "https://d/1", "2026-09-26T02:00:00Z", "specialist"),
+  ]);
+  assert.equal(out.length, 1);
+  assert.ok(out[0].title.includes("Die』"));
+});
