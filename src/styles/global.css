@@ -446,6 +446,13 @@
   padding-block: 28px 80px;
   align-items: start;
 }
+/* PC: 一覧の最初の見出しの下線と、左の絞り込みパネルの上端をそろえる
+   (見出しの上の余白 10px + 文字の行 30px + 下の余白 8px = 48px だけパネルを下げる) */
+@media (min-width: 961px) {
+  .panel {
+    margin-top: 48px;
+  }
+}
 
 /* --------------------------------------------------------- filter panel */
 .panel {
@@ -648,16 +655,19 @@
 }
 
 /* ---------------------------------------------------------------- feed */
-.feed-status {
+.feed-count {
+  margin: 0 0 0 auto;
+  /* 見出しの行(30px)より高くならないようにする(下線の位置がずれるため) */
+  align-self: flex-end;
+  height: 30px;
+  line-height: 30px;
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px 14px;
+  gap: 14px;
   font-size: 13px;
   color: var(--muted);
-  margin-bottom: 8px;
+  white-space: nowrap;
 }
-.feed-status strong {
+.feed-count strong {
   color: var(--ink);
   font-size: 15px;
   font-variant-numeric: tabular-nums;
@@ -666,6 +676,10 @@
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
+  margin-bottom: 12px;
+}
+.active-filters:empty {
+  display: none;
 }
 .active-filters .chip {
   min-height: 28px;
@@ -701,6 +715,9 @@
 .day {
   margin-top: 26px;
 }
+.day:first-child {
+  margin-top: 0;
+}
 .day-head {
   position: sticky;
   top: calc(var(--header-h) + var(--toolbar-h));
@@ -716,6 +733,7 @@
   font-family: var(--font-display);
   font-weight: 400;
   font-size: 20px;
+  line-height: 30px;
   margin: 0;
 }
 .day-head span {
@@ -731,6 +749,12 @@
   grid-template-columns: 52px minmax(0, 1fr) auto;
   gap: 4px 16px;
   padding: 16px 0;
+}
+/* サムネイルの無い記事は右の列を作らない(空の列の分だけ本文とハッシュタグが右端に届かなくなるため) */
+@container (min-width: 521px) {
+  .item-grid:not(:has(.item-thumb)) {
+    grid-template-columns: 52px minmax(0, 1fr);
+  }
 }
 .item-time {
   font-size: 13px;
@@ -801,6 +825,7 @@
 .item-tags {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 6px;
   margin-top: 8px;
 }
@@ -816,6 +841,27 @@
 .tag:hover {
   color: var(--ink);
   text-decoration: underline;
+}
+/* 話題のハッシュタグ: 記事の右端にそろえ、押せる札の形にする(押すとその話題で絞り込む) */
+.item-cats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-left: auto;
+}
+.item-tags .tag.tag-cat {
+  min-height: 30px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--muted);
+}
+.item-tags .tag.tag-cat:hover {
+  border-color: var(--ink);
+  color: var(--ink);
+  text-decoration: none;
 }
 .tag-work {
   font-weight: 700;

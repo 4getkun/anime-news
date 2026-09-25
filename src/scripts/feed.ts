@@ -269,7 +269,7 @@ export async function startFeed() {
       .join("");
     const cats = it.c
       .slice(0, 3)
-      .map((c) => `<button type="button" class="tag" data-tag-cat="${c}">#${esc(catLabel[c]?.label ?? c)}</button>`)
+      .map((c) => `<button type="button" class="tag tag-cat" data-tag-cat="${c}">#${esc(catLabel[c]?.label ?? c)}</button>`)
       .join("");
     return `<article class="${classes}">
       <div class="item-grid">
@@ -285,7 +285,7 @@ export async function startFeed() {
           <h3 class="item-title"><a href="${esc(it.l)}" target="_blank" rel="noopener noreferrer" data-read="${esc(it.l)}">${esc(it.t)}</a></h3>
           ${it.s ? `<p class="item-summary">${esc(it.s)}</p>` : ""}
           ${guard ? `<button type="button" class="spoiler-reveal" data-reveal="${esc(it.l)}">ネタバレの可能性あり。タップで表示</button>` : ""}
-          ${works || cats ? `<div class="item-tags">${works}${cats}</div>` : ""}
+          ${works || cats ? `<div class="item-tags">${works}${cats ? `<span class="item-cats">${cats}</span>` : ""}</div>` : ""}
           ${extra}
         </div>
         ${it.i ? `<img class="item-thumb" src="${esc(it.i)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
@@ -365,12 +365,16 @@ export async function startFeed() {
     updateMoreButton();
   }
 
+  // 件数(と非表示にした件数)。一覧を描き直すと消えるので、最初の日付の見出しに付け直す
+  const countEl = $(".feed-count");
+
   function renderList() {
     const list = $("#feed-list");
     const slice = lastResult.slice(0, shown);
     prefetched = null;
     if (slice.length === 0) {
-      list.innerHTML = `<div class="empty"><p>条件に合うニュースはありません。</p><button type="button" class="btn btn-solid" id="reset-all">絞り込みをすべて解除</button></div>`;
+      list.innerHTML = `<div class="day"><div class="day-head"><h2>見つかりません</h2></div><div class="empty"><p>条件に合うニュースはありません。</p><button type="button" class="btn btn-solid" id="reset-all">絞り込みをすべて解除</button></div></div>`;
+      list.querySelector(".day-head")!.append(countEl);
       $("#more").hidden = true;
       return;
     }
@@ -382,6 +386,7 @@ export async function startFeed() {
       list.innerHTML = g.rest;
       renderedKey = g.lastKey;
     }
+    list.querySelector(".day-head")!.append(countEl);
     updateMoreButton();
   }
 
