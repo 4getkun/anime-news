@@ -6,7 +6,7 @@
     python tools/make-og.py
 
 フォント: 見出しは tools/fonts/DelaGothicOne-Regular.ttf(サイトの見出しと同じ。OFL)、
-本文は Windows 標準の BIZ UDゴシック Bold(サイト本文の BIZ UDPGothic と同じ系統)。
+本文は tools/fonts/BIZUDGothic-Bold.ttf(サイト本文の BIZ UDPGothic と同じ系統。OFL)。
 """
 import math
 import random
@@ -17,7 +17,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "public" / "og-image.png"
 DISPLAY = str(ROOT / "tools" / "fonts" / "DelaGothicOne-Regular.ttf")
-BODY = "C:/Windows/Fonts/BIZ-UDGothicB.ttc"
+BODY = str(ROOT / "tools" / "fonts" / "BIZUDGothic-Bold.ttf")
 
 S = 2  # 2倍で描いて縮小し、斜めの線をなめらかにする
 W, H = 1200 * S, 630 * S

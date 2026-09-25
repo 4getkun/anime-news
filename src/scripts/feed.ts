@@ -38,7 +38,7 @@ interface Item extends RawItem {
 interface Config {
   dataUrl: string;
   generatedAt: string;
-  categories: { id: string; label: string; emoji: string }[];
+  categories: { id: string; label: string; emoji: string; sensitive: boolean }[];
   feeds: { id: string; name: string; kind: string; lang: string }[];
   kindLabels: Record<string, string>;
 }
@@ -56,6 +56,8 @@ interface State {
   mute: string[];
   follow: string[];
   hiddenSources: Set<string>;
+  /** 隠す「見たくない話題」(事件・トラブル / 熱愛・結婚 / 訃報) */
+  hiddenTopics: Set<string>;
   onlyFollow: boolean;
   spoilerBlur: boolean;
   hideRead: boolean;
@@ -112,6 +114,7 @@ export async function startFeed() {
     mute: Array.isArray(prefs.mute) ? (prefs.mute as string[]) : [],
     follow: Array.isArray(prefs.follow) ? (prefs.follow as string[]) : [],
     hiddenSources: new Set(Array.isArray(prefs.hiddenSources) ? (prefs.hiddenSources as string[]) : []),
+    hiddenTopics: new Set(Array.isArray(prefs.hiddenTopics) ? (prefs.hiddenTopics as string[]) : []),
     onlyFollow: prefs.onlyFollow === true,
     spoilerBlur: prefs.spoilerBlur !== false,
     hideRead: prefs.hideRead === true,
@@ -169,6 +172,10 @@ export async function startFeed() {
 
   function isMuted(it: Item) {
     return state.mute.some((m) => it.haystack.includes(norm(m)));
+  }
+
+  function isHiddenTopic(it: Item) {
+    return it.c.some((c) => state.hiddenTopics.has(c));
   }
 
   // ---------------------------------------------------------------- 描画
@@ -267,7 +274,7 @@ export async function startFeed() {
     const catCounts = new Map<string, number>();
     const srcCounts = new Map<string, number>();
     for (const it of items) {
-      if (isMuted(it)) continue;
+      if (isMuted(it) || isHiddenTopic(it)) continue;
       if (passes(it, "cats", query)) for (const c of it.c) catCounts.set(c, (catCounts.get(c) ?? 0) + 1);
       if (passes(it, "sources", query)) srcCounts.set(it.src, (srcCounts.get(it.src) ?? 0) + 1);
     }
@@ -294,6 +301,9 @@ export async function startFeed() {
     $<HTMLInputElement>("#spoiler-blur").checked = state.spoilerBlur;
     $<HTMLInputElement>("#hide-read").checked = state.hideRead;
     $<HTMLInputElement>("#multi-only").checked = state.multiOnly;
+    document.querySelectorAll<HTMLInputElement>("[data-hide-topic]").forEach((input) => {
+      input.checked = state.hiddenTopics.has(input.dataset.hideTopic!);
+    });
 
     $("#mute-list").innerHTML = state.mute
       .map((m) => `<button type="button" class="chip" data-unmute="${esc(m)}" aria-label="${esc(m)} のミュートを解除">${esc(m)}</button>`)
@@ -333,9 +343,14 @@ export async function startFeed() {
     if (resetPage) shown = PAGE_SIZE;
     const query = parseQuery(state.q);
     let muted = 0;
+    let hiddenByTopic = 0;
     const result: Item[] = [];
     for (const it of items) {
       if (!passes(it, null, query)) continue;
+      if (isHiddenTopic(it)) {
+        hiddenByTopic++;
+        continue;
+      }
       if (isMuted(it)) {
         muted++;
         continue;
@@ -347,7 +362,12 @@ export async function startFeed() {
     }
     lastResult = result;
     $("#result-count").textContent = String(result.length);
-    $("#hidden-note").textContent = muted ? `ミュートで${muted}件を非表示` : "";
+    $("#hidden-note").textContent = [
+      hiddenByTopic ? `見たくない話題を${hiddenByTopic}件非表示` : "",
+      muted ? `ミュートで${muted}件を非表示` : "",
+    ]
+      .filter(Boolean)
+      .join(" / ");
     renderControls();
     renderCounts(query);
     renderList();
@@ -372,6 +392,7 @@ export async function startFeed() {
       mute: state.mute,
       follow: state.follow,
       hiddenSources: [...state.hiddenSources],
+      hiddenTopics: [...state.hiddenTopics],
       onlyFollow: state.onlyFollow,
       spoilerBlur: state.spoilerBlur,
       hideRead: state.hideRead,
@@ -429,6 +450,15 @@ export async function startFeed() {
   toggle("spoiler-blur", "spoilerBlur");
   toggle("hide-read", "hideRead");
   toggle("multi-only", "multiOnly");
+
+  document.querySelectorAll<HTMLInputElement>("[data-hide-topic]").forEach((input) =>
+    input.addEventListener("change", () => {
+      const id = input.dataset.hideTopic!;
+      if (input.checked) state.hiddenTopics.add(id);
+      else state.hiddenTopics.delete(id);
+      apply({ resetPage: false });
+    }),
+  );
 
   $("#source-list").addEventListener("change", (e) => {
     const input = e.target as HTMLInputElement;

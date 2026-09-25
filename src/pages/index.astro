@@ -1,13 +1,17 @@
 ---
 import Base from "../layouts/Base.astro";
 import SpeedLines from "../components/SpeedLines.astro";
-import { jaNews, generatedAt, feeds, categories, kindLabels, trendingWorks, formatDateTime } from "../lib/news";
+import { jaNews, generatedAt, feeds, categories, topicCategories, sensitiveCategories, kindLabels, trendingWorks, formatDateTime } from "../lib/news";
 import type { NewsItem } from "../lib/news";
 import { withBase } from "../lib/url";
 
-const latest = jaNews[0];
+// ヒーローとテロップはビルド時に描くので、閲覧側の「見たくない話題を隠す」が効かない。
+// 事件・熱愛・訃報のような話題は最初から載せない(一覧では設定どおりに表示・非表示)
+const sensitiveIds = new Set(sensitiveCategories.map((c) => c.id));
+const showcase = jaNews.filter((it) => !it.categories.some((c) => sensitiveIds.has(c)));
+const latest = showcase[0];
 const works = trendingWorks(72, 10);
-const tickerItems = jaNews.slice(0, 14);
+const tickerItems = showcase.slice(0, 14);
 // JavaScript が動かない環境でも最新分だけは読めるように、先頭だけサーバー側で描く
 const initialItems = jaNews.slice(0, 30);
 const liveFeeds = feeds.length;
@@ -15,7 +19,7 @@ const liveFeeds = feeds.length;
 const config = {
   dataUrl: withBase("/data/news.json"),
   generatedAt,
-  categories: categories.map(({ id, label, emoji }) => ({ id, label, emoji })),
+  categories: categories.map(({ id, label, emoji, sensitive }) => ({ id, label, emoji, sensitive: !!sensitive })),
   feeds: feeds.map(({ id, name, kind, lang }) => ({ id, name, kind, lang })),
   kindLabels,
 };
@@ -115,13 +119,24 @@ const itemWorks = (it: NewsItem) => it.works.slice(0, 3);
       <section>
         <h2>カテゴリ <button type="button" data-clear="cats">すべて解除</button></h2>
         <div class="chips" id="cat-chips">
-          {categories.map((c) => (
+          {topicCategories.map((c) => (
             <button type="button" class="chip" data-cat={c.id} aria-pressed="false">
               <span aria-hidden="true">{c.emoji}</span>{c.label}<span class="count"></span>
             </button>
           ))}
         </div>
         <p class="hint">複数選ぶと、どれかに当てはまる記事を表示します。</p>
+      </section>
+
+      <section>
+        <h2>見たくない話題を隠す</h2>
+        {sensitiveCategories.map((c) => (
+          <label class="toggle">
+            <span>{c.label}<small>{c.hint}</small></span>
+            <input type="checkbox" data-hide-topic={c.id} />
+          </label>
+        ))}
+        <p class="hint">見出しで判定します。作品名やあらすじに出てくる語では隠れません。</p>
       </section>
 
       <section>

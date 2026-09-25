@@ -49,6 +49,9 @@ export interface Category {
   label: string;
   emoji: string;
   keywords: string[];
+  /** 「見たくない話題」として閲覧側で隠せるもの(事件・熱愛・訃報) */
+  sensitive?: boolean;
+  hint?: string;
 }
 
 const data = newsData as unknown as {
@@ -67,6 +70,10 @@ export const feedStatus = data.feeds;
 export const dedupeStats = data.dedupe;
 export const feeds = feedsData as { id: string; name: string; url: string; kind: FeedKind; lang: string; minScore?: number }[];
 export const categories = (filtersData as unknown as { categories: Category[] }).categories;
+/** 絞り込みのチップに並べるカテゴリ */
+export const topicCategories = categories.filter((c) => !c.sensitive);
+/** 「見たくない話題を隠す」に並べるカテゴリ */
+export const sensitiveCategories = categories.filter((c) => c.sensitive);
 export const thresholds = (filtersData as unknown as { thresholds: Record<FeedKind, number> }).thresholds;
 
 export const kindLabels: Record<FeedKind, string> = {

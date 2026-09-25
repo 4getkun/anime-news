@@ -108,11 +108,15 @@ export function thresholdFor(feed, config) {
 }
 
 export function classifyCategories(title, summary, config) {
-  const text = `${normalizeForMatch(title)} ${normalizeForMatch(summary)}`;
+  const full = `${normalizeForMatch(title)} ${normalizeForMatch(summary)}`;
+  const titleOnly = normalizeForMatch(title);
   return config.categories
     .filter((c) => {
+      // scope: "title" は見出しだけで判定(要約=あらすじに出る「殺害」「死去」などを拾わない)
+      let t = c.scope === "title" ? titleOnly : full;
+      // skipQuoted: 『』「」の中(作品名・台詞)を無視する(『わたしの幸せな結婚』で結婚扱いにしない)
+      if (c.skipQuoted) t = t.replace(/『[^』]*』|「[^」]*」/g, " ");
       // ignore: そのカテゴリの判定の前に消す語(「エンドゲーム」の「ゲーム」でゲーム扱いにしない等)
-      let t = text;
       for (const w of c.ignore ?? []) t = t.split(normalizeForMatch(w)).join(" ");
       return containsAny(t, c.keywords);
     })

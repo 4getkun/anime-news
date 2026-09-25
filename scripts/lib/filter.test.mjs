@@ -138,3 +138,12 @@ test("映画と書かれていない映画の記事も映画枠に入る", () =>
   assert.ok(classifyCategories("『X』入場者特典第3弾が決定", "", config).includes("movie"));
   assert.ok(!classifyCategories("TVアニメ『X』第2弾PV公開", "", config).includes("movie"));
 });
+
+test("見たくない話題(事件・熱愛・訃報)は見出しだけで、作品名やあらすじは無視して判定", () => {
+  const has = (t, id, sum = "") => classifyCategories(t, sum, config).includes(id);
+  assert.ok(has("声優・上坂すみれ、脅迫行為に関する対応発表 被害届を提出", "trouble"));
+  assert.ok(has("人気声優の○○が一般女性と結婚を発表", "romance"));
+  assert.ok(!has("TVアニメ『わたしの幸せな結婚』第2期PV公開", "romance")); // 作品名
+  assert.ok(!has("『名探偵コナン』最新話", "trouble", "殺害予告を受けた依頼人…")); // あらすじ
+  assert.ok(!has("『X』第5話先行カット", "obituary", "母の死去をきっかけに…"));
+});
