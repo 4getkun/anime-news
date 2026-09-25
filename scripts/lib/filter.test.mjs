@@ -162,3 +162,35 @@ test("作品名の表記ゆれは同じキー・同じ表示名になる", () =>
   const map = buildWorkDisplayMap(["リゼロ", "リゼロ", "Re:ゼロから始める異世界生活"], config);
   assert.equal(map.get("Re:ゼロから始める異世界生活"), "リゼロ"); // 一番多い表記
 });
+
+test("予定の抽出: 日付＋動詞を拾い、年を補う", async () => {
+  const { extractSchedules } = await import("./filter.mjs");
+  const pub = "2026-09-25T03:00:00Z"; // JST 9/25
+  const ex = (t) => extractSchedules(t, pub, config).map((e) => `${e.date}:${e.verb}`);
+  assert.deepEqual(ex("TVアニメ『X』10月3日より放送開始"), ["2026-10-03:broadcast"]);
+  assert.deepEqual(ex("劇場版『X』2027年2月19日公開決定"), ["2027-02-19:movie"]);
+  assert.deepEqual(ex("『X』Blu-ray 12/10発売"), ["2026-12-10:release"]);
+  assert.deepEqual(ex("『X』2027年1月から配信"), ["2027-01:stream"]);
+  assert.deepEqual(ex("『X』1月8日放送"), ["2027-01-08:broadcast"]); // 年が無く過去なら翌年
+  assert.deepEqual(ex("『X』コミックス本日発売"), ["2026-09-25:release"]);
+  assert.deepEqual(ex("『X』予約受付は10月5日まで"), []); // 締め切り
+  assert.deepEqual(ex("『X』12月10日にPV公開"), []); // PVの公開は予定ではない
+  assert.deepEqual(ex("『X』9月20日に聖地を訪問"), []); // 動詞が無い
+});
+
+test("予定の抽出: 毎週の話数告知と「本日限定」は拾わない", async () => {
+  const { extractSchedules } = await import("./filter.mjs");
+  const pub = "2026-09-25T03:00:00Z";
+  assert.deepEqual(extractSchedules("9月25日(金)放送 TVアニメ『X』第96話あらすじ", pub, config), []);
+  assert.deepEqual(extractSchedules("「LINEマンガ」で本日限定の記念ミッションを開催", pub, config), []);
+});
+
+test("予定の抽出: 過去形の出来事は拾わず、少し前の日付を来年にしない", async () => {
+  const { extractSchedules } = await import("./filter.mjs");
+  const pub = "2026-09-25T03:00:00Z";
+  const ex = (t) => extractSchedules(t, pub, config).map((e) => `${e.date}:${e.verb}`);
+  assert.deepEqual(ex("7月15日には新シリーズが放送され、7月24日には映画が公開された"), []);
+  assert.deepEqual(ex("『X』8月1日に発売した新刊が重版"), []);
+  assert.deepEqual(ex("『X』1月8日放送開始"), ["2027-01-08:broadcast"]); // 150日以上前なら来年
+  assert.deepEqual(ex("『X』7月15日放送"), ["2026-07-15:broadcast"]); // 72日前なら今年のまま
+});
