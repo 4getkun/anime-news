@@ -1,0 +1,230 @@
+---
+import Base from "../layouts/Base.astro";
+import SpeedLines from "../components/SpeedLines.astro";
+import { jaNews, generatedAt, feeds, categories, kindLabels, trendingWorks, formatDateTime } from "../lib/news";
+import type { NewsItem } from "../lib/news";
+import { withBase } from "../lib/url";
+
+const latest = jaNews[0];
+const works = trendingWorks(72, 10);
+const tickerItems = jaNews.slice(0, 14);
+// JavaScript が動かない環境でも最新分だけは読めるように、先頭だけサーバー側で描く
+const initialItems = jaNews.slice(0, 30);
+const liveFeeds = feeds.length;
+
+const config = {
+  dataUrl: withBase("/data/news.json"),
+  generatedAt,
+  categories: categories.map(({ id, label, emoji }) => ({ id, label, emoji })),
+  feeds: feeds.map(({ id, name, kind, lang }) => ({ id, name, kind, lang })),
+  kindLabels,
+};
+
+const timeOf = (iso: string | null) =>
+  iso
+    ? new Intl.DateTimeFormat("ja-JP", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo" }).format(new Date(iso))
+    : "";
+const catLabel = Object.fromEntries(categories.map((c) => [c.id, c.label]));
+const itemWorks = (it: NewsItem) => it.works.slice(0, 3);
+---
+
+<Base>
+  <section class="hero" aria-labelledby="hero-title">
+    <SpeedLines />
+    <div class="wrap hero-inner">
+      <div>
+        <h1 id="hero-title" class="hero-title">アニメのニュース、<br />ぜんぶ読む。</h1>
+        <p class="hero-lede">
+          {liveFeeds}媒体のRSSを30分ごとに集めて、同じ話題はひとつにまとめています。
+          興味のない話題はミュート、推しの作品はフォロー。ネタバレはぼかして表示します。
+        </p>
+        {latest && (
+          <a class="hero-bubble" href={latest.link} target="_blank" rel="noopener noreferrer">
+            <span class="hero-bubble-label">
+              いちばん新しいニュース
+              {latest.pubDate && <time datetime={latest.pubDate}>{formatDateTime(latest.pubDate)}</time>}
+            </span>
+            <span class="hero-bubble-title">{latest.title}</span>
+          </a>
+        )}
+      </div>
+      {works.length > 0 && (
+        <nav aria-label="この3日間で話題の作品">
+          <ol class="hero-works">
+            {works.map((w) => (
+              <li><a href={`${withBase("/")}?work=${encodeURIComponent(w.name)}#feed`} data-work-link={w.name}>{w.name}</a></li>
+            ))}
+          </ol>
+        </nav>
+      )}
+    </div>
+    <div class="ticker" aria-label="最新の見出し">
+      <span class="ticker-label">速報</span>
+      <div class="ticker-track">
+        {[...tickerItems, ...tickerItems].map((it, i) => (
+          <a href={it.link} target="_blank" rel="noopener noreferrer" tabindex={i >= tickerItems.length ? -1 : undefined} aria-hidden={i >= tickerItems.length ? "true" : undefined}>
+            {it.title}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <div class="toolbar" id="feed">
+    <div class="wrap">
+      <label class="search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <span class="sr-only">キーワードで絞り込む</span>
+        <input id="q" type="search" placeholder="作品名・声優名で絞り込む（-語 で除外）" autocomplete="off" enterkeyhint="search" />
+      </label>
+      <div class="segmented" role="group" aria-label="期間" id="period">
+        <button type="button" data-value="all" aria-pressed="true">すべて</button>
+        <button type="button" data-value="24h" aria-pressed="false">24時間</button>
+        <button type="button" data-value="3d" aria-pressed="false">3日</button>
+        <button type="button" data-value="7d" aria-pressed="false">7日</button>
+      </div>
+      <div class="segmented" role="group" aria-label="並び順" id="sort">
+        <button type="button" data-value="new" aria-pressed="true">新着順</button>
+        <button type="button" data-value="hot" aria-pressed="false">話題順</button>
+      </div>
+      <button type="button" class="btn filter-open" id="filter-open" aria-controls="panel" aria-expanded="false">
+        絞り込み<span id="filter-badge"></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="wrap layout">
+    <aside class="panel" id="panel" aria-label="絞り込み">
+      <div class="panel-head">
+        <h2>絞り込み</h2>
+        <button type="button" class="icon-btn" id="filter-close" aria-label="絞り込みを閉じる">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+        </button>
+      </div>
+
+      <section>
+        <h2>フォロー中の作品</h2>
+        <div class="chips" id="follow-list"></div>
+        <label class="toggle">
+          <span>フォロー中の作品だけ表示</span>
+          <input type="checkbox" id="only-follow" />
+        </label>
+        <p class="hint">記事の作品名をタップして「フォロー」すると、ここに並びます。</p>
+      </section>
+
+      <section>
+        <h2>カテゴリ <button type="button" data-clear="cats">すべて解除</button></h2>
+        <div class="chips" id="cat-chips">
+          {categories.map((c) => (
+            <button type="button" class="chip" data-cat={c.id} aria-pressed="false">
+              <span aria-hidden="true">{c.emoji}</span>{c.label}<span class="count"></span>
+            </button>
+          ))}
+        </div>
+        <p class="hint">複数選ぶと、どれかに当てはまる記事を表示します。</p>
+      </section>
+
+      <section>
+        <h2>表示</h2>
+        <label class="toggle">
+          <span>ネタバレをぼかす<small>最終回・第◯話などの見出し</small></span>
+          <input type="checkbox" id="spoiler-blur" checked />
+        </label>
+        <label class="toggle">
+          <span>読んだ記事を隠す</span>
+          <input type="checkbox" id="hide-read" />
+        </label>
+        <label class="toggle">
+          <span>複数の媒体が報じた話題だけ</span>
+          <input type="checkbox" id="multi-only" />
+        </label>
+      </section>
+
+      <section>
+        <h2>ミュートするキーワード</h2>
+        <form class="word-form" id="mute-form">
+          <input id="mute-input" type="text" placeholder="例: 実写化" aria-label="ミュートするキーワード" />
+          <button type="submit">追加</button>
+        </form>
+        <div class="chips word-list" id="mute-list"></div>
+        <p class="hint">見出し・要約・作品名にこの語を含む記事を隠します。設定はこの端末にだけ保存されます。</p>
+      </section>
+
+      <section>
+        <h2>言語</h2>
+        <div class="segmented" role="group" aria-label="言語" id="lang">
+          <button type="button" data-value="ja" aria-pressed="true">日本語</button>
+          <button type="button" data-value="all" aria-pressed="false">すべて</button>
+          <button type="button" data-value="en" aria-pressed="false">English</button>
+        </div>
+      </section>
+
+      <section>
+        <h2>媒体 <button type="button" data-clear="sources">すべて表示</button></h2>
+        <ul class="source-list" id="source-list">
+          {feeds.map((f) => (
+            <li>
+              <label>
+                <input type="checkbox" data-source={f.id} checked />
+                <span class={`kind-mark kind-${f.kind}`} title={kindLabels[f.kind]}></span>
+                {f.name}
+                <span class="count"></span>
+              </label>
+            </li>
+          ))}
+        </ul>
+        <p class="hint">
+          色は媒体の種類です。
+          {Object.entries(kindLabels).map(([k, label]) => (
+            <span style="white-space:nowrap; margin-right:8px;"><span class={`kind-mark kind-${k}`} style="display:inline-block; margin-right:4px;"></span>{label}</span>
+          ))}
+        </p>
+      </section>
+    </aside>
+
+    <div>
+      <div class="feed-status" aria-live="polite">
+        <span><strong id="result-count">{jaNews.length}</strong> 件</span>
+        <span id="hidden-note"></span>
+        <div class="active-filters" id="active-filters"></div>
+      </div>
+      <div id="work-banner"></div>
+      <div id="feed-list">
+        <div class="day">
+          <div class="day-head"><h2>最新</h2></div>
+          {initialItems.map((it) => (
+            <article class="item">
+              <div class="item-grid">
+                <time class="item-time" datetime={it.pubDate ?? undefined}>{timeOf(it.pubDate)}</time>
+                <div>
+                  <div class="item-meta">
+                    <span class="src"><span class={`kind-mark kind-${it.kind}`}></span>{it.source}</span>
+                    {it.sources.filter((s) => !s.syndicated).length > 1 && (
+                      <span class="more-src">ほか{it.sources.filter((s) => !s.syndicated).length - 1}媒体</span>
+                    )}
+                  </div>
+                  <h3 class="item-title"><a href={it.link} target="_blank" rel="noopener noreferrer">{it.title}</a></h3>
+                  {it.summary && <p class="item-summary">{it.summary}</p>}
+                  <div class="item-tags">
+                    {itemWorks(it).map((w) => <span class="tag tag-work">{w}</span>)}
+                    {it.categories.slice(0, 3).map((c) => <span class="tag">#{catLabel[c]}</span>)}
+                  </div>
+                </div>
+                {it.image && <img class="item-thumb" src={it.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+      <div class="feed-more"><button type="button" class="btn" id="more" hidden>さらに表示</button></div>
+    </div>
+  </div>
+  <div class="scrim" id="scrim" hidden></div>
+
+  <script type="application/json" id="app-config" set:html={JSON.stringify(config)} />
+</Base>
+
+<script>
+  import { startFeed } from "../scripts/feed";
+  startFeed();
+</script>

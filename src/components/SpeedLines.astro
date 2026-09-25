@@ -1,0 +1,39 @@
+---
+// マンガの集中線。ビルド時に固定シードの乱数で描くので、毎回同じ絵になる。
+// 焦点はヒーローの右寄り(作品ランキングの縦書きのあたり)に置いている。
+const W = 1200;
+const H = 640;
+const cx = W * 0.7;
+const cy = H * 0.46;
+let seed = 7;
+const rand = () => {
+  seed = (seed * 16807) % 2147483647;
+  return (seed - 1) / 2147483646;
+};
+const R = Math.hypot(W, H);
+const wedges: string[] = [];
+const count = 150;
+for (let i = 0; i < count; i++) {
+  const a = (i / count) * Math.PI * 2 + rand() * 0.03;
+  const width = 0.004 + rand() * 0.012;
+  const inner = 190 + rand() * 170;
+  const x1 = cx + Math.cos(a - width) * R;
+  const y1 = cy + Math.sin(a - width) * R;
+  const x2 = cx + Math.cos(a + width) * R;
+  const y2 = cy + Math.sin(a + width) * R;
+  const xi = cx + Math.cos(a) * inner;
+  const yi = cy + Math.sin(a) * inner;
+  wedges.push(`M${x1.toFixed(1)} ${y1.toFixed(1)}L${xi.toFixed(1)} ${yi.toFixed(1)}L${x2.toFixed(1)} ${y2.toFixed(1)}Z`);
+}
+---
+
+<svg class="speedlines" viewBox={`0 0 ${W} ${H}`} preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <defs>
+    <radialGradient id="sl-fade" cx={cx / W} cy={cy / H} r="0.75">
+      <stop offset="0.25" stop-color="currentColor" stop-opacity="0" />
+      <stop offset="0.6" stop-color="currentColor" stop-opacity="0.22" />
+      <stop offset="1" stop-color="currentColor" stop-opacity="0.5" />
+    </radialGradient>
+  </defs>
+  <path d={wedges.join("")} fill="url(#sl-fade)" />
+</svg>

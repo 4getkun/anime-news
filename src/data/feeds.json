@@ -1,0 +1,23 @@
+[
+  {"id": "animeanime", "name": "アニメ！アニメ！", "url": "https://animeanime.jp/rss/index.rdf", "kind": "specialist", "lang": "ja"},
+  {"id": "natalie-comic", "name": "コミックナタリー", "url": "https://natalie.mu/comic/feed/news", "kind": "specialist", "lang": "ja"},
+  {"id": "lisani", "name": "リスアニ！", "url": "https://www.lisani.jp/feed/", "kind": "specialist", "lang": "ja"},
+  {"id": "seigura", "name": "声優グランプリ", "url": "https://seigura.com/feed/", "kind": "specialist", "lang": "ja"},
+  {"id": "animationbusiness", "name": "アニメーションビジネス・ジャーナル", "url": "https://animationbusiness.info/feed/", "kind": "specialist", "lang": "ja"},
+  {"id": "nijimen", "name": "にじめん", "url": "https://www.nijimen.net/feed", "kind": "general", "lang": "ja", "minScore": 2},
+  {"id": "gnews-anime", "name": "Googleニュース「アニメ」", "url": "https://news.google.com/rss/search?q=%E3%82%A2%E3%83%8B%E3%83%A1&hl=ja&gl=JP&ceid=JP:ja", "kind": "aggregator", "lang": "ja"},
+  {"id": "gnews-tvanime", "name": "Googleニュース「TVアニメ 放送」", "url": "https://news.google.com/rss/search?q=TV%E3%82%A2%E3%83%8B%E3%83%A1+%E6%94%BE%E9%80%81&hl=ja&gl=JP&ceid=JP:ja", "kind": "aggregator", "lang": "ja"},
+  {"id": "gnews-movie", "name": "Googleニュース「劇場版 アニメ」", "url": "https://news.google.com/rss/search?q=%E5%8A%87%E5%A0%B4%E7%89%88+%E3%82%A2%E3%83%8B%E3%83%A1&hl=ja&gl=JP&ceid=JP:ja", "kind": "aggregator", "lang": "ja"},
+  {"id": "gnews-seiyu", "name": "Googleニュース「声優」", "url": "https://news.google.com/rss/search?q=%E5%A3%B0%E5%84%AA&hl=ja&gl=JP&ceid=JP:ja", "kind": "aggregator", "lang": "ja"},
+  {"id": "natalie-eiga", "name": "映画ナタリー", "url": "https://natalie.mu/eiga/feed/news", "kind": "general", "lang": "ja"},
+  {"id": "inside-games", "name": "インサイド", "url": "https://www.inside-games.jp/rss/index.rdf", "kind": "general", "lang": "ja"},
+  {"id": "4gamer", "name": "4Gamer.net", "url": "https://www.4gamer.net/rss/index.xml", "kind": "general", "lang": "ja"},
+  {"id": "denfaminico", "name": "電ファミニコゲーマー", "url": "https://news.denfaminicogamer.jp/feed", "kind": "general", "lang": "ja"},
+  {"id": "gamespark", "name": "Game*Spark", "url": "https://www.gamespark.jp/rss/index.rdf", "kind": "general", "lang": "ja"},
+  {"id": "otakuma", "name": "おたくま経済新聞", "url": "https://otakuma.net/feed", "kind": "general", "lang": "ja"},
+  {"id": "yahoo-ent", "name": "Yahoo!ニュース エンタメ", "url": "https://news.yahoo.co.jp/rss/categories/entertainment.xml", "kind": "general", "lang": "ja", "syndicator": true},
+  {"id": "prtimes", "name": "PR TIMES", "url": "https://prtimes.jp/index.rdf", "kind": "press", "lang": "ja"},
+  {"id": "ann", "name": "Anime News Network", "url": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=w", "kind": "specialist", "lang": "en"},
+  {"id": "mal", "name": "MyAnimeList News", "url": "https://myanimelist.net/rss/news.xml", "kind": "specialist", "lang": "en"},
+  {"id": "cbr-anime", "name": "CBR Anime News", "url": "https://www.cbr.com/feed/category/anime-news/", "kind": "specialist", "lang": "en"}
+]

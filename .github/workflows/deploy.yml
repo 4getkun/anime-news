@@ -1,0 +1,90 @@
+name: Update news and deploy to GitHub Pages
+
+# 30分ごとにRSSを集め直し、data/archive.json(生データ30日分)と
+# src/data/news.json(フィルタ・統合済み)をコミットしてから、ビルドして公開する。
+# GITHUB_TOKEN による push は別ワークフローを起動しないので、
+# 「収集→コミット→ビルド→デプロイ」を1本にまとめている。
+#
+# schedule 実行はリポジトリの既定ブランチをチェックアウトするため、ref と push 先を main に固定。
+# concurrency はトリガーの種類ごとに分け、手動 push が定期実行の待機枠を奪わないようにしている
+# (同時に走った場合の push 競合はリベースして再試行する)。
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages-${{ github.event_name }}"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Test filters
+        run: npm test
+
+      - name: Fetch anime news
+        run: npm run fetch-news
+
+      - name: Commit updated data if changed
+        run: |
+          if git diff --quiet -- data/archive.json src/data/news.json; then
+            echo "No data changes."
+          else
+            git config user.name "anime-news-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add data/archive.json src/data/news.json
+            git commit -m "chore: update anime news"
+            for i in 1 2 3; do
+              if git push origin HEAD:main; then
+                break
+              fi
+              echo "push failed (attempt $i/3), rebasing onto latest main and retrying..."
+              git fetch origin main
+              git rebase -X theirs origin/main
+            done
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build site
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
