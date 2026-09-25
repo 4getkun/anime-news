@@ -20,6 +20,8 @@ import {
   dedupeItems,
   splitPublisherSuffix,
   extractWorks,
+  workKey,
+  buildWorkDisplayMap,
   isSyndicated,
   originalPublisherFromTitle,
 } from "./lib/filter.mjs";
@@ -198,7 +200,7 @@ async function main() {
   for (const it of archive) {
     const feed = feedById.get(it.feedId);
     if (feed?.kind === "specialist" && feed.lang === "ja") {
-      for (const w of extractWorks(it.title, FILTERS, { lenient: true })) knownWorks.add(w);
+      for (const w of extractWorks(it.title, FILTERS, { lenient: true })) knownWorks.add(workKey(w, FILTERS));
     }
   }
 
@@ -241,6 +243,10 @@ async function main() {
       ],
     });
   }
+
+  // ---- 3'. 作品名の表記ゆれをそろえる(「リゼロ」「Re:ゼロから始める異世界生活」→ 一番多い表記) ----
+  const workDisplay = buildWorkDisplayMap(accepted.flatMap((it) => it.works), FILTERS);
+  for (const it of accepted) it.works = [...new Set(it.works.map((w) => workDisplay.get(w) ?? w))];
 
   // ---- 4. 同一ニュース統合・並べ替え・書き出し ----
   const synd = FILTERS.syndication ?? {};

@@ -13,6 +13,8 @@ import {
   isSyndicated,
   originalPublisherFromTitle,
   classifyCategories,
+  workKey,
+  buildWorkDisplayMap,
 } from "./filter.mjs";
 
 const config = JSON.parse(readFileSync(new URL("../../src/data/filters.json", import.meta.url), "utf-8"));
@@ -42,9 +44,9 @@ test("専門媒体はスコアに関係なく採用、総合媒体はしきい�
 test("作品辞書に載っている作品名は、アニメという語が無くても加点される", () => {
   const item = { title: "『ちいかわ』マスコット全4種が受注生産決定", summary: "" };
   assert.equal(evaluateItem(item, general, config), null);
-  assert.ok(evaluateItem(item, general, config, new Set(["ちいかわ"])));
+  assert.ok(evaluateItem(item, general, config, new Set([workKey("ちいかわ", config)])));
   // プレスリリースは作品名だけでは足りない(PR TIMES は量が多く雑多なため)
-  assert.equal(evaluateItem(item, press, config, new Set(["ちいかわ"])), null);
+  assert.equal(evaluateItem(item, press, config, new Set([workKey("ちいかわ", config)])), null);
 });
 
 test("feeds.json の minScore はフィード種別のしきい値より優先", () => {
@@ -146,4 +148,17 @@ test("見たくない話題(事件・熱愛・訃報)は見出しだけで、作
   assert.ok(!has("TVアニメ『わたしの幸せな結婚』第2期PV公開", "romance")); // 作品名
   assert.ok(!has("『名探偵コナン』最新話", "trouble", "殺害予告を受けた依頼人…")); // あらすじ
   assert.ok(!has("『X』第5話先行カット", "obituary", "母の死去をきっかけに…"));
+});
+
+test("作品名の表記ゆれは同じキー・同じ表示名になる", () => {
+  assert.equal(workKey("リゼロ", config), workKey("Re:ゼロから始める異世界生活", config));
+  assert.equal(workKey("転スラ", config), workKey("転生したらスライムだった件", config));
+  assert.equal(workKey("【推しの子】", config), workKey("推しの子", config));
+  const madoka = ["まどマギ〈ワルプルギスの廻天〉", "魔法少女まどか☆マギカ〈ワルプルギスの廻天〉", "まどマギ〈廻天〉"];
+  assert.equal(new Set(madoka.map((w) => workKey(w, config))).size, 1);
+  // 別の作品は別のキー(シリーズと劇場版、無印と「新」)
+  assert.notEqual(workKey("まどか☆マギカ", config), workKey("まどマギ〈廻天〉", config));
+  assert.notEqual(workKey("美味しんぼ", config), workKey("新 美味しんぼ", config));
+  const map = buildWorkDisplayMap(["リゼロ", "リゼロ", "Re:ゼロから始める異世界生活"], config);
+  assert.equal(map.get("Re:ゼロから始める異世界生活"), "リゼロ"); // 一番多い表記
 });
