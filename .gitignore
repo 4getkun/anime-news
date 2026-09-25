@@ -20,3 +20,6 @@ npm-debug.log*
 # local tooling
 .claude/
 .wrangler/
+
+# エディタ拡張などが作る一時ファイル(このサイトとは無関係)
+.tanstack/
