@@ -17,7 +17,7 @@ fourgetkun-hub の Worker（`src/pages-proxy/proxy.js`）が `/anime-news/*` を
 - ハブ側の設定は fourgetkun-hub の `proxy.js` の `SITES`、`wrangler.jsonc` の `run_worker_first`、
   `public/anime-news/`（トップ索引用の名札）、`build-manifest.js` の `CATEGORY_OF` / `PROXIED` / `PROXIED_SITEMAPS`。
 - 取り次ぎのエッジキャッシュは約5分なので、デプロイから公開側に出るまで最大5分かかります。
-- 共有カード画像 `public/og-image.png` は `python tools/make-og.py`、ファビコン一式（`favicon.svg` / `favicon.ico` / `apple-touch-icon.png` / `icon-192.png` / `icon-512.png`）は `python tools/make-icons.py` で作り直せます（要 Pillow）。
+- 共有カード画像 `public/og-image.png` は `python tools/make-og.py`、ファビコン一式（「全」の描き文字。`favicon.svg` / `favicon.ico` / `apple-touch-icon.png` / `icon-192.png` / `icon-512.png`）は `python tools/make-icons.py` で作り直せます（要 Pillow）。
   OG画像を変えたら fourgetkun-hub の `public/anime-news/og-image.png` にも写し、hub の手順で縮小画像を作り直します。
 
 ## しくみ
