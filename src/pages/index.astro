@@ -206,7 +206,7 @@ const config = {
       <div id="feed-list">
         <div class="day">
           <div class="day-head"><h2>最新</h2></div>
-          {initialItems.map((it) => <NewsItem item={it} />)}
+          {initialItems.map((it) => <NewsItem item={it} showThumb={false} />)}
         </div>
       </div>
       <div class="feed-more"><button type="button" class="btn" id="more" hidden>さらに表示</button></div>

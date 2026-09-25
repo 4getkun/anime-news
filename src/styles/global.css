@@ -1,4 +1,7 @@
-@import "tailwindcss";
+/* Tailwind はリセット(preflight)だけを使う。ユーティリティクラスはこのサイトでは使っておらず、
+   読み込むとソース中の単語から不要なクラスまで生成されて CSS が膨らむ */
+@layer theme, base, components, utilities;
+@import "tailwindcss/preflight.css" layer(base);
 
 /*
  * デザインの軸: 「マンガのコマ」と「番組表」。
@@ -231,11 +234,13 @@
 .hero-title {
   font-family: var(--font-display);
   font-weight: 400;
-  font-size: clamp(40px, 7.4vw, 96px);
-  line-height: 1.02;
+  /* 1行9文字が必ず収まる大きさにして、<br> の2行のまま折り返させない。見出し書体が後から
+     届いても行数が変わらないので、下のテロップがずれない(以前は CLS 0.057) */
+  font-size: clamp(30px, 8.6vw, 96px);
+  line-height: 1.05;
   letter-spacing: -0.01em;
   margin: 0 0 20px;
-  text-wrap: balance;
+  white-space: nowrap;
 }
 /* 最新ニュースを「フキダシ」に入れて見せる */
 .hero-bubble {
@@ -1326,4 +1331,18 @@ a.tag-work {
   .site-nav .nav-wide {
     display: none;
   }
+}
+
+/* ------------------------------------------------ 速さ(Lighthouse)
+ * 画面外の記事は描画を後回しにする(最初のレイアウトの負荷が大きく下がる)。
+ * contain-intrinsic-size は記事1件のおおよその高さ。大きくずれるとスクロール中にページの長さが変わる */
+.item {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 150px;
+}
+/* ハブが足す「fourgetkun 工房」へのリンクは opacity:.8 が直書きされていて、薄い文字色だと
+   コントラストが足りない。このサイトの中では不透明にして本文の色にする */
+.fk-hub {
+  opacity: 1 !important;
+  color: var(--muted);
 }
