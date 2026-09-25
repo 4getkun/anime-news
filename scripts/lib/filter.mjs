@@ -532,10 +532,10 @@ export function extractSchedules(text, pubDate, config) {
       }
     }
     if (!best) continue;
-    // 「放送され」「公開された」「発売した」のような過去の出来事は予定ではない
+    // 「放送され」「公開された」「発売した」のような過去の出来事や、「開催中止」「発売延期」は予定ではない
     const verbWord = best.v.keywords.find((kw) => after.startsWith(normalizeForMatch(kw), best.i)) ?? "";
     const rest = after.slice(best.i + normalizeForMatch(verbWord).length);
-    if (/^(され|された|した|していた|済み|済)/.test(rest)) continue;
+    if (/^(され|された|した|していた|済み|済|中止|延期|見送)/.test(rest)) continue;
     const between = after.slice(0, best.i);
     if ((sched.excludeBetween ?? []).some((w) => between.includes(normalizeForMatch(w)))) continue;
     if (/[。！？!?]/.test(between)) continue; // 文をまたいだものは別の話
