@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-09-25T16:07:06.911Z",
+ "generatedAt": "2026-09-25T16:12:17.517Z",
  "count": 934,
  "dedupe": {
-  "exact": 250,
+  "exact": 252,
   "syndicated": 25,
   "similar": 42,
-  "syndicatedTotal": 267,
+  "syndicatedTotal": 268,
   "syndicatedLeft": 116
  },
  "calendar": [
@@ -1575,8 +1575,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 224,
-   "accepted": 218
+   "archived": 225,
+   "accepted": 219
   },
   {
    "id": "gnews-tvanime",
@@ -1586,8 +1586,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 177,
-   "accepted": 176
+   "archived": 179,
+   "accepted": 178
   },
   {
    "id": "gnews-movie",
@@ -1597,8 +1597,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 94,
-   "accepted": 80
+   "archived": 93,
+   "accepted": 79
   },
   {
    "id": "gnews-seiyu",
@@ -1685,7 +1685,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 469,
+   "archived": 470,
    "accepted": 50
   },
   {
@@ -2710,6 +2710,12 @@
      "name": "アニメイトタイムズ",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lXzJJNGlud2lhUkVPcEdZc2ludVFoYXozbUFFVlRPXzI2RWVjUmpYQWxTRzNkalJNcFFNRHZXTFA2Z0Vsb20wS05McXRCbjZwbHQ2ZWF3Nk43aG9paFNVRTBENjRsaUdOY284?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "千葉テレビ放送",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQTVZNUZSWlVtcVFRLTR3dVA1Wi1GOV84V2YtNGdwUnJFem83WVpRR3ZVZ1pYbzdId002OGt1MFhpTWlBUjJ3eWJxQ3dENG9JWWhDZDRzYXcwQTF0SXZJ?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
     },
     {
@@ -9495,9 +9501,9 @@
     },
     {
      "name": "Yahoo!ニュース",
-     "sourceId": "gnews-movie",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JYWxkSEdmWTQxTHFpMXJ1MUpsckZTNW9rSkh0a2tsOGJDNURnYnhlMzFxM25JcWVZeTM3V3ptU2hwSURjamtoQVBRaFJEaFk2SFFOekVOQXYtRGZETTlybjJfYW9tM3dzSERfanE5WmkxaUF5em92TnZiZ3g3U2s?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
