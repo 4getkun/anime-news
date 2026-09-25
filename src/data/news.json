@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-09-25T16:21:02.929Z",
- "count": 934,
+ "generatedAt": "2026-09-25T16:26:07.193Z",
+ "count": 936,
  "dedupe": {
-  "exact": 252,
-  "syndicated": 25,
-  "similar": 42,
-  "syndicatedTotal": 268,
+  "exact": 257,
+  "syndicated": 26,
+  "similar": 43,
+  "syndicatedTotal": 270,
   "syndicatedLeft": 116
  },
  "calendar": [
@@ -583,23 +583,6 @@
     "broadcast",
     "visual",
     "cast",
-    "music"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-02",
-   "precision": "day",
-   "verb": "stream",
-   "label": "配信",
-   "work": "薬屋のひとりごと",
-   "title": "Eveがソニーミュージック・Echoesへ移籍、第1弾リリースはアニメ『薬屋のひとりごと』EDテーマ(Billboard JAPAN)",
-   "link": "https://news.yahoo.co.jp/articles/50f20af112cddea011bdd3101765d9dae28f2031?source=rss",
-   "source": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "broadcast",
     "music"
    ],
    "platforms": [],
@@ -1517,11 +1500,11 @@
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 176,
-   "accepted": 176
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 179,
+   "accepted": 179
   },
   {
    "id": "lisani",
@@ -1572,20 +1555,20 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 225,
-   "accepted": 219
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 229,
+   "accepted": 223
   },
   {
    "id": "gnews-tvanime",
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
    "archived": 179,
    "accepted": 178
   },
@@ -1594,9 +1577,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
    "archived": 93,
    "accepted": 79
   },
@@ -1605,21 +1588,21 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 184,
-   "accepted": 170
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 186,
+   "accepted": 172
   },
   {
    "id": "natalie-eiga",
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 158,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 159,
    "accepted": 15
   },
   {
@@ -1785,6 +1768,33 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2609253k"
+    }
+   ]
+  },
+  {
+   "title": "うちの弟どもがすみません：第2クールへ 新キャラクターの八代梓登場 声優は日笠陽子",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERUtMbl8tVld4dDVXX2EyM1RRVVVCcmg2WHJkTERsRzRodWJ5TFMtUTljWWpuWHE1WE4xTk4yYzBsZlZSV0NfUkVMOW9ZQTF1T3VYWEZvQU1TcEN1VFRabFZIeFJuT25ubjBr?oc=5",
+   "pubDate": "2026-09-25T15:32:17.000Z",
+   "firstSeen": "2026-09-25T16:26:06.309Z",
+   "image": null,
+   "source": "Mantan Web",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Mantan Web",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBERUtMbl8tVld4dDVXX2EyM1RRVVVCcmg2WHJkTERsRzRodWJ5TFMtUTljWWpuWHE1WE4xTk4yYzBsZlZSV0NfUkVMOW9ZQTF1T3VYWEZvQU1TcEN1VFRabFZIeFJuT25ubjBr?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -2807,36 +2817,6 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXc01QU0l1NVVDbzIwR0M5UWNfV0Vzb3dJVG0zN3d1Y1dFRkZ3ZzUwZGNDQS05d1A0bTFHNHhPNS1EbVMybklOVzBIdDltLWw1aDhxaVI4cVZpMmxqaDdmRkgtRUIxM1hCRG1DTmJQZmpZTmxNdm5qNHV3VnJyME0?oc=5",
      "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Eveがソニーミュージック・Echoesへ移籍、第1弾リリースはアニメ『薬屋のひとりごと』EDテーマ(Billboard JAPAN)",
-   "summary": "Eveが、ソニーミュージック内のレーベル・Echoesへの移籍を発表した。 移籍第1弾リリースは、2026年10月2日に配信開始となる新曲「AIYOU」。本楽曲は、同日放送開始となるTVアニメ『",
-   "link": "https://news.yahoo.co.jp/articles/50f20af112cddea011bdd3101765d9dae28f2031?source=rss",
-   "pubDate": "2026-09-25T14:20:05.000Z",
-   "firstSeen": "2026-09-25T14:59:47.157Z",
-   "image": null,
-   "source": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 21,
-   "categories": [
-    "broadcast",
-    "music"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/50f20af112cddea011bdd3101765d9dae28f2031?source=rss",
      "syndicated": true
     }
    ]
@@ -3935,7 +3915,7 @@
    "pubDate": "2026-09-25T11:48:54.000Z",
    "firstSeen": "2026-09-25T13:22:16.145Z",
    "image": null,
-   "source": "thetv.jp",
+   "source": "WEBザテレビジョン",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -3948,7 +3928,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "thetv.jp",
+     "name": "WEBザテレビジョン",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZNHNyUGdFTWNjNVlJMFNPcE9RaUo1Q3BCQjFHM25Ia0VyNHB6WklNSzBrVHlSbWV6LXU4WXRLbXc0MjNKcEl2alNxeEtGUQ?oc=5",
      "via": "Googleニュース「声優」"
@@ -4415,6 +4395,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/09/25/103235.html"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JT0hGaHZ4QktldzVUaFBIM2Fsb19XVzkzRUFwREFNSS1OV3RvWVlUVFFHV1IxUjhZRkR4N2tjMVUzLXp1U3ZJa1ptem1TbmZqS196Z3BVUHRxd3JzTDE1a0lxVUp5cUVaQ3liX3BKY1lpQlBRR0REYnJfaWU2SkU?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -4565,13 +4552,49 @@
    ]
   },
   {
+   "title": "EveがソニーミュージックEchoesへ移籍、第1弾はアニメ「薬屋のひとりごと」エンディングテーマ（コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fUURING5mVU5jcWl2YkhiOWFBSHcxcVByOVNCODA4QjdVSGhQeWhZd0dnS0pyVzdTWlh4TmM1MkFCel9IS0MwMXFyNXM?oc=5",
+   "pubDate": "2026-09-25T11:00:00.000Z",
+   "firstSeen": "2026-09-25T14:59:47.157Z",
+   "image": null,
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 21,
+   "categories": [
+    "broadcast",
+    "music"
+   ],
+   "works": [
+    "薬屋のひとりごと"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fUURING5mVU5jcWl2YkhiOWFBSHcxcVByOVNCODA4QjdVSGhQeWhZd0dnS0pyVzdTWlh4TmM1MkFCel9IS0MwMXFyNXM?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/50f20af112cddea011bdd3101765d9dae28f2031?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "TVアニメ「マジカル★エクスプローラー」 キャラクターPV（水守雪音ver.）を解禁！ | ニュース | アニプレックス オフィシャルサイト",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LSjFsanR6ZC16QjVsQmFsdHpfbXY5dGROWGd1X28zRGg1OEhYdWVxZVd5N2JFdEd6S0I3NTkzSHkzTlU5LXI5N3M2OUhBczN1bFFhN3djaVFjWG8?oc=5",
    "pubDate": "2026-09-25T10:58:27.000Z",
    "firstSeen": "2026-09-25T13:22:16.145Z",
    "image": null,
-   "source": "Aniplex",
+   "source": "aniplex.co.jp",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
@@ -4586,7 +4609,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Aniplex",
+     "name": "aniplex.co.jp",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LSjFsanR6ZC16QjVsQmFsdHpfbXY5dGROWGd1X28zRGg1OEhYdWVxZVd5N2JFdEd6S0I3NTkzSHkzTlU5LXI5N3M2OUhBczN1bFFhN3djaVFjWG8?oc=5",
      "via": "Googleニュース「アニメ」"
@@ -5290,7 +5313,7 @@
      "via": "Googleニュース「声優」"
     },
     {
-     "name": "encount.press",
+     "name": "ENCOUNT",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BaktwOW5uVDlWNzh4N3hhTkhpVTh1alJRX3djU0FIMHhUMHhtUkpNTVZBOFl6WUZzV2s2aGJ5Q0hsWG5oQ21sT1IxbjZxUjd6?oc=5",
      "via": "Googleニュース「声優」"
@@ -7226,7 +7249,7 @@
    "pubDate": "2026-09-25T08:49:00.000Z",
    "firstSeen": "2026-09-25T10:14:29.074Z",
    "image": null,
-   "source": "news.allabout.co.jp",
+   "source": "All About ニュース",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -7239,7 +7262,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "news.allabout.co.jp",
+     "name": "All About ニュース",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQLVFhUVJFaWM1eHZVUHMzNmJYb1FDSUVMcHFJVFFrQWZtVV9BQWk0RDR0ODBnUHhNQ1RJRUl3Qi10bEtVRlZ3V2puRDc5QW1HOVpRZmtkaDRTdw?oc=5",
      "via": "Googleニュース「声優」"
@@ -10406,7 +10429,7 @@
    "pubDate": "2026-09-25T03:27:48.000Z",
    "firstSeen": "2026-09-25T03:27:48.000Z",
    "image": null,
-   "source": "モデルプレス",
+   "source": "mdpr.jp",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -10420,7 +10443,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "モデルプレス",
+     "name": "mdpr.jp",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VekJobUdwSVZ1UUlPRTRFeVZkSnYxYWdDM1J1dWE5NDhzdjNZOHRfeGZTWE1sbk8yQk5tWm5pNkxlZUtNcnFKc3JnUdIBR0FVX3lxTE00MnpVeHVFV0locDdOUzllQmtmQ2s1X3RVM01kZEVyUGRhbXFTT0pmd3NPR1gwSDk3SDF0dUt1a2UzTUIwTGFR?oc=5",
      "via": "Googleニュース「声優」"
@@ -11885,7 +11908,7 @@
    "pubDate": "2026-09-25T02:41:00.000Z",
    "firstSeen": "2026-09-25T02:41:00.000Z",
    "image": null,
-   "source": "news.allabout.co.jp",
+   "source": "All About ニュース",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -11899,7 +11922,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "news.allabout.co.jp",
+     "name": "All About ニュース",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MUWY2QUhpbHFaUVIyUF9GdHNpTVhIVU5KdjRXSzFaeDBnRVVQS1NFVnBpZU1KWVhNYzc0TEVBUk1wRzJLREJOZHFlM0JlVzNiUlVjcWVzZWlGZw?oc=5",
      "via": "Googleニュース「声優」"
@@ -13952,7 +13975,7 @@
      "via": "Googleニュース「TVアニメ 放送」"
     },
     {
-     "name": "phileweb.com",
+     "name": "PHILE WEB",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JYk9zNGE2WFIyTElPZWx1ZndGMUhTdlJ0dkpGTlR1cWVtQ3l4ZVJ6YXRVc1pyc1htWi1YNXdadXRBTFlLNkxoWERsWnFfQXJycU50Ykp0Ti1pd003bzNPNHdZdHRidw?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
@@ -20498,7 +20521,7 @@
    "pubDate": "2026-09-24T03:13:24.000Z",
    "firstSeen": "2026-09-24T03:13:25.000Z",
    "image": null,
-   "source": "モデルプレス",
+   "source": "mdpr.jp",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -20513,7 +20536,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "モデルプレス",
+     "name": "mdpr.jp",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KcjAtV3NSZHJaZXdSV1FWUHU2NUcwTDdFWkxibEF1cE9uVkVuRUkxbFNfcUJzcjVyakUzNV9FSjJTNnlNUG1teXRXa9IBR0FVX3lxTE5JSGR4ZGpURFJtSEVLQmdPdGlVTUM2UHlGbHRZdzhCb21HZVdUM1BCYTVRRXRMRlNYVVowbmI5TmlvMlFDQ2RZ?oc=5",
      "via": "Googleニュース「声優」"
@@ -22570,6 +22593,36 @@
      "name": "長崎国際テレビ（Yahoo!ニュース）",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iR3FsZFRxSG41VU1UWmE0RWZ3bU1IMHJMN2s3Umd2MjVkUVBna0UwUGNXR3Zza2xGOGhOV0pzZzA5dUJmdFlNdEhOZ3NnVV9sZVJteFI2QlVUWWNNbmRrbXA0LXctaVVGWTA5b2dfS2NJaTNReWhMcEtFVFZNTEU?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『レイアース』30年ぶり新作目前、新声優には「オーディションで作品を知った」方も 歴史を感じつつ新規視聴者呼び込み",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rUXZkWkUxWWNlbk50Vng2U2JTcHgtWGxFak9EOTZ4UnladHoyaktFT3M1SDJGNm1jakd3M0RHOHZYS1U3Y2FzaTk5VGtwX1RyR0ZMNkI1UFZ5Q3FZUkQ0RXp6WWUzWGc0ZVAtVVNxU2k4aEdrNXQtdVJEZWtfUnM?oc=5",
+   "pubDate": "2026-09-23T11:45:00.000Z",
+   "firstSeen": "2026-09-25T16:26:06.309Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-seiyu",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "レイアース"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rUXZkWkUxWWNlbk50Vng2U2JTcHgtWGxFak9EOTZ4UnladHoyaktFT3M1SDJGNm1jakd3M0RHOHZYS1U3Y2FzaTk5VGtwX1RyR0ZMNkI1UFZ5Q3FZUkQ0RXp6WWUzWGc0ZVAtVVNxU2k4aEdrNXQtdVJEZWtfUnM?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -26689,7 +26742,7 @@
    "pubDate": "2026-09-20T07:00:00.000Z",
    "firstSeen": "2026-09-20T07:00:00.000Z",
    "image": null,
-   "source": "twellv.co.jp",
+   "source": "BS12",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -26702,7 +26755,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "twellv.co.jp",
+     "name": "BS12",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMzlXQS12Wl9lak5VczJyb25yRDBPY3pHVzh0QVRUeWJaMDdCUi1JUU9ULWdFRHd1MEg5Q3RzV0hjRXJzNWZHTGxMRlNOUm1lSVdHdFp2ejFMNnhvY2NLX0xRM24?oc=5",
      "via": "Googleニュース「声優」"
@@ -28518,7 +28571,7 @@
    "pubDate": "2026-09-03T15:48:27.000Z",
    "firstSeen": "2026-09-03T15:48:27.000Z",
    "image": null,
-   "source": "game.watch.impress.co.jp",
+   "source": "GAME Watch",
    "sourceId": "gnews-movie",
    "syndicated": false,
    "kind": "aggregator",
@@ -28533,7 +28586,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "game.watch.impress.co.jp",
+     "name": "GAME Watch",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IaC03WXBnSW91TjBzcGMxTjJYajN1TUxlaU5tLVQxTlRPRWVTMVZDbG1xc3lad1VFLXdxdHVzYmp0SU1ZQ09JZ3lPZndDaHNidDY5U19xZ0NEei00REhKM2d4M0hiQQ?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
