@@ -76,6 +76,8 @@ interface State {
 
 // 最初に描く件数。サーバー側で描く最新30件とそろえ、残りはスクロールに合わせて足す
 const PAGE_SIZE = 30;
+const MORE_LABEL = "もっと見る";
+const MORE_LEFT = "残り";
 const PREFS_KEY = "anime-news:prefs";
 const READ_KEY = "anime-news:read";
 const READ_MAX = 4000;
@@ -298,33 +300,89 @@ export async function startFeed() {
     return { title: base, sub: "" };
   }
 
+  /** 日ごとの見出しを付けて記事を並べる。prevKey は直前に描いた日(続きを足すときに同じ日の見出しを重ねないため) */
+  function renderGroups(list: Item[], prevKey = ""): { head: string; rest: string; lastKey: string } {
+    // head: 直前の日の続き(既存の最後の .day の中に足す分) / rest: 新しい日のまとまり
+    let head = "";
+    let rest = "";
+    let currentKey = prevKey;
+    let open = false;
+    for (const it of list) {
+      const key = it.time ? dayKeyFmt.format(it.time) : "unknown";
+      if (key !== currentKey) {
+        if (open) rest += "</div>";
+        const { title, sub } = key === "unknown" ? { title: "日付不明", sub: "" } : dayLabel(key, it.time);
+        rest += `<div class="day"><div class="day-head"><h2>${title}</h2><span>${sub}</span></div>`;
+        currentKey = key;
+        open = true;
+      }
+      if (open) rest += renderItem(it);
+      else head += renderItem(it);
+    }
+    if (open) rest += "</div>";
+    return { head, rest, lastKey: currentKey };
+  }
+
+  let renderedKey = "";
+  // 「もっと見る」の先読み: ボタンに近づいたら次の分の HTML を作り、サムネイルを読み始めておく
+  let prefetched: { from: number; html: { head: string; rest: string; lastKey: string } } | null = null;
+
+  function nextBatch() {
+    const batch = lastResult.slice(shown, shown + PAGE_SIZE);
+    return state.sort === "hot" ? { head: batch.map(renderItem).join(""), rest: "", lastKey: renderedKey } : renderGroups(batch, renderedKey);
+  }
+
+  function prefetchMore() {
+    if (shown >= lastResult.length || prefetched?.from === shown) return;
+    prefetched = { from: shown, html: nextBatch() };
+    for (const it of lastResult.slice(shown, shown + PAGE_SIZE)) {
+      if (it.i) {
+        const img = new Image();
+        img.referrerPolicy = "no-referrer";
+        img.src = it.i;
+      }
+    }
+  }
+
+  function updateMoreButton() {
+    const btn = $("#more");
+    const left = lastResult.length - shown;
+    btn.hidden = left <= 0;
+    btn.textContent = `${MORE_LABEL}（${MORE_LEFT}${Math.max(0, left)}件）`;
+  }
+
+  /** 「もっと見る」: 次の PAGE_SIZE 件を、いま出ている一覧の下に足す(上の記事は描き直さない) */
+  function showMore() {
+    const html = prefetched?.from === shown ? prefetched.html : nextBatch();
+    prefetched = null;
+    const list = $("#feed-list");
+    const days = list.querySelectorAll(".day");
+    const lastDay = days[days.length - 1];
+    if (html.head && lastDay) lastDay.insertAdjacentHTML("beforeend", html.head);
+    if (html.rest) list.insertAdjacentHTML("beforeend", html.rest);
+    renderedKey = html.lastKey;
+    shown += PAGE_SIZE;
+    updateMoreButton();
+  }
+
   function renderList() {
     const list = $("#feed-list");
     const slice = lastResult.slice(0, shown);
+    prefetched = null;
     if (slice.length === 0) {
       list.innerHTML = `<div class="empty"><p>条件に合うニュースはありません。</p><button type="button" class="btn btn-solid" id="reset-all">絞り込みをすべて解除</button></div>`;
       $("#more").hidden = true;
       return;
     }
-    let html = "";
     if (state.sort === "hot") {
-      html = `<div class="day"><div class="day-head"><h2>話題順</h2><span>報じた媒体の数が多い順</span></div>${slice.map(renderItem).join("")}</div>`;
+      list.innerHTML = `<div class="day"><div class="day-head"><h2>話題順</h2><span>報じた媒体の数が多い順</span></div>${slice.map(renderItem).join("")}</div>`;
+      renderedKey = "";
     } else {
-      let currentKey = "";
-      for (const it of slice) {
-        const key = it.time ? dayKeyFmt.format(it.time) : "unknown";
-        if (key !== currentKey) {
-          if (currentKey) html += "</div>";
-          const { title, sub } = key === "unknown" ? { title: "日付不明", sub: "" } : dayLabel(key, it.time);
-          html += `<div class="day"><div class="day-head"><h2>${title}</h2><span>${sub}</span></div>`;
-          currentKey = key;
-        }
-        html += renderItem(it);
-      }
-      html += "</div>";
+      const g = renderGroups(slice);
+      list.innerHTML = g.rest;
+      renderedKey = g.lastKey;
     }
-    list.innerHTML = html;
-    $("#more").hidden = lastResult.length <= shown;
+    updateMoreButton();
   }
 
   function renderCounts(query: ReturnType<typeof parseQuery>) {
@@ -610,21 +668,20 @@ export async function startFeed() {
     } else if (btn.id === "reset-all") {
       resetAll();
     } else if (btn.id === "more") {
-      shown += PAGE_SIZE;
-      renderList();
+      showMore();
     }
   });
 
-  // 一覧の末尾が見えたら自動で続きを出す(ボタンはキーボード操作・非対応環境向けに残す)
+  // 続きはボタンを押したときだけ出す。ボタンまであと1000px ほどになったら、次の分を先に作っておく
+  // (HTML の組み立てとサムネイルの読み込み)。押したときにすぐ出せる
   const moreBtn = $("#more");
   if ("IntersectionObserver" in window) {
     new IntersectionObserver((entries) => {
-      if (entries.some((en) => en.isIntersecting) && !moreBtn.hidden) {
-        shown += PAGE_SIZE;
-        renderList();
-      }
-    }, { rootMargin: "600px" }).observe(moreBtn);
+      if (entries.some((en) => en.isIntersecting) && !moreBtn.hidden) prefetchMore();
+    }, { rootMargin: "1000px" }).observe(moreBtn);
   }
+  moreBtn.addEventListener("pointerenter", prefetchMore);
+  moreBtn.addEventListener("focus", prefetchMore);
 
   // 折りたたみの開閉を端末に覚えておく(最初は閉じている)
   const FOLD_KEY = PREFS_KEY.replace(":prefs", ":folds");
