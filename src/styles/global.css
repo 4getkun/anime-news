@@ -25,7 +25,7 @@
   --on-marker: #15172b;
   --focus: #3b5bff;
 
-  --font-display: "Dela Gothic One", system-ui, sans-serif;
+  --font-display: "Dela Gothic One Sub", system-ui, sans-serif;
   /* 本文は各端末の標準書体。名前を並べると無いフォントを1文字ごとに探して最初のレイアウトが重くなる
      (fourgetkun-hub の AGENTS.md「速さ」参照) */
   --font-body: system-ui, sans-serif;
@@ -309,7 +309,9 @@
   list-style: none;
 }
 .hero-works li {
-  font-family: var(--font-display);
+  /* 作品名は毎時変わるので、文字を絞った見出し書体ではなく本文の書体(太字)にする */
+  font-family: var(--font-body);
+  font-weight: 800;
   font-size: 22px;
   line-height: 1.1;
   padding: 12px 8px;
@@ -712,8 +714,9 @@
   color: var(--paper);
 }
 .work-banner h2 {
-  font-family: var(--font-display);
-  font-weight: 400;
+  /* 作品名は毎時変わるので、文字を絞った見出し書体ではなく本文の書体(太字)にする */
+  font-family: var(--font-body);
+  font-weight: 800;
   font-size: 22px;
   margin: 0;
   line-height: 1.3;
@@ -1244,8 +1247,9 @@
   color: var(--muted);
 }
 .work-title {
-  font-family: var(--font-display);
-  font-weight: 400;
+  /* 作品名は毎時変わるので、文字を絞った見出し書体ではなく本文の書体(太字)にする */
+  font-family: var(--font-body);
+  font-weight: 800;
   font-size: clamp(28px, 5vw, 46px);
   line-height: 1.2;
   margin: 0 0 8px;
