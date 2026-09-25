@@ -12,6 +12,7 @@ import {
   isSpoiler,
   isSyndicated,
   originalPublisherFromTitle,
+  classifyCategories,
 } from "./filter.mjs";
 
 const config = JSON.parse(readFileSync(new URL("../../src/data/filters.json", import.meta.url), "utf-8"));
@@ -127,4 +128,13 @@ test("似た見出しの連鎖で無関係な記事がまとまらない", () =>
     mk("けこさしすせそたちつてとなにぬねの", "https://c/1", "2026-09-24T11:00:00Z"),
   ]);
   assert.equal(out.length, 2);
+});
+
+test("映画と書かれていない映画の記事も映画枠に入る", () => {
+  const t = "「アベンジャーズ　エンドゲーム：アンコール」公開記念イベントに米倉涼子、内田有紀、加藤浩次、遠藤憲一ら日本版声優陣が登場";
+  const cats = classifyCategories(t, "", config);
+  assert.ok(cats.includes("movie"));
+  assert.ok(!cats.includes("game")); // 「エンドゲーム」はゲームではない
+  assert.ok(classifyCategories("『X』入場者特典第3弾が決定", "", config).includes("movie"));
+  assert.ok(!classifyCategories("TVアニメ『X』第2弾PV公開", "", config).includes("movie"));
 });

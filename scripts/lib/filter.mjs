@@ -109,7 +109,14 @@ export function thresholdFor(feed, config) {
 
 export function classifyCategories(title, summary, config) {
   const text = `${normalizeForMatch(title)} ${normalizeForMatch(summary)}`;
-  return config.categories.filter((c) => containsAny(text, c.keywords)).map((c) => c.id);
+  return config.categories
+    .filter((c) => {
+      // ignore: そのカテゴリの判定の前に消す語(「エンドゲーム」の「ゲーム」でゲーム扱いにしない等)
+      let t = text;
+      for (const w of c.ignore ?? []) t = t.split(normalizeForMatch(w)).join(" ");
+      return containsAny(t, c.keywords);
+    })
+    .map((c) => c.id);
 }
 
 export function isSpoiler(title, config) {
