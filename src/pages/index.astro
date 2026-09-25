@@ -154,45 +154,52 @@ const config = {
         </label>
       </section>
 
-      <section>
-        <h2>ミュートするキーワード</h2>
-        <form class="word-form" id="mute-form">
-          <input id="mute-input" type="text" placeholder="例: 実写化" aria-label="ミュートするキーワード" />
-          <button type="submit">追加</button>
-        </form>
-        <div class="chips word-list" id="mute-list"></div>
-        <p class="hint">見出し・要約・作品名にこの語を含む記事を隠します。設定はこの端末にだけ保存されます。</p>
+      <section class="fold-section">
+        <details class="fold" data-fold="mute">
+          <summary class="fold-head"><h2>ミュートするキーワード</h2><span class="fold-note" id="mute-note"></span></summary>
+          <form class="word-form" id="mute-form">
+            <input id="mute-input" type="text" placeholder="例: 実写化" aria-label="ミュートするキーワード" />
+            <button type="submit">追加</button>
+          </form>
+          <div class="chips word-list" id="mute-list"></div>
+          <p class="hint">見出し・要約・作品名にこの語を含む記事を隠します。設定はこの端末にだけ保存されます。</p>
+        </details>
       </section>
 
-      <section>
-        <h2>言語</h2>
-        <div class="segmented" role="group" aria-label="言語" id="lang">
-          <button type="button" data-value="ja" aria-pressed="true">日本語</button>
-          <button type="button" data-value="all" aria-pressed="false">すべて</button>
-          <button type="button" data-value="en" aria-pressed="false">English</button>
-        </div>
+      <section class="fold-section">
+        <details class="fold" data-fold="lang">
+          <summary class="fold-head"><h2>言語</h2><span class="fold-note" id="lang-note"></span></summary>
+          <div class="segmented" role="group" aria-label="言語" id="lang">
+            <button type="button" data-value="ja" aria-pressed="true">日本語</button>
+            <button type="button" data-value="all" aria-pressed="false">すべて</button>
+            <button type="button" data-value="en" aria-pressed="false">English</button>
+          </div>
+        </details>
       </section>
 
-      <section>
-        <h2>媒体 <button type="button" data-clear="sources">すべて表示</button></h2>
-        <ul class="source-list" id="source-list">
-          {feeds.map((f) => (
-            <li>
-              <label>
-                <input type="checkbox" data-source={f.id} checked />
-                <span class={`kind-mark kind-${f.kind}`} title={kindLabels[f.kind]}></span>
-                {f.name}
-                <span class="count"></span>
-              </label>
-            </li>
-          ))}
-        </ul>
-        <p class="hint">
-          色は媒体の種類です。
-          {Object.entries(kindLabels).map(([k, label]) => (
-            <span style="white-space:nowrap; margin-right:8px;"><span class={`kind-mark kind-${k}`} style="display:inline-block; margin-right:4px;"></span>{label}</span>
-          ))}
-        </p>
+      <section class="fold-section">
+        <details class="fold" data-fold="sources">
+          <summary class="fold-head"><h2>媒体</h2><span class="fold-note" id="sources-note"></span></summary>
+          <p class="fold-actions"><button type="button" data-clear="sources">すべて表示</button></p>
+          <ul class="source-list" id="source-list">
+            {feeds.map((f) => (
+              <li>
+                <label>
+                  <input type="checkbox" data-source={f.id} checked />
+                  <span class={`kind-mark kind-${f.kind}`} title={kindLabels[f.kind]}></span>
+                  {f.name}
+                  <span class="count"></span>
+                </label>
+              </li>
+            ))}
+          </ul>
+          <p class="hint">
+            色は媒体の種類です。
+            {Object.entries(kindLabels).map(([k, label]) => (
+              <span style="white-space:nowrap; margin-right:8px;"><span class={`kind-mark kind-${k}`} style="display:inline-block; margin-right:4px;"></span>{label}</span>
+            ))}
+          </p>
+        </details>
       </section>
     </aside>
 
