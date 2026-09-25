@@ -419,7 +419,8 @@
   background: var(--ink);
   color: var(--paper);
 }
-.filter-open {
+/* .btn より後で効くよう、詳細度を上げておく(.btn の display に負けてPCでも出ていた) */
+.toolbar .filter-open {
   display: none;
 }
 
@@ -1023,7 +1024,7 @@
     grid-template-columns: minmax(0, 1fr);
     gap: 0;
   }
-  .filter-open {
+  .toolbar .filter-open {
     display: inline-flex;
   }
   /* 絞り込みパネルは下から出てくるシートにする */
