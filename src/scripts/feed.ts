@@ -285,10 +285,10 @@ export async function startFeed() {
           <h3 class="item-title"><a href="${esc(it.l)}" target="_blank" rel="noopener noreferrer" data-read="${esc(it.l)}">${esc(it.t)}</a></h3>
           ${it.s ? `<p class="item-summary">${esc(it.s)}</p>` : ""}
           ${guard ? `<button type="button" class="spoiler-reveal" data-reveal="${esc(it.l)}">ネタバレの可能性あり。タップで表示</button>` : ""}
-          ${works || cats ? `<div class="item-tags">${works}${cats ? `<span class="item-cats">${cats}</span>` : ""}</div>` : ""}
-          ${extra}
         </div>
         ${it.i ? `<img class="item-thumb" src="${esc(it.i)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+        ${works || cats ? `<div class="item-tags">${works}${cats ? `<span class="item-cats">${cats}</span>` : ""}</div>` : ""}
+        ${extra}
       </div>
     </article>`;
   }

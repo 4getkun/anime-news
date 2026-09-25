@@ -751,9 +751,19 @@
   padding: 16px 0;
 }
 /* サムネイルの無い記事は右の列を作らない(空の列の分だけ本文とハッシュタグが右端に届かなくなるため) */
+/* 狭い画面では時刻の列の右に、本文 → サムネイル → タグ の順に縦に並ぶ */
+.item-grid > .item-tags,
+.item-grid > .item-extra {
+  grid-column: 2;
+}
 @container (min-width: 521px) {
   .item-grid:not(:has(.item-thumb)) {
     grid-template-columns: 52px minmax(0, 1fr);
+  }
+  /* タグと「同じ話題」はサムネイルの下まで伸ばし、どの記事でも右端をそろえる */
+  .item-grid > .item-tags,
+  .item-grid > .item-extra {
+    grid-column: 2 / -1;
   }
 }
 .item-time {
@@ -846,6 +856,7 @@
 .item-cats {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   justify-content: flex-end;
   gap: 6px;
   margin-left: auto;
@@ -886,7 +897,7 @@
   object-fit: cover;
   border-radius: 10px;
   background: var(--tone);
-  grid-row: 1 / span 4;
+  grid-row: 1;
   grid-column: 3;
 }
 @container (max-width: 520px) {
