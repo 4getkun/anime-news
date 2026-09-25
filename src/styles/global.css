@@ -334,6 +334,7 @@
 .ticker-label {
   flex: none;
   padding: 10px 16px;
+  line-height: 22px;
   background: var(--onair);
   color: #fff;
   font-family: var(--font-display);
@@ -1088,15 +1089,23 @@
   .hero-inner {
     grid-template-columns: minmax(0, 1fr);
   }
+  /* スマホでは作品名を横1列(はみ出た分は横スクロール)にして、高さを固定する。
+     折り返すと、見出し書体が届いて文字幅が変わったときに行数が変わり、下のテロップがずれる */
   .hero-works {
     writing-mode: horizontal-tb;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
     max-block-size: none;
     max-inline-size: none;
+    height: 40px;
   }
   .hero-works li {
+    flex: none;
     font-size: 15px;
+    line-height: 20px;
+    height: 36px;
     padding: 6px 10px;
   }
   .hero-works li:nth-child(n + 7) {
