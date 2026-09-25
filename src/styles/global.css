@@ -314,14 +314,11 @@
   font-weight: 800;
   font-size: 22px;
   line-height: 1.1;
-  padding: 12px 8px;
   border: 2px solid color-mix(in oklab, var(--hero-paper) 70%, transparent);
   border-radius: 10px;
   background: color-mix(in oklab, var(--hero-ink) 60%, transparent);
   max-inline-size: 360px;
   overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 .hero-works li:first-child {
   background: var(--marker);
@@ -329,7 +326,14 @@
   border-color: var(--marker);
 }
 .hero-works a {
+  /* 本1冊ぶん全体を押せるように、余白はリンクの側に持たせる */
+  display: block;
+  padding: 12px 8px;
+  color: inherit;
   text-decoration: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 /* テロップ(ニュース速報の帯) */
@@ -1175,6 +1179,8 @@
     font-size: 15px;
     line-height: 20px;
     height: 36px;
+  }
+  .hero-works a {
     padding: 6px 10px;
   }
   .hero-works li:nth-child(n + 7) {
