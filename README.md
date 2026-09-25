@@ -11,7 +11,6 @@ Astro で静的に書き出し、GitHub Actions から Cloudflare Pages へ公�
 
 news-lifespan と同じ方式です。ビルド結果は Cloudflare Pages のプロジェクト `anime-news` へ Direct Upload し、
 fourgetkun-hub の Worker（`src/pages-proxy/proxy.js`）が `/anime-news/*` を pages.dev から取ってきて返します。
-リポジトリは private のままで構いません。
 
 - `astro.config.mjs` の `site` / `base` は公開側（`https://fourgetkun.com` / `/anime-news`）に合わせてあります。
 - ハブ側の設定は fourgetkun-hub の `proxy.js` の `SITES`、`wrangler.jsonc` の `run_worker_first`、
@@ -88,8 +87,7 @@ npm run probe-feeds  # feeds.json の全フィードの生存確認（URLを渡�
    （データのコミットに要る書き込み権限は、ワークフローの `permissions: contents: write` で付けている）
 2. Actions タブで「Update news and deploy to Cloudflare Pages」を有効にして手動実行（以後は毎時17分に自動）
 
-間隔を1時間にしているのは、private リポジトリの Actions 無料枠（月2,000分）をほかのリポジトリと分け合っているためです。
-1回およそ1〜2分なので月720〜1,440分かかります。
+リポジトリは public なので、Actions の実行時間は無料枠（private リポジトリの月2,000分）に数えられません。
 
 ## 著作権について
 
