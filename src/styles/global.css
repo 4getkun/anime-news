@@ -718,6 +718,8 @@
   color: var(--paper);
 }
 .work-banner h2 {
+  /* ボタン類はバナーの右に寄せる */
+  margin-right: auto !important;
   /* 作品名は毎時変わるので、文字を絞った見出し書体ではなく本文の書体(太字)にする */
   font-family: var(--font-body);
   font-weight: 800;
@@ -725,8 +727,34 @@
   margin: 0;
   line-height: 1.3;
 }
-.work-banner .chip {
-  margin-left: auto;
+/* 作品の絞り込みの解除は、バナーの中でいちばん目立つボタンにする(オンエアの赤の塗り) */
+.work-clear {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 40px;
+  padding: 0 16px;
+  /* 白い文字との差が足りるよう、テーマに関係なく濃いめの赤にする */
+  border: 2px solid #c4104a;
+  border-radius: 999px;
+  background: #c4104a;
+  color: #fff;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 2px 0 #7d0a2f;
+}
+.work-clear:hover {
+  filter: brightness(1.08);
+}
+.work-clear:active {
+  translate: 0 2px;
+  box-shadow: none;
+}
+.work-clear:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
 }
 .day {
   margin-top: 26px;

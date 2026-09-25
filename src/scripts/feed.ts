@@ -443,7 +443,7 @@ export async function startFeed() {
       banner.innerHTML = `<div class="work-banner"><h2>${esc(state.work)}</h2>
         ${config.workSlugs[state.work] ? `<a class="chip" href="${config.baseUrl}work/${encodeURIComponent(config.workSlugs[state.work])}/">作品ページ</a>` : ""}
         <button type="button" class="chip" data-toggle-follow="${esc(state.work)}" aria-pressed="${following}">${following ? "★ フォロー中" : "☆ フォローする"}</button>
-        <button type="button" class="chip" data-clear="work">作品の絞り込みを解除</button></div>`;
+        <button type="button" class="work-clear" data-clear="work"><span aria-hidden="true">✕</span> 作品の絞り込みを解除</button></div>`;
     } else {
       banner.innerHTML = "";
     }
