@@ -211,3 +211,14 @@ test("途中で切れた見出しは、同じ書き出しの完全な見出し�
   assert.equal(out.length, 1);
   assert.ok(out[0].title.includes("Die』"));
 });
+
+test("ネタバレ判定: 放送前の先行カット・あらすじはネタバレにしない", () => {
+  const sp = (t) => isSpoiler(t, config);
+  assert.equal(sp("「パンどろぼう」第1話の先行カット OP映像にはパンが不味く渋い顔のパンどろぼうも（動画あり）"), false);
+  assert.equal(sp("『アオアシ Season2』第1話「スタート・ライン」あらすじ＆先行カット公開"), false);
+  assert.equal(sp("アニメ「幻想水滸伝」奇襲に遭った少年兵の主人公と親友が自軍への疑念を抱く第1話"), false);
+  assert.equal(sp("「私は、やり直すことにしたよ」――転スラ最終回と同時発表『クレイマンREVENGE』2027年4月TVアニメ化"), false);
+  assert.equal(sp("『X』最終回の感想まとめ、ネットで号泣の声"), true);
+  assert.equal(sp("『X』第24話で黒幕の正体が判明"), true);
+  assert.equal(sp("【ネタバレ注意】『X』先行上映会レポート"), true);
+});

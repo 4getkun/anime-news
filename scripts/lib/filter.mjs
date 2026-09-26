@@ -126,8 +126,14 @@ export function classifyCategories(title, summary, config) {
 
 export function isSpoiler(title, config) {
   const t = normalizeForMatch(title);
-  if (containsAny(t, config.spoiler.keywords)) return true;
-  return config.spoiler.patterns.some((p) => new RegExp(p, "i").test(t));
+  const sp = config.spoiler;
+  const any = (list) => (list ?? []).some((p) => new RegExp(p, "i").test(t));
+  if (any(sp.explicit)) return true;
+  // 放送前の先行カット・あらすじ・予告・発表などはネタバレにしない
+  if (any(sp.safe)) return false;
+  if (any(sp.strong)) return true;
+  // 「第N話」「最終回」だけではネタバレにしない。放送後の感想・反響などと一緒のときだけ
+  return any(sp.episode) && any(sp.reaction);
 }
 
 /** 作品名の表記ゆれを寄せる(「TVアニメ『X』第2期」「劇場版『X』」→「X」) */
