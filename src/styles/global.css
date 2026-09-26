@@ -1656,3 +1656,10 @@ a.tag-work {
   font-size: 12px;
   color: var(--faint);
 }
+
+/* しくみページの末尾の小さな注記 */
+.prose .fine-print {
+  margin-top: 40px;
+  font-size: 12px;
+  color: var(--faint);
+}
