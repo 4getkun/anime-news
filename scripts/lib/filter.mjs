@@ -128,11 +128,13 @@ export function isSpoiler(title, config) {
   const t = normalizeForMatch(title);
   const sp = config.spoiler;
   const any = (list) => (list ?? []).some((p) => new RegExp(p, "i").test(t));
+  // 「ネタバレ防止を呼びかけ」のような、ネタバレの中身が無い見出しはネタバレにしない
+  if (any(sp.never)) return false;
   if (any(sp.explicit)) return true;
-  // 放送前の先行カット・あらすじ・予告・発表などはネタバレにしない
+  // 放送・発売前の先行カット・あらすじ・告知などはネタバレにしない
   if (any(sp.safe)) return false;
   if (any(sp.strong)) return true;
-  // 「第N話」「最終回」だけではネタバレにしない。放送後の感想・反響などと一緒のときだけ
+  // 「第N話」「第N章」「最終回」だけではネタバレにしない。感想・反響などと一緒のときだけ
   return any(sp.episode) && any(sp.reaction);
 }
 
