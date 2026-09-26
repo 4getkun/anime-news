@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-26T11:18:24.196Z",
- "count": 1156,
+ "generatedAt": "2026-09-26T12:21:17.735Z",
+ "count": 1165,
  "dedupe": {
   "exact": 396,
   "syndicated": 40,
   "similar": 50,
-  "syndicatedTotal": 426,
-  "syndicatedLeft": 162
+  "syndicatedTotal": 431,
+  "syndicatedLeft": 167
  },
  "calendar": [
   {
@@ -164,6 +164,20 @@
     "movie",
     "media"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-09-25",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "これ描いて死ね",
+   "title": "『これ描いて死ね』スマホケース全11デザインが登場！160機種以上対応、2026年9月25日発売",
+   "link": "https://nijimen.kusuguru.co.jp/topics/637365",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -1766,17 +1780,17 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 113,
-   "accepted": 113
+   "archived": 114,
+   "accepted": 114
   },
   {
    "id": "natalie-comic",
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 201,
    "accepted": 201
   },
@@ -1788,8 +1802,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 23,
-   "accepted": 23
+   "archived": 24,
+   "accepted": 24
   },
   {
    "id": "seigura",
@@ -1821,17 +1835,17 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 44,
-   "accepted": 15
+   "archived": 45,
+   "accepted": 16
   },
   {
    "id": "gnews-anime",
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 347,
    "accepted": 333
   },
@@ -1840,9 +1854,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 209,
    "accepted": 207
   },
@@ -1851,9 +1865,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 125,
    "accepted": 107
   },
@@ -1862,9 +1876,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 227,
    "accepted": 210
   },
@@ -1873,9 +1887,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 187,
    "accepted": 16
   },
@@ -1909,7 +1923,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 109,
+   "archived": 110,
    "accepted": 33
   },
   {
@@ -1920,7 +1934,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 120,
+   "archived": 121,
    "accepted": 4
   },
   {
@@ -1942,8 +1956,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1289,
-   "accepted": 117
+   "archived": 1339,
+   "accepted": 122
   },
   {
    "id": "prtimes",
@@ -1953,7 +1967,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1189,
+   "archived": 1192,
    "accepted": 28
   },
   {
@@ -1964,8 +1978,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 136,
-   "accepted": 136
+   "archived": 137,
+   "accepted": 137
   },
   {
    "id": "mal",
@@ -1991,6 +2005,249 @@
   }
  ],
  "items": [
+  {
+   "title": "愛された黒猫たちが“本当の名前”を覚えていた…天国で名乗る姿に「涙腺崩壊」「かわいすぎ」【ペットとの絆漫画3選】(WEBザテレビジョン)",
+   "summary": "コミックの映像化や、ドラマのコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョンマンガ部」。 今回は、ペットと人間の温かい絆や、命をめぐる奇",
+   "link": "https://news.yahoo.co.jp/articles/e4ac3cf159c37f310a46c6f27c2e32a3e108eba6?source=rss",
+   "pubDate": "2026-09-26T12:05:00.000Z",
+   "firstSeen": "2026-09-26T12:21:15.378Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e4ac3cf159c37f310a46c6f27c2e32a3e108eba6?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『まどマギ』13年ぶり新作映画、興行収入で“前作超え”達成 1ヶ月足らずで21億円記録(オタク総研)",
+   "summary": "『魔法少女まどか☆マギカ』より約13年ぶりとなるシリーズ最新作「劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉」について、公開27日目の9月23日までに興行収入21億円を突破したことが明らかにな",
+   "link": "https://news.yahoo.co.jp/articles/8fddccdafcfab26b3eadcf6fa708604442d65a7e?source=rss",
+   "pubDate": "2026-09-26T12:01:00.000Z",
+   "firstSeen": "2026-09-26T12:21:15.378Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "まどマギ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/8fddccdafcfab26b3eadcf6fa708604442d65a7e?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Eve,ソニーミュージック内のレーベル“Echoes”への移籍を発表。第一弾リリースはTVアニメ『薬屋のひとりごと』EDテーマに決定！",
+   "summary": "日本の音楽アーティストとして、YouTubeをはじめとしてトップクラスのSNS登録者数を誇るEveが...",
+   "link": "https://www.lisani.jp/0000318783/",
+   "pubDate": "2026-09-26T12:00:52.000Z",
+   "firstSeen": "2026-09-26T12:21:15.378Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/09/2609261900-yh-008.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "music"
+   ],
+   "works": [
+    "薬屋のひとりごと"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000318783/"
+    }
+   ]
+  },
+  {
+   "title": "＜薬屋のひとりごと＞「先の帝に呪いをかけたのかしら」皇太后の依頼と浮き彫りになる壬氏の出自に考察深まる【第32話】(WEBザテレビジョン)",
+   "summary": "TVアニメ「薬屋のひとりごと」(ABEMA・ディズニープラス・FOD・Hulu・Leminoほかで配信)。待望の第3期放送を目前に、これまでのストーリーを当時の反響とともにプレイバック。本記事では第3",
+   "link": "https://news.yahoo.co.jp/articles/4b7d927abb8ccdb04427629dfd67f657024991b0?source=rss",
+   "pubDate": "2026-09-26T12:00:00.000Z",
+   "firstSeen": "2026-09-26T12:21:15.378Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new",
+    "broadcast"
+   ],
+   "works": [],
+   "spoiler": true,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/4b7d927abb8ccdb04427629dfd67f657024991b0?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "デビルマン、宇宙戦艦ヤマト、キン肉マン…日本アニメ史を支えてきた白土武が明かす、名作誕生の裏側と「アニメーターの本質」(TOKYO FM＋)",
+   "summary": "放送作家・脚本家の小山薫堂とフリーアナウンサーの宇賀なつみがパーソナリティを務めるTOKYO FMのラジオ番組「日本郵便 SUNDAY’S POST」（毎週日曜15:00～15:50）。今回の放送では",
+   "link": "https://news.yahoo.co.jp/articles/890564414e372cd70c4e4c3bdab1ad859e64306d?source=rss",
+   "pubDate": "2026-09-26T11:50:37.000Z",
+   "firstSeen": "2026-09-26T12:21:15.378Z",
+   "image": null,
+   "source": "TOKYO FM＋（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast",
+    "business"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TOKYO FM＋（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/890564414e372cd70c4e4c3bdab1ad859e64306d?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "EXILE SHOKICHI、2027年より新たなバンドプロジェクト・X-OVAを始動(Billboard JAPAN)",
+   "summary": "EXILE SHOKICHIが、2027年より新たなバンドプロジェクト・X-OVA（読み：クロスオーバー）を始動する。 プロジェクト始動発表に伴い、公式Instagramが開設された。プロジェク",
+   "link": "https://news.yahoo.co.jp/articles/58b001a67c3ac2d90b2a6ea45e92201418f2a5df?source=rss",
+   "pubDate": "2026-09-26T11:50:02.000Z",
+   "firstSeen": "2026-09-26T12:21:15.378Z",
+   "image": null,
+   "source": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/58b001a67c3ac2d90b2a6ea45e92201418f2a5df?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Young Ladies Don't Play Fighting Games ‒ Episode 12",
+   "summary": "Overall thoughts? Not quite anime of the season material, but certainly a weekly highlight all the same.",
+   "link": "https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-12/.242212",
+   "pubDate": "2026-09-26T11:31:22.000Z",
+   "firstSeen": "2026-09-26T12:21:15.378Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-12/.242212"
+    }
+   ]
+  },
+  {
+   "title": "「デート・ア・ライブ」十香、琴里、四糸乃、狂三がポリスデビル姿で悩殺!? オンラインくじに集合☆【くじクリフ】",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/09/26/103266.html",
+   "pubDate": "2026-09-26T11:30:03.000Z",
+   "firstSeen": "2026-09-26T12:21:15.378Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "デート・ア・ライブ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/09/26/103266.html"
+    }
+   ]
+  },
+  {
+   "title": "『これ描いて死ね』スマホケース全11デザインが登場！160機種以上対応、2026年9月25日発売",
+   "summary": "『これ描いて死ね』のスマートフォンアクセサリーがcaseplayに登場 漫画創作をテーマにした青春群像劇『これ描いて死ね』の世界観を、日々持ち歩くスマートフォンにまとえるアイテムが登場しました。デザインは、安海相たちおなじみのキャラクターを…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/637365",
+   "pubDate": "2026-09-26T11:26:46.000Z",
+   "firstSeen": "2026-09-26T12:21:15.378Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/09/58495-876-5f975bdd66503fbb105143bd08ca23f3-1600x880-1.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [
+    "これ描いて死ね"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/637365"
+    }
+   ]
+  },
   {
    "title": "坂本真綾、2026年4月に開催された30周年記念LIVEの模様を完全収録したライブBlu-ray＆DVDが12月9日リリース決定!!",
    "summary": "デビュー30周年を迎え、歌手、声優、俳優、作詞家、エッセイストなど、第一線でマルチな活動を...",
