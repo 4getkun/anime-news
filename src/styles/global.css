@@ -327,13 +327,19 @@
 }
 .hero-works a {
   /* 本1冊ぶん全体を押せるように、余白はリンクの側に持たせる */
-  display: block;
   padding: 12px 8px;
   color: inherit;
   text-decoration: none;
   overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  /* 長い作品名は2行(縦書きなので2列)にして、背表紙の太い本にする。それでも入らなければ「…」。
+     折り返しは空白(「転生したらスライムだった件 クレイマンREVENGE」なら件の後)を優先し、
+     空白が無ければどこででも折る */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 
 /* テロップ(ニュース速報の帯) */
@@ -1216,7 +1222,11 @@
     height: 36px;
   }
   .hero-works a {
+    /* スマホでは横並びの札なので1行に戻す */
+    display: block;
     padding: 6px 10px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
   }
   .hero-works li:nth-child(n + 7) {
     display: none;

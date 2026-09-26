@@ -10,7 +10,19 @@ import { withBase } from "../lib/url";
 const sensitiveIds = new Set(sensitiveCategories.map((c) => c.id));
 const showcase = jaNews.filter((it) => !it.categories.some((c) => sensitiveIds.has(c)));
 const latest = showcase[0];
-const works = trendingWorks(72, 10);
+// 本棚(ヒーロー右)に並べる作品。長い作品名は2列の太い本になるので、棚の幅(約540px)に収まる冊数だけ並べる
+// (はみ出すと左の見出しに重なる)。1列の本は幅44px、2列は68px、間は10px。15文字を超えると2列になる
+const works = (() => {
+  const shelf: ReturnType<typeof trendingWorks> = [];
+  let width = 0;
+  for (const w of trendingWorks(72, 10)) {
+    const book = (Array.from(w.name).length > 14 ? 68 : 44) + 10;
+    if (width + book > 540) break;
+    shelf.push(w);
+    width += book;
+  }
+  return shelf;
+})();
 const tickerItems = showcase.slice(0, 14);
 // JavaScript が動かない環境でも最新分だけは読めるように、先頭だけサーバー側で描く
 const initialItems = jaNews.slice(0, 30);
