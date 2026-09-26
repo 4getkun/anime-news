@@ -295,6 +295,14 @@
   line-height: 1.55;
 }
 /* 縦書きの作品名ランキング。日本語の縦組みそのものを見せ場にする */
+/* PC: 本棚は見出しの1行目(「アニメのニュース、」)より下から始める。見出しは折り返さず右へ伸びるので、
+   縦の中央そろえだと1行目の端が本棚に重なる。見出しの文字の大きさ×1.3 だけ下げる */
+@media (min-width: 961px) {
+  .hero-inner > nav {
+    align-self: start;
+    margin-top: calc(clamp(30px, 8.6vw, 96px) * 1.3);
+  }
+}
 .hero-works {
   writing-mode: vertical-rl;
   display: flex;
