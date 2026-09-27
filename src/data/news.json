@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-27T05:18:24.920Z",
- "count": 1308,
+ "generatedAt": "2026-09-27T06:21:21.732Z",
+ "count": 1311,
  "dedupe": {
-  "exact": 481,
+  "exact": 482,
   "syndicated": 48,
   "similar": 56,
-  "syndicatedTotal": 517,
-  "syndicatedLeft": 186
+  "syndicatedTotal": 520,
+  "syndicatedLeft": 188
  },
  "calendar": [
   {
@@ -1822,17 +1822,17 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 131,
-   "accepted": 131
+   "archived": 132,
+   "accepted": 132
   },
   {
    "id": "natalie-comic",
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 222,
    "accepted": 222
   },
@@ -1885,9 +1885,9 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 418,
    "accepted": 400
   },
@@ -1896,9 +1896,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 227,
    "accepted": 222
   },
@@ -1907,9 +1907,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 135,
    "accepted": 115
   },
@@ -1918,9 +1918,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 272,
    "accepted": 252
   },
@@ -1929,9 +1929,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 197,
    "accepted": 16
   },
@@ -1943,7 +1943,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 160,
+   "archived": 161,
    "accepted": 37
   },
   {
@@ -1976,7 +1976,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 136,
+   "archived": 137,
    "accepted": 5
   },
   {
@@ -1998,8 +1998,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1961,
-   "accepted": 161
+   "archived": 2008,
+   "accepted": 164
   },
   {
    "id": "prtimes",
@@ -2009,7 +2009,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1307,
+   "archived": 1308,
    "accepted": 32
   },
   {
@@ -2047,6 +2047,101 @@
   }
  ],
  "items": [
+  {
+   "title": "アニメ「リラックマ」が初のくじに！リラックマたちのぬいぐるみや場面写グッズが登場♪ ラスト賞は約40cmのBIGぬいぐるみ",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/09/27/103284.html",
+   "pubDate": "2026-09-27T06:00:04.000Z",
+   "firstSeen": "2026-09-27T06:21:18.803Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "リラックマ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/09/27/103284.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/99602de78b64617b512f486f25405992b42af6ed?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "本渡楓、“泣き虫ちゃん”千賀光莉にエール「もっともっとすごいスーパースターになれる人だと思う」＜映画名探偵プリキュア！＞(WEBザテレビジョン)",
+   "summary": "声優の千賀光莉、本渡楓、長谷川育美、東山奈央が、9月27日に都内で開催された「映画名探偵プリキュア！不思議な庭と2人の秘密」の大ヒット御礼舞台あいさつに、鬼頭明里、島崎信長、内山昂輝、コットン(西村真",
+   "link": "https://news.yahoo.co.jp/articles/3f278ae806dc2279b270c103f83898bad90e911d?source=rss",
+   "pubDate": "2026-09-27T05:55:15.000Z",
+   "firstSeen": "2026-09-27T06:21:18.803Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/3f278ae806dc2279b270c103f83898bad90e911d?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "韓国アニメ映画『縁の手紙』監督が語るコミックス・ウェーブ・フィルムとの“縁”、矢吹奈子、小野賢章らのエピソードトークも(MOVIE WALKER PRESS)",
+   "summary": "第26回プチョン国際アニメーション映画祭にて3部門を受賞した、手紙がつなぐ青春ストーリー『縁の手紙』(公開中)。9月25日に初日舞台挨拶が新宿バルト9で行われ、キャストの矢吹奈子と小野賢章、そしてキム",
+   "link": "https://news.yahoo.co.jp/articles/6185a9093069914bcba49742642c4a8269f75e1c?source=rss",
+   "pubDate": "2026-09-27T05:30:00.000Z",
+   "firstSeen": "2026-09-27T06:21:18.803Z",
+   "image": null,
+   "source": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 19,
+   "categories": [
+    "cast",
+    "movie",
+    "media",
+    "stage"
+   ],
+   "works": [
+    "縁の手紙"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6185a9093069914bcba49742642c4a8269f75e1c?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "ペコちゃん＆サンリオキャラがコラボ♪ あべのハルカスで関西初登場グッズを販売☆【ペコフェス】",
    "summary": "",
