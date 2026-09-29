@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-09-29T17:21:11.310Z",
- "count": 2212,
+ "generatedAt": "2026-09-29T18:18:21.532Z",
+ "count": 2226,
  "dedupe": {
-  "exact": 998,
+  "exact": 1003,
   "syndicated": 96,
-  "similar": 117,
-  "syndicatedTotal": 1129,
+  "similar": 116,
+  "syndicatedTotal": 1132,
   "syndicatedLeft": 386
  },
  "calendar": [
@@ -657,6 +657,20 @@
   {
    "date": "2026-09-30",
    "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "ボボボーボ・ボーボボ",
+   "title": "『ボボボーボ・ボーボボ』の香水が登場。各キャラクターをイメージした9種の香水と「ぬ（る）ハンドクリーム」が、明日9月30日より開催の「ボボボーボ・ボーボボ展」にて先行販売",
+   "link": "https://news.denfaminicogamer.jp/news/2609293a",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-09-30",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
@@ -1168,6 +1182,20 @@
    "categories": [
     "new"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-02",
+   "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": null,
+   "title": "スターチャイルドの45周年を語る1時間45分のラジオ特番、10月2日に文化放送で",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVdTdJaTVVdjgzQk1nN3J5dlkyNXo1bmdTYzFWdXFpeV9oRkZRV2RhME1EMW9Pd3NxNWVQcEFaZkZuUUF0empwYzFJdy0?oc=5",
+   "source": "コミックナタリー",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -3096,11 +3124,11 @@
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 309,
-   "accepted": 309
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 315,
+   "accepted": 315
   },
   {
    "id": "lisani",
@@ -3151,31 +3179,31 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 816,
-   "accepted": 790
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 820,
+   "accepted": 794
   },
   {
    "id": "gnews-tvanime",
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 370,
-   "accepted": 361
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 371,
+   "accepted": 362
   },
   {
    "id": "gnews-movie",
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
    "archived": 223,
    "accepted": 190
   },
@@ -3184,21 +3212,21 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 535,
-   "accepted": 496
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 538,
+   "accepted": 499
   },
   {
    "id": "natalie-eiga",
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 255,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 256,
    "accepted": 19
   },
   {
@@ -3232,7 +3260,7 @@
    "error": null,
    "fetched": 50,
    "archived": 226,
-   "accepted": 50
+   "accepted": 51
   },
   {
    "id": "gamespark",
@@ -3265,7 +3293,7 @@
    "error": null,
    "fetched": 50,
    "archived": 4445,
-   "accepted": 446
+   "accepted": 448
   },
   {
    "id": "prtimes",
@@ -3275,8 +3303,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 3792,
-   "accepted": 61
+   "archived": 3831,
+   "accepted": 62
   },
   {
    "id": "ann",
@@ -3313,6 +3341,113 @@
   }
  ],
  "items": [
+  {
+   "title": "日本香堂の香水ブランディングムービーをアカツキメディアスタジオが制作！ ナレーションには人気声優・今井文也を起用",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000130.000064641.html",
+   "pubDate": "2026-09-29T17:40:02.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000130.000064641.html"
+    }
+   ]
+  },
+  {
+   "title": "人気声優＆話題作がズラリ！テレ東秋のアニメSP",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYy1EbklxSW1KNXc0X0pHQ1JXdkg4emNiSmdyMUFpU0Qydk5sWXZWWlV1Y2didHplUEZHVERDZ1Mxc3JWNDI3dUhKbw?oc=5",
+   "pubDate": "2026-09-29T17:19:46.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "TVer",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TVer",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYy1EbklxSW1KNXc0X0pHQ1JXdkg4emNiSmdyMUFpU0Qydk5sWXZWWlV1Y2didHplUEZHVERDZ1Mxc3JWNDI3dUhKbw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "【配信オリジナル】声優・置鮎龍太郎が語る「新テニスの王子様」秘話！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YaEloQUtlaElCVU1kbGJEN2xaZ21iVnlGdUcyajNGQXVCQk9hUk1ubjlremhOVTRkSG42dnBLdy02bVpuLXVxZUk0OA?oc=5",
+   "pubDate": "2026-09-29T17:19:42.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "TVer",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TVer",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YaEloQUtlaElCVU1kbGJEN2xaZ21iVnlGdUcyajNGQXVCQk9hUk1ubjlremhOVTRkSG42dnBLdy02bVpuLXVxZUk0OA?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "【配信オリジナル】声優・梶原岳人が語る“壮絶なアフレコ現場”裏話！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WQ1FQY3NRbE82X0Fsa0dLWFRJb0o2NUp4ZmdKNTR0NFBLWGo4VG4zSEtkMWtZYTlNZzU1SHMtdDF6ay05S1kzVkQ0NA?oc=5",
+   "pubDate": "2026-09-29T17:19:40.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "TVer",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TVer",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WQ1FQY3NRbE82X0Fsa0dLWFRJb0o2NUp4ZmdKNTR0NFBLWGo4VG4zSEtkMWtZYTlNZzU1SHMtdDF6ay05S1kzVkQ0NA?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
   {
    "title": "The Summer Hikaru Died Volumes 2-7 Manga Review",
    "summary": "As The Summer Hikaru Died approaches its conclusion, who can say where it will take \"Hikaru\" and Yoshiki? The monster already ripped his hea…",
@@ -3467,6 +3602,33 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/023ba4612d0e8be9c02e142f8786901ea431ca8b?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ「Battle Spirits [Re] 絶界の空」特別番組！！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jQkViWjd3Z1Y3OVE2WDVmaXZJY19RUlpaa1BUMk9FZHYydGVlN1p5NlplM1d5VXZ2Y0VKOFpaUmJPeDIwdjV5c1MyQQ?oc=5",
+   "pubDate": "2026-09-29T14:39:01.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "TVer",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "works": [
+    "Battle Spirits [Re] 絶界の空"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TVer",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jQkViWjd3Z1Y3OVE2WDVmaXZJY19RUlpaa1BUMk9FZHYydGVlN1p5NlplM1d5VXZ2Y0VKOFpaUmJPeDIwdjV5c1MyQQ?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -3905,9 +4067,10 @@
      "via": "Googleニュース「声優」"
     },
     {
-     "name": "Googleニュース「声優」",
+     "name": "千葉テレビ放送株式会社",
      "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pQ2tTbkZmZ0ZPUE16dWZaQ3lsUDh1MlFSTVV2S2w1M1FvWEZad3ZZRjdGV1pMMlhXeTJjWDhJWXI5RDY1akJ4R0c5MXNCeFNVaE1EYU0wQVRTcERndU5F?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pQ2tTbkZmZ0ZPUE16dWZaQ3lsUDh1MlFSTVV2S2w1M1FvWEZad3ZZRjdGV1pMMlhXeTJjWDhJWXI5RDY1akJ4R0c5MXNCeFNVaE1EYU0wQVRTcERndU5F?oc=5",
+     "via": "Googleニュース「声優」"
     },
     {
      "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
@@ -4029,6 +4192,38 @@
    ]
   },
   {
+   "title": "「Paradox Live」4th SEASON 新チームのメンバー役に石橋陽彩、芹澤優、堂島颯人（動画あり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCQkNmUk01c2NELVJVM3dESVB4T3NIa0w1SWlpT2pjVG5JY05jbjE3cGtoVmU4TTdGQWhYV2xQd3ZSQjRrTGVCdUMtWlA?oc=5",
+   "pubDate": "2026-09-29T12:00:00.000Z",
+   "firstSeen": "2026-09-29T12:18:12.952Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "Paradox Live"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCQkNmUk01c2NELVJVM3dESVB4T3NIa0w1SWlpT2pjVG5JY05jbjE3cGtoVmU4TTdGQWhYV2xQd3ZSQjRrTGVCdUMtWlA?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f0234a3836ffe90395c8deb13da32bbf5b49f212?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "TVアニメ『キン肉マン』、テリーマンキャラソン配信記念、小野大輔インタビュー到着！",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nTGgwOEw3Q0NmYzZUaFNHSFByampHZnFrLUdWQlAxd3VoWmgyeEVQdE5wY2hIVHdkT2hMRUw5RGtVZmFrU3l1aEZ5RnhXM1kzdXZ5S2YwOA?oc=5",
@@ -4059,6 +4254,67 @@
      "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/0a6811d23bbe2620d74f6115766b624e4ad48a88?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『バンドリ！アワーノーツ』はストーリー総再生時間27時間の大ボリューム。アニメの「裏側」のエピソードが描かれ、物語への解釈が深まる",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzdURUQTFpVlBIdVJKMVpFRU1FUnpqdmtrSGtJd1JENGFCU0k3OExBZmQ5UkgwQkZlTS1WR0w0M3pKWWg4UjdHZURENjFlNWZ5T1dPeXBraw?oc=5",
+   "pubDate": "2026-09-29T12:00:00.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "バンドリ!アワーノーツ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzdURUQTFpVlBIdVJKMVpFRU1FUnpqdmtrSGtJd1JENGFCU0k3OExBZmQ5UkgwQkZlTS1WR0w0M3pKWWg4UjdHZURENjFlNWZ5T1dPeXBraw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "モテ期が来たけど相手はみんなワケありで…「3度目のモテ期はこじらせ男子限定でした」（試し読みあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wM0JnVmw0Y0NvQV9ZUjFQRVJlNE5lTkhoS1JrdFNLQmRtMlBCdTZCRUwyQjRfbWVSbFZHWU5TQkN0MkVLVVJHdkwxX2o?oc=5",
+   "pubDate": "2026-09-29T11:48:00.000Z",
+   "firstSeen": "2026-09-29T12:18:12.952Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "media"
+   ],
+   "works": [
+    "3度目のモテ期はこじらせ男子限定でした"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wM0JnVmw0Y0NvQV9ZUjFQRVJlNE5lTkhoS1JrdFNLQmRtMlBCdTZCRUwyQjRfbWVSbFZHWU5TQkN0MkVLVVJHdkwxX2o?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/2342f9fb17ce1ecefc33725823fc195cbd29b7a9?source=rss",
      "syndicated": true
     }
    ]
@@ -4115,6 +4371,32 @@
    ]
   },
   {
+   "title": "前世が聖女の凄腕薬師と騎士団の波乱の日々を描くファンタジー1巻発売",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WR1RsNWpUWEt5RHZ2XzJoNEFGT2o2dVZjMUpnV2Y2dG1UeTRWc2VXc0NvbllTdVVpemhrZ0lGSEZUb3hPTHZ5VmVZdEo?oc=5",
+   "pubDate": "2026-09-29T11:39:00.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WR1RsNWpUWEt5RHZ2XzJoNEFGT2o2dVZjMUpnV2Y2dG1UeTRWc2VXc0NvbllTdVVpemhrZ0lGSEZUb3hPTHZ5VmVZdEo?oc=5"
+    }
+   ]
+  },
+  {
    "title": "【耳恋】「演じるキャラクターは自分の中で完結させない、つくり込みすぎない」声優・鳥海浩輔さんの仕事論",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9BWXBhU1VUaWN1Q2pxeUZCZmNWQnRHUVF2Yk1oYkhnb2ZMeHJWT3lzMHF1Z3Bpc0p0el9J?oc=5",
@@ -4138,6 +4420,33 @@
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9BWXBhU1VUaWN1Q2pxeUZCZmNWQnRHUVF2Yk1oYkhnb2ZMeHJWT3lzMHF1Z3Bpc0p0el9J?oc=5",
      "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "「ボボボーボ・ボーボボ展」開幕、ところ天の助役の兎「ボーボボは替えが効かない」（イベントレポート / 写真45枚）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByd2UzOGdCUU85Rmdfb2Zia3YtZVB3cDlhNmt4VnBLNF9rN2sxSDdVMFdmWDVvNFpFSFM1SjI0NmowUkFJYTh5MEZuRmQ?oc=5",
+   "pubDate": "2026-09-29T11:34:00.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ボボボーボ・ボーボボ展",
+    "ボーボボは替えが効かない"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByd2UzOGdCUU85Rmdfb2Zia3YtZVB3cDlhNmt4VnBLNF9rN2sxSDdVMFdmWDVvNFpFSFM1SjI0NmowUkFJYTh5MEZuRmQ?oc=5"
     }
    ]
   },
@@ -4196,6 +4505,30 @@
    ]
   },
   {
+   "title": "愛されなくて上等、のんびり暮らしたい側妃と冷徹国王のロマンスストーリー1巻",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RNHJHUVBtS0Q4VTR4SHVKMnAxUjl2aFFjZG5sX2ZGckQwcGIwb1BwZDgzemlmS1dmeUplQ1BwYjd0M3ltanRpbWJyRnA?oc=5",
+   "pubDate": "2026-09-29T11:25:00.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RNHJHUVBtS0Q4VTR4SHVKMnAxUjl2aFFjZG5sX2ZGckQwcGIwb1BwZDgzemlmS1dmeUplQ1BwYjd0M3ltanRpbWJyRnA?oc=5"
+    }
+   ]
+  },
+  {
    "title": "Liella!メンバーとして活躍中の声優・結那、待望の初写真集を2027年1月20日に発売決定 | 声優 | アニメフリークス",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhTWRudDRKbURWdHFkSFJJYjJucXBMdzlpMXh3Ylh5TS1naVNNd19JeWYwMXF4d2czR0MtWnJMcjNIVmpRNVgxM19fVGYtSjRrWC16TQ?oc=5",
@@ -4219,6 +4552,30 @@
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhTWRudDRKbURWdHFkSFJJYjJucXBMdzlpMXh3Ylh5TS1naVNNd19JeWYwMXF4d2czR0MtWnJMcjNIVmpRNVgxM19fVGYtSjRrWC16TQ?oc=5",
      "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "スターチャイルドの45周年を語る1時間45分のラジオ特番、10月2日に文化放送で",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVdTdJaTVVdjgzQk1nN3J5dlkyNXo1bmdTYzFWdXFpeV9oRkZRV2RhME1EMW9Pd3NxNWVQcEFaZkZuUUF0empwYzFJdy0?oc=5",
+   "pubDate": "2026-09-29T11:12:00.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVdTdJaTVVdjgzQk1nN3J5dlkyNXo1bmdTYzFWdXFpeV9oRkZRV2RhME1EMW9Pd3NxNWVQcEFaZkZuUUF0empwYzFJdy0?oc=5"
     }
    ]
   },
@@ -4387,6 +4744,32 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53eFp6V2VDdTJoLUg0SmpTMmdyYjBQVEVGSmU3N2JFeUVSbGVsQmF0dmozdWNjeXhNQktmT1RmS1RIMXNfVGc5aFhDVXFKWlJ6WmVUenU1bS1Ca3NDS2g0?oc=5",
      "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『ボボボーボ・ボーボボ』の香水が登場。各キャラクターをイメージした9種の香水と「ぬ（る）ハンドクリーム」が、明日9月30日より開催の「ボボボーボ・ボーボボ展」にて先行販売",
+   "summary": "ビュティ、首領パッチ、ところ天の助たちをイメージした全9種の香水と「ぬ（る）ハンドクリーム」がラインナップ",
+   "link": "https://news.denfaminicogamer.jp/news/2609293a",
+   "pubDate": "2026-09-29T10:47:18.000Z",
+   "firstSeen": "2026-09-29T11:18:16.239Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/sub12-51-1024x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ボボボーボ・ボーボボ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2609293a"
     }
    ]
   },
@@ -4670,6 +5053,30 @@
    ]
   },
   {
+   "title": "ヤンキー＆ガンマン女子高生VS地球外生命体、井上和郎のガンアクション1巻",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXc3FHNlZzbno4Zkh3cEhEZDFFOXRqTG11ZVZKWXVHQXVPQlJ2YnpwZmRNMjdYRm9TWm5heUlyTUZtSGRpYXA1LXVVSm4?oc=5",
+   "pubDate": "2026-09-29T10:25:00.000Z",
+   "firstSeen": "2026-09-29T18:18:15.209Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXc3FHNlZzbno4Zkh3cEhEZDFFOXRqTG11ZVZKWXVHQXVPQlJ2YnpwZmRNMjdYRm9TWm5heUlyTUZtSGRpYXA1LXVVSm4?oc=5"
+    }
+   ]
+  },
+  {
    "title": "伊集院光、若手芸人の手がけたアニメ酷評を謝罪も…「外野の養分になるだけ」発言に「自分で始めといて」一部ファン疑問視",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02Q3FYOENaQW9PUDZuVV9VVkhBa21hNHZReWt5eVZOUmZpOUc4Qmp3a3dKNk5VVFpCa1FOWmwxd21aRFU0U0t4Zm5QaV9XdW4za0dIS3YySjd0VmhLYjhQMmt2VkxFUFNXNV9nUUQ5cG8xYm5FOS10R0FzTmVYRVU?oc=5",
@@ -4720,6 +5127,13 @@
      "name": "ｄメニューニュース",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZFRGaTNqVTg2ZkZUTjJCalpuV2NZUmplSWFiY3ozRXJseTFYMV8yX0ZYQTJsOXZvalQ0c2tQWHpnd2V1cGpNSHVENV8xZnc4QmwzSEhQSm01eTJWNHRua2ZLeDk1dWVzR1dNVjNxS2pGY291b1NiQzZYWUI5MkxUalU1eE5JYkRjVGlGcm1tY3hzU3VKVzF4X3NralRwYUpOM2JHeDdrVFQ2RFBwbDlkRHBxOTIwVWF6VENHb1laVmZkMC1FQlNzQVFBYk1tbUNKVUVURld3d2xtb2_SAYsBQVVfeXFMUHNBcHhHWVFRc3RNbzBaVzhteUs1VU02U1pHN2k5RlFtdHVyV3pDVnloaG9HNGZ6U1VwRFdZLWhmNkVBUkIzWGI0WGRiVDZmZm5YTThkRzBWTGRMeEprWVhsY0NFYVV3R0RsbldISkR2bTlmaEVvR2tITTdXRU9COHJ3Z2ZZYkNqMHFxSQ?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yWWptWVl5WDNhXzV3MElXQzZyUjIxd3UyYXFXV0tTN3BsYlV6U2FEX2xpWUxCNENXbWRUV2QzVTdlNllQeHNxSThDOFVoZ1BSVmZyN1U0NWI3czQzS1lzU0tPVDlkMEl4S2xYSDFn?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -9197,13 +9611,13 @@
    ]
   },
   {
-   "title": "Lynn「声優になれたのに、アニメの仕事ができない」後輩にも先を越され…“遠回り”の先で見つけたもの",
+   "title": "Lynn「声優になれたのに、アニメの仕事ができない」後輩にも先を越され…“遠回り”の先で見つけたもの - woman-type.jp",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlRF8teG1vZXNyZzRxWkUzejNnSFRGWThhSGh0SjFvdnoyR210eUVMcHZqVmgyZGhmNjVDSHNhc1FzYnFtLUpxMnZkZFJ4aDVs?oc=5",
    "pubDate": "2026-09-29T03:30:41.000Z",
    "firstSeen": "2026-09-29T08:18:10.732Z",
    "image": null,
-   "source": "女の転職Type",
+   "source": "Googleニュース「声優」",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -9216,10 +9630,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "女の転職Type",
+     "name": "Googleニュース「声優」",
      "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlRF8teG1vZXNyZzRxWkUzejNnSFRGWThhSGh0SjFvdnoyR210eUVMcHZqVmgyZGhmNjVDSHNhc1FzYnFtLUpxMnZkZFJ4aDVs?oc=5",
-     "via": "Googleニュース「声優」"
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlRF8teG1vZXNyZzRxWkUzejNnSFRGWThhSGh0SjFvdnoyR210eUVMcHZqVmgyZGhmNjVDSHNhc1FzYnFtLUpxMnZkZFJ4aDVs?oc=5"
     }
    ]
   },
@@ -11131,12 +11544,6 @@
      "via": "Googleニュース「声優」"
     },
     {
-     "name": "nikkansports.com",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0NyLXdMbE9PTXBxY2ZsNi14bHZoR2RIVlpRSzRDMlEyU1p4bmpGY3JqcTdtOUhnX0U3bE1tazV3b0UtQ29jdmpLdDQ2cTRudGdBV0x2b25YQTFsUV93Z0EzX0tsOWZ0MHRhdzFIeEpEZGFjTDhHeE9JMjFpdWJYUkQ4NDhuT1dYU3F5d19YbFFPSkZGRlE?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
      "name": "日刊スポーツ（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/637a8cb7c41c88830d79528e8bf4006a7d0e9f0d?source=rss",
@@ -11158,7 +11565,7 @@
    "pubDate": "2026-09-29T01:06:00.000Z",
    "firstSeen": "2026-09-29T01:18:14.223Z",
    "image": null,
-   "source": "nikkansports.com",
+   "source": "日刊スポーツ",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -11172,7 +11579,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "nikkansports.com",
+     "name": "日刊スポーツ",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00R3dGM2VjbmY0X3RwLU93RUhSdVEyMjFvTW1iYjNFMXVjbFU5dFpHeTBjQkhnaWoyUlBSb3BCWGxfMkJkR2JHTHVHeW0ycERxeFE5YlVpOGRyWTRNb0ZHdEwzenVhU1JxZ25pclR3cmh3UnBDajVN0gF_QVVfeXFMTV85eS1VcTJrUlo3ZTcxcFNCMFlab19zNWFxYzJIX2FiUG1oNjNnQXVmNVdLUU1VcU42N0tIem50TEVUdUl4dDVxZzl4cktCMnZEZ09KX1VLZjRtSEExQUItbGhULTlyTkJxUWZndW9XM0U4T25Nay1lS3QzM3k0dw?oc=5",
      "via": "Googleニュース「声優」"
@@ -11873,12 +12280,6 @@
      "via": "Googleニュース「声優」"
     },
     {
-     "name": "nikkansports.com",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KdVdCTUo5WGVDYV9PRWhCYUlLLTFhUWlrcGNyRHY2OGRBeDBSaE84RUF3anlSMjV2ZTJrRVJnY2txcDA0VkJuYmdjT3lLTGZvcldVaEFyY29mQlBWTlc4Nmpxaks1UDlIaFBaYzI5ejB2SmU0b2NZ0gF_QVVfeXFMTXcwb2ctVFZkem9uTVJCTjBNamFmUldMaHBvN2ktMmdGNG45dkZYU1Q2Qlp0aXRMUHVxajJwam1iNFFER1N3YVRER25yTjdtQndFdDZuM2VrdjlsQW1RLXRpTWphLXdqQzBvZUZrMjFtaDdfVEVhY1BvUC1FdmJHbw?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
      "name": "日刊スポーツ（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/633a3dba0332d12eaf04bb99747b543d357cea02?source=rss",
@@ -11966,10 +12367,10 @@
    "pubDate": "2026-09-28T23:00:00.000Z",
    "firstSeen": "2026-09-28T23:18:12.167Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
    "score": 17,
    "categories": [
@@ -11982,9 +12383,10 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15YWRWRG1FOV9lT2lNVXNmNWIzTDEzeTV6b2hvZXhjdXZiX2J4MnBQajB3LTJwSEdOSTdaaVFERXNnMzVOMlBUdWpCRnY?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15YWRWRG1FOV9lT2lNVXNmNWIzTDEzeTV6b2hvZXhjdXZiX2J4MnBQajB3LTJwSEdOSTdaaVFERXNnMzVOMlBUdWpCRnY?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -15315,7 +15717,7 @@
    "pubDate": "2026-09-28T10:15:00.000Z",
    "firstSeen": "2026-09-28T11:17:57.836Z",
    "image": null,
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -15329,7 +15731,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "TBS NEWS DIG",
+     "name": "newsdig.tbs.co.jp",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZN0FfOFp1eXU4RXJHVlpjRXp0RXdqOGNiT1FPUFRFTnRQUmkzU25nZ0VPd084di1lTEJCY2s3c2xKdG9Xb3pGcUZYTGxpcUpaQzNEYWQtNA?oc=5",
      "via": "Googleニュース「声優」"
@@ -17405,6 +17807,12 @@
      "name": "サブカルウォーカー",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tLXlNcnlvUnFSZDFzZm9aM0RvWi1CaDBHRFRuRHI4VS0zWUpueW0zbU03MHhLNUhvV0FQM0wxNDRjelMzTzZUeUc4R0RLOV9VR25F?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "subculwalker.com",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53VzJHM1NVRzB5TElPRzZrNklOay1IaFJ0eEhwOEF1eE1xRm5wVlN6QUFBLU5OVWV1YjZ5UTk2aGgxcXFxNkNqSm9aQlhvbld6UGtz?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
@@ -30076,13 +30484,13 @@
    ]
   },
   {
-   "title": "[MAO] 高橋留美子先生原作作品アニメ放送バトンタッチ！ TVアニメ『MAO』からTVアニメ「らんま1/2」へ！ 両作品の主役キャストよりコメントが到着！｜作品紹介",
+   "title": "[MAO] 高橋留美子先生原作作品アニメ放送バトンタッチ！ TVアニメ『MAO』からTVアニメ「らんま1/2」へ！ 両作品の主役キャストよりコメントが到着！｜作品紹介 - sunrise-inc.co.jp",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoTUhteGJhRWZUMU4yQ1k5TEJ0dWpvR0pjVjJIVXowbFJkd0tITTNvdmVvRElzS3FpTEVtaEh5ZnFlZEhuaGE2VGdsdWhvSTkybmhtUU9OVXlERm4xSXhCMjJrZGw?oc=5",
    "pubDate": "2026-09-27T05:41:15.000Z",
    "firstSeen": "2026-09-27T12:17:29.463Z",
    "image": null,
-   "source": "サンライズ",
+   "source": "Googleニュース「TVアニメ 放送」",
    "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
@@ -30098,10 +30506,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "サンライズ",
+     "name": "Googleニュース「TVアニメ 放送」",
      "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoTUhteGJhRWZUMU4yQ1k5TEJ0dWpvR0pjVjJIVXowbFJkd0tITTNvdmVvRElzS3FpTEVtaEh5ZnFlZEhuaGE2VGdsdWhvSTkybmhtUU9OVXlERm4xSXhCMjJrZGw?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoTUhteGJhRWZUMU4yQ1k5TEJ0dWpvR0pjVjJIVXowbFJkd0tITTNvdmVvRElzS3FpTEVtaEh5ZnFlZEhuaGE2VGdsdWhvSTkybmhtUU9OVXlERm4xSXhCMjJrZGw?oc=5"
     }
    ]
   },
@@ -55460,7 +55867,7 @@
    "pubDate": "2026-09-24T12:33:15.000Z",
    "firstSeen": "2026-09-24T12:33:15.000Z",
    "image": null,
-   "source": "joqr.co.jp",
+   "source": "文化放送",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -55475,7 +55882,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "joqr.co.jp",
+     "name": "文化放送",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCTHdoandVZlBiMEcyc1VRSUVBYjVnMGdVUUZQZnU2c3Z1ckt4VDFESms1bTAyY2hvMUw4czgwTEt4Xzk0RGVWRjctV0tveGQtSkdxLUxR?oc=5",
      "via": "Googleニュース「声優」"
