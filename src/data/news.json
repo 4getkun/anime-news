@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-01T12:17:58.470Z",
- "count": 3029,
+ "generatedAt": "2026-10-01T13:20:55.733Z",
+ "count": 3037,
  "dedupe": {
   "exact": 1389,
   "syndicated": 132,
   "similar": 155,
-  "syndicatedTotal": 1573,
-  "syndicatedLeft": 515
+  "syndicatedTotal": 1574,
+  "syndicatedLeft": 516
  },
  "calendar": [
   {
@@ -4215,9 +4215,9 @@
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 395,
    "accepted": 395
   },
@@ -4237,9 +4237,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 14,
    "accepted": 14
   },
@@ -4248,9 +4248,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 3,
    "accepted": 3
   },
@@ -4270,9 +4270,9 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1142,
    "accepted": 1107
   },
@@ -4281,9 +4281,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 501,
    "accepted": 488
   },
@@ -4292,9 +4292,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 327,
    "accepted": 275
   },
@@ -4303,9 +4303,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 788,
    "accepted": 707
   },
@@ -4314,9 +4314,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 309,
    "accepted": 22
   },
@@ -4339,7 +4339,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 345,
+   "archived": 346,
    "accepted": 18
   },
   {
@@ -4350,8 +4350,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 336,
-   "accepted": 71
+   "archived": 340,
+   "accepted": 72
   },
   {
    "id": "gamespark",
@@ -4361,7 +4361,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 343,
+   "archived": 347,
    "accepted": 14
   },
   {
@@ -4383,8 +4383,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 6319,
-   "accepted": 636
+   "archived": 6369,
+   "accepted": 637
   },
   {
    "id": "prtimes",
@@ -4394,7 +4394,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 6753,
+   "archived": 6813,
    "accepted": 89
   },
   {
@@ -4405,8 +4405,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 256,
-   "accepted": 256
+   "archived": 262,
+   "accepted": 262
   },
   {
    "id": "mal",
@@ -4432,6 +4432,113 @@
   }
  ],
  "items": [
+  {
+   "title": "A Bride's Story Manga Gets New Volume Under New Publisher This Winter",
+   "summary": "New Otoyomegatari Zoku no 1 volume will have 3 chapters, about 80 pages, larger A4 size, with planned 16th volume",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-01/a-bride-story-manga-gets-new-volume-under-new-publisher-this-winter/.242361",
+   "pubDate": "2026-10-01T13:15:00.000Z",
+   "firstSeen": "2026-10-01T13:20:45.647Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-01/a-bride-story-manga-gets-new-volume-under-new-publisher-this-winter/.242361"
+    }
+   ]
+  },
+  {
+   "title": "go!go!vanillasが九州全県と沖縄を巡るツアー、凱旋ライブを含む全8公演(音楽ナタリー)",
+   "summary": "go!go!vanillasが2027年3月から4月にかけてライブツアー「BACK HOME TOUR 2027」を開催する。【画像】凱旋公演含むライブツアーのキービジュアル3月27日の大分・iich",
+   "link": "https://news.yahoo.co.jp/articles/be5da99f8f7f29b107854e228df2d4801cb6cc7f?source=rss",
+   "pubDate": "2026-10-01T13:09:10.000Z",
+   "firstSeen": "2026-10-01T13:20:45.647Z",
+   "image": null,
+   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "visual"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/be5da99f8f7f29b107854e228df2d4801cb6cc7f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "The Fall 2026 Anime Preview Guide",
+   "summary": "The season's just started, and we have nine featured shows! Read our reviews for STEEL BALL RUN, Firefly Wedding, Overgeared, Vermilion Mask…",
+   "link": "https://www.animenewsnetwork.com/preview-guide/2026/fall/.241248",
+   "pubDate": "2026-10-01T13:00:00.000Z",
+   "firstSeen": "2026-10-01T13:20:45.647Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/preview-guide/2026/fall/.241248"
+    }
+   ]
+  },
+  {
+   "title": "【無料】アニメ『機動戦艦ナデシコ』全26話がYouTubeで無料配信スタート。放送30周年を記念し、初回放送と同じ日付・時刻に公開",
+   "summary": "10月12日にはユリカ役・桑島法子さんとルリ役・南央美さん出演の上映＆トークイベントを開催。松澤由実さんの30周年記念ミニアルバムも配信予定",
+   "link": "https://news.denfaminicogamer.jp/news/2610012z",
+   "pubDate": "2026-10-01T12:36:41.000Z",
+   "firstSeen": "2026-10-01T13:20:45.647Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HN9CQPsbQAAGlrS-819x1024.jpeg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie",
+    "event"
+   ],
+   "works": [
+    "機動戦艦ナデシコ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610012z"
+    }
+   ]
+  },
   {
    "title": "25歳で乳がんも…卵子凍結を選ばず「全然想像もしてなかった」 元SKE48矢方美紀、費用面でも「ダメージが大きいなって」(ENCOUNT)",
    "summary": "元SKE48で声優・タレントの矢方美紀が1日、都内で行われた「ピンクリボンフェスティバル2026 オープニングナイト」に登壇。25歳で乳がんが発覚した当時、乳がん治療を前に、卵子凍結をしない選択をした",
@@ -4485,6 +4592,30 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/a4d2599c97cf11b4d7f897f00f95160b3633cce0?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Bless TV Anime Casts Kentarō Kumagai",
+   "summary": "Kumagai as MM in January 2027 anime",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-01/bless-tv-anime-casts-kentaro-kumagai/.242380",
+   "pubDate": "2026-10-01T12:12:14.000Z",
+   "firstSeen": "2026-10-01T13:20:45.647Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-01/bless-tv-anime-casts-kentaro-kumagai/.242380"
     }
    ]
   },
@@ -4840,6 +4971,84 @@
      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUkU2RW0ySzQ5MGRKWFVTWEl2aENTYk16RkYwdEM3bFZFR2R6VElIbmVycWdIV3dFTW4xNV9qYkVBTjZIdUZZUzBZQVhuRXBRV1VIR1pxYXBOSDJCZjNBbmN4bl9TSDltNW5XTTM0VDF1Um9DN05kSTFELWVsOElER1FURWtWd2I0ejNTM2x1WDlrS0x1NmNKazRkUlVGUFo3M3lyNWROdTNlcFVPNGwwQ2JCWF9nWFRDVm5oYkhJbkIyZ0xpWERkNll6Q2hNNTRzOGRCMDc2ZnZrNFFTQ1Y3dWdENWZ4WWk0c2wtQXdmWk5rcHJG0gGkAUFVX3lxTE16UGVFelptWWQzSmpwSFlSTkpwTjVQTElVMVdEeGR3RnA1SGRnODQxbGg5dHozRElRNHpyN1I5Y3FIUDBGSnU4MUdTeGVrX1dwR0ljdEs3ZGlnd3FJYnV2UElubWlSdzNvNGUwZjZvOW9Jb251aENqdzloZWNOYW9jWkhTamxBamUwSlNLMGVtN25OeXgyS21Ua2RzLU9WdDlEU1lL?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Grandgear Film by Godzilla Minus One's Takashi Yamazaki Opens in January 2028",
+   "summary": "Sony Pictures announced on Wednesday that Godzilla Minus One director Takashi Yamazaki's first English-language film Grandgear has moved up…",
+   "link": "https://www.animenewsnetwork.com/daily-briefs/2026-10-01/grandgear-film-by-godzilla-minus-one-takashi-yamazaki-opens-in-january-2028/.242362",
+   "pubDate": "2026-10-01T11:38:32.000Z",
+   "firstSeen": "2026-10-01T13:20:45.647Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new",
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/daily-briefs/2026-10-01/grandgear-film-by-godzilla-minus-one-takashi-yamazaki-opens-in-january-2028/.242362"
+    }
+   ]
+  },
+  {
+   "title": "Seiji Ebisu's Bishōjo shika Inai Seitokai no Gidai ga Itsumo Ore na Ken Novel Gets Manga Adaptation",
+   "summary": "Manga adaptation by Tarara launched on Monday",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-01/seiji-ebisu-bishojo-shika-inai-seitokai-no-gidai-ga-itsumo-ore-na-ken-novel-gets-manga-adaptation/.242332",
+   "pubDate": "2026-10-01T11:33:17.000Z",
+   "firstSeen": "2026-10-01T13:20:45.647Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-01/seiji-ebisu-bishojo-shika-inai-seitokai-no-gidai-ga-itsumo-ore-na-ken-novel-gets-manga-adaptation/.242332"
+    }
+   ]
+  },
+  {
+   "title": "I Want to Love You Till Your Dying Day ‒ Episode 13",
+   "summary": "The show could've ended last week, and that probably would've been more fitting.",
+   "link": "https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-13/.242365",
+   "pubDate": "2026-10-01T11:30:38.000Z",
+   "firstSeen": "2026-10-01T13:20:45.647Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-13/.242365"
     }
    ]
   },
