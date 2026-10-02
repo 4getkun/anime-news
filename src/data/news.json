@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-01T23:19:28.440Z",
- "count": 3128,
+ "generatedAt": "2026-10-02T00:21:32.577Z",
+ "count": 3130,
  "dedupe": {
-  "exact": 1452,
+  "exact": 1453,
   "syndicated": 138,
   "similar": 164,
-  "syndicatedTotal": 1628,
-  "syndicatedLeft": 527
+  "syndicatedTotal": 1630,
+  "syndicatedLeft": 528
  },
  "calendar": [
   {
@@ -1665,6 +1665,23 @@
    "sources": 3,
    "categories": [
     "broadcast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-02",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "「ちいかわ」ハロウィングッズほか、アパレルから雑貨まで新商品が本日10月2日11時より発売！「映画ちいかわ」ダイカットステッカー付きグミも",
+   "link": "https://www.inside-games.jp/article/2026/10/02/188617.html",
+   "source": "インサイド",
+   "sources": 2,
+   "categories": [
+    "movie",
+    "goods"
    ],
    "platforms": [],
    "spoiler": false
@@ -4437,9 +4454,9 @@
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 413,
    "accepted": 413
   },
@@ -4459,9 +4476,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 14,
    "accepted": 14
   },
@@ -4470,9 +4487,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 3,
    "accepted": 3
   },
@@ -4492,9 +4509,9 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1190,
    "accepted": 1153
   },
@@ -4503,9 +4520,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 522,
    "accepted": 508
   },
@@ -4514,9 +4531,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 335,
    "accepted": 283
   },
@@ -4525,9 +4542,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 805,
    "accepted": 721
   },
@@ -4536,9 +4553,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 325,
    "accepted": 23
   },
@@ -4550,8 +4567,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 444,
-   "accepted": 140
+   "archived": 445,
+   "accepted": 141
   },
   {
    "id": "4gamer",
@@ -4572,7 +4589,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 347,
+   "archived": 348,
    "accepted": 75
   },
   {
@@ -4583,7 +4600,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 361,
+   "archived": 362,
    "accepted": 14
   },
   {
@@ -4594,7 +4611,7 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 27,
+   "archived": 28,
    "accepted": 4
   },
   {
@@ -4605,8 +4622,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 6697,
-   "accepted": 661
+   "archived": 6734,
+   "accepted": 663
   },
   {
    "id": "prtimes",
@@ -4616,7 +4633,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 7364,
+   "archived": 7380,
    "accepted": 105
   },
   {
@@ -4654,6 +4671,66 @@
   }
  ],
  "items": [
+  {
+   "title": "「ちいかわ」ハロウィングッズほか、アパレルから雑貨まで新商品が本日10月2日11時より発売！「映画ちいかわ」ダイカットステッカー付きグミも",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/02/188617.html",
+   "pubDate": "2026-10-02T00:08:06.000Z",
+   "firstSeen": "2026-10-02T00:21:22.019Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie",
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/02/188617.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6918bd8dd170ab6b8b2e1f15f5e8bdab26ae8c66?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "盛り上がっていた車内に水を差したのは自分…自己嫌悪中の心の様子を描いたエッセイに「わかる」の声【漫画】(WEBザテレビジョン)",
+   "summary": "コミックの映像化や、小説のコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョン マンガ部」。今回は、はちみつコミックエッセイで連載中の、ゆすぎ",
+   "link": "https://news.yahoo.co.jp/articles/b247f01b873684f71f117076fd85bbb888cb6c65?source=rss",
+   "pubDate": "2026-10-01T23:30:00.000Z",
+   "firstSeen": "2026-10-02T00:21:22.019Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/b247f01b873684f71f117076fd85bbb888cb6c65?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "梅原裕一郎＞「器用なタイプではないですね」 人気声優の“安らぎ”とは 「Oggi」登場（MANTANWEB）",
    "summary": "",
