@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-03T08:10:09.574Z",
- "count": 3651,
+ "generatedAt": "2026-10-03T08:18:03.292Z",
+ "count": 3652,
  "dedupe": {
-  "exact": 1762,
+  "exact": 1764,
   "syndicated": 164,
   "similar": 196,
-  "syndicatedTotal": 1974,
-  "syndicatedLeft": 623
+  "syndicatedTotal": 1975,
+  "syndicatedLeft": 624
  },
  "calendar": [
   {
@@ -5239,8 +5239,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1425,
-   "accepted": 1382
+   "archived": 1428,
+   "accepted": 1385
   },
   {
    "id": "gnews-tvanime",
@@ -5250,8 +5250,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 618,
-   "accepted": 604
+   "archived": 617,
+   "accepted": 603
   },
   {
    "id": "gnews-movie",
@@ -5261,8 +5261,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 370,
-   "accepted": 311
+   "archived": 371,
+   "accepted": 312
   },
   {
    "id": "gnews-seiyu",
@@ -5283,7 +5283,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 355,
+   "archived": 356,
    "accepted": 25
   },
   {
@@ -5349,7 +5349,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 8161,
+   "archived": 8172,
    "accepted": 804
   },
   {
@@ -5360,7 +5360,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 8884,
+   "archived": 8900,
    "accepted": 129
   },
   {
@@ -5399,8 +5399,8 @@
  ],
  "items": [
   {
-   "title": "'Himekishi-sama no Himo' Reveals Main Cast, First Promo",
-   "summary": "The Dengeki Bunko Autumn Festival Online 2026 event revealed the main cast, a key visual (pictured) and the first promotional video for the…",
+   "title": "'Himekishi-sama no Himo' Unveils Additional Cast, First Promo, Theme Songs",
+   "summary": "The Dengeki Bunko Autumn Festival Online 2026 event unveiled three additional cast, a key visual (pictured), theme songs and the first promo…",
    "link": "https://myanimelist.net/news/74785238?_location=rss",
    "pubDate": "2026-10-03T08:02:34.000Z",
    "firstSeen": "2026-10-03T08:09:56.424Z",
@@ -5572,6 +5572,37 @@
      "name": "クランクイン！（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/fc3c2dd21fd5f0dca2a5e78c3b3cb824ceaf4108?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ふみの、TVアニメ『らんま1/2』第3期OPテーマ「素直未満」配信リリース決定！ジャケット写真も公開（THE FIRST TIMES）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyZDBhQXVmTGE3eVFqaVozVFFzNFdncDMzZ2ZXcEZSVXJ3bks4b2h0b21BbUZuSFRWR2xsN04xMkM5LXZsOHFCMEV1blNqVGZwR0JmZVlDUWIyN3ljRWZ2UXhtUU55b3NRTndQWmtGczBSVkI2c0lFMVRfVm1LNGc?oc=5",
+   "pubDate": "2026-10-03T08:00:00.000Z",
+   "firstSeen": "2026-10-03T08:17:53.220Z",
+   "image": null,
+   "source": "THE FIRST TIMES（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 28,
+   "categories": [
+    "new",
+    "music"
+   ],
+   "works": [
+    "らんま1/2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "THE FIRST TIMES（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyZDBhQXVmTGE3eVFqaVozVFFzNFdncDMzZ2ZXcEZSVXJ3bks4b2h0b21BbUZuSFRWR2xsN04xMkM5LXZsOHFCMEV1blNqVGZwR0JmZVlDUWIyN3ljRWZ2UXhtUU55b3NRTndQWmtGczBSVkI2c0lFMVRfVm1LNGc?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -6239,7 +6270,7 @@
      "syndicated": true
     },
     {
-     "name": "ニコニコニュース",
+     "name": "news.nicovideo.jp",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TNEpLanlfVDN1QU1KTnk4REdEVG9YVXVYdlZMVXA4RGlCMlZFVWpMYXhFa3h0WFphTzNlREQtNk0wMkJ0aGpXVFl1UUJ6TDFBUGxpMEJwSGdqQ09ESEJWdGpDWktISWgya0pyTHJPRG1xQ2hkbzRVZTVBMA?oc=5",
      "via": "Googleニュース「TVアニメ 放送」",
@@ -6504,6 +6535,12 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QcWZYUFlxbUhEeTRhV0gzWDdvam1IWnlfYnprZDRIOXQ1eE95blM0QkM2U28tbkR0OEpwUXRKSTc2WFQ2aFBhZXcxeUlCd0pwZTU2czRrOUU1RDZNZTJv?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
+     "name": "週刊アスキー",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42Y2VZeERWWEs5bFB2cHgwUkhNNG1qQTdaRnM4T0xFX1lMSVBxT2NsVWJTMjA1SHdYZTl3S0RRMnE3a0FVMHU0YS1QVDVWMTJ1T2hPLVd0UjdUQmIzNmc?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
   },
@@ -6731,7 +6768,7 @@
      "syndicated": true
     },
     {
-     "name": "ニコニコニュース",
+     "name": "news.nicovideo.jp",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xYlJHRTlSV0tLZGNLTzB4REM1Vk94b1dpT2s4aUlIZkdlbk9kWmRCcmp1QlNKUEFfNVBEMDJOUU1lNFpyUHdrcVpPd2VLSEwwNnI2M292LUQ1Q2psRV9mZkQ4THJRWm5JdkIxNGFUdFlOZmZyelQzc2lJSQ?oc=5",
      "via": "Googleニュース「TVアニメ 放送」",
@@ -7879,7 +7916,7 @@
      "via": "Googleニュース「アニメ」"
     },
     {
-     "name": "お笑いナタリー（news.yahoo.co.jp）",
+     "name": "お笑いナタリー（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ib1pRYTJlNm0xOWRDR2R2dWc5SENyVDM0RUF6c1FFSEktay0xeWhQR254Q3hzWkVONUNGZ0ROcFMzXzFiTmtMcFFPbld1YkpUNVg0eE1CckNYLV96MVotbjFDMVR2VE9ud3p5SGVqejRtQmFYYWFyR0FzdmdDNlE?oc=5",
      "via": "Googleニュース「アニメ」",
@@ -10044,9 +10081,9 @@
     },
     {
      "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pb2J2d2hrSER6bmR6XzZvMlg1bzdBU2F1Z3JZZnNUcGZUV0hZbEJaY0hPUWhFal9wYW9BRV9IWjVlN2RqSWwweVl2alNtU1U2X1FnN1ZQT1VaMUNlNjdBczJHVEtnMjZHazdLM2tvMC05bWV1aldYQVNwNVViYkk?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -17124,7 +17161,7 @@
      "via": "Googleニュース「劇場版 アニメ」"
     },
     {
-     "name": "ニコニコニュース",
+     "name": "news.nicovideo.jp",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULUNOLWE2N3RnazhhWFcxN1JHZUtCTHBZN2tyRy1vTER0MEpoa2JUSElXR2t4QnV3d0k1OTlaLUZqb21JeW9NTFFQVXZUX2ktblRDbEVEa2pvbmFES1lmTzhyNEFFUEk5VGFfM0lBZ2szTV9NR0U5S2hOcw?oc=5",
      "via": "Googleニュース「劇場版 アニメ」",
@@ -17547,7 +17584,7 @@
      "via": "Googleニュース「劇場版 アニメ」"
     },
     {
-     "name": "ニコニコニュース",
+     "name": "news.nicovideo.jp",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0UlUwNTNDQUloRTBudGdKZlMxVEZCdWJUYkRTc3dYdlVqdXlHaVE4UDlwQzlRSHBwNlVQUjhrR3Q4UGdGZ0V0ZXBlYms5SVk2bjUzd2hkOTFlNnpISzNxbm0tcjhPRzJNaWRMeFNsZnltdlItU1kxQ1N5OA?oc=5",
      "via": "Googleニュース「劇場版 アニメ」",
@@ -18277,7 +18314,7 @@
      "syndicated": true
     },
     {
-     "name": "オリコン（news.yahoo.co.jp）",
+     "name": "オリコン（Yahoo!ニュース）",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SaXZ3WS1Eam1kemZHQmRZQ2Z0dkFUZHpQN2RweGpjbzQ0MTFRN3U1X3hFQS1UNWhjYkRxVWlDOEtUeTl0c1EyYXY5U2k2bVRiU29tR3F6U09VempBbTFBYnNBazhaMFEwVFh4amlXWmhRMl9PTGlvY2hnNnlpLVk?oc=5",
      "via": "Googleニュース「声優」",
@@ -18287,13 +18324,6 @@
      "name": "SmartNews",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPS3VBNkN5dk1pd1l6TUZRdjBUcnNIVVlBQnYwb3BqTlZ1Q0cyaVRLbVQ4VmhWbXJoQkFHWFVrVTN1R01sYy14QzV2anlTMGk5dVFnU3o3cnFIdk1DMmVDelVWV2dJdWp2RUVBVzNYanFTNWFyeWlqN2psT0VJSF8yUkxsSHRXUWZJT2R5Ti1JaWRiYlVYNGV0eC0zWnVXUTY3bnVCOV9yY0hMNkZzM19hWV84T1lxQjZ1SXFOVWtkRmFmbk5KZE40VnpzMHFEQURjOUNaUUZMbmdranBRb0h2ZVgxWm5IWEVVM1NmN05kZXBLWURZSGozLW85aHdpdVJKa08yNjZhd25QNjcxQllNV3EzWVdOdkJNaDg1VWJTUVhVSXBra253N0RWaXJoYkxqay1DX3NtTFpBNm8xS2h0TEoxUjZjU3otYW9qVEVIdWlOcXNWMWlPU2FidDJUcGNTY0o5S3dTVUpFVkpKQWl2dzA5MjBzOENObjB3MS1vNHhzTUM5dTdjend0VGlkN1lvWHBjd01tSnRCYU5oME5IX3NvMA?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "オリコン（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckVhWi03alc2MjdjOE5Cc2VSV2hMMmdrd2VuYkcyS0NETjREeC1YVUlFNnlDdThpdHlMcV9QZGtyUms5OUVVY3lXRFQtNUVkb0g1OVhXS2h5WXNCOGRlY2Z2OWI0aExJNnBSb0VLaWpYQS1kMElTZ3RTRzlSejFFQWpzam9SdkVGdnppSjJB?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     },
@@ -19257,7 +19287,7 @@
      "via": "Googleニュース「劇場版 アニメ」"
     },
     {
-     "name": "ニコニコニュース",
+     "name": "news.nicovideo.jp",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HX3RYQ1lDb1hZZE9fMzVnWDkyTExrWlVpRnpUdHNyVmtWeGYwb0RCUWJQX3ZnTmhuYnNkQ044Rko1Ulp2M3l1VFl4RVliVVRQTExHZlpoQnJxa2dVMkprajRLWlVqQUc4SkhpV0JPVE1MN1VRYUFHYU1vRQ?oc=5",
      "via": "Googleニュース「劇場版 アニメ」",
