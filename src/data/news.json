@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-03T11:18:19.218Z",
- "count": 3722,
+ "generatedAt": "2026-10-03T12:19:18.769Z",
+ "count": 3736,
  "dedupe": {
-  "exact": 1811,
-  "syndicated": 170,
-  "similar": 205,
-  "syndicatedTotal": 2027,
-  "syndicatedLeft": 635
+  "exact": 1810,
+  "syndicated": 169,
+  "similar": 208,
+  "syndicatedTotal": 2033,
+  "syndicatedLeft": 640
  },
  "calendar": [
   {
@@ -4372,6 +4372,23 @@
   {
    "date": "2027-01",
    "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "ひらやすみ",
+   "title": "2027年1月よりNHK総合テレビにて放送予定！TVアニメ「ひらやすみ」メインビジュアル解禁＆ティザーPVも到着！",
+   "link": "https://www.lisani.jp/0000319286/",
+   "source": "リスアニ！",
+   "sources": 1,
+   "categories": [
+    "visual",
+    "media"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01",
+   "precision": "month",
    "verb": "release",
    "label": "発売",
    "work": "らぶらぶ作戦",
@@ -5318,8 +5335,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 474,
-   "accepted": 474
+   "archived": 476,
+   "accepted": 476
   },
   {
    "id": "lisani",
@@ -5329,17 +5346,17 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 74,
-   "accepted": 74
+   "archived": 75,
+   "accepted": 75
   },
   {
    "id": "seigura",
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 17,
    "accepted": 17
   },
@@ -5348,9 +5365,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 3,
    "accepted": 3
   },
@@ -5362,7 +5379,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 131,
+   "archived": 132,
    "accepted": 50
   },
   {
@@ -5373,8 +5390,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1487,
-   "accepted": 1444
+   "archived": 1495,
+   "accepted": 1452
   },
   {
    "id": "gnews-tvanime",
@@ -5384,8 +5401,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 625,
-   "accepted": 611
+   "archived": 627,
+   "accepted": 613
   },
   {
    "id": "gnews-movie",
@@ -5395,8 +5412,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 373,
-   "accepted": 314
+   "archived": 372,
+   "accepted": 313
   },
   {
    "id": "gnews-seiyu",
@@ -5450,7 +5467,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 411,
+   "archived": 412,
    "accepted": 91
   },
   {
@@ -5461,7 +5478,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 444,
+   "archived": 446,
    "accepted": 18
   },
   {
@@ -5483,8 +5500,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 8322,
-   "accepted": 831
+   "archived": 8372,
+   "accepted": 834
   },
   {
    "id": "prtimes",
@@ -5533,6 +5550,178 @@
  ],
  "items": [
   {
+   "title": "いまだに異様なコロナ対策が徹底される離島…真夜中に出会ったマスク姿の少女が「怖すぎ」【最恐ホラー漫画3選】(WEBザテレビジョン)",
+   "summary": "コミックの映像化や、ドラマのコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョンマンガ部」。【漫画】『ぼくらの夏が裂けていく』を読む今回は、S",
+   "link": "https://news.yahoo.co.jp/articles/ff260b41b93f951a565304e2751cfbfdb6b9dbd0?source=rss",
+   "pubDate": "2026-10-03T12:05:00.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ff260b41b93f951a565304e2751cfbfdb6b9dbd0?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "2027年1月よりNHK総合テレビにて放送予定！TVアニメ「ひらやすみ」メインビジュアル解禁＆ティザーPVも到着！",
+   "summary": "漫画雑誌「週刊ビッグコミックスピリッツ」にて、2021年4月から現在まで絶賛連載中で全世界累...",
+   "link": "https://www.lisani.jp/0000319286/",
+   "pubDate": "2026-10-03T12:00:46.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610031800-yh-012.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 26,
+   "categories": [
+    "visual",
+    "media"
+   ],
+   "works": [
+    "ひらやすみ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000319286/"
+    }
+   ]
+  },
+  {
+   "title": "「普段アニメ観ないが感動した」 映画 聲の形 ぽ た じ ぇさんの映画レビュー（感想・評価）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPd1RFUTZ1LXdtSVVuUHFFZTNHVUFSQm4zTi1SY0VOLWN3R3U2WENsX0Z2VzF2QUQwUDNEb3FmdlBDLTNsZUhPOW85c0RHZGdSOHR3Z2ZicXY?oc=5",
+   "pubDate": "2026-10-03T11:50:59.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "映画.com",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPd1RFUTZ1LXdtSVVuUHFFZTNHVUFSQm4zTi1SY0VOLWN3R3U2WENsX0Z2VzF2QUQwUDNEb3FmdlBDLTNsZUhPOW85c0RHZGdSOHR3Z2ZicXY?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「まさかそんな…」絵は可愛いのに“鬱展開すぎるサンライズ作品”に衝撃「ヒロイン追い詰めすぎ」(マグミクス)",
+   "summary": "これまでサンライズが手掛けてきたアニメ作品のなかには、陰鬱な作風で知られる作品も数多く存在しています。TV版も劇場版も衝撃のラストを迎えた『伝説巨人イデオン』は広く知られていますが、他にもカッコいい絵",
+   "link": "https://news.yahoo.co.jp/articles/73036f661cc5771168f5626b6028b172500280d9?source=rss",
+   "pubDate": "2026-10-03T11:50:00.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "マグミクス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "マグミクス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/73036f661cc5771168f5626b6028b172500280d9?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【秋アニメ番組表】強化された『ドラゴンボール超』ニコニコなら最新話無料！見逃しはTVシリーズ初、全ラインナップ一覧(オタク総研)",
+   "summary": "ニコニコ動画は3日、2026年秋アニメのラインアップを公開した。『薬屋のひとりごと』第3期や『パンどろぼう』など新作と夏からの継続作を含む計64作品を扱い、42作品の第1話を無料で配信する。【画像】B",
+   "link": "https://news.yahoo.co.jp/articles/104b3f2a8f0c5bef27359ecdbd70ad55d9ae15ec?source=rss",
+   "pubDate": "2026-10-03T11:36:00.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new"
+   ],
+   "works": [
+    "ドラゴンボール超"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/104b3f2a8f0c5bef27359ecdbd70ad55d9ae15ec?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OdUN2Xy1hM3JCb0ZUTG1YNEV6Uk40MWZXdnNJc18yZG5BSEh3SEdsU2g4a0k2T1NZMjRjc3dnMGFhSHBQU1lfTTlsQm5XS2hXSzlMVDlYblVRdWhyQU01WEt6MFV3aV9DTEx0eXBXOWlnV0R4ZjNuSWZ6ZHpjNlk?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "薬屋のひとりごと＞テレビアニメ第3期 悠木碧×大塚剛央インタビュー 猫猫と壬氏の「恋愛以上の信頼関係」 「餅つき」のような名人芸に（MANTANWEB）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12M1dnYTV4RFVUTDVXYkNQYmFHTjRaMGRFNUhyNEJTdy1DRllGUm8xaGYyX29Hc1dVQVFwQTB2eFV4M1M3LVhmYVNvYjRxeVdjOWNjNTYyU0VueWh0RmdkREp4aFdPcnR3UFJKYWNzSHJYUDRNSkFLdzRXYkloaEk?oc=5",
+   "pubDate": "2026-10-03T11:35:00.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "MANTANWEB（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MANTANWEB（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12M1dnYTV4RFVUTDVXYkNQYmFHTjRaMGRFNUhyNEJTdy1DRllGUm8xaGYyX29Hc1dVQVFwQTB2eFV4M1M3LVhmYVNvYjRxeVdjOWNjNTYyU0VueWh0RmdkREp4aFdPcnR3UFJKYWNzSHJYUDRNSkFLdzRXYkloaEk?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "『ガルクラ』公式ゲーム『ガールズバンドクライ First Riff』新バンドは“だらしない大人4人と毒舌な中学生1人”。第3弾オリジナルバンド「クズミミズク」が公開",
    "summary": "シナリオは渡航氏、キャラクター原案はぽんかん⑧氏が担当。10月18日に1stシングル配信と公開練習ライブを実施",
    "link": "https://news.denfaminicogamer.jp/news/261003o",
@@ -5562,12 +5751,12 @@
    ]
   },
   {
-   "title": "ゲーム『ガールズバンドクライ First Riff』新バンド第3弾「クズミミズク」解禁！10月18日1st Digital Singleリリース！同日、公開練習ライブも実施決定！",
-   "summary": "DONUTS×東映アニメーションが共同で手掛けるゲーム『ガールズバンドクライ First Riff』(以下:...",
+   "title": "ゲーム『ガールズバンドクライ First Riff』に登場するオリジナル新バンド第3弾「クズミミズク」が解禁！1stシングル配信、公開練習ライブも開催！",
+   "summary": "株式会社DONUTS、および東映アニメーション株式会社が共同で手掛けるゲーム『ガールズバンドク...",
    "link": "https://www.lisani.jp/0000319276/",
    "pubDate": "2026-10-03T11:00:54.000Z",
    "firstSeen": "2026-10-03T11:18:07.069Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610031800-yh-005.png",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610031800-yh-020.png",
    "source": "リスアニ！",
    "sourceId": "lisani",
    "syndicated": false,
@@ -6214,7 +6403,7 @@
    "pubDate": "2026-10-03T09:49:00.000Z",
    "firstSeen": "2026-10-03T10:19:02.927Z",
    "image": null,
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
@@ -6227,7 +6416,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "時事ドットコム",
+     "name": "jiji.com",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mZUFvRHlobWxTNkRoVHJJandydzlUb1MtNXJtdnhpeDNXaVhiVW9Lc1A4UFU3MG9ITGlqemNKYVc5TUZ5d3dFcEZIQmFaMVhIYWMyNlFNZlRaclA2WTJXVXd6UQ?oc=5",
      "via": "Googleニュース「アニメ」"
@@ -6399,7 +6588,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 20,
+   "score": 24,
    "categories": [
     "new"
    ],
@@ -6453,7 +6642,7 @@
    "firstSeen": "2026-10-03T10:19:02.927Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-movie",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -6469,9 +6658,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-movie",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rTXQ4Q1ZINVlvcHVsSm5mbkpGN3NxcDMxRFItWms5bnRzcGRRaW0yUTB6eWxCWUE5MzdPNkR6bnNxOW51c3BXbjQ0Y0ZRQUZVOG1pNzFQWkdVUQ?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -6980,7 +7169,8 @@
    ],
    "works": [
     "本好きの下剋上",
-    "本好きの下剋上 貴族院の自称図書委員"
+    "本好きの下剋上 貴族院の自称図書委員",
+    "貴族院の自称図書委員"
    ],
    "spoiler": false,
    "sources": [
@@ -6990,10 +7180,9 @@
      "link": "https://animeanime.jp/article/2026/10/03/103483.html"
     },
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qa2lXTUhrVVhPTXNRdHMyZlhRUi1XM1NlQmZSdVBrRFIyV01qVmJhaDJtblQ5WDE2WWh6NXFFZERZV2FtQ1p5eEN6RS0?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qa2lXTUhrVVhPTXNRdHMyZlhRUi1XM1NlQmZSdVBrRFIyV01qVmJhaDJtblQ5WDE2WWh6NXFFZERZV2FtQ1p5eEN6RS0?oc=5"
     },
     {
      "name": "oricon.co.jp",
@@ -7152,7 +7341,7 @@
      "syndicated": true
     },
     {
-     "name": "ORICON NEWS（topics.smt.docomo.ne.jp）",
+     "name": "ORICON NEWS（ｄメニューニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHJvY1J1ejlJdHNPSFB1N0ZnRm1zTTI1RUlKVTdyUkpmalliNXpFd29Nb05qZUdDNGMtclNfVERHU0VVWkFXQnRIaDJYU2lPOHA3NFowcXFrcS1SMDRtNEVray1ua1Y5bWhfRExPWEMtckM4WjlTMHA4UEpyWTlhSQ?oc=5",
      "via": "Googleニュース「アニメ」",
@@ -7256,7 +7445,7 @@
    ]
   },
   {
-   "title": "【秋アニメ】地上波で映せない“規制解除版”あり！マガジン原作『生徒会にも穴はある！』制作はパッショーネ【先行カット】",
+   "title": "【秋アニメ】地上波で映せない“規制解除版”あります！マガジン原作『生徒会にも穴はある！』制作はパッショーネ【先行カット】",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ONGtKTzRkbkw5dkJPVnRvbExfdUkwdEJ6VE9Yb0tGNVF3QjlmLVFiNDMzYVBSUkFFcWExLWgyUXpHVHJNVmxIRjdVMjdTR1JvZmh0NjF0RzRjSjR4aEw0ZEg3VmlrWlhrMmxKQXFrQVJYMU96WktocUZaR28yWnM?oc=5",
    "pubDate": "2026-10-03T08:35:00.000Z",
@@ -7642,7 +7831,7 @@
    "pubDate": "2026-10-03T08:00:00.000Z",
    "firstSeen": "2026-10-03T08:17:53.220Z",
    "image": null,
-   "source": "THE FIRST TIMES",
+   "source": "thefirsttimes.jp",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
@@ -7658,7 +7847,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "THE FIRST TIMES",
+     "name": "thefirsttimes.jp",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CbGh4ZTFibkViQU5lcFNpZ1pFdDMtRVBLNk9WT1I3ZVBPVTJGVWlSeEUyUXdrR2k4Vk9udGtwVl9YQjlZbHh1U3kxUzVRcXJxRXozTGFCSWU?oc=5",
      "via": "Googleニュース「アニメ」"
@@ -7673,6 +7862,13 @@
      "name": "THE FIRST TIMES（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyZDBhQXVmTGE3eVFqaVozVFFzNFdncDMzZ2ZXcEZSVXJ3bks4b2h0b21BbUZuSFRWR2xsN04xMkM5LXZsOHFCMEV1blNqVGZwR0JmZVlDUWIyN3ljRWZ2UXhtUU55b3NRTndQWmtGczBSVkI2c0lFMVRfVm1LNGc?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZLVBtRWpFaVBENVhGTGFDTnNfZ3RvRkd5R2xpeFljLS11cTlGcEdUdVIwRExRRDEyNHVwRy1RUnlGYkU5bUlKVzhEX3pCbjVoWmpqaThGVW40MTlaMUVUZ0NXTk1tOHFxVi1GRkFCRUdCZXpOZjF4Y2J3U1VtSzg?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
@@ -7703,6 +7899,35 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-10-03/the-kept-man-of-the-princess-knight-tv-anime-promo-video-reveals-myth-and-roid-opening-theme/.242438"
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ「魔法騎士レイアース」第1話「異世界より」場面カット [画像・動画ギャラリー 3/11]",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oZWlIMGRUanNFTTRTUURpNEZ1YVI0RGFLeVEyRlpfRnloVWw0LUdIUVlsM2I5MHpvd0pLcEVlU0ozcDM4M3ktV25NdTJaWUZEYnpxdEJvbU1Bd1NJY0N0Q2dn?oc=5",
+   "pubDate": "2026-10-03T07:40:44.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "魔法騎士レイアース"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oZWlIMGRUanNFTTRTUURpNEZ1YVI0RGFLeVEyRlpfRnloVWw0LUdIUVlsM2I5MHpvd0pLcEVlU0ozcDM4M3ktV25NdTJaWUZEYnpxdEJvbU1Bd1NJY0N0Q2dn?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -8250,7 +8475,7 @@
    "pubDate": "2026-10-03T06:00:25.000Z",
    "firstSeen": "2026-10-03T06:18:45.336Z",
    "image": null,
-   "source": "THE FIRST TIMES",
+   "source": "thefirsttimes.jp",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
@@ -8266,7 +8491,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "THE FIRST TIMES",
+     "name": "thefirsttimes.jp",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45TFcwa1BCSzBPd1prQUVLeXBkRUhfbU9mbTJEaUZ4a3NIME1zaDV1RDBEcGtISW5VSUtjQWJjNWF6dkpzbU5xQkFjWTFTdThVbkE3UjUxaEo?oc=5",
      "via": "Googleニュース「アニメ」"
@@ -8306,6 +8531,12 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/03/103477.html"
+    },
+    {
+     "name": "animeanime.jp",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaS3ZCaFlHNi0wZTIwYWN0UzY0Y3NvOWNZd3ZvRWpVM05PaEpKbGRfb0twSldtUkMwMEQxVEw5MDBJSHprbTctT3RGN28xT1NzdDZ1ZHR3QnhLZl9FVExLTnln?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
@@ -8386,9 +8617,9 @@
     },
     {
      "name": "vois ヴォイス（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16WnBEOU5MVmsxMzgyN09ucDVhWXh2cXVDYVBROXlZNVU0VzVqWC0xSW5LYTZzQXVnNVJRNElWaVliZzNQbmV5SHplcmZiVGJjeUwtNm5HNGhFUTFMR2hCM05hOXJzUWFNNW51X3BaTWVhVjR4bThocVdVR2hwbjQ?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     },
     {
@@ -8481,6 +8712,156 @@
      "name": "テレビ朝日",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ITWVKbXlVczV5Nmt1WnpJZGRjNVlHVTFXU3JGNThMUm9MVC1YM1FFcHNTZDBxYnN4S0JLSm1lME4tODh2OF9LOTJZRHFfMjZ0NGt1OHJ4NlA?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "AIアニメ生成 - 無料でAIがアニメーションを生成",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQN0hXUmVwOFZiQ0d5Y000R25jRm1TVENuaUxuOV9ZcUhUeDVNZ2hscXJSNExvQkwwNHJadGZ5OWsyNzF4ZDN4WlhoWGxnbDhaX2tsOGN4YVNHdWJDc3FhVmJsY3ZPRzFUakJtdVdhaWFjSDBqS2RfYWhPRENtbTJYeFlheFFhM01xTkNtRWNHbWxHcXZlWWdlVmY3Vk1pNy1sRUx2eHU1bkI0aFMtd2U3bVhUMy1GQml4aUFNZW00Y2QxckRfdzl4QllNeGxyZ2RTVVVELVVSNUVfM3k2SzR3eUZPWXJ5dlU1SDlqVklyOFBWUEFUQjAyQmk4ekxZOS1GZFVwaXB2VGoxWWIzNHpyN1B4ajQybmNKSkRoaWViSE9PWE5xYWF6QW94TQ?oc=5",
+   "pubDate": "2026-10-03T05:16:57.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "大分トリニータオフィシャルサイト",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "大分トリニータオフィシャルサイト",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQN0hXUmVwOFZiQ0d5Y000R25jRm1TVENuaUxuOV9ZcUhUeDVNZ2hscXJSNExvQkwwNHJadGZ5OWsyNzF4ZDN4WlhoWGxnbDhaX2tsOGN4YVNHdWJDc3FhVmJsY3ZPRzFUakJtdVdhaWFjSDBqS2RfYWhPRENtbTJYeFlheFFhM01xTkNtRWNHbWxHcXZlWWdlVmY3Vk1pNy1sRUx2eHU1bkI0aFMtd2U3bVhUMy1GQml4aUFNZW00Y2QxckRfdzl4QllNeGxyZ2RTVVVELVVSNUVfM3k2SzR3eUZPWXJ5dlU1SDlqVklyOFBWUEFUQjAyQmk4ekxZOS1GZFVwaXB2VGoxWWIzNHpyN1B4ajQybmNKSkRoaWViSE9PWE5xYWF6QW94TQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "以下はAIでアニメ風NSFW動画を作る基本的な",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOOEZpZEVUZVFxUmlNX3hzQ25nNkp4YzNybVE4dVlaeXc0R2tFdi10RzE3ZFFHSjEwVkFvSGc4MVNwMlc2RXBjbEctaTNKTHlfRzhmVldUejFSS2lGQ0FrQ3NsQkctV05vUUZwNWNZM2pWV0lhUW9STUZ4Y3M2Y29ZRUdmdHNMeUNQVmpEbGp5RGFvSkNiVnBpd2tCQ1kxN1FSS2NkNER4Y2NDaUhDX3BmOHp2cjYybDNhQTItWGtZT2phMTVKalJqMVRMaEtUSzBaMVdxa0ViOTdOVGpFSW9MT2dJbUxIYUJoODN1ODBIcWpidzhUM3pFbVo0NlRZVkhrbG95YlY0LWh4NjVydk9UaVd6QWF0aWQ2WC1CdFlfczRtV0F0NHNGLVoyMjhCcEJUMXlBTWFBUURBVTI4VV9zdzNaNVo?oc=5",
+   "pubDate": "2026-10-03T05:16:57.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "大分トリニータオフィシャルサイト",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "大分トリニータオフィシャルサイト",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOOEZpZEVUZVFxUmlNX3hzQ25nNkp4YzNybVE4dVlaeXc0R2tFdi10RzE3ZFFHSjEwVkFvSGc4MVNwMlc2RXBjbEctaTNKTHlfRzhmVldUejFSS2lGQ0FrQ3NsQkctV05vUUZwNWNZM2pWV0lhUW9STUZ4Y3M2Y29ZRUdmdHNMeUNQVmpEbGp5RGFvSkNiVnBpd2tCQ1kxN1FSS2NkNER4Y2NDaUhDX3BmOHp2cjYybDNhQTItWGtZT2phMTVKalJqMVRMaEtUSzBaMVdxa0ViOTdOVGpFSW9MT2dJbUxIYUJoODN1ODBIcWpidzhUM3pFbVo0NlRZVkhrbG95YlY0LWh4NjVydk9UaVd6QWF0aWQ2WC1CdFlfczRtV0F0NHNGLVoyMjhCcEJUMXlBTWFBUURBVTI4VV9zdzNaNVo?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "無料のAIアニメ画像ジェネレーター",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNY2g0d3lZbXRBMVRjTHgwRXhCY3Z6cWYzZUoybDdweml2alcyUFB6ZnM3RGNqbmg3R0RuTnpITVoxNy0xQTVmckhfVDJsZ0dieEl5cXVXdVpBVzFxRThFU2dHZFlfRGhNWnY3WE5HRUZvaTBtNVhGT3FxblloMzRqNUxBVWlfRkhSanhzQm5YR1dscjRuWUFJVFhZMVpSVmJKLWZGWjRMdTJuU0EwNERjZi1iQzlaN3RUNFI2Z0Nma0hGSXhzeUJPSHgwUDE4UnhEd3JJNXpsRGdBNTE4Zm93bWFBbHp0Y29QbEtRZExKRGU3X1J6bU5nRnRqRHp2cUZpeXUzb2owbHlvUURmd3Jib3lyeERjeGxkVlNpN2ktUUNKZ3hZOHJUTWdQc2dOZ3NqTGZyWS1HeEtWeGNGYndR?oc=5",
+   "pubDate": "2026-10-03T05:16:57.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "大分トリニータオフィシャルサイト",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "大分トリニータオフィシャルサイト",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNY2g0d3lZbXRBMVRjTHgwRXhCY3Z6cWYzZUoybDdweml2alcyUFB6ZnM3RGNqbmg3R0RuTnpITVoxNy0xQTVmckhfVDJsZ0dieEl5cXVXdVpBVzFxRThFU2dHZFlfRGhNWnY3WE5HRUZvaTBtNVhGT3FxblloMzRqNUxBVWlfRkhSanhzQm5YR1dscjRuWUFJVFhZMVpSVmJKLWZGWjRMdTJuU0EwNERjZi1iQzlaN3RUNFI2Z0Nma0hGSXhzeUJPSHgwUDE4UnhEd3JJNXpsRGdBNTE4Zm93bWFBbHp0Y29QbEtRZExKRGU3X1J6bU5nRnRqRHp2cUZpeXUzb2owbHlvUURmd3Jib3lyeERjeGxkVlNpN2ktUUNKZ3hZOHJUTWdQc2dOZ3NqTGZyWS1HeEtWeGNGYndR?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "AIアニメ画像ジェネレーターのレビュー＆比較サイト",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNHluY3RuQWRXY2NTd3VLclNqcVNiS0lyUi13SkJwODJCeFlaYWIxbUo2LTBTTTBqRG0zQ01DNXNSUEpTbERWMDhXNWZUZjJLM3VTdFpBMGJvZV9jTERjVXlhR083M0o1V1RJU25fZEVRVFZkM3NBbFRWb0dsTGJ3dDdPOTc2WTBMYXRRdXNhTG9TdmhNcDl6R3BidEJqcl9TU2YweVR3QV9yVUlaQnpBdzJVb1BxTDdMM2EzaGE5Rm04VklCUVRwbmFSQVJ6UExWWkxmWVVSelVvYXlRQ2dPQ2xsUWQ5SUJnOEVXYkNRU0Z6U0RvTEhIWEQtVi1MVlpMdGZCOFhBNnlXZW9FNm5oYWc1ekEtRS1kTlV5S2JMY0hQRVo4a1RsUGFuMXVtUW1BbnJGNXkyX19FblpTYUVyMzNn?oc=5",
+   "pubDate": "2026-10-03T05:16:57.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "大分トリニータオフィシャルサイト",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "大分トリニータオフィシャルサイト",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNHluY3RuQWRXY2NTd3VLclNqcVNiS0lyUi13SkJwODJCeFlaYWIxbUo2LTBTTTBqRG0zQ01DNXNSUEpTbERWMDhXNWZUZjJLM3VTdFpBMGJvZV9jTERjVXlhR083M0o1V1RJU25fZEVRVFZkM3NBbFRWb0dsTGJ3dDdPOTc2WTBMYXRRdXNhTG9TdmhNcDl6R3BidEJqcl9TU2YweVR3QV9yVUlaQnpBdzJVb1BxTDdMM2EzaGE5Rm04VklCUVRwbmFSQVJ6UExWWkxmWVVSelVvYXlRQ2dPQ2xsUWQ5SUJnOEVXYkNRU0Z6U0RvTEhIWEQtVi1MVlpMdGZCOFhBNnlXZW9FNm5oYWc1ekEtRS1kTlV5S2JMY0hQRVo4a1RsUGFuMXVtUW1BbnJGNXkyX19FblpTYUVyMzNn?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "無料 NSFW AIアニメジェネレ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQQXVXczFyUzFHcEtKcXRtaWFFVE5HTS04cVEtbW80YmJiQ0NJMXEtZGRuRGNPcW1TX2xWRkZkUzBPM18tMEktVFRVdUJ5bHB6V3NQNWVOYjZ6X0NmWXdLcHpoaGpRVXViNU9sanJtbmJTYnhwVVZVRVBDTm1yckNkdXI3VFhnRXVKZm5McUdKcVUwbUxucUZURmxNbXl5Mm12a25qT1YxRGh5ajFsRHNhWHNRVWx4Ukh4akhHQ3dPbUhXMXFPMHhtUHlqWVBwb19QOHFxZzdwVlYyUUJ1RENLcXlYc3ZWcENyeS1xbVc0MFN2aURvQUt0SVVJNVZFVjBDcWtlQk91dXgwWGZtVmlHNVZkdjdSb25jS2FlV3RZVnJuRlRUUF83aE5jcmZ0anBtR1E?oc=5",
+   "pubDate": "2026-10-03T05:16:57.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "大分トリニータオフィシャルサイト",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "大分トリニータオフィシャルサイト",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQQXVXczFyUzFHcEtKcXRtaWFFVE5HTS04cVEtbW80YmJiQ0NJMXEtZGRuRGNPcW1TX2xWRkZkUzBPM18tMEktVFRVdUJ5bHB6V3NQNWVOYjZ6X0NmWXdLcHpoaGpRVXViNU9sanJtbmJTYnhwVVZVRVBDTm1yckNkdXI3VFhnRXVKZm5McUdKcVUwbUxucUZURmxNbXl5Mm12a25qT1YxRGh5ajFsRHNhWHNRVWx4Ukh4akhHQ3dPbUhXMXFPMHhtUHlqWVBwb19QOHFxZzdwVlYyUUJ1RENLcXlYc3ZWcENyeS1xbVc0MFN2aURvQUt0SVVJNVZFVjBDcWtlQk91dXgwWGZtVmlHNVZkdjdSb25jS2FlV3RZVnJuRlRUUF83aE5jcmZ0anBtR1E?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "トップNSFWアニメプラットフォームのおすすめ（最新版）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQVkxmXzMzOWdHZkxzd2dzSjdYN2FjZ0cxdVllR0lUTmNTZ1ZXTWxxczZsc01ibmpXQTF3RVZUSHVjbXFHT2hiUHVHX1N1T3ZjdGdSMGxscGIzTXdZa1YtdllFY3JZYjZXRExrM2xCVml6UldTV2tGZU54TDRtT0FNNGdQYXVUWlV6VzN0YTIyb1REZFg5Mng5ZTlVbFRKbk05VzhLaE0yRktwTmFweTJVSlFzZjdtOWRGekYxOFlWNmE3bjQ0MmJBaWxTclFtcTIzeHh1MVRLVXNNdERHcDJVMGdjRlZHYm1EWHIyT0dSVzkyMExoY04tWDctekpkTUlxR2xkVTNsRGRtaW1vQnctSUs2XzVuWnpMUWE3T0hLMWFpVTMxcnRZTEV1OW13c25zVHJYT3RjNkdwWnJybnYyYlRaaHV0OWdHclNub2RLZmZIdw?oc=5",
+   "pubDate": "2026-10-03T05:16:57.000Z",
+   "firstSeen": "2026-10-03T12:19:05.429Z",
+   "image": null,
+   "source": "大分トリニータオフィシャルサイト",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "大分トリニータオフィシャルサイト",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQVkxmXzMzOWdHZkxzd2dzSjdYN2FjZ0cxdVllR0lUTmNTZ1ZXTWxxczZsc01ibmpXQTF3RVZUSHVjbXFHT2hiUHVHX1N1T3ZjdGdSMGxscGIzTXdZa1YtdllFY3JZYjZXRExrM2xCVml6UldTV2tGZU54TDRtT0FNNGdQYXVUWlV6VzN0YTIyb1REZFg5Mng5ZTlVbFRKbk05VzhLaE0yRktwTmFweTJVSlFzZjdtOWRGekYxOFlWNmE3bjQ0MmJBaWxTclFtcTIzeHh1MVRLVXNNdERHcDJVMGdjRlZHYm1EWHIyT0dSVzkyMExoY04tWDctekpkTUlxR2xkVTNsRGRtaW1vQnctSUs2XzVuWnpMUWE3T0hLMWFpVTMxcnRZTEV1OW13c25zVHJYT3RjNkdwWnJybnYyYlRaaHV0OWdHclNub2RLZmZIdw?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
@@ -8692,7 +9073,7 @@
      "via": "Googleニュース「劇場版 アニメ」"
     },
     {
-     "name": "週刊アスキー",
+     "name": "weekly.ascii.jp",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42Y2VZeERWWEs5bFB2cHgwUkhNNG1qQTdaRnM4T0xFX1lMSVBxT2NsVWJTMjA1SHdYZTl3S0RRMnE3a0FVMHU0YS1QVDVWMTJ1T2hPLVd0UjdUQmIzNmc?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
@@ -8938,23 +9319,24 @@
    "pubDate": "2026-10-03T04:00:00.000Z",
    "firstSeen": "2026-10-03T04:17:51.849Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
    "score": 15,
    "categories": [
     "visual"
    ],
-   "works": [],
+   "works": [
+    "魔法騎士レイアース"
+   ],
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxOXZTYUdOUlY0ZXZiXzNUc1BVQU1VLTgxNXdhNmp1ODRka25rT0JncW1PdnlhU2JUbllZeG1BZXczQ1dTOVFaUGRSV0Q?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxOXZTYUdOUlY0ZXZiXzNUc1BVQU1VLTgxNXdhNmp1ODRka25rT0JncW1PdnlhU2JUbllZeG1BZXczQ1dTOVFaUGRSV0Q?oc=5"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -10732,6 +11114,12 @@
      "via": "Googleニュース「声優」"
     },
     {
+     "name": "oricon.co.jp",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRWtZdmtfY2p3QTc0NlVGY3hULWVxSWl3dVBrZXJFNHduN1Y5VjVUU2t0cHF6V1c3TjN0YlZ2WkZZZWVQbmF2eTR0dXJaQ2xJS3pObkVn?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
      "name": "オリコン（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/f9e50cd1961af964f401a1032346e858fcc6d213?source=rss",
@@ -10865,7 +11253,7 @@
      "link": "https://www.lisani.jp/0000319202/"
     },
     {
-     "name": "USENの音楽情報サイト",
+     "name": "e.usen.com",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VWmI5ZGF0OUt4WF9Ea0x1aG52Y2ZoUnV2ZmZ3Z2VHVkdDNXNEd3EwUWQzdjRHN3ZITkpYSDhwZnRCRk9fdkE4eU9aeE5OX3F5Qmg2T0lXWURHTE5jdnNfZzdvb1VzNE0?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
@@ -11233,7 +11621,7 @@
    "pubDate": "2026-10-02T22:00:00.000Z",
    "firstSeen": "2026-10-02T22:19:05.285Z",
    "image": null,
-   "source": "オリコンニュース",
+   "source": "oricon.co.jp",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -11247,7 +11635,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "オリコンニュース",
+     "name": "oricon.co.jp",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zRVdHclNwTUxubUJyTzdrbjhDYUFxM3luaVNIY0FXTTVaYkZrNEtlSkVIV2ZScThuTXNWTDVSMUpKVzk1SE9yR1RZekVBMVk?oc=5",
      "via": "Googleニュース「声優」"
@@ -11268,12 +11656,6 @@
      "name": "佐賀新聞",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xWG1mT0N6endSdXdJbDVQT2ZlS3pDSElJSGVrcjZOdV90MTRfMTFmdTkzdUJsaFc4OGh2UE5nWkZzS1BOU3hlbU9Fc1loSGdKSDlHd2F3?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "oricon.co.jp",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10Q1ZPMW4wdzhVdWdsNzJBN3VZOEF6V1lGeW5IbEJMbmpOUFVSMXlFbGZrN0liSUMwdmU4OF82QVcycTdqRXNPSEh6RHZCODVZN2tvb25R?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
@@ -13100,7 +13482,7 @@
    "pubDate": "2026-10-02T12:16:00.000Z",
    "firstSeen": "2026-10-02T12:19:08.831Z",
    "image": null,
-   "source": "オリコンニュース",
+   "source": "oricon.co.jp",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
@@ -13115,7 +13497,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "オリコンニュース",
+     "name": "oricon.co.jp",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhbjIwMFVucC1kdVZHbGVud0JFc1psdkl1ZzFfWkllT1VaUkFKU2NWSjNlNG9oOWp5Z2JvcWNnMmJTZHNrWi0wV01IUUMwY1NJSDZGaUpB?oc=5",
      "via": "Googleニュース「アニメ」"
@@ -14441,7 +14823,7 @@
    "pubDate": "2026-10-02T09:48:00.000Z",
    "firstSeen": "2026-10-02T10:18:12.541Z",
    "image": null,
-   "source": "times.abema.tv",
+   "source": "ABEMA TIMES",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -14456,7 +14838,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "times.abema.tv",
+     "name": "ABEMA TIMES",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tck9HMFRFM0VHN3ZGazUyOVpBZkRSSmdOQXdKTXc0TXFrTUo2QzFyaGRULUNtcklERDBkS2R0N084TmlDclh5TFpyNWFjRnZlYUdFSQ?oc=5",
      "via": "Googleニュース「声優」"
@@ -18603,13 +18985,13 @@
    ]
   },
   {
-   "title": "【訃報】声優の坂東尚樹さん、69歳で…「妖怪ウォッチ」のじんめん犬など出演作多数",
+   "title": "【訃報】声優の坂東尚樹さん、69歳で…「妖怪ウォッチ」のじんめん犬など出演作多数 - news.tv-asahi.co.jp",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rNk1sUEcydGt4VnJhUlNqMm1RWGVyXy0wSk9JdTNHU0ZnUVNOUnRPU3Yzb3pVXzNfb2pnYmhGWlBzZ2dlUV93ZHg0dndFTzQzMTFWMzFfeVUwRzNKOURPTE5uMmFyMlVjMHgwdWJGTkY?oc=5",
    "pubDate": "2026-10-02T05:45:00.000Z",
    "firstSeen": "2026-10-02T06:18:05.464Z",
    "image": null,
-   "source": "テレ朝NEWS",
+   "source": "Googleニュース「声優」",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -18623,10 +19005,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "テレ朝NEWS",
+     "name": "Googleニュース「声優」",
      "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rNk1sUEcydGt4VnJhUlNqMm1RWGVyXy0wSk9JdTNHU0ZnUVNOUnRPU3Yzb3pVXzNfb2pnYmhGWlBzZ2dlUV93ZHg0dndFTzQzMTFWMzFfeVUwRzNKOURPTE5uMmFyMlVjMHgwdWJGTkY?oc=5",
-     "via": "Googleニュース「声優」"
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rNk1sUEcydGt4VnJhUlNqMm1RWGVyXy0wSk9JdTNHU0ZnUVNOUnRPU3Yzb3pVXzNfb2pnYmhGWlBzZ2dlUV93ZHg0dndFTzQzMTFWMzFfeVUwRzNKOURPTE5uMmFyMlVjMHgwdWJGTkY?oc=5"
     },
     {
      "name": "Yahoo!ニュース",
@@ -20519,6 +20900,12 @@
      "via": "Googleニュース「声優」"
     },
     {
+     "name": "oricon.co.jp",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RS1hZY3h2bTJ1Ry1EWVJVOXg2UG4wZ3RFNmQ5N1cyOGJ6OHFTblV6Y1ZBVm0xQzJpSU5samYxQzVUSi1mdm4zbjNyT0lBd2M?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
      "name": "Excite エキサイト",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1renpENUltLTVBblBLMUR5YS1NQWhKMFpjbE9SVlR2NmRESjg4LUVhbHlpV2Zzbk1JVTdyRVRUZ3NNaHNINUZTa1Z0VDBJUkoxclJPQkNEV2lMcko0cDdpdXVR?oc=5",
@@ -22391,7 +22778,7 @@
    "pubDate": "2026-10-02T02:30:07.000Z",
    "firstSeen": "2026-10-02T03:18:24.489Z",
    "image": null,
-   "source": "Nintendo",
+   "source": "nintendo.com",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
@@ -22406,7 +22793,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Nintendo",
+     "name": "nintendo.com",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMlRNak9EWmNKVXo4a3lqVHBCeFcxaUFMZXNnR1ptdFRJOHU2R1NUeTVZVHB5d3AybHY3TmY2Mkt1LVhvS1ZDcVBVcWgtd3dmZnNmaVNpZlRiY2dCWUM5RmhwUnp2SXZObXg3a294bmFNVGdnbDd4cTBLZ3VGMXhGU3BmSGhyUQ?oc=5",
      "via": "Googleニュース「アニメ」"
@@ -22504,7 +22891,7 @@
    "pubDate": "2026-10-02T02:23:00.000Z",
    "firstSeen": "2026-10-02T03:18:24.489Z",
    "image": null,
-   "source": "オリコンニュース",
+   "source": "oricon.co.jp",
    "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
@@ -22520,9 +22907,15 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "オリコンニュース",
+     "name": "oricon.co.jp",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qcFRqOEc1X1laUGFGQUo0a1o3OC1uLVViYmMxRjhWTVB2cE5CemtPcVpMdHBFdlZiclRzOTV0LU5sby1ZRnYtRjNRQmtuZklEVnZWQkNR?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "オリコンニュース",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwaTAtOEJFal9KSDhwTWRpMjNkNWdqVmdPOUFEUmFIWTF4dnBOckQxOWRPdklXNFlVOV93TGJWV0tLZFdkdEdRTEtEZVBUSTN2azdyaVZKaWVRc2tEY3ZaZw?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
     },
     {
@@ -23748,9 +24141,9 @@
     },
     {
      "name": "オタク総研（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YS1pCMndQU0hFc3VuTmhnUnRsSlBHN0Y5Q2N6TEdRM3dHYjlXQ1MxSDBWTkNPcXlGUlJHQ2NnSUpLdHBMdHVUQTZEcE1IbjdiT2JaenZhS2pScTNGSUVVRG9zU1JsZy1iQ2hTUDVFNVBJbHYtQ3hqbmkyU0lPa28?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -27890,6 +28283,12 @@
      "link": "https://animeanime.jp/article/2026/10/01/103417.html"
     },
     {
+     "name": "animeanime.jp",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PV1dqOFRGdHdkY2JOUU1hTWFqQV9tU1lvRVNJdEhtQlFuWjRTT3A4X0xIbXMwY3YyT1o1OFc0YzRreTV5R2dGM0FEUEdLYkxQVXdENDdhVjdEMXBUZnZxZllB?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
      "name": "Excite エキサイト",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50QjVqYkR2YktEZk1jUnRYN2Jzbjdxb002dGlPRXZOcTBYU3ZLMDFZTUo2c3NETU1aeE1aa0RINmlmYkdfQTlRM1o0d2JOY3lvWnA4QjNvQlE2eHZuQnh0NnMzLUlkdw?oc=5",
@@ -28273,7 +28672,7 @@
    "pubDate": "2026-10-01T09:25:07.000Z",
    "firstSeen": "2026-10-02T15:18:13.118Z",
    "image": null,
-   "source": "アニメ！アニメ！",
+   "source": "animeanime.jp",
    "sourceId": "gnews-movie",
    "syndicated": false,
    "kind": "aggregator",
@@ -28286,7 +28685,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "アニメ！アニメ！",
+     "name": "animeanime.jp",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UN2tGeThoQUZWUFlyaWJWNVhkZzN2dEczc0ticFdoQ2xfM3pPeFprTHhpY2FsSVBVQ0xmdnVWOG1zV3BUZ2JDYnVPQldFSl9oYnY2R0Y2TUR1cTdiUGw3LQ?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
@@ -37184,13 +37583,13 @@
    ]
   },
   {
-   "title": "『おぼっちゃまくん』完全新作アニメが2027年に放送決定！主人公の声優は神代知衣が続投",
+   "title": "『おぼっちゃまくん』完全新作アニメが2027年に放送決定！主人公の声優は神代知衣が続投 - post.tv-asahi.co.jp",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBra1FGbjFNZ2Q2MTFRWEswUE02MzNaTXBjR280WTdnMHdOelV2TEdTSlNyNlFIMGJHWnVoRm84bHJxRThDRW9tX0lZd1piQ3J4MlHSAVdBVV95cUxOTzI5M0wtZnFweWpmSmJXUGF6bWNQbWE0SFNEWTZ0OVN5ZEYtTXdyOU1zRHNpZ1ZGQ3FvZmItekdvZG90YVFFVExTLWY1Tm5lV29Ienc5NDg?oc=5",
    "pubDate": "2026-09-30T20:02:49.000Z",
    "firstSeen": "2026-09-30T20:18:17.813Z",
    "image": null,
-   "source": "テレ朝POST",
+   "source": "Googleニュース「声優」",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -37207,10 +37606,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "テレ朝POST",
+     "name": "Googleニュース「声優」",
      "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBra1FGbjFNZ2Q2MTFRWEswUE02MzNaTXBjR280WTdnMHdOelV2TEdTSlNyNlFIMGJHWnVoRm84bHJxRThDRW9tX0lZd1piQ3J4MlHSAVdBVV95cUxOTzI5M0wtZnFweWpmSmJXUGF6bWNQbWE0SFNEWTZ0OVN5ZEYtTXdyOU1zRHNpZ1ZGQ3FvZmItekdvZG90YVFFVExTLWY1Tm5lV29Ienc5NDg?oc=5",
-     "via": "Googleニュース「声優」"
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBra1FGbjFNZ2Q2MTFRWEswUE02MzNaTXBjR280WTdnMHdOelV2TEdTSlNyNlFIMGJHWnVoRm84bHJxRThDRW9tX0lZd1piQ3J4MlHSAVdBVV95cUxOTzI5M0wtZnFweWpmSmJXUGF6bWNQbWE0SFNEWTZ0OVN5ZEYtTXdyOU1zRHNpZ1ZGQ3FvZmItekdvZG90YVFFVExTLWY1Tm5lV29Ienc5NDg?oc=5"
     },
     {
      "name": "テレ朝POST（ｄメニューニュース）",
@@ -40678,7 +41076,7 @@
    ]
   },
   {
-   "title": "【2026年10月】秋アニメまとめ一覧。『幻想水滸伝』『エッジランナーズ2』などゲーム原作の大本命登場。『レイアース』『PSYREN』『チート付与』、劇場版控える『薬屋のひとりごと』第3 期も (1/7)",
+   "title": "【2026年10月】秋アニメまとめ一覧。『幻想水滸伝』『エッジランナーズ2』などゲーム原作の大本命登場。『レイアース』『PSYREN』『チート付与』、劇場版控える『薬屋のひとりごと』第3期も",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SVpndmNDVGxhRzU5T29veDZCRVNzN29lLVNLMmFlYWRua2FZc3ZmNFByWHdnN2xpY09aYWdNZ0lpdVZCSWduSFh3TGtIVGxrOW5tclFyTQ?oc=5",
    "pubDate": "2026-09-30T10:30:00.000Z",
@@ -40689,8 +41087,9 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 14,
+   "score": 18,
    "categories": [
+    "new",
     "movie",
     "game"
    ],
@@ -43092,7 +43491,7 @@
    "pubDate": "2026-09-30T08:39:00.000Z",
    "firstSeen": "2026-09-30T09:19:11.906Z",
    "image": null,
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -43106,7 +43505,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "時事ドットコム",
+     "name": "jiji.com",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFemM0SDhBSjRFUllSNWlUYVp1bFVWemJRNHhpM2pBeG5jVGxWZTRCOW5hT0g4SWhJSnB2NVkzNnFlLXpNa2dCMnFXX0lNM1dXYzREOUE1dkFEcFZtNmNmVEdsVQ?oc=5",
      "via": "Googleニュース「声優」"
@@ -43956,7 +44355,7 @@
    "pubDate": "2026-09-30T07:45:03.000Z",
    "firstSeen": "2026-10-01T23:19:17.269Z",
    "image": null,
-   "source": "アニメ！アニメ！",
+   "source": "animeanime.jp",
    "sourceId": "gnews-movie",
    "syndicated": false,
    "kind": "aggregator",
@@ -43971,7 +44370,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "アニメ！アニメ！",
+     "name": "animeanime.jp",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qaWUyRThJTVB1dnlLZXJiYnViQTFObWY5Q1VoMTZhTkRYUjZlTTBadzRZVUNWOUEwTzk2ckRTeEtqVEp1R1d1YjBlM2UzZnN3UHhwODdmUTBqXzVDdEtjc3ZB?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
@@ -45633,13 +46032,13 @@
    ]
   },
   {
-   "title": "【まとめ】声優・津田健次郎さん判決 「声は人格の象徴」としてパブリシティー権で保護する初の判断 生成AIでナレーション180本以上投稿…“声を模倣”TikTokへの動画削除請求は棄却 東京地裁",
+   "title": "【まとめ】声優・津田健次郎さん判決 「声は人格の象徴」としてパブリシティー権で保護する初の判断 生成AIでナレーション180本以上投稿…“声を模倣”TikTokへの動画削除請求は棄却 東京地裁 - news.tv-asahi.co.jp",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qUzhHamZfa1JuRUFuci1GOHlYTU9FR3pRTU5Pbl9rMGgyX0dXQUpwejlVdFZBQTY5S3VjaEdhSjF0OVlqQmpEbm15QmRmRzMxVi12ckNfb1V0VzFNYXdhRklpV01yc3RDak9tbWIwVFBXdw?oc=5",
    "pubDate": "2026-09-30T04:34:00.000Z",
    "firstSeen": "2026-09-30T05:18:11.870Z",
    "image": null,
-   "source": "テレ朝NEWS",
+   "source": "Googleニュース「声優」",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -45652,10 +46051,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "テレ朝NEWS",
+     "name": "Googleニュース「声優」",
      "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qUzhHamZfa1JuRUFuci1GOHlYTU9FR3pRTU5Pbl9rMGgyX0dXQUpwejlVdFZBQTY5S3VjaEdhSjF0OVlqQmpEbm15QmRmRzMxVi12ckNfb1V0VzFNYXdhRklpV01yc3RDak9tbWIwVFBXdw?oc=5",
-     "via": "Googleニュース「声優」"
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qUzhHamZfa1JuRUFuci1GOHlYTU9FR3pRTU5Pbl9rMGgyX0dXQUpwejlVdFZBQTY5S3VjaEdhSjF0OVlqQmpEbm15QmRmRzMxVi12ckNfb1V0VzFNYXdhRklpV01yc3RDak9tbWIwVFBXdw?oc=5"
     },
     {
      "name": "Yahoo!ニュース",
@@ -45818,7 +46216,7 @@
    "pubDate": "2026-09-30T04:20:00.000Z",
    "firstSeen": "2026-09-30T05:18:11.870Z",
    "image": null,
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -45831,7 +46229,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "時事ドットコム",
+     "name": "jiji.com",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sU0RDMmUyZXRxQWI5UkpHR2dYM0NJMTRvVE5WLVpOSlFnaTVDeGtUdVpPbEZsVUoyUXZ5ZUpkNlpnUVkwbkZib05Od2RhUTkydV9BNUJZcVFxajJySzVYV0x4aw?oc=5",
      "via": "Googleニュース「声優」"
@@ -45840,6 +46238,12 @@
      "name": "時事通信ニュース",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00UzVCV1BNTG5udlc2bUxMdXJYdDg4Vm9wOFZ1S3o2Q1BxTUlaWWhfd2xJOVlHS1JkZGFYNzNRQ0U1UmhhcXhFNVA3TUJnSnNObWVsLQ?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "時事ドットコム",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHE0cXBOaEItWXpKaFJQMGRZd3JVRmxuaWZVVDBtZG9uMlZpTkEzT2I2MnljQU4tekM0YlhmbmVidWhKUDVDOWpVSjZ3NFRBRHpoZFJLWmJyRnpncGRuSUdra3M0V3I5Ukd0cmFVQUptdlFYNVhDTmVLbjQ1WktFWmJR?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
@@ -63220,7 +63624,7 @@
    "pubDate": "2026-09-28T10:55:00.000Z",
    "firstSeen": "2026-09-28T11:17:57.836Z",
    "image": null,
-   "source": "news.ponycanyon.co.jp",
+   "source": "PONY CANYON NEWS",
    "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
@@ -63237,7 +63641,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "news.ponycanyon.co.jp",
+     "name": "PONY CANYON NEWS",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBubVB0TTdselkzRG8yMmd4UmlJRzN1Zk5yNDZQdTFCbFBrSU4zNlMzb2NwZ2gyME1XX0ZZRkVncVkzaXJ6RFdoYzRVNlVGZGJnc3VfUDVDSQ?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
@@ -66925,13 +67329,42 @@
    ]
   },
   {
-   "title": "【訃報】声優・矢口アサミさんが急逝…事務所代表・堀内賢雄ら「言葉になりません」",
+   "title": "【訃報】声優・矢口アサミさんが急逝…事務所代表・堀内賢雄ら「言葉になりません」（テレビ朝日系（ANN））",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYzl3TG1nbkI3MmFWR2dmaDJ0MHMtZVR4aUlMM0NfM0VtUm5fWExPR1JRRlQwVVd5SFlhbXZ1VGdkU2huQ3htdzVDSUIyQm4zc2dURWFpcFdGanZiOXgyU1JfWFZyMEswNXRrN3h3WGxuclBNTVYwTElvbkc2TjQ?oc=5",
+   "pubDate": "2026-09-28T07:39:15.000Z",
+   "firstSeen": "2026-09-28T08:17:31.879Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-seiyu",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "obituary"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYzl3TG1nbkI3MmFWR2dmaDJ0MHMtZVR4aUlMM0NfM0VtUm5fWExPR1JRRlQwVVd5SFlhbXZ1VGdkU2huQ3htdzVDSUIyQm4zc2dURWFpcFdGanZiOXgyU1JfWFZyMEswNXRrN3h3WGxuclBNTVYwTElvbkc2TjQ?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【訃報】声優・矢口アサミさんが急逝…事務所代表・堀内賢雄ら「言葉になりません」 - news.tv-asahi.co.jp",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uek9ia2dRdDdBN3Z5M0FscTZWNks3MjYxRUJzd0l6OTNEbjdaZVJXQ1p5aDRXdVNnWWFZUGpHZjBwRWpwY3g4LVRvR21SZEQ5NmZEQWtCNzFta003STdMZ0RnMFZiXzl0SmJlb2lvQjY?oc=5",
    "pubDate": "2026-09-28T07:37:00.000Z",
-   "firstSeen": "2026-09-28T08:17:31.879Z",
+   "firstSeen": "2026-09-29T04:18:11.057Z",
    "image": null,
-   "source": "テレ朝NEWS",
+   "source": "Googleニュース「声優」",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -66945,17 +67378,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "テレ朝NEWS",
+     "name": "Googleニュース「声優」",
      "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uek9ia2dRdDdBN3Z5M0FscTZWNks3MjYxRUJzd0l6OTNEbjdaZVJXQ1p5aDRXdVNnWWFZUGpHZjBwRWpwY3g4LVRvR21SZEQ5NmZEQWtCNzFta003STdMZ0RnMFZiXzl0SmJlb2lvQjY?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYzl3TG1nbkI3MmFWR2dmaDJ0MHMtZVR4aUlMM0NfM0VtUm5fWExPR1JRRlQwVVd5SFlhbXZ1VGdkU2huQ3htdzVDSUIyQm4zc2dURWFpcFdGanZiOXgyU1JfWFZyMEswNXRrN3h3WGxuclBNTVYwTElvbkc2TjQ?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uek9ia2dRdDdBN3Z5M0FscTZWNks3MjYxRUJzd0l6OTNEbjdaZVJXQ1p5aDRXdVNnWWFZUGpHZjBwRWpwY3g4LVRvR21SZEQ5NmZEQWtCNzFta003STdMZ0RnMFZiXzl0SmJlb2lvQjY?oc=5"
     }
    ]
   },
@@ -78548,7 +78973,7 @@
    "pubDate": "2026-09-27T07:00:00.000Z",
    "firstSeen": "2026-09-30T07:18:13.479Z",
    "image": null,
-   "source": "ウォーカープラス",
+   "source": "walkerplus.com",
    "sourceId": "gnews-movie",
    "syndicated": false,
    "kind": "aggregator",
@@ -78561,7 +78986,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ウォーカープラス",
+     "name": "walkerplus.com",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX0UyOTJjX1NLUUJaUWcxUlhQeUt6X0dTWnRZd0MzTnJHd1RJcm5lVlVrTnhhZGZybDM1MUE0MUd0VngzclVoc1V0WGtsRlRJVU5SRzZB0gFbQVVfeXFMUGVCZl9lVXQ0VzBGSVhEMFJ2WUVmNXpHN3NZcEtqaVNiQ3pLWFlqdnE2dGQ0anhCZlUtRUdtQ25ZM1kxaTZJZUpoSFZnWFhNTk5TNTBnNTJKbk1vcw?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
@@ -85667,12 +86092,6 @@
      "name": "jiji.com",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT05xNGNrU1psWkdtTFFxYnlLdXFlcmduWlFLd3VxWWwtRzkyZXJXMXk2ako5NldoRTdEanp1UGFxQzdTTmljbklTOTB2Y0tfOVlEUlZSSmRVU3puTFM3azg1UWtfZ3RRbFpiUU9tT0lZRS1CWG96dGtPMTBOZE5pTndn?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9veWIxRW9wSnJ5LUd3MEctMS04bUQ2ZjhNZmp4WFJLcmZKZkFQMUlDQ29fZmhFSloyQi0tQWMzT0NMNV9pdGNETjN2VHA2bzExdGM3TVdEajh2a1Nxd2E4WTNZQQ?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
@@ -117140,7 +117559,7 @@
    "pubDate": "2026-09-19T07:00:00.000Z",
    "firstSeen": "2026-10-01T00:18:12.624Z",
    "image": null,
-   "source": "kinro.ntv.co.jp",
+   "source": "金曜ロードシネマクラブ",
    "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
@@ -117155,7 +117574,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "kinro.ntv.co.jp",
+     "name": "金曜ロードシネマクラブ",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iQW9aVWpGUEIwRjVRVWE0Y0p0Zzl0MVhzZEZ1UDhDWWlOY2xmVVl5b3V5d1pMY0RvWUtzN2cteThQZHZ5bFgzTEV6N3dYdkh6SnZ3bENNVWdSOE0?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
@@ -118645,7 +119064,7 @@
    "pubDate": "2026-09-14T07:00:00.000Z",
    "firstSeen": "2026-09-14T07:00:00.000Z",
    "image": null,
-   "source": "オリコンニュース",
+   "source": "oricon.co.jp",
    "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
@@ -118658,7 +119077,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "オリコンニュース",
+     "name": "oricon.co.jp",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qalMzOHpRX2VsNWJuNEZyWmFURGFPalk3eWxYRzFTWkR2Z3VWaDk1UTlXWjVjLVJHNFFHc1FPX3Z3UnRXSFY2TFFxcDMxX2dYRGo4RDN3?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
@@ -118730,7 +119149,7 @@
    "pubDate": "2026-09-14T07:00:00.000Z",
    "firstSeen": "2026-09-14T07:00:00.000Z",
    "image": null,
-   "source": "アニメ！アニメ！",
+   "source": "animeanime.jp",
    "sourceId": "gnews-movie",
    "syndicated": false,
    "kind": "aggregator",
@@ -118745,7 +119164,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "アニメ！アニメ！",
+     "name": "animeanime.jp",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2NmdwT1F5cU5sc3VCbjNvLV9WUEdjcWpYQ2FDUm9mWG8zZXo4eFN6WXBnZlFzejNmV19sQUxrWmZ4aE83d1NQWTRHbnVqaTJobXBKRzB5XzBZRFJacGM0V0tn?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
