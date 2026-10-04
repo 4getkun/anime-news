@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-04T13:13:43.046Z",
- "count": 4001,
+ "generatedAt": "2026-10-04T13:18:23.911Z",
+ "count": 4002,
  "dedupe": {
-  "exact": 2002,
+  "exact": 2004,
   "syndicated": 185,
   "similar": 222,
-  "syndicatedTotal": 2224,
+  "syndicatedTotal": 2225,
   "syndicatedLeft": 691
  },
  "calendar": [
@@ -5642,8 +5642,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 382,
-   "accepted": 320
+   "archived": 383,
+   "accepted": 321
   },
   {
    "id": "gnews-seiyu",
@@ -5653,8 +5653,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1012,
-   "accepted": 916
+   "archived": 1014,
+   "accepted": 918
   },
   {
    "id": "natalie-eiga",
@@ -5730,7 +5730,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 9386,
+   "archived": 9389,
    "accepted": 923
   },
   {
@@ -5806,6 +5806,12 @@
      "via": "Googleニュース「声優」"
     },
     {
+     "name": "スポニチ Sponichi Annex",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG1QNzVDb3lURTNucGpKc2FMNTYwVTVualcydHVoZUNjaGMyZjIyR0FMTFdsR05XOVVoM21vWFkwbGVWRGlGVlpBb3F6cUpjSEdnTWV0c2hxeGM4c1lvSFNKQlM4S010LWhBUS16MmtWWXpySUxyZFJUX3pqZDQzTkRuUDc1UE9ka0NoaWJPNHFta0d6Q2c?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
      "name": "スポニチアネックス（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/17761abf07356782cd74ad1cec754a682a92656b?source=rss",
@@ -5844,6 +5850,13 @@
      "name": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/4536aa2298d3085f5a1f5b286d254414b93c0f55?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "シネマトゥデイ（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyYjU1VlFtazVCN2FXVWhCREE2UFFyXzJ3UWREV0FTbzVvY1dmcnZWOC11amFwUHhMYWJyLVRETzA0dVltX2lCamRsR1FqdTVBaXY1MkpkYlBEWUR3MHdFZzBpTlNmTHhGNTZRSjZQelFfT25WM1BvY1VyVEI3X1k?oc=5",
+     "via": "Googleニュース「声優」",
      "syndicated": true
     }
    ]
@@ -37514,6 +37527,35 @@
    ]
   },
   {
+   "title": "劇場版『メダリスト』",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hUkRWbnRCOGZ0V0xfVDlsMWNBWlgtdEJoNnNNZjF0SEs3UWNTYmppdjUydUMxNnRNSXl6U3dGRFNUdXBic0lnVFV1RXR4b2xZa1JrckJwUTM?oc=5",
+   "pubDate": "2026-10-01T09:09:14.000Z",
+   "firstSeen": "2026-10-04T13:18:09.309Z",
+   "image": null,
+   "source": "KADOKAWAオフィシャルサイト",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "メダリスト"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "KADOKAWAオフィシャルサイト",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hUkRWbnRCOGZ0V0xfVDlsMWNBWlgtdEJoNnNNZjF0SEs3UWNTYmppdjUydUMxNnRNSXl6U3dGRFNUdXBic0lnVFV1RXR4b2xZa1JrckJwUTM?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
    "title": "浪川大輔、40代でジェラピケに目覚める 下野紘からツッコミ「女子大生みたい(笑)」【声優と夜あそび】",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EZ1I5U3AxMEthWXNRbXZINWZfa1dPQnJVMGNZeTVkRmJlYk1nYnZ1VnVPRjh5VHJRZTRzSDRyYTFydjJfMnZCZGZac0RQazQ?oc=5",
@@ -49677,7 +49719,7 @@
    ]
   },
   {
-   "title": "【2026年10月】秋アニメまとめ一覧。『幻想水滸伝』『エッジランナーズ2』などゲーム原作の大本命登場。『レイアース』『PSYREN』『チート付与』、劇場版控える『薬屋のひとりごと』第3 期も (1/7)",
+   "title": "【2026年10月】秋アニメまとめ一覧。『幻想水滸伝』『エッジランナーズ2』などゲーム原作の大本命登場。『レイアース』『PSYREN』『チート付与』、劇場版控える『薬屋のひとりごと』第3期も",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93SVpndmNDVGxhRzU5T29veDZCRVNzN29lLVNLMmFlYWRua2FZc3ZmNFByWHdnN2xpY09aYWdNZ0lpdVZCSWduSFh3TGtIVGxrOW5tclFyTQ?oc=5",
    "pubDate": "2026-09-30T10:30:00.000Z",
@@ -49688,8 +49730,9 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 14,
+   "score": 18,
    "categories": [
+    "new",
     "movie",
     "game"
    ],
@@ -52091,7 +52134,7 @@
    "pubDate": "2026-09-30T08:39:00.000Z",
    "firstSeen": "2026-09-30T09:19:11.906Z",
    "image": null,
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -52105,7 +52148,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "jiji.com",
+     "name": "時事ドットコム",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFemM0SDhBSjRFUllSNWlUYVp1bFVWemJRNHhpM2pBeG5jVGxWZTRCOW5hT0g4SWhJSnB2NVkzNnFlLXpNa2dCMnFXX0lNM1dXYzREOUE1dkFEcFZtNmNmVEdsVQ?oc=5",
      "via": "Googleニュース「声優」"
@@ -94755,6 +94798,12 @@
      "via": "Googleニュース「声優」"
     },
     {
+     "name": "時事ドットコム",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9veWIxRW9wSnJ5LUd3MEctMS04bUQ2ZjhNZmp4WFJLcmZKZkFQMUlDQ29fZmhFSloyQi0tQWMzT0NMNV9pdGNETjN2VHA2bzExdGM3TVdEajh2a1Nxd2E4WTNZQQ?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
      "name": "時事通信（Yahoo!ニュース）",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pcU9keFc2c211bUU1TW9jYm5TTm1LSFhkSDdST2tBWHhlUVpqWmZBN1gwUkNZeTQxOE81eGVjUGJQemhHYmhIUHlsYlg0MVJjUUFEeXBRZXo3NWJWNkNPUzlfSEJuenNGNnFuN2VRZWRSYzFtZVFDZHNVeDRhRnM?oc=5",
@@ -116161,7 +116210,7 @@
      "link": "https://natalie.mu/comic/news/690778"
     },
     {
-     "name": "av.watch.impress.co.jp",
+     "name": "AV Watch",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yTU4tSHZ6NXlmdmMzWFVCaDhKNi1LRk12YmhKSjR3SGFrTGxMS2pBTUJwS3hwWW5KM2RCbmczUlR1MTdfMjJUSk5fZ21vTDZxTlNvdXNvVkxqdkVLOTdONEVRMA?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
