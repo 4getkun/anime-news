@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-04T14:18:21.723Z",
- "count": 4008,
+ "generatedAt": "2026-10-04T15:21:31.487Z",
+ "count": 4014,
  "dedupe": {
   "exact": 2011,
   "syndicated": 185,
   "similar": 222,
-  "syndicatedTotal": 2229,
-  "syndicatedLeft": 690
+  "syndicatedTotal": 2235,
+  "syndicatedLeft": 696
  },
  "calendar": [
   {
@@ -2668,6 +2668,24 @@
   {
    "date": "2026-10-05",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "満州アヘンスクワッド",
+   "title": "『満州アヘンスクワッド』アニメ化決定 昭和12年の満州舞台でクライム・サスペンス(オリコン)",
+   "link": "https://news.yahoo.co.jp/articles/8eb54e43512123135cd6c69aba2447393db58b52?source=rss",
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sources": 4,
+   "categories": [
+    "new",
+    "cast",
+    "stage"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-05",
+   "precision": "day",
    "verb": "stream",
    "label": "配信",
    "work": "らんま1/2",
@@ -2685,17 +2703,15 @@
   {
    "date": "2026-10-05",
    "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "満州アヘンスクワッド",
-   "title": "作画担当の死去から10ヶ月……満洲を舞台にしたサスペンス漫画『満州アヘンスクワッド』が連載再開へ 兄弟子が遺志を継ぐ(KAI-YOU)",
-   "link": "https://news.yahoo.co.jp/articles/fef56beca5689b9ce74a9e7797a33f5a4102993d?source=rss",
-   "source": "KAI-YOU（Yahoo!ニュース エンタメ）",
-   "sources": 2,
+   "verb": "broadcast",
+   "label": "放送",
+   "work": null,
+   "title": "「ジャンプ」 超能力バトルサスペンス「PSYREN -サイレン-」10月5日放送開始！【秋アニメ2026】(GAME Watch)",
+   "link": "https://news.yahoo.co.jp/articles/079c6bdf8898e199e3050db0552b38e6080d993f?source=rss",
+   "source": "GAME Watch（Yahoo!ニュース エンタメ）",
+   "sources": 1,
    "categories": [
-    "media",
-    "stage",
-    "obituary"
+    "broadcast"
    ],
    "platforms": [],
    "spoiler": false
@@ -5579,9 +5595,9 @@
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 487,
    "accepted": 487
   },
@@ -5634,9 +5650,9 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1673,
    "accepted": 1625
   },
@@ -5645,9 +5661,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 686,
    "accepted": 671
   },
@@ -5656,9 +5672,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 385,
    "accepted": 323
   },
@@ -5667,9 +5683,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1020,
    "accepted": 922
   },
@@ -5678,9 +5694,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 370,
    "accepted": 27
   },
@@ -5703,7 +5719,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 421,
+   "archived": 422,
    "accepted": 20
   },
   {
@@ -5714,7 +5730,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 424,
+   "archived": 425,
    "accepted": 94
   },
   {
@@ -5747,8 +5763,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 9426,
-   "accepted": 924
+   "archived": 9454,
+   "accepted": 930
   },
   {
    "id": "prtimes",
@@ -5796,6 +5812,173 @@
   }
  ],
  "items": [
+  {
+   "title": "「満州アヘンスクワッド」新体制で連載再開＆アニメ化決定、ヤンマガWebで無料公開中(コミックナタリー)",
+   "summary": "「満州アヘンスクワッド」が、本日10月5日発売のヤングマガジン45号（講談社）で連載再開。またアニメ化も発表された。【画像】「満州アヘンスクワッド」新体制についてのメッセージ（他13件）門馬司が原作を",
+   "link": "https://news.yahoo.co.jp/articles/e1aa9174d94c8b5d3963bbd8a405edaa0d3cc9a1?source=rss",
+   "pubDate": "2026-10-04T15:00:28.000Z",
+   "firstSeen": "2026-10-04T15:21:13.616Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "new",
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e1aa9174d94c8b5d3963bbd8a405edaa0d3cc9a1?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "美しき怪盗・Snow Man阿部亮平がQuizKnockの10周年パーティに潜入、「anan」思考力特集で(音楽ナタリー)",
+   "summary": "10月14日発売の雑誌「anan」は「思考力の高め方」特集。表紙には阿部亮平（Snow Man）が登場する。【怪盗の別の顔】和服で緑茶を淹れる阿部亮平今回は阿部がファンを公言するQuizKnockの1",
+   "link": "https://news.yahoo.co.jp/articles/f6647206e91c4a9d5a6c7d33b4190ac22f5ef7c5?source=rss",
+   "pubDate": "2026-10-04T15:00:20.000Z",
+   "firstSeen": "2026-10-04T15:21:13.616Z",
+   "image": null,
+   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f6647206e91c4a9d5a6c7d33b4190ac22f5ef7c5?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Snow Man阿部亮平「anan」ソロ表紙登場 “美しき怪盗”になり知性・色気披露 QuizKnockとの鼎談で“ファン全開”に(モデルプレス)",
+   "summary": "【モデルプレス＝2026/10/05】Snow Manの阿部亮平が、10月14日発売の「anan」2515号（マガジンハウス）の表紙に登場する。【写真】スノ阿部亮平、和装姿で軽やかに歌う◆阿部亮平、“",
+   "link": "https://news.yahoo.co.jp/articles/5a9a111c89ee67e0d99f42467d6226ad4b032137?source=rss",
+   "pubDate": "2026-10-04T15:00:15.000Z",
+   "firstSeen": "2026-10-04T15:21:13.616Z",
+   "image": null,
+   "source": "モデルプレス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "モデルプレス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/5a9a111c89ee67e0d99f42467d6226ad4b032137?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ジャンプ」 超能力バトルサスペンス「PSYREN -サイレン-」10月5日放送開始！【秋アニメ2026】(GAME Watch)",
+   "summary": "アニメ「PSYREN -サイレン-」が、TOKYO MX、BS11などにて10月5日より毎週月曜23時～放送開始される。配信は10月5日より毎週月曜23時30分～順次実施される。【この記事に関する別の",
+   "link": "https://news.yahoo.co.jp/articles/079c6bdf8898e199e3050db0552b38e6080d993f?source=rss",
+   "pubDate": "2026-10-04T15:00:00.000Z",
+   "firstSeen": "2026-10-04T15:21:13.616Z",
+   "image": null,
+   "source": "GAME Watch（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "broadcast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/079c6bdf8898e199e3050db0552b38e6080d993f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『満州アヘンスクワッド』アニメ化決定 昭和12年の満州舞台でクライム・サスペンス(オリコン)",
+   "summary": "漫画『満州アヘンスクワッド』が、アニメ化されることが発表された。アニメの制作スタジオやスタッフ・キャストの詳細な情報は後日、公式サイトなどで発表される。また、本日5日発売の『週刊ヤングマガジン』45号",
+   "link": "https://news.yahoo.co.jp/articles/8eb54e43512123135cd6c69aba2447393db58b52?source=rss",
+   "pubDate": "2026-10-04T15:00:00.000Z",
+   "firstSeen": "2026-10-04T15:21:13.616Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "new",
+    "cast",
+    "stage"
+   ],
+   "works": [
+    "満州アヘンスクワッド"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/8eb54e43512123135cd6c69aba2447393db58b52?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『満州アヘンスクワッド』連載再開 作画担当の鹿子さん死去 後任は『キングダム』アシスタント時代の兄弟子・ツルシマ氏(オリコン)",
+   "summary": "漫画『満州アヘンスクワッド』（原作：門馬司）が、本日5日発売の『週刊ヤングマガジン』45号にて連載が再開された。作画担当の鹿子さんが2025年11月8日に脈絡膜悪性黒色腫のため亡くなり、長期休載してい",
+   "link": "https://news.yahoo.co.jp/articles/bef80513533a0d85a1d8fef708269fc683ac338e?source=rss",
+   "pubDate": "2026-10-04T15:00:00.000Z",
+   "firstSeen": "2026-10-04T15:21:13.616Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "media",
+    "obituary"
+   ],
+   "works": [
+    "満州アヘンスクワッド",
+    "キングダム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/bef80513533a0d85a1d8fef708269fc683ac338e?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "2026年10月公開予定の新作アニメ映画リスト｜ネジムラ89 / アニメ映画ライター",
    "summary": "",
