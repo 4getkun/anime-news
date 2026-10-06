@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-06T19:19:05.290Z",
- "count": 4748,
+ "generatedAt": "2026-10-06T20:18:27.038Z",
+ "count": 4751,
  "dedupe": {
-  "exact": 2428,
+  "exact": 2432,
   "syndicated": 224,
-  "similar": 279,
-  "syndicatedTotal": 2675,
-  "syndicatedLeft": 831
+  "similar": 280,
+  "syndicatedTotal": 2680,
+  "syndicatedLeft": 832
  },
  "calendar": [
   {
@@ -6779,9 +6779,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 18,
    "accepted": 18
   },
@@ -6790,9 +6790,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 3,
    "accepted": 3
   },
@@ -6815,8 +6815,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2034,
-   "accepted": 1988
+   "archived": 2035,
+   "accepted": 1989
   },
   {
    "id": "gnews-tvanime",
@@ -6837,8 +6837,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 425,
-   "accepted": 382
+   "archived": 426,
+   "accepted": 383
   },
   {
    "id": "gnews-seiyu",
@@ -6848,8 +6848,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1189,
-   "accepted": 1064
+   "archived": 1193,
+   "accepted": 1068
   },
   {
    "id": "natalie-eiga",
@@ -6925,7 +6925,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 11458,
+   "archived": 11483,
    "accepted": 1147
   },
   {
@@ -6936,7 +6936,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 11472,
+   "archived": 11483,
    "accepted": 175
   },
   {
@@ -6947,8 +6947,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 371,
-   "accepted": 371
+   "archived": 373,
+   "accepted": 373
   },
   {
    "id": "mal",
@@ -6974,6 +6974,56 @@
   }
  ],
  "items": [
+  {
+   "title": "Monster Hunter Rise Game Sells 20 Million Copies Worldwide",
+   "summary": "Game launched in March 2021",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-06/monster-hunter-rise-game-sells-20-million-copies-worldwide/.242547",
+   "pubDate": "2026-10-06T20:00:00.000Z",
+   "firstSeen": "2026-10-06T20:18:09.334Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-06/monster-hunter-rise-game-sells-20-million-copies-worldwide/.242547"
+    }
+   ]
+  },
+  {
+   "title": "Crunchyroll Streams New Battle Spirits TV Anime",
+   "summary": "Anime premiered on Tuesday",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-06/crunchyroll-streams-new-battle-spirits-tv-anime/.242553",
+   "pubDate": "2026-10-06T19:30:42.000Z",
+   "firstSeen": "2026-10-06T20:18:09.334Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 16,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-06/crunchyroll-streams-new-battle-spirits-tv-anime/.242553"
+    }
+   ]
+  },
   {
    "title": "Kingdom Hearts I-III Collection Game Review",
    "summary": "Our clown-shoe-wearing Chosen One is back with a staggeringly packed bundle of his epic adventures with Goofy and Squall Leonhart.",
@@ -8789,6 +8839,13 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zeFp2djZaQm1SalhrNHJiMndRTVg3VHQtRGNjWjVnVnFDWnRCQlhsWnJBdG1oSnc3SlJuNHVST1U0aFV0VGFyU29DbW1TTW1FU1kyVGZta093TW91SGMycHF3eFVWN3UxNzl1WHctMXpUSjhFQTIxVGNJSExPYm8?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
+    },
+    {
+     "name": "ライブドアニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BOHFWWjRJMkhLWUZCeVZZVG9SaTJvc252VDJzSDJVQmxJQkhCd091WEt0QkZTUUFMUjZyNlV0dnVORFhEVkF3UWdNU2xIb3g4Tk0yREVyTmxjdGd1M3c?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
     }
    ]
   },
@@ -9575,6 +9632,13 @@
      "name": "ライブドアニュース",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lSFdUTlVvMzBQdmNCZVFPS2hCQzVfdmxqLURUTG04T3FXcjZwWFFlMmJTOTNKbWdIS3ptclBJNHpJVjU2cHE2a01mbHdXbS1mNnUzZlJoYmptU2h6bVZZ?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "2026年10月6日掲載（ライブドアニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lWVJfZllQTGxmS1ZhTE1mNDVYTnRlbXFFaTkwQmEwNzZuRUpVaDU3NE1ZTGhERGdXRmI2VGptLUFSVGlUWVBaOFlheU1UelhyNGg2b25kRi1nNkpCSWc?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -11666,41 +11730,6 @@
    ]
   },
   {
-   "title": "脅迫被害の声優・上坂すみれ ＳＮＳでの本人投稿を一部再開「お久しぶりの投稿になってしまってすみません…！」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VbFZnYi1OSUZfNTMtUTd1ek1scGQtblR0VHNOdnhVT1p0YU1uX1MzcTliX3EwbjVWeWFFOHNac2M4QV9FanNaZnRTV2EyM1VGbm9OZ2pSUkp2eXduRGR6c0tJWldLb3NuZ0JHZkhkX0o?oc=5",
-   "pubDate": "2026-10-06T06:20:02.000Z",
-   "firstSeen": "2026-10-06T07:17:54.680Z",
-   "image": null,
-   "source": "読売新聞",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "trouble"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "読売新聞",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VbFZnYi1OSUZfNTMtUTd1ek1scGQtblR0VHNOdnhVT1p0YU1uX1MzcTliX3EwbjVWeWFFOHNac2M4QV9FanNaZnRTV2EyM1VGbm9OZ2pSUkp2eXduRGR6c0tJWldLb3NuZ0JHZkhkX0o?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhLXUyaENhUHB6aGpib0d5Q3pqMGwzd3Bad3pCc2M3UFA5THBVN0pxZWlta0J5N01MOEhmYU1sck1IMkxVMXoySXNOcHphYjBwR05kb0ZDSXNGMTUtRWdEMVM1X1RQMDZKenFaTU5PajBNZU4td2ZGTzBHODFjOFU?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "上坂すみれ、レースのドレスで久々のインスタ更新 「やっぱり声優さんって…すっごい！！」",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2eFVaRDV2NGpzSlFxeXJjVk1LVUZnMGRERUJsaDhQb2tURWRidG5qV0h1OXZSU2NLRU5OSjFfVzhCTVFic0F4TDJaY0ZuV0V6aUVrQWl1N1lRSXBoQlRfWjB30gFnQVVfeXFMTnhVMTh4bWRvZTFVZVdOSC1HbWxkeFFiNXV4bm5NRnBvYXdTWld3MTFmMzg0aXhXRFlWeGxzd1M0RVUxb3BFaDNTQjd1VlFRT2JOSWFkeEh3eWpvUjV4ZDR2cVo3bS1tOA?oc=5",
@@ -11729,6 +11758,77 @@
      "name": "リアルサウンド（Yahoo!ニュース）",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YaklkdERKdXVSSER1QVBiaTdNaUhNSVRHU0FvOTZ1Z2REWldNTjVvN1VXVlVkZFNWcUlMNlFYRi0yS0x1UkJJLW5uRHByV21IcksxYXlMSTBQU2g3ampWVGNyUUxvLWdhVzc5akg3UUNDYnRjWGRRUGMzanJLNnc?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "脅迫被害の声優・上坂すみれ ＳＮＳでの本人投稿を一部再開「お久しぶりの投稿になってしまってすみません…！」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VbFZnYi1OSUZfNTMtUTd1ek1scGQtblR0VHNOdnhVT1p0YU1uX1MzcTliX3EwbjVWeWFFOHNac2M4QV9FanNaZnRTV2EyM1VGbm9OZ2pSUkp2eXduRGR6c0tJWldLb3NuZ0JHZkhkX0o?oc=5",
+   "pubDate": "2026-10-06T06:20:00.000Z",
+   "firstSeen": "2026-10-06T07:17:54.680Z",
+   "image": null,
+   "source": "読売新聞",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "trouble"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "読売新聞",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VbFZnYi1OSUZfNTMtUTd1ek1scGQtblR0VHNOdnhVT1p0YU1uX1MzcTliX3EwbjVWeWFFOHNac2M4QV9FanNaZnRTV2EyM1VGbm9OZ2pSUkp2eXduRGR6c0tJWldLb3NuZ0JHZkhkX0o?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhLXUyaENhUHB6aGpib0d5Q3pqMGwzd3Bad3pCc2M3UFA5THBVN0pxZWlta0J5N01MOEhmYU1sck1IMkxVMXoySXNOcHphYjBwR05kb0ZDSXNGMTUtRWdEMVM1X1RQMDZKenFaTU5PajBNZU4td2ZGTzBHODFjOFU?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yME5LcGVBR3Z6STdhREpBOXNOZ0RQUllqT2JiY0ZxYzFpQ2ZqRXdQX3A1Rnp4WXB2SDNjOVJ2cTJla0JmdWgyTFhmSE5tZHM0R29IdDQzT3ZIbEp0TnlCeE9vT3NJVkttQkNmVXBB?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "脅迫被害の声優・上坂すみれが約3週間ぶりにSNSを更新、ファンから安堵の声 (2026年10月6日掲載)",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ub3ZOc01Mbk1QWUJSZUxfdmE0Q1VfaVpHM0ZuTEpRT192eFRaZXN5T2tHeEpXZUNpMFd0VzBUbWt1V2pVU0tQZFJQTTQ3VWt2SV9ZZDZFaXhyZHEwcUE?oc=5",
+   "pubDate": "2026-10-06T06:20:00.000Z",
+   "firstSeen": "2026-10-06T20:18:09.334Z",
+   "image": null,
+   "source": "2026年10月6日掲載（ライブドアニュース）",
+   "sourceId": "gnews-seiyu",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "trouble"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "2026年10月6日掲載（ライブドアニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ub3ZOc01Mbk1QWUJSZUxfdmE0Q1VfaVpHM0ZuTEpRT192eFRaZXN5T2tHeEpXZUNpMFd0VzBUbWt1V2pVU0tQZFJQTTQ3VWt2SV9ZZDZFaXhyZHEwcUE?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -12721,7 +12821,7 @@
    "title": "【 ALS闘病 】声優・津久井教生さん気管切開後の〝においを感じる工夫〟明かす 「ちょっとした工夫でわかるようになるのです」【ニャンちゅう】（TBS NEWS DIG Powered by JNN）",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JMThMSngtQWdwLWFXQkFmLXFfaHJXaXctUzJ3WWI0NjNFZzZQeUFBZjBwMmlLZUF5clZ3UXBtaDduMUhvRDl4Si1wd0R5ck1xV2xLRm1JbXFrWEpfbFFfMWtubHFna2lOcXVYSy05aDVjT1FSM3pKbE5hdHIxOGs?oc=5",
-   "pubDate": "2026-10-06T03:30:20.000Z",
+   "pubDate": "2026-10-06T03:30:00.000Z",
    "firstSeen": "2026-10-06T04:17:53.345Z",
    "image": null,
    "source": "TBS NEWS DIG Powered by JNN（Yahoo!ニュース）",
@@ -12747,6 +12847,13 @@
      "name": "Infoseek",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxeFNraHd1STlTNnNMMjJsRVhjVk81clVKR0hkU2FmbTJWcDZiZFltTWhqX0JlTlZUaHdFb29ENVVuVXdLNGZsNnBMcF9mdkVZTlFaNEhyTnhuRlFu?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0S2wyRkZ3TFQtM00yUzBIVFFNVWJJenF0SE1ZSktWTWZ4c2Vxc3VIVE84LWxzSjJUSUszZ1VfSzE1SjZZaGV1Z001bUVCSWpkRFJuQUV0MmthM1RKOThJVjg1LXRGb09CWlZoQUl3?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -16713,7 +16820,7 @@
    "pubDate": "2026-10-05T13:16:38.000Z",
    "firstSeen": "2026-10-05T14:17:53.271Z",
    "image": null,
-   "source": "tver.jp",
+   "source": "TVer",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
@@ -16724,15 +16831,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "tver.jp",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xdG9zSnlzSjVtbi1nZld0YllfUWZ0MXlYREk5SWVFVjZubFBxSm5nZXlxSDhFLXNuWGtveXMtSlhmZlFleERjSQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
      "name": "TVer",
      "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuYVBUS1lxNXJZaUQ4b3FOZU9rR3ZfTy1zdkRpc2tFOEQ4Z3hNMTBPYzVsS2lqSVU3UGZqNkh3UF9kUzM0VnV2MFlKWQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xdG9zSnlzSjVtbi1nZld0YllfUWZ0MXlYREk5SWVFVjZubFBxSm5nZXlxSDhFLXNuWGtveXMtSlhmZlFleERjSQ?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
@@ -18076,7 +18177,7 @@
    "firstSeen": "2026-10-05T18:17:53.431Z",
    "image": null,
    "source": "アニメイトタイムズ",
-   "sourceId": "gnews-seiyu",
+   "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -18092,9 +18193,9 @@
    "sources": [
     {
      "name": "アニメイトタイムズ",
-     "sourceId": "gnews-seiyu",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yRGNUSm9SSkJXdDk1VTZUaGVnMnEwaW9mRXlUcnhNS2RxVDU5bklUS3E3RS16d2lpRFB4SUN6SDRpYTRUTS1XdkFRb1h6Q3NqU2hjaU45LTBZR2VNRGZDMEk0cWppVE0tWllJ?oc=5",
-     "via": "Googleニュース「声優」"
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -37546,9 +37647,9 @@
     },
     {
      "name": "映画.com（Yahoo!ニュース）",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55YlhYcnk2QV81VmNmLWtjaGhFaDlVbzFpbWhuM1ZVU042V2VZYndwQmF0cy1hdWI5TGd0dzRUQnhIeEZZRkJfdGxNUXhGRUVjYmY3SEp3T3hoS2VJRV9LQzZQeXAyTWNZcDl6bFdubE5kMC1HdlFmZkQ5MDhTa3M?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -61402,7 +61503,7 @@
    ]
   },
   {
-   "title": "劇場版『メダリスト』",
+   "title": "劇場版『メダリスト』：映画・アニメ",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hUkRWbnRCOGZ0V0xfVDlsMWNBWlgtdEJoNnNNZjF0SEs3UWNTYmppdjUydUMxNnRNSXl6U3dGRFNUdXBic0lnVFV1RXR4b2xZa1JrckJwUTM?oc=5",
    "pubDate": "2026-10-01T09:09:14.000Z",
@@ -61413,7 +61514,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 8,
    "categories": [
     "movie"
    ],
@@ -63818,7 +63919,7 @@
    "pubDate": "2026-10-01T07:00:00.000Z",
    "firstSeen": "2026-10-05T03:17:53.156Z",
    "image": null,
-   "source": "life.oricon.co.jp",
+   "source": "オリコン顧客満足度ランキング",
    "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
@@ -63829,7 +63930,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "life.oricon.co.jp",
+     "name": "オリコン顧客満足度ランキング",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55ekFBbk9JaGdGdG55N2wzWFlzV0I5RHFlRTFUaFJwdWUzc0pDT3VGTDludzNINV9jNmV2dFJ1U2ZDLTRqcWRwNXkwZTUzMkRsbG41SkN3SHQ1T29PZEhlNkZuS2lNTUlfeFlLcWJSQ3lmME1ZM1o0Zw?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
