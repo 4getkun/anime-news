@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-06T18:18:13.977Z",
- "count": 4744,
+ "generatedAt": "2026-10-06T19:19:05.290Z",
+ "count": 4748,
  "dedupe": {
-  "exact": 2427,
+  "exact": 2428,
   "syndicated": 224,
   "similar": 279,
   "syndicatedTotal": 2675,
-  "syndicatedLeft": 832
+  "syndicatedLeft": 831
  },
  "calendar": [
   {
@@ -6760,8 +6760,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 562,
-   "accepted": 562
+   "archived": 563,
+   "accepted": 563
   },
   {
    "id": "lisani",
@@ -6779,9 +6779,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 18,
    "accepted": 18
   },
@@ -6790,9 +6790,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 3,
    "accepted": 3
   },
@@ -6816,7 +6816,7 @@
    "error": null,
    "fetched": 100,
    "archived": 2034,
-   "accepted": 1987
+   "accepted": 1988
   },
   {
    "id": "gnews-tvanime",
@@ -6826,8 +6826,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 796,
-   "accepted": 778
+   "archived": 795,
+   "accepted": 777
   },
   {
    "id": "gnews-movie",
@@ -6848,8 +6848,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1187,
-   "accepted": 1063
+   "archived": 1189,
+   "accepted": 1064
   },
   {
    "id": "natalie-eiga",
@@ -6925,7 +6925,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 11420,
+   "archived": 11458,
    "accepted": 1147
   },
   {
@@ -6936,7 +6936,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 11451,
+   "archived": 11472,
    "accepted": 175
   },
   {
@@ -6947,8 +6947,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 369,
-   "accepted": 369
+   "archived": 371,
+   "accepted": 371
   },
   {
    "id": "mal",
@@ -6969,11 +6969,87 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 96,
-   "accepted": 96
+   "archived": 97,
+   "accepted": 97
   }
  ],
  "items": [
+  {
+   "title": "Kingdom Hearts I-III Collection Game Review",
+   "summary": "Our clown-shoe-wearing Chosen One is back with a staggeringly packed bundle of his epic adventures with Goofy and Squall Leonhart.",
+   "link": "https://www.animenewsnetwork.com/review/game/playstation-5-xbox-series-x-s-and-nintendo-switch-2/kingdom-hearts-i-iii-collection/.242501",
+   "pubDate": "2026-10-06T19:00:00.000Z",
+   "firstSeen": "2026-10-06T19:18:46.774Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/review/game/playstation-5-xbox-series-x-s-and-nintendo-switch-2/kingdom-hearts-i-iii-collection/.242501"
+    }
+   ]
+  },
+  {
+   "title": "K Manga Adds Sen Sen Senki Manga",
+   "summary": "A-10, Ryūga Kawasaki debuted dark fantasy manga on June 10",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-06/k-manga-adds-sen-sen-senki-manga/.242550",
+   "pubDate": "2026-10-06T19:00:00.000Z",
+   "firstSeen": "2026-10-06T19:18:46.774Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-06/k-manga-adds-sen-sen-senki-manga/.242550"
+    }
+   ]
+  },
+  {
+   "title": "Transformers Brings Optimus Prime Back to Basics With Classic G1 Design",
+   "summary": "Optimus Prime's most heroic look is coming back in a featured Generation 1 release that collectors and longtime fans will adore.",
+   "link": "https://www.cbr.com/transformers-heroic-optimus-prime-amazon-big-deal-days/",
+   "pubDate": "2026-10-06T18:35:11.000Z",
+   "firstSeen": "2026-10-06T19:18:46.774Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/transformers-brings-optimus-prime-back-to-basics-with-classic-g1-design.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/transformers-heroic-optimus-prime-amazon-big-deal-days/"
+    }
+   ]
+  },
   {
    "title": "A Returner's Magic Should Be Special Season 2 Anime Reveals Same-Day Dub Release, Cast",
    "summary": "Season debuts on Wednesday",
@@ -9911,36 +9987,6 @@
    ]
   },
   {
-   "title": "「乙女ゲームのヒロインで最強サバイバル」2027年7月スタート アリア役は和泉風花(コミックナタリー)",
-   "summary": "TVアニメ「乙女ゲームのヒロインで最強サバイバル」が、2027年7月に放送開始。主人公・アリア役を和泉風花が演じるほか、メインスタッフ、ティザービジュアル、特報PVが公開された。【動画】TVアニメ「乙",
-   "link": "https://news.yahoo.co.jp/articles/51e518eeee4e2ed27b77ac8594e35763fb6a2c38?source=rss",
-   "pubDate": "2026-10-06T09:00:55.000Z",
-   "firstSeen": "2026-10-06T09:18:00.232Z",
-   "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "broadcast",
-    "visual",
-    "cast",
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/51e518eeee4e2ed27b77ac8594e35763fb6a2c38?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "いぎなり東北産、TVアニメ『おねがいアイプリ』後期エンディング主題歌「おねがいテレパシー」10月7日配信リリース決定！",
    "summary": "スターダストプロモーション所属の9人組アイドルグループ・いぎなり東北産が、TVアニメ『おね...",
    "link": "https://www.lisani.jp/0000319461/",
@@ -10243,7 +10289,7 @@
    "syndicated": false,
    "kind": "press",
    "lang": "ja",
-   "score": 14,
+   "score": 18,
    "categories": [
     "broadcast",
     "game"
@@ -10327,6 +10373,43 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5THR1NjVSTnVDeEdmWkdpbGRrcFRCNHI4c0ZFZTd6MS02bDJrRHlsOHRUVXJNSGtmbExlRzNjc19BaDEzVUlTQ2hWN05RdGc?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「乙女ゲームのヒロインで最強サバイバル」2027年7月スタート アリア役は和泉風花（動画あり / コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qT3IzVURpS05kMkRfZTV6QUV5ZTV3ZUxLSU5mMlpJT0I5NWZoSmFJck5RdkRKdjhoREhveGRhakRMTW9ZWHFMazc0dFg?oc=5",
+   "pubDate": "2026-10-06T09:00:00.000Z",
+   "firstSeen": "2026-10-06T09:18:00.232Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 11,
+   "categories": [
+    "broadcast",
+    "visual",
+    "cast",
+    "game"
+   ],
+   "works": [
+    "乙女ゲームのヒロインで最強サバイバル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qT3IzVURpS05kMkRfZTV6QUV5ZTV3ZUxLSU5mMlpJT0I5NWZoSmFJck5RdkRKdjhoREhveGRhakRMTW9ZWHFMazc0dFg?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/51e518eeee4e2ed27b77ac8594e35763fb6a2c38?source=rss",
+     "syndicated": true
     }
    ]
   },
@@ -10526,7 +10609,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 20,
+   "score": 24,
    "categories": [
     "new",
     "cast",
@@ -17508,6 +17591,33 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95YkEtUllER0M5UWpkekl1anFPRGljcG95NEozMHE5eDVxSUhVeHFfclhvVDFISlBCc09UdHh0QjR4VFFYRTRwcThZY1VkczhlRXdjWmhVRy1jeUxXRkRia0Vtb0E5aVFEUXJ1ZFp6aw?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
+   "title": "「夢叶った」吉沢亮がヒロアカ声優に アフレコ秘話と挑戦したい“あの役柄”",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10VnRWbENLT2l0WDh3anl1UkFma1Jvb0lPOHdGLVdTMHVoMTk5WE9wZ25OSHBJODRuZ0VFUWNHdF9jb1FYSFdKbzF3TG5NVDVKZEtmaTdvVzZqdWhnM2xhZTBB?oc=5",
+   "pubDate": "2026-10-05T11:29:23.000Z",
+   "firstSeen": "2026-10-06T19:18:46.774Z",
+   "image": null,
+   "source": "CREA WEB",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CREA WEB",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10VnRWbENLT2l0WDh3anl1UkFma1Jvb0lPOHdGLVdTMHVoMTk5WE9wZ25OSHBJODRuZ0VFUWNHdF9jb1FYSFdKbzF3TG5NVDVKZEtmaTdvVzZqdWhnM2xhZTBB?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -27022,9 +27132,9 @@
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KZWpwUTNTQ2JLNEoxVUdSaUpxclM1ZDFsTDBTbjRGdnNGcS1OcDkxeUxIY1Myak9YeF9UOTFPZUF2djVHMlhwcUJTOGdFWXYxQ0Fya0c2OTgxTFE0ZUdUMjI5NzRuYlBSeXpwXzV3SVJKVTJIWnJFVndyYjhuWW8?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -61292,7 +61402,7 @@
    ]
   },
   {
-   "title": "劇場版『メダリスト』：映画・アニメ",
+   "title": "劇場版『メダリスト』",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hUkRWbnRCOGZ0V0xfVDlsMWNBWlgtdEJoNnNNZjF0SEs3UWNTYmppdjUydUMxNnRNSXl6U3dGRFNUdXBic0lnVFV1RXR4b2xZa1JrckJwUTM?oc=5",
    "pubDate": "2026-10-01T09:09:14.000Z",
@@ -61303,7 +61413,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 8,
+   "score": 4,
    "categories": [
     "movie"
    ],
