@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-06T16:18:12.462Z",
+ "generatedAt": "2026-10-06T17:13:24.917Z",
  "count": 4741,
  "dedupe": {
-  "exact": 2423,
-  "syndicated": 222,
+  "exact": 2426,
+  "syndicated": 223,
   "similar": 279,
-  "syndicatedTotal": 2674,
+  "syndicatedTotal": 2675,
   "syndicatedLeft": 833
  },
  "calendar": [
@@ -4191,7 +4191,7 @@
    "title": "M!LK、TVアニメ『超巡！超条先輩』OPテーマ「ザッツ！超常」10/26配信リリース決定",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IZEpOTzF2SE5zY0x4MUxQV1hJaUdvdnAwVWxTNWpBQ3RrNDJXR2JwcEsyVW5zY3U5SUtpcUVYMGx2WEREVTFWekJ2X21mQVROTGZXZ3g3T2RaZzVkWGluRnR3?oc=5",
    "source": "Billboard JAPAN",
-   "sources": 8,
+   "sources": 9,
    "categories": [
     "broadcast",
     "music",
@@ -6801,8 +6801,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2030,
-   "accepted": 1983
+   "archived": 2032,
+   "accepted": 1985
   },
   {
    "id": "gnews-tvanime",
@@ -6812,8 +6812,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 794,
-   "accepted": 776
+   "archived": 795,
+   "accepted": 777
   },
   {
    "id": "gnews-movie",
@@ -6834,8 +6834,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1187,
-   "accepted": 1063
+   "archived": 1188,
+   "accepted": 1064
   },
   {
    "id": "natalie-eiga",
@@ -6911,7 +6911,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 11417,
+   "archived": 11419,
    "accepted": 1147
   },
   {
@@ -7946,6 +7946,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/06/103573.html"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91amFZcWIwU3B4UkE1R2k4YnNlZ0t4Yy14M1diSW9Id1Npbi1iM3o0UXBaNWM1NVpmUTJDWlVwNWNXdGQxdlRzSXMzdTg4MVFrc0RGRUlhVThRNE5pbW9HeVl4Zjd6cG1Ja0lFZ1dFcEhZNjk2cVRNTmVJZGQ5RDg?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -8592,6 +8599,12 @@
      "via": "Googleニュース「声優」"
     },
     {
+     "name": "ABEMA TIMES",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xZ2NMRWtLZ0pUZnB4MzJXdnZaaGNUVngyWHY2Z1RNZ2Fpcm9PbThKckh6bDJLUEJWY2VqS1IwVzdYcWVBOFFBcmxZUjd1ZDFLRjVlTQ?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
      "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/e160c443e10bc406ce9a2e2286d853584ec70755?source=rss",
@@ -9231,6 +9244,12 @@
      "name": "NiEW",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05MHBPS2pTVTFJLVpHYUd2Y1dKdkIwS3VQYjdIOHRQZTF3M1p2M2VXdXJGRFJOTUFVdkMwQXRMZEFqRE0wdUdDQTFidXJoWWVMYVlvRw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "タワーレコード オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MMjhWeE8tUV81akZOODZ5clgxSTdEa1ZKanRDN2tNMzM3M0ZrVnBocVhXRjdJbEQtZkN4VFNGQ1d1VE5KVUZEM0ZBNmhINjlBUkNWQUd5QjJTZw?oc=5",
      "via": "Googleニュース「アニメ」"
     },
     {
@@ -26906,9 +26925,9 @@
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KZWpwUTNTQ2JLNEoxVUdSaUpxclM1ZDFsTDBTbjRGdnNGcS1OcDkxeUxIY1Myak9YeF9UOTFPZUF2djVHMlhwcUJTOGdFWXYxQ0Fya0c2OTgxTFE0ZUdUMjI5NzRuYlBSeXpwXzV3SVJKVTJIWnJFVndyYjhuWW8?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
