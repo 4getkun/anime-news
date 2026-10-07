@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-07T03:18:04.810Z",
- "count": 4856,
+ "generatedAt": "2026-10-07T04:18:02.857Z",
+ "count": 4867,
  "dedupe": {
-  "exact": 2478,
+  "exact": 2485,
   "syndicated": 228,
-  "similar": 291,
-  "syndicatedTotal": 2755,
-  "syndicatedLeft": 858
+  "similar": 292,
+  "syndicatedTotal": 2763,
+  "syndicatedLeft": 860
  },
  "calendar": [
   {
@@ -3724,6 +3724,24 @@
   {
    "date": "2026-10-10",
    "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "進撃の巨人",
+   "title": "『進撃の巨人』ニジゲンノモリで巨人と撮影！「目指せ！調査兵団 ～入団への特別試練～」10月10日開催",
+   "link": "https://nijimen.kusuguru.co.jp/topics/638872",
+   "source": "にじめん",
+   "sources": 2,
+   "categories": [
+    "event",
+    "goods",
+    "ranking"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-10",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -3796,23 +3814,6 @@
    "source": "インサイド",
    "sources": 1,
    "categories": [
-    "goods"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-10",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催",
-   "work": "進撃の巨人",
-   "title": "『進撃の巨人』グッズも！「ニジゲンノモリ」POPUPストアがフクヤマニメ9に登場、10月10日・11日開催",
-   "link": "https://nijimen.kusuguru.co.jp/topics/638452",
-   "source": "にじめん",
-   "sources": 1,
-   "categories": [
-    "event",
     "goods"
    ],
    "platforms": [],
@@ -4080,6 +4081,22 @@
    "sources": 1,
    "categories": [
     "broadcast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-18",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "深 四のの目 陰陽の巫女",
+   "title": "同じダンジョンで最速を競う『深 四のの目 陰陽の巫女』公式タイムアタック大会が10月18日に開催。主人公声優の涼本あきほさんが出演",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GLTduTWlzRmg3MThfQkxNRWJWX1g2SWM3b3hOLU12eVVjRXJOOWQyTlpBZGlsTC1WMktTZms3cmlwemN2VWF5czVaRE1nbE4xWG9HTnBhRTVYZw?oc=5",
+   "source": "電撃オンライン",
+   "sources": 1,
+   "categories": [
+    "cast"
    ],
    "platforms": [],
    "spoiler": false
@@ -4770,6 +4787,24 @@
    "sources": 2,
    "categories": [
     "music"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-25",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "七海ひろき、LIVE Blu-ray「HIROKI NANAMI LIVE HOUSE TOUR“AKATSUKI”」11月25日発売決定！リリースイベントも開催！",
+   "link": "https://www.lisani.jp/0000319499/",
+   "source": "リスアニ！",
+   "sources": 1,
+   "categories": [
+    "cast",
+    "event",
+    "media"
    ],
    "platforms": [],
    "spoiler": false
@@ -6833,8 +6868,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 434,
-   "accepted": 433
+   "archived": 436,
+   "accepted": 435
   },
   {
    "id": "natalie-comic",
@@ -6844,8 +6879,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 567,
-   "accepted": 567
+   "archived": 568,
+   "accepted": 568
   },
   {
    "id": "lisani",
@@ -6855,8 +6890,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 95,
-   "accepted": 95
+   "archived": 96,
+   "accepted": 96
   },
   {
    "id": "seigura",
@@ -6888,8 +6923,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 174,
-   "accepted": 74
+   "archived": 177,
+   "accepted": 76
   },
   {
    "id": "gnews-anime",
@@ -6899,8 +6934,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2097,
-   "accepted": 2050
+   "archived": 2109,
+   "accepted": 2060
   },
   {
    "id": "gnews-tvanime",
@@ -6910,8 +6945,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 808,
-   "accepted": 790
+   "archived": 809,
+   "accepted": 791
   },
   {
    "id": "gnews-movie",
@@ -6932,8 +6967,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1211,
-   "accepted": 1082
+   "archived": 1213,
+   "accepted": 1084
   },
   {
    "id": "natalie-eiga",
@@ -6943,7 +6978,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 416,
+   "archived": 418,
    "accepted": 34
   },
   {
@@ -6954,7 +6989,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 704,
+   "archived": 707,
    "accepted": 242
   },
   {
@@ -6965,7 +7000,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 526,
+   "archived": 530,
    "accepted": 25
   },
   {
@@ -6976,7 +7011,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 539,
+   "archived": 543,
    "accepted": 117
   },
   {
@@ -6987,7 +7022,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 590,
+   "archived": 594,
    "accepted": 25
   },
   {
@@ -6998,7 +7033,7 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 42,
+   "archived": 43,
    "accepted": 5
   },
   {
@@ -7009,7 +7044,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 11829,
+   "archived": 11879,
    "accepted": 1186
   },
   {
@@ -7020,7 +7055,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 11800,
+   "archived": 11872,
    "accepted": 176
   },
   {
@@ -7059,6 +7094,215 @@
  ],
  "items": [
   {
+   "title": "声優・豊崎愛生がザ・ビートルズの名曲を朗読！ 『ラバー・ソウル』スペシャル・エディション発売記念動画公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBua2NNZW9OMWZ5MGRDZEwzRFlPd1lvREdKY2phNHBnRzBTalI5X2FibVVvRDYtMWJ1TmlpWnF6b0tBaEstLWtnZlBWVzl5cXFyZXg3QWxRYlpiU081VDVjeVBn?oc=5",
+   "pubDate": "2026-10-07T04:02:36.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": null,
+   "source": "MUSIC LIFE CLUB",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "ラバー・ソウル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MUSIC LIFE CLUB",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBua2NNZW9OMWZ5MGRDZEwzRFlPd1lvREdKY2phNHBnRzBTalI5X2FibVVvRDYtMWJ1TmlpWnF6b0tBaEstLWtnZlBWVzl5cXFyZXg3QWxRYlpiU081VDVjeVBn?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "七海ひろき、LIVE Blu-ray「HIROKI NANAMI LIVE HOUSE TOUR“AKATSUKI”」11月25日発売決定！リリースイベントも開催！",
+   "summary": "俳優・声優・アーティストとして幅広く活躍する七海ひろきが、11月25日にLIVE Blu-ray「HIROKI...",
+   "link": "https://www.lisani.jp/0000319499/",
+   "pubDate": "2026-10-07T04:00:43.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610061800-yh-014.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "cast",
+    "event",
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000319499/"
+    }
+   ]
+  },
+  {
+   "title": "「ハローキティ」大人の女性に◎洗練されたポーチやトート、がま口リュックが登場☆「ARTISAN&ARTIST*」コラボ",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/07/103588.html",
+   "pubDate": "2026-10-07T03:29:44.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ハローキティ",
+    "ARTISAN&ARTIST*"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/07/103588.html"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWS1INkZnYzEyVHNTWWtVMTl4c0hsNk9GRkI1TC1BS21rZUt2RjJUZXNJR0hseFRXVG9uRUVCaGpOZkdFa2pHSmI3MlA5QUZNSHg0MFAtTG04Z3pPZkp4V2Itd19IMlFsbXNEcTZOTC1xQTdzM3FPM3NSOG1vdTA?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『進撃の巨人』ニジゲンノモリで巨人と撮影！「目指せ！調査兵団 ～入団への特別試練～」10月10日開催",
+   "summary": "『進撃の巨人』コラボ「目指せ！調査兵団 ～入団への特別試練～」で入団試験に挑戦 本イベントの鍵を握るのは、巨人を前にしてもひるまない度胸。5体の巨人と写真を撮り、その中のベストショットをゴールにて報告することができた方には、コラボイベントオ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/638872",
+   "pubDate": "2026-10-07T03:28:27.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/128966-804-bbd1f394eccbd5e4c284bb6b92525c42-1200x850-1.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event",
+    "goods",
+    "ranking"
+   ],
+   "works": [
+    "進撃の巨人"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/638872"
+    }
+   ]
+  },
+  {
+   "title": "『Dr.STONE』石神千空たちの名ゼリフTシャツが熱い！AMNIBUSにて9月28日より受注スタート",
+   "summary": "TVアニメ『Dr.STONE』のセリフを落とし込んだTシャツが「AMNIBUS」に登場 今回登場したTシャツは、石神千空、七海龍水、SAI、Dr.ゼノ、スタンリー・スナイダーのセリフをTシャツに仕上げました。物語の中で強く印象に残るひと言が…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/638861",
+   "pubDate": "2026-10-07T03:19:08.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/16064-9629-534712a8430e33c86b63035717c6d869-720x800-1.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "works": [
+    "Dr.STONE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/638861"
+    }
+   ]
+  },
+  {
+   "title": "「スヌーピー」27年版スケジュール帳＆カレンダーが登場！大人っぽデザインに注目☆ ローソンにて",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/07/103587.html",
+   "pubDate": "2026-10-07T03:18:20.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "スヌーピー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/07/103587.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51VVBvUXZ4ODRlaEtwOU5TdXZPeE82TjI5UHFXSGdvbHdMSVQyUHZDSkhPcVZWRHBEa01XUW82cmtWd2lVTnB5UlprTG1JSXVheXJIUElCbUkwbW5aeEtCX2hnOWZ4U1lwLVZWdHI2Q1JpUzd1Q0JHSkpuNXAxZ3c?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "アニメ『デュエマLOST ～断罪の少年～』第1話のあらすじ公開！ ウィンの前に、クリスタルカードを手にした神岬ロストが現れ…",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wU29BcHZzYUMyeWlBY3RoLS1UajFXNE9DVUZVbDFuR2dXakJrTnR6RVRCUjNOamRJb09BYWxldnRkWGxMcHByZlNDRWZSenZ4MmZiWQ?oc=5",
+   "pubDate": "2026-10-07T03:17:07.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": null,
+   "source": "eeo",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "デュエマLOST ~断罪の少年~"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "eeo",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wU29BcHZzYUMyeWlBY3RoLS1UajFXNE9DVUZVbDFuR2dXakJrTnR6RVRCUjNOamRJb09BYWxldnRkWGxMcHByZlNDRWZSenZ4MmZiWQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
    "title": "『To LOVEる』ヤミの新イラストにネット衝撃「鼻血でた」「やばぁ！」(オリコン)",
    "summary": "人気漫画『To LOVEる』の『To LOVEる―とらぶる―短編集 Parade』が発売されたことを記念して、作者・矢吹健太朗氏が描いた描き下ろしイラストが公開された。ヤミのイラストがネット上で話題に",
    "link": "https://news.yahoo.co.jp/articles/baf224a13c17c4d9f9dee5cea399fbe5875370d9?source=rss",
@@ -7082,35 +7326,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/baf224a13c17c4d9f9dee5cea399fbe5875370d9?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "【ONE OR EIGHT】初の日本語詞に挑戦した新曲「Yellow Brick Road」配信スタート！TVアニメ『ブラッククローバー』2nd Season EDテーマ | ニュース | エイベックス・ポータル",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lWV9COTZYZW0zVDR1anlldDlLTlIwbGZSTHVaeVVWSEVOT3djaUkwejhkOWVoSG5lOHR6SUlRWVo1WGtqSFE?oc=5",
-   "pubDate": "2026-10-07T03:12:14.000Z",
-   "firstSeen": "2026-10-07T03:17:46.793Z",
-   "image": null,
-   "source": "エイベックス・ポータル",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "ブラッククローバー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "エイベックス・ポータル",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lWV9COTZYZW0zVDR1anlldDlLTlIwbGZSTHVaeVVWSEVOT3djaUkwejhkOWVoSG5lOHR6SUlRWVo1WGtqSFE?oc=5",
-     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -7242,6 +7457,13 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SNGZOUnJZOW90eVJfQ0xXZEZnSllpTzRUTDdOeXRwTGZmSjgxVlJrUTFqWlBaVkVaMkpvbk1qdS1uLWVHTmllWUFwUExwazZyU1VyNU9jWXNyOW5jWmJ5TVBuY0F1NVl4dUFXaV9R?oc=5",
      "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
+    },
+    {
+     "name": "マグミクス（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uSUhCQV93d2MtNkRtR0tzc0Nza1F4TFU1YVN4U1VYVU10am5RUmR5Y3NVTHBoNmI4aFVUMFRuVTMtbW9CWlhCdlAybElvYW9GQURPWDhMUFdpQXhPRWp0TWJGeGpvRUdhU3JDSzQ1MkxLYVJJR3hGTnlGU21VcE0?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -7331,6 +7553,13 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/1a7cbdac8641b83f61942ba37d719174c442856a?source=rss",
      "syndicated": true
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBObThCNUoxcW5jRUpJRk9aWjV5R2tDOTJPMTBLT3Y1ZUdWRWZQVnZoYWgyVWsxVDczSHRQSHNtTkc4MlpHZ1NRT25ONTFLNzVYckNKRDhJcmRoT3BSZGlPZDVOSXB1VWV6VV9sc25taWlJRDVKcUo1Y0NITU5LYVk?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -7393,6 +7622,36 @@
    ]
   },
   {
+   "title": "アニメ「リラックマ」のオリジナルくじが全国で順次展開へ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsdGx2d1NPUGo5bVg2VnNSZDNUbmhKWV9DdnEyU09OWndrME9fN0JfVGRPVU1rSXVsRDFHM1FTSkJLQkdzNEptYmNVczNkSHFPTXhZTkxvVGt1cWcwYVpqZExzM2EyQW5KbEM0MDIxYzU2OVAwRmdvc1gwcTXSAYIBQVVfeXFMT0lIYTJkWnEzQ19odDFiaFRuNnhoREZOMnJmTjdmMUtPRi1DRnBfeFpDM0hsWG1DR3p2TURqVlBEVkREUUpZNXQ5LUlJbTlDb3BESW5MSjNYbFRXcEtYYV9IWVdXcW5wR3JnbHBfT29CdEZjcGFaZ3VGYXUyN01mRkp2dw?oc=5",
+   "pubDate": "2026-10-07T03:01:00.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": null,
+   "source": "ｄメニューニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "リラックマ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ｄメニューニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsdGx2d1NPUGo5bVg2VnNSZDNUbmhKWV9DdnEyU09OWndrME9fN0JfVGRPVU1rSXVsRDFHM1FTSkJLQkdzNEptYmNVczNkSHFPTXhZTkxvVGt1cWcwYVpqZExzM2EyQW5KbEM0MDIxYzU2OVAwRmdvc1gwcTXSAYIBQVVfeXFMT0lIYTJkWnEzQ19odDFiaFRuNnhoREZOMnJmTjdmMUtPRi1DRnBfeFpDM0hsWG1DR3p2TURqVlBEVkREUUpZNXQ5LUlJbTlDb3BESW5MSjNYbFRXcEtYYV9IWVdXcW5wR3JnbHBfT29CdEZjcGFaZ3VGYXUyN01mRkp2dw?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "アニメ『デュエマ LOST』第4章「断罪の少年」が10月9日より配信、第1話のあらすじと場面カットが公開。罪を背負った主人公・ウィンの前に、“世界を変える”カードを持つ謎の少年・ロストが現れる",
    "summary": "第1話では、“ストリートデュエルの伝説”紫による「デュエル・コロッセオ」が開催へ。全4話を隔週金曜21時に配信",
    "link": "https://news.denfaminicogamer.jp/news/261007j",
@@ -7445,6 +7704,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/07/103584.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BWk9fSVJWQ3NKcFBtUXFlXzQxZS00ZC1aUHhhOGgwWEx3REZXUkx4ckRIc0RyN1B6Yk1yM2tmYjJSLVVRZVJ2MG5ILTRNOWdtbjQzSTdzNXgwY3E0cGtrU0ZwdFNXMXUzdTFidTlwR2JLdnBrME1lM3plUUNRNjA?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -7627,6 +7893,42 @@
    ]
   },
   {
+   "title": "【ONE OR EIGHT】初の日本語詞に挑戦した新曲「Yellow Brick Road」配信スタート！TVアニメ『ブラッククローバー』2nd Season EDテーマ | ニュース | エイベックス・ポータル",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lWV9COTZYZW0zVDR1anlldDlLTlIwbGZSTHVaeVVWSEVOT3djaUkwejhkOWVoSG5lOHR6SUlRWVo1WGtqSFE?oc=5",
+   "pubDate": "2026-10-07T03:00:00.000Z",
+   "firstSeen": "2026-10-07T03:17:46.793Z",
+   "image": null,
+   "source": "エイベックス・ポータル",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "music",
+    "broadcast"
+   ],
+   "works": [
+    "ブラッククローバー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "エイベックス・ポータル",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lWV9COTZYZW0zVDR1anlldDlLTlIwbGZSTHVaeVVWSEVOT3djaUkwejhkOWVoSG5lOHR6SUlRWVo1WGtqSFE?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "エンタメ特化型情報メディア スパイス",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hYUdsSFc1SkdJa0RQTndlNUxFOHRJYU1KVFZTVTk0RGdSOHdWRzVwaHB5TURoUllFZjNwTi03ZUhObDNPbVViaWN6M294eDjSAVRBVV95cUxNYkhXRGZjZkF1aGtVWS14X1lWVFo5VHc1ZjU2VVRYTHJOaUp4Y09JUHFrNmtjeWs5WkZockJzbGFTWF84ZmhZUy14QW5HdXpySkNZSXI?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
    "title": "アニメ「Duel Masters LOST」第4章1話の場面カット公開、今夜ニイカが視聴者を断罪（動画あり）",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yS21iaDdKWTBqclNmd0NBOW9EZll3Yy0yZDY0MWtVZWJWSGJSVmFONXcwWm1CejljT2xXcW42cFB1bkdNYnNXMVBaUWU?oc=5",
@@ -7744,6 +8046,35 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kWF95aGhmZjFuR1pxd2hUNFg3WmhQcTNRU3dYSVpHaUxRbkFpNW5EQnZkQ1NmR1lQdjZZWURFbHJqM05JcUJCLW5LOTJRZ1FETGJTdnE4YVJ3dzFsNXk5Yk52dlgxLV80NndNTWF6Vi1Rdw?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "同じダンジョンで最速を競う『深 四のの目 陰陽の巫女』公式タイムアタック大会が10月18日に開催。主人公声優の涼本あきほさんが出演",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GLTduTWlzRmg3MThfQkxNRWJWX1g2SWM3b3hOLU12eVVjRXJOOWQyTlpBZGlsTC1WMktTZms3cmlwemN2VWF5czVaRE1nbE4xWG9HTnBhRTVYZw?oc=5",
+   "pubDate": "2026-10-07T03:00:00.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "深 四のの目 陰陽の巫女"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GLTduTWlzRmg3MThfQkxNRWJWX1g2SWM3b3hOLU12eVVjRXJOOWQyTlpBZGlsTC1WMktTZms3cmlwemN2VWF5czVaRE1nbE4xWG9HTnBhRTVYZw?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -7996,6 +8327,13 @@
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91WGJlN005c2RNOC1UdnZMamRaQkZUcjZ1eHdrVzV1VzRFclZGVzc2bXlFNWltNHFSak02TzFFU0hTS3B0NVVvU2dyUUlFLWhDajVKMjVTM0VRZm1yeDREZnB2R0g?oc=5",
      "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8weHJpRGNtVE9vbnNMR1JadHo2VlQ2NDY2NlBDV2JHR0lCNXhtai1WRS1pams5cC1FRURkRjZXM2FkNXpMSUtQbXdpQUNlWGhKeG9KTjZhd0xWTWoxZlVWMTlheUUtUzIyTS1BM2tSbGRaLUNEdnZOTXBUZVFZSXc?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -8110,6 +8448,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/07/103579.html"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByNUVIZlU0ZElkYWV3bElKZlJKQWJwZHNqSGROOGFmTHFNTFoybEFIdnV3czNpc0ZLbE5jQV9iYmVtWnhUanFSV2tYbWthaEZvQWZYNWltQmtkUEFlVnlnTWlGd0dFWTJjOW05czNycUFndEZ3WXhPWG1JaElrR0U?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -8166,6 +8511,30 @@
    ]
   },
   {
+   "title": "半魔族で迫害されて…追放“された”側が集った最強パーティのバトルファンタジー1巻（試し読みあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VZEMxZ1lsdUlMWkdkbWN3MkZkZjktakRqdnNEZWhzbnBvMnhKMnhOVXBLcVItck5yY25fNnVOMkJLSU5ZamFOZmlkeTE?oc=5",
+   "pubDate": "2026-10-07T02:15:00.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VZEMxZ1lsdUlMWkdkbWN3MkZkZjktakRqdnNEZWhzbnBvMnhKMnhOVXBLcVItck5yY25fNnVOMkJLSU5ZamFOZmlkeTE?oc=5"
+    }
+   ]
+  },
+  {
    "title": "Kai-hen Wizards Manga to Publish 'Series Finale' on October 14",
    "summary": "Kekkaishi's Yellow Tanabe launched manga in September 2024",
    "link": "https://www.animenewsnetwork.com/news/2026-10-06/kai-hen-wizards-manga-to-publish-series-finale-on-october-14/.242558",
@@ -8214,6 +8583,12 @@
      "name": "オリコンニュース",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ubnhUSEFXd0hnUDY3Zk5xR2lzeEFNX0lPRkx0b2U5b09mNVN1UGQ0ZzdWa3h5d3pZaUN6ckh2TXhZaUZmWThOTk5NXzktRU0?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "佐賀新聞",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwd1NkdS1TRUpPeGE2RlA4UHlTeVdwTHFHT053dFdXd1AwNDVzMFNkdHpvTEcyYnM1LWY2bFpadERjbkhDRzU5c0JNXzY5a09YeGwtM2h3?oc=5",
      "via": "Googleニュース「アニメ」"
     },
     {
@@ -8468,6 +8843,30 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-10-06/live-action-my-sister-boyfriend-film-casts-taisuke-niihara/.242557"
+    }
+   ]
+  },
+  {
+   "title": "婚約破棄されたと思ったら求婚されて…イケメン双子貴族に振り回される令嬢のラブコメ（試し読みあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53VzhXenlLUnhOQ0NaQWNkd0Roak00bExxbFhQQmVDZlp5Z3Y4RmZYa2ZnU3haenFFVEVPVks3Y0tDZEFqcnJnRGFUN3g?oc=5",
+   "pubDate": "2026-10-07T01:51:00.000Z",
+   "firstSeen": "2026-10-07T04:17:46.082Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53VzhXenlLUnhOQ0NaQWNkd0Roak00bExxbFhQQmVDZlp5Z3Y4RmZYa2ZnU3haenFFVEVPVks3Y0tDZEFqcnJnRGFUN3g?oc=5"
     }
    ]
   },
@@ -9749,7 +10148,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 24,
+   "score": 20,
    "categories": [
     "new",
     "game"
@@ -13132,6 +13531,36 @@
    ]
   },
   {
+   "title": "「乙女ゲームのヒロインで最強サバイバル」2027年7月スタート アリア役は和泉風花(コミックナタリー)",
+   "summary": "TVアニメ「乙女ゲームのヒロインで最強サバイバル」が、2027年7月に放送開始。主人公・アリア役を和泉風花が演じるほか、メインスタッフ、ティザービジュアル、特報PVが公開された。【動画】TVアニメ「乙",
+   "link": "https://news.yahoo.co.jp/articles/51e518eeee4e2ed27b77ac8594e35763fb6a2c38?source=rss",
+   "pubDate": "2026-10-06T09:00:55.000Z",
+   "firstSeen": "2026-10-06T09:18:00.232Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "broadcast",
+    "visual",
+    "cast",
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/51e518eeee4e2ed27b77ac8594e35763fb6a2c38?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "いぎなり東北産、TVアニメ『おねがいアイプリ』後期エンディング主題歌「おねがいテレパシー」10月7日配信リリース決定！",
    "summary": "スターダストプロモーション所属の9人組アイドルグループ・いぎなり東北産が、TVアニメ『おね...",
    "link": "https://www.lisani.jp/0000319461/",
@@ -13476,7 +13905,7 @@
    "syndicated": false,
    "kind": "press",
    "lang": "ja",
-   "score": 18,
+   "score": 14,
    "categories": [
     "broadcast",
     "game"
@@ -13561,43 +13990,6 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5THR1NjVSTnVDeEdmWkdpbGRrcFRCNHI4c0ZFZTd6MS02bDJrRHlsOHRUVXJNSGtmbExlRzNjc19BaDEzVUlTQ2hWN05RdGc?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「乙女ゲームのヒロインで最強サバイバル」2027年7月スタート アリア役は和泉風花（動画あり / コメントあり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qT3IzVURpS05kMkRfZTV6QUV5ZTV3ZUxLSU5mMlpJT0I5NWZoSmFJck5RdkRKdjhoREhveGRhakRMTW9ZWHFMazc0dFg?oc=5",
-   "pubDate": "2026-10-06T09:00:00.000Z",
-   "firstSeen": "2026-10-06T09:18:00.232Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "broadcast",
-    "visual",
-    "cast",
-    "game"
-   ],
-   "works": [
-    "乙女ゲームのヒロインで最強サバイバル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qT3IzVURpS05kMkRfZTV6QUV5ZTV3ZUxLSU5mMlpJT0I5NWZoSmFJck5RdkRKdjhoREhveGRhakRMTW9ZWHFMazc0dFg?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/51e518eeee4e2ed27b77ac8594e35763fb6a2c38?source=rss",
-     "syndicated": true
     }
    ]
   },
@@ -13797,7 +14189,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 24,
+   "score": 20,
    "categories": [
     "new",
     "cast",
