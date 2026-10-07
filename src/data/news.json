@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-07T19:18:08.454Z",
- "count": 5129,
+ "generatedAt": "2026-10-07T20:19:02.977Z",
+ "count": 5133,
  "dedupe": {
-  "exact": 2615,
+  "exact": 2618,
   "syndicated": 242,
   "similar": 305,
   "syndicatedTotal": 2913,
@@ -7134,9 +7134,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 18,
    "accepted": 18
   },
@@ -7145,9 +7145,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 3,
    "accepted": 3
   },
@@ -7170,8 +7170,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2230,
-   "accepted": 2179
+   "archived": 2232,
+   "accepted": 2181
   },
   {
    "id": "gnews-tvanime",
@@ -7181,8 +7181,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 850,
-   "accepted": 830
+   "archived": 851,
+   "accepted": 831
   },
   {
    "id": "gnews-movie",
@@ -7203,8 +7203,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1267,
-   "accepted": 1125
+   "archived": 1268,
+   "accepted": 1126
   },
   {
    "id": "natalie-eiga",
@@ -7280,7 +7280,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 12437,
+   "archived": 12457,
    "accepted": 1258
   },
   {
@@ -7291,8 +7291,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 12703,
-   "accepted": 185
+   "archived": 12719,
+   "accepted": 186
   },
   {
    "id": "ann",
@@ -7302,8 +7302,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 395,
-   "accepted": 395
+   "archived": 397,
+   "accepted": 397
   },
   {
    "id": "mal",
@@ -7329,6 +7329,59 @@
   }
  ],
  "items": [
+  {
+   "title": "Sony Pictures Entertainment Launches Crunchyroll Storyworks Division for Anime, Live-Action Adaptations",
+   "summary": "Crunchyroll's new division to work with Japanese creators, provide projects for HAYATE venture",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-07/sony-pictures-entertainment-launches-crunchyroll-storyworks-division-for-anime-live-action-/.242593",
+   "pubDate": "2026-10-07T19:54:00.000Z",
+   "firstSeen": "2026-10-07T20:18:43.377Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 16,
+   "categories": [
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-07/sony-pictures-entertainment-launches-crunchyroll-storyworks-division-for-anime-live-action-/.242593"
+    }
+   ]
+  },
+  {
+   "title": "GKIDS Releases 100 Meters Anime Film on Blu-ray Disc on December 1",
+   "summary": "Collector's Edition includes 5 art cards, mini-poster",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-07/gkids-releases-100-meters-anime-film-on-blu-ray-disc-on-december-1/.242592",
+   "pubDate": "2026-10-07T19:02:47.000Z",
+   "firstSeen": "2026-10-07T20:18:43.377Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 10,
+   "categories": [
+    "movie",
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-07/gkids-releases-100-meters-anime-film-on-blu-ray-disc-on-december-1/.242592"
+    }
+   ]
+  },
   {
    "title": "Netflix's Solo Leveling Finally Confirms New Cast and Story Details",
    "summary": "Netflix's live-action Solo Leveling just dropped its most substantial update yet, confirming multiple cast members, including Han Sohee as C…",
@@ -8171,6 +8224,34 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWnZZZm9lQ2lwNnFLSDY3R3BaVDRpZkNhM0RCMXFJRFZtRWR2T05mN1k2ZTdGTjdvd3pnNFZZRkU0OHdPeThJa3FkYlEwMFk5LTc2eEFRMkVRZTBGc3dIZDN3?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
+   "title": "カフェ「とびだす焙煎所」に展示された、声優・竹内良太さんのサイン入り「ロブスタ」パネル",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wLVEtTHJnaTJlSlM1aUw0UXRIeGdGX0stRnBHTVcwMXpqd1ZxZzVQTk1udW5sNUJJQTB4TUEwbzczNHNITHUwUDNJT0pFYkhlS05EdG5uSQ?oc=5",
+   "pubDate": "2026-10-07T14:06:57.000Z",
+   "firstSeen": "2026-10-07T20:18:43.377Z",
+   "image": null,
+   "source": "和歌山経済新聞",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "event"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "和歌山経済新聞",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wLVEtTHJnaTJlSlM1aUw0UXRIeGdGX0stRnBHTVcwMXpqd1ZxZzVQTk1udW5sNUJJQTB4TUEwbzczNHNITHUwUDNJT0pFYkhlS05EdG5uSQ?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -10562,7 +10643,7 @@
    "firstSeen": "2026-10-07T10:17:47.484Z",
    "image": null,
    "source": "PR TIMES",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -10575,9 +10656,9 @@
    "sources": [
     {
      "name": "PR TIMES",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pci1nTjFtbXIzdmxBaGc4YjNUNGZyWTJJaUFTM0tITTJYZnNRQTN3bW9EZzFVVThLS09oTmdRLUFTOUV2SWt4RnVTQzVsWTFoOFZhN2hFSmFMZ3p1T1JKVmtFZlNCeVI0aHc?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -12719,15 +12800,15 @@
   },
   {
    "title": "TVアニメ『家庭教師ヒットマンREBORN！』より、リボーン＆ツナセットが受注生産商品で登場！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xd1dPUUJxcWtpZmdtV25xX2VHOVBPTi1WYk5VNHRmeFEtOXZKdzY5UndrSmNPSFBnOXdzeXR3ZmIzU0w5aHRpaVR2SHlxU1JUWWoyYzhIT2FFLWg1SWQyX1o1UEk1cW9HVVE?oc=5",
+   "summary": "今年20周年を迎えるTVアニメ『家庭教師ヒットマンREBORN!』の新商品が登場いたします。",
+   "link": "https://prtimes.jp/main/html/rd/p/000009030.000016756.html",
    "pubDate": "2026-10-07T08:00:02.000Z",
    "firstSeen": "2026-10-07T08:17:44.265Z",
    "image": null,
    "source": "PR TIMES",
-   "sourceId": "gnews-anime",
+   "sourceId": "prtimes",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "press",
    "lang": "ja",
    "score": 12,
    "categories": [
@@ -12740,9 +12821,8 @@
    "sources": [
     {
      "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xd1dPUUJxcWtpZmdtV25xX2VHOVBPTi1WYk5VNHRmeFEtOXZKdzY5UndrSmNPSFBnOXdzeXR3ZmIzU0w5aHRpaVR2SHlxU1JUWWoyYzhIT2FFLWg1SWQyX1o1UEk1cW9HVVE?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000009030.000016756.html"
     }
    ]
   },
@@ -13080,6 +13160,35 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51WWVLX3NFS1RzRW5oRXp6Y0tWUGxJbXFoVE8xek5UeW55cE1tNVFQenJhMjVqY2lqQW5qN3NZQVg3RUtYOF95cUNBUlVQeGZtNTNNVA?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
+   "title": "秋アニメ『めざめざ』第2話あらすじ＆場面カット",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05UGZJVWFDd1VkQWw2dzdRdGhTcUhyY1h0TW9vcjIxYjRnY3B6a0E5TzZRRE4wVlRQZVFXUWgyZWpBMjA3YjBWSU9qVnZlNU1VMHdLWXQ1NUY4eVVOWGRZd0pna3RyZVpNTk5F?oc=5",
+   "pubDate": "2026-10-07T07:25:00.000Z",
+   "firstSeen": "2026-10-07T20:18:43.377Z",
+   "image": null,
+   "source": "アニメイトタイムズ",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "めざめざ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05UGZJVWFDd1VkQWw2dzdRdGhTcUhyY1h0TW9vcjIxYjRnY3B6a0E5TzZRRE4wVlRQZVFXUWgyZWpBMjA3YjBWSU9qVnZlNU1VMHdLWXQ1NUY4eVVOWGRZd0pna3RyZVpNTk5F?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -14870,7 +14979,7 @@
    "pubDate": "2026-10-07T03:48:59.000Z",
    "firstSeen": "2026-10-07T13:17:46.920Z",
    "image": null,
-   "source": "ゲームウィズ",
+   "source": "GameWith",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -14883,7 +14992,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ゲームウィズ",
+     "name": "GameWith",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GVE9VR1Rnb3NzZVN1dF8taWlsYWRFdG00Ym51SHhqT1pxaTJfQUR5enF3bHdnSjFSUnlHT1U1cnlZQ2RtckRzVDBjRmFxc2JnVjktM3o2a1M?oc=5",
      "via": "Googleニュース「声優」"
