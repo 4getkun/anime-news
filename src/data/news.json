@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-07T00:18:24.129Z",
- "count": 4787,
+ "generatedAt": "2026-10-07T01:17:57.587Z",
+ "count": 4797,
  "dedupe": {
-  "exact": 2451,
-  "syndicated": 225,
-  "similar": 282,
-  "syndicatedTotal": 2712,
-  "syndicatedLeft": 845
+  "exact": 2455,
+  "syndicated": 227,
+  "similar": 286,
+  "syndicatedTotal": 2723,
+  "syndicatedLeft": 847
  },
  "calendar": [
   {
@@ -3274,6 +3274,25 @@
   {
    "date": "2026-10-07",
    "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": null,
+   "title": "本日10月7日（水）放送開始の2026年秋アニメ",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Yd3c0QmxlUGJ6M2V5NWZLdkxhOTZFSGd5aWtndkVtYWE0eU12Z0lwNnRMVDdxV19TTHpPOEw5WlNzSkY3dWFLb3pqUWM?oc=5",
+   "source": "ナタリー",
+   "sources": 4,
+   "categories": [
+    "broadcast",
+    "new",
+    "visual",
+    "movie"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-07",
+   "precision": "day",
    "verb": "stream",
    "label": "配信",
    "work": "おねがいアイプリ",
@@ -3283,25 +3302,6 @@
    "sources": 4,
    "categories": [
     "music"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-07",
-   "precision": "day",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": null,
-   "title": "本日10月7日（水）放送開始の2026年秋アニメ",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Yd3c0QmxlUGJ6M2V5NWZLdkxhOTZFSGd5aWtndkVtYWE0eU12Z0lwNnRMVDdxV19TTHpPOEw5WlNzSkY3dWFLb3pqUWM?oc=5",
-   "source": "ナタリー",
-   "sources": 3,
-   "categories": [
-    "broadcast",
-    "new",
-    "visual",
-    "movie"
    ],
    "platforms": [],
    "spoiler": false
@@ -3328,10 +3328,10 @@
    "precision": "day",
    "verb": "broadcast",
    "label": "放送",
-   "work": "魔法騎士レイアース",
-   "title": "「小さい頃の私が夢見た出来事」——『魔法騎士レイアース』新作アニメ、10月7日に放送開始",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6MW1XdWlQTkNiVzN5MTJycGdDMWJKMzBlV2lhcEJVX21Ycnh2SWFmOXZWcFZ2ZWZYM2ZBZEtVZXlGNm1OU2c?oc=5",
-   "source": "shiritomo",
+   "work": null,
+   "title": "「探偵はもう、死んでいる。」第2期10月7日～放送開始！【秋アニメ2026】",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ja2E2V3pHZzFjQzN0OTJfUFk5a3lsYmFVSE5BeU9UMHB3YUlRU1VCSlBxVWJJN3dZaG5NVEhsSm15eURUcTRzLXRESkpOZ1N0YkhoLVBKSVlRd18yUmRzaVdVSEZFdw?oc=5",
+   "source": "GAME Watch",
    "sources": 3,
    "categories": [
     "new",
@@ -3345,11 +3345,11 @@
    "precision": "day",
    "verb": "broadcast",
    "label": "放送",
-   "work": null,
-   "title": "「探偵はもう、死んでいる。」第2期10月7日～放送開始！【秋アニメ2026】",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ja2E2V3pHZzFjQzN0OTJfUFk5a3lsYmFVSE5BeU9UMHB3YUlRU1VCSlBxVWJJN3dZaG5NVEhsSm15eURUcTRzLXRESkpOZ1N0YkhoLVBKSVlRd18yUmRzaVdVSEZFdw?oc=5",
-   "source": "GAME Watch",
-   "sources": 2,
+   "work": "魔法騎士レイアース",
+   "title": "「小さい頃の私が夢見た出来事」——『魔法騎士レイアース』新作アニメ、10月7日に放送開始",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6MW1XdWlQTkNiVzN5MTJycGdDMWJKMzBlV2lhcEJVX21Ycnh2SWFmOXZWcFZ2ZWZYM2ZBZEtVZXlGNm1OU2c?oc=5",
+   "source": "shiritomo",
+   "sources": 3,
    "categories": [
     "new",
     "broadcast"
@@ -6785,8 +6785,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 422,
-   "accepted": 421
+   "archived": 426,
+   "accepted": 425
   },
   {
    "id": "natalie-comic",
@@ -6796,8 +6796,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 565,
-   "accepted": 565
+   "archived": 564,
+   "accepted": 564
   },
   {
    "id": "lisani",
@@ -6851,8 +6851,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2053,
-   "accepted": 2007
+   "archived": 2056,
+   "accepted": 2010
   },
   {
    "id": "gnews-tvanime",
@@ -6862,8 +6862,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 800,
-   "accepted": 782
+   "archived": 799,
+   "accepted": 781
   },
   {
    "id": "gnews-movie",
@@ -6873,8 +6873,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 426,
-   "accepted": 383
+   "archived": 427,
+   "accepted": 384
   },
   {
    "id": "gnews-seiyu",
@@ -6884,8 +6884,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1202,
-   "accepted": 1075
+   "archived": 1204,
+   "accepted": 1076
   },
   {
    "id": "natalie-eiga",
@@ -6895,8 +6895,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 415,
-   "accepted": 33
+   "archived": 416,
+   "accepted": 34
   },
   {
    "id": "inside-games",
@@ -6906,8 +6906,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 693,
-   "accepted": 239
+   "archived": 694,
+   "accepted": 240
   },
   {
    "id": "4gamer",
@@ -6917,7 +6917,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 516,
+   "archived": 519,
    "accepted": 25
   },
   {
@@ -6928,7 +6928,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 532,
+   "archived": 533,
    "accepted": 115
   },
   {
@@ -6939,8 +6939,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 581,
-   "accepted": 23
+   "archived": 583,
+   "accepted": 24
   },
   {
    "id": "otakuma",
@@ -6961,8 +6961,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 11679,
-   "accepted": 1164
+   "archived": 11729,
+   "accepted": 1173
   },
   {
    "id": "prtimes",
@@ -6972,7 +6972,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 11531,
+   "archived": 11622,
    "accepted": 176
   },
   {
@@ -7005,11 +7005,203 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 99,
-   "accepted": 99
+   "archived": 100,
+   "accepted": 100
   }
  ],
  "items": [
+  {
+   "title": "しまむらパークで「ちいかわ」グッズが本日10月7日12時より販売！卓上・壁掛けなど選べる「2027年用カレンダー」全3種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/07/188866.html",
+   "pubDate": "2026-10-07T01:00:03.000Z",
+   "firstSeen": "2026-10-07T01:17:45.038Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/07/188866.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c0e6dbeb427a1a48ceb85ea8d04a057134008a05?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "鈴木愛奈×瀬戸麻沙美×伊藤彩沙がアフレコ裏を告白 「(FXは)自己責任ーー!!」客席が叫ぶ異例の先行上映会レポート＜FX戦士くるみちゃん＞(WEBザテレビジョン)",
+   "summary": "10月1日より放送中のTVアニメ「FX戦士くるみちゃん」の第1話先行上映会が9月27日、東京・池袋HUMAXシネマズにて開催され、福賀くるみ役の鈴木愛奈、小金萌智子役の瀬戸麻沙美、山師芽吹役の伊藤彩沙",
+   "link": "https://news.yahoo.co.jp/articles/3d7269fdb558cd320f75473192d0c8b51cba5fb1?source=rss",
+   "pubDate": "2026-10-07T01:00:00.000Z",
+   "firstSeen": "2026-10-07T01:17:45.038Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "broadcast",
+    "movie",
+    "event"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/3d7269fdb558cd320f75473192d0c8b51cba5fb1?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ALWAYS 三丁目の夕日」の配信はどこで見れる？見放題を比較",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/07/103578.html",
+   "pubDate": "2026-10-07T00:52:14.000Z",
+   "firstSeen": "2026-10-07T01:17:45.038Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "works": [
+    "ALWAYS 三丁目の夕日"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/07/103578.html"
+    }
+   ]
+  },
+  {
+   "title": "「ブラック・ショーマン」の配信はどこで見れる？レンタル料金とお得な視聴方法",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/07/103577.html",
+   "pubDate": "2026-10-07T00:45:46.000Z",
+   "firstSeen": "2026-10-07T01:17:45.038Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ブラック・ショーマン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/07/103577.html"
+    }
+   ]
+  },
+  {
+   "title": "「とある科学の超電磁砲」の配信はどこで見れる？1期・2期・3期を見放題で視聴できるサブスクを比較",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/07/103576.html",
+   "pubDate": "2026-10-07T00:39:42.000Z",
+   "firstSeen": "2026-10-07T01:17:45.038Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "works": [
+    "とある科学の超電磁砲"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/07/103576.html"
+    }
+   ]
+  },
+  {
+   "title": "「グランド・イリュージョン」の配信はどこで見れる？見放題・レンタルを比較",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/07/103575.html",
+   "pubDate": "2026-10-07T00:35:46.000Z",
+   "firstSeen": "2026-10-07T01:17:45.038Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "works": [
+    "グランド・イリュージョン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/07/103575.html"
+    }
+   ]
+  },
+  {
+   "title": "Dragon Ball Super: Beerus Breaks Netflix Record Ahead of U.S. Release Date",
+   "summary": "Dragon Ball Super: Beerus just beat out JoJo's: Steel Ball Run to break the Netflix Anime YouTube channel's record for most-viewed trailer.",
+   "link": "https://www.cbr.com/dragon-ball-super-netflix-record-break-trailer/",
+   "pubDate": "2026-10-07T00:20:11.000Z",
+   "firstSeen": "2026-10-07T01:17:45.038Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/6c4ad6ba-6c7d-4990-b07f-73a68307b827.jpeg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "broadcast",
+    "visual"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/dragon-ball-super-netflix-record-break-trailer/"
+    }
+   ]
+  },
   {
    "title": "TVアニメ『本好きの下剋上 領主の養女』続編「貴族院の自称図書委員」編の制作が決定！ アニメ制作は引き続きWIT STUDIOが担当",
    "summary": "",
@@ -7603,6 +7795,13 @@
      "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/9ff69a134f52a8d6dce78f96e32633a93d3812c3?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16dmxqMnVWR3htUDhmTnczeHdRaURmYUpMX1FMRjdnWU95SlNtVWp5b3V1OVNvMGtWb085NV9FbDNTRlM1endoV0gtYTI2Wmd4d3VrZHd3enFEY1JuUW9mclFiM0hrZk9ZcWd4OEs2SmRLSXJDdVVta0dFRXNlYXM?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -8440,6 +8639,13 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/d5bb7a543c9652b152449e43c06919c50c4815af?source=rss",
      "syndicated": true
+    },
+    {
+     "name": "GAME Watch（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UMVVzcVZnSGVyLVI4Q1NWSm9XYkJ3dGZtZV9DRjRkQ0JSV3dTYzNsZ3lNeVZnMTFhaVEwbDcweDhGYk8tRC15emtMSWNleElndW9mTkJWZVNIT2Y2Vm5BVlVPWk5TWXRoOV9fbU5acWhjNXJodElLMVBfTnhiLTA?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -8828,6 +9034,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/10/06/188863.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/07/173268.html"
     },
     {
      "name": "インサイド（Yahoo!ニュース エンタメ）",
@@ -11448,25 +11659,24 @@
    "pubDate": "2026-10-06T09:00:00.000Z",
    "firstSeen": "2026-10-06T09:18:00.232Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-movie",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 8,
    "categories": [
     "cast",
     "movie"
    ],
-   "works": [
-    "ペリリュー ー楽園のゲルニカー"
-   ],
+   "works": [],
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Fdk40Rmd0QThoaEtxblF4cW5TbkJrRkFCRTlwejMxSnNLVUFJYm15NDFuNTVIcVJFNnNLR2dER2JjSmw3dkN5eHExeFM?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Fdk40Rmd0QThoaEtxblF4cW5TbkJrRkFCRTlwejMxSnNLVUFJYm15NDFuNTVIcVJFNnNLR2dER2JjSmw3dkN5eHExeFM?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -12970,23 +13180,21 @@
    "pubDate": "2026-10-06T06:00:00.000Z",
    "firstSeen": "2026-10-06T06:17:52.463Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 8,
    "categories": [],
-   "works": [
-    "テイコウペンギン",
-    "混血のカレコレ"
-   ],
+   "works": [],
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpTkdLUzVnMktDbU96UlFmbDdSN25rbkM2MTBQRktaWVJGTEU3OWlhUFB3QVNSYnpsUWVLd08wWXB4TnJLc0hxbExtMUk?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpTkdLUzVnMktDbU96UlFmbDdSN25rbkM2MTBQRktaWVJGTEU3OWlhUFB3QVNSYnpsUWVLd08wWXB4TnJLc0hxbExtMUk?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -13562,7 +13770,7 @@
    "syndicated": true,
    "kind": "general",
    "lang": "ja",
-   "score": 12,
+   "score": 8,
    "categories": [],
    "works": [],
    "spoiler": false,
@@ -22786,7 +22994,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 14,
+   "score": 18,
    "categories": [
     "new"
    ],
@@ -25208,7 +25416,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 6,
+   "score": 10,
    "categories": [],
    "works": [
     "PSYREN"
@@ -26539,7 +26747,7 @@
    "syndicated": true,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "new"
    ],
@@ -28389,23 +28597,25 @@
    "pubDate": "2026-10-04T22:00:00.000Z",
    "firstSeen": "2026-10-04T22:18:05.909Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-tvanime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
    "score": 13,
    "categories": [
     "broadcast"
    ],
-   "works": [],
+   "works": [
+    "PSYREN",
+    "ブラクロ"
+   ],
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfeEJqNDNkNFRYV1lWTm1oYVJQWl9qSFFxSEYyMFo2WVE0ZmdzdVM0dUM3M1ZTTEwtUVViRVNzUjJfMWgya041cmF1bVU?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfeEJqNDNkNFRYV1lWTm1oYVJQWl9qSFFxSEYyMFo2WVE0ZmdzdVM0dUM3M1ZTTEwtUVViRVNzUjJfMWgya041cmF1bVU?oc=5"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -32352,6 +32562,33 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MYWxHeWs3eXVyc3RKZ1dkQy1qcHdnOV9OeXd1TDd6Zlg3ZzIxVFJrZkJSdjRnWXpTVnZWeHppTE5qWTI0UmlxWnFYWld3RVEwWGI0SVI5X3FldXVlclE?oc=5",
      "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "声優と夜あそび 繋【金田朋子×川島零士×そびー】#36",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qb0Y1aS1hN3RmRjFhMl9vNEE2RXdoMUZ6Y0U3bGx2QXZCVDhBSmFnbVREbVp1OFE1ZkRTRFVKaXBrdGpsclZSVXpXaG1MVW9OV3BLNE5UbDVJRUJUNnUteUtQZXRWYUsx?oc=5",
+   "pubDate": "2026-10-04T07:00:00.000Z",
+   "firstSeen": "2026-10-07T01:17:45.038Z",
+   "image": null,
+   "source": "ABEMA",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qb0Y1aS1hN3RmRjFhMl9vNEE2RXdoMUZ6Y0U3bGx2QXZCVDhBSmFnbVREbVp1OFE1ZkRTRFVKaXBrdGpsclZSVXpXaG1MVW9OV3BLNE5UbDVJRUJUNnUteUtQZXRWYUsx?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -58036,6 +58273,103 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-10-01/tapas-to-end-service-in-march-2027-leaving-readers-without-access-to-purchased-content/.242384"
+    }
+   ]
+  },
+  {
+   "title": "山崎貴の監督作「ALWAYS 三丁目の夕日」「ゴジラ-1.0」金曜ロードショーで2週連続放送",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qNGVRbVlZcGN1eUZhdll1SmVfSDY4ZVlBZGUtR19ZVjZOZkJDSVVNY29yQ1FEckNSb3RuV1dTRlhaM1gtVGhrRXlwRQ?oc=5",
+   "pubDate": "2026-10-01T21:00:00.000Z",
+   "firstSeen": "2026-10-01T21:17:44.921Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "cast",
+    "movie",
+    "broadcast"
+   ],
+   "works": [
+    "ゴジラ-0.0",
+    "金ロー",
+    "ALWAYS 三丁目の夕日",
+    "ゴジラ-1.0"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qNGVRbVlZcGN1eUZhdll1SmVfSDY4ZVlBZGUtR19ZVjZOZkJDSVVNY29yQ1FEckNSb3RuV1dTRlhaM1gtVGhrRXlwRQ?oc=5"
+    },
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/adc40c799939dd2031626bbca9a24e72672ed263?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/8c1c0f736fff07bed1318f788427e29c3cb558ad?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/aa903b98c1bcee76d9b2e757385573e7eb137ecb?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/744d450626ecc37c1d543a8be6491981056de434?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/fe70e5531c768583b225640d0e788dace4c02881?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ee32200d04cb09b9b5c2239a50a2ad1458cbcedc?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「金ロー」で10月23日から2週連続で山崎貴監督作品「ALWAYS 三丁目の夕日」「ゴジラ－1.0」を放送(映画.com)",
+   "summary": "山崎貴監督最新作「ゴジラ－0.0」の11月3日公開を記念して、「金曜ロードショー」で、10月23日、30日の2週に渡って山崎監督の「ALWAYS 三丁目の夕日」（05）「ゴジラ－1.0」（23）の放送",
+   "link": "https://news.yahoo.co.jp/articles/4b8fa33efa07191fbab4610b3a18ca808814b626?source=rss",
+   "pubDate": "2026-10-01T21:00:00.000Z",
+   "firstSeen": "2026-10-01T21:17:44.921Z",
+   "image": null,
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/4b8fa33efa07191fbab4610b3a18ca808814b626?source=rss",
+     "syndicated": true
     }
    ]
   },
