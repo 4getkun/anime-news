@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-08T22:18:52.072Z",
- "count": 5641,
+ "generatedAt": "2026-10-08T23:19:14.378Z",
+ "count": 5663,
  "dedupe": {
-  "exact": 2868,
+  "exact": 2886,
   "syndicated": 268,
   "similar": 337,
-  "syndicatedTotal": 3186,
-  "syndicatedLeft": 1000
+  "syndicatedTotal": 3204,
+  "syndicatedLeft": 1007
  },
  "calendar": [
   {
@@ -923,6 +923,23 @@
   {
    "date": "2026-10",
    "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "魔法騎士レイアース",
+   "title": "秋アニメ『魔法騎士レイアース』初回からの“サプライズ演出”に往年のファン大興奮「反則すぎる」(ふたまん＋)",
+   "link": "https://news.yahoo.co.jp/articles/89cab098fe30fe3f0a264f536bf47e60e623eb9f?source=rss",
+   "source": "ふたまん＋（Yahoo!ニュース エンタメ）",
+   "sources": 2,
+   "categories": [
+    "new",
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10",
+   "precision": "month",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -1076,23 +1093,6 @@
    "source": "MANTANWEB",
    "sources": 2,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10",
-   "precision": "month",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": "魔法騎士レイアース",
-   "title": "秋アニメ『魔法騎士レイアース』初回からの“サプライズ演出”に往年のファン大興奮「反則すぎる」(ふたまん＋)",
-   "link": "https://news.yahoo.co.jp/articles/89cab098fe30fe3f0a264f536bf47e60e623eb9f?source=rss",
-   "source": "ふたまん＋（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "new",
-    "goods"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -3949,6 +3949,20 @@
   {
    "date": "2026-10-09",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "本日2026年10月9日（金）発売分のマンガ雑誌リスト",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wcXhWTEs4UlhDZE9kUTZpeXM5VXFlcEtyWUI5OVpLMkYxS2tfS1lDRlZ3RU9PRWVSV3Q4cEpEeVU0b3g3TjUxX2c0SF8?oc=5",
+   "source": "コミックナタリー",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-09",
+   "precision": "day",
    "verb": "event",
    "label": "開催",
    "work": "このすば",
@@ -6402,6 +6416,24 @@
    "precision": "month",
    "verb": "broadcast",
    "label": "放送",
+   "work": null,
+   "title": "「赤ずきん、旅の途中で死体と出会う。」27年1月放送開始 追加キャストに佐藤拓也、田丸篤志ら PV第1弾も公開(映画.com)",
+   "link": "https://news.yahoo.co.jp/articles/db5f42d0af98d0c4702bb7253c4107f92ce5964d?source=rss",
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [
+    "broadcast",
+    "visual",
+    "cast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01",
+   "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
    "work": "キミイロヒラリ",
    "title": "2027TV年1月より放送開始！アニメ「描くなるうえは」オープニングテーマはshallmの『キミイロヒラリ』に決定！",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vN2VrNVhOYjdFSUdNeDJ5aFplVmRVaTJoY0hodjJjLW1aTnFRTWVyeGpRLUszdWlRckhlWERoUTdKTFY0cDNEb2g0QkRXSlFkQmRfWlhuSFRKeTJWTGFxdnltdmdKSHBpM1E?oc=5",
@@ -7841,8 +7873,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 670,
-   "accepted": 670
+   "archived": 672,
+   "accepted": 672
   },
   {
    "id": "lisani",
@@ -7852,17 +7884,17 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 111,
-   "accepted": 111
+   "archived": 112,
+   "accepted": 112
   },
   {
    "id": "seigura",
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 22,
    "accepted": 22
   },
@@ -7871,9 +7903,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 3,
    "accepted": 3
   },
@@ -7885,7 +7917,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 198,
+   "archived": 199,
    "accepted": 86
   },
   {
@@ -7896,8 +7928,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2439,
-   "accepted": 2384
+   "archived": 2458,
+   "accepted": 2403
   },
   {
    "id": "gnews-tvanime",
@@ -7907,8 +7939,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 930,
-   "accepted": 906
+   "archived": 933,
+   "accepted": 909
   },
   {
    "id": "gnews-movie",
@@ -7918,8 +7950,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 477,
-   "accepted": 432
+   "archived": 478,
+   "accepted": 433
   },
   {
    "id": "gnews-seiyu",
@@ -7929,8 +7961,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1382,
-   "accepted": 1232
+   "archived": 1384,
+   "accepted": 1234
   },
   {
    "id": "natalie-eiga",
@@ -7951,7 +7983,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 811,
+   "archived": 812,
    "accepted": 295
   },
   {
@@ -7962,8 +7994,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 622,
-   "accepted": 28
+   "archived": 624,
+   "accepted": 29
   },
   {
    "id": "denfaminico",
@@ -7973,8 +8005,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 660,
-   "accepted": 153
+   "archived": 663,
+   "accepted": 154
   },
   {
    "id": "gamespark",
@@ -7984,7 +8016,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 712,
+   "archived": 714,
    "accepted": 33
   },
   {
@@ -8006,8 +8038,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 13682,
-   "accepted": 1412
+   "archived": 13732,
+   "accepted": 1420
   },
   {
    "id": "prtimes",
@@ -8028,8 +8060,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 422,
-   "accepted": 422
+   "archived": 423,
+   "accepted": 423
   },
   {
    "id": "mal",
@@ -8050,11 +8082,528 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 112,
-   "accepted": 112
+   "archived": 113,
+   "accepted": 113
   }
  ],
  "items": [
+  {
+   "title": "「再婚承認を要求します」TVアニメ化、制作はTROYCA 日笠陽子＆木村良平ら出演(コミックナタリー)",
+   "summary": "Alphatart原作、HereLee脚色、SUMPUL作画による「再婚承認を要求します」が、2027年にTVアニメ化。ナビエ役を日笠陽子、ハインリ役を木村良平が務め、アニメーション制作はTROYCA",
+   "link": "https://news.yahoo.co.jp/articles/6844404945e197462e14a59b0453c531abe02d06?source=rss",
+   "pubDate": "2026-10-08T23:16:10.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 27,
+   "categories": [
+    "new",
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6844404945e197462e14a59b0453c531abe02d06?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "バニースーツの「エヴァ」“アスカ”コスプレイヤー「絶妙な肉付きとストッキングにこだわり」＜ワンフェス2026[夏]＞(WEBザテレビジョン)",
+   "summary": "漫画やアニメ、ゲームといったコンテンツと並び、今や日本が誇る文化として海外でも広く親しまれているコスプレ。7月26日には、世界最大規模のガレージキットの祭典として知られる「ワンダーフェスティバル202",
+   "link": "https://news.yahoo.co.jp/articles/607dfc26fab789b344a300274125d68e4136c1d9?source=rss",
+   "pubDate": "2026-10-08T23:05:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "event",
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/607dfc26fab789b344a300274125d68e4136c1d9?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ano、TVアニメ『ケロロ軍曹☆』OPテーマ「キライのちスキ！」配信開始＆Collaboration Music Videoを公開！",
+   "summary": "テレ東系列6局ネットにて毎週土曜あさ9時30分～放送中のTVアニメ『ケロロ軍曹☆』のOPテーマと...",
+   "link": "https://www.lisani.jp/0000319606/",
+   "pubDate": "2026-10-08T23:00:54.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610081800-yh-009.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "broadcast",
+    "music"
+   ],
+   "works": [
+    "ケロロ軍曹☆"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000319606/"
+    }
+   ]
+  },
+  {
+   "title": "『ゴースト・オブ・ツシマ』のアニメ『冥人奇譚』の公開が2027年から2028年に変更へ。新キャストとして佐古真弓さん、ふくまつ進紗さんが発表",
+   "summary": "音響は『ジョジョ』第6部の岩浪美和氏と『劇場版 SAO -オーディナル・スケール-』の小山恭正氏が担当。音楽は『ダンまち』の井内啓二氏が務める",
+   "link": "https://news.denfaminicogamer.jp/news/2610092m",
+   "pubDate": "2026-10-08T23:00:06.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/PhotoshopExtension_Image-2026-10-08T160655.768-727x1024.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "ゴースト・オブ・ツシマ",
+    "冥人奇譚"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610092m"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『Ghost of Tsushima 冥人奇譚』2028年公開へ キャストに佐古真弓、ふくまつ進紗",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01cVBlSUlEUHJlSkN6VTZlRjBhRnk2cDM0eTZQVnIwR3g0Y0ZWTVBsNTZtS1o4bV9FczZSWGRORHRlWFc0RWJVOFBKNE82MXdOT0ZiVEtzOUZEYlNkX3M1ejNR0gFnQVVfeXFMUGZhY2tLaXNtWTlCUUpXZkk4N3djNUVnMG1PQ1JrZ1ZCclI0QVhPX1c2SHUwelZDWmRPT0ttVm9nQWx5RlRJcm1hQjdEMVVCWldWT0lsdV9NZjdtZElsX1ZHa2xzLWQwaw?oc=5",
+   "pubDate": "2026-10-08T23:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "Real Sound｜リアルサウンド",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "Ghost of Tsushima 冥人奇譚"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Real Sound｜リアルサウンド",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01cVBlSUlEUHJlSkN6VTZlRjBhRnk2cDM0eTZQVnIwR3g0Y0ZWTVBsNTZtS1o4bV9FczZSWGRORHRlWFc0RWJVOFBKNE82MXdOT0ZiVEtzOUZEYlNkX3M1ejNR0gFnQVVfeXFMUGZhY2tLaXNtWTlCUUpXZkk4N3djNUVnMG1PQ1JrZ1ZCclI0QVhPX1c2SHUwelZDWmRPT0ttVm9nQWx5RlRJcm1hQjdEMVVCWldWT0lsdV9NZjdtZElsX1ZHa2xzLWQwaw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/06489825c979c446159161650c0f8b68d45fe723?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/bf5fe5990f08a16bf9ece930514a31dfc1ca8fbf?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "クランクイン！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PVFVlN1pzQmt0Q0tBdDBwMkMwWDBzc2RkV0FkZl8ta2IwdE1vMWhhWGthOUs2cnBkSUUtY1R3cUVBaXNlNHB5Q2cxX0Q3ZXpHWGFHdVFqYjg1T09jNDBxNVBfR21nWndlNHg3ZGw2eEFxSDlkRjFrb1l6UklrT3c?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "アニメ『ゴースト・オブ・ツシマ 冥人奇譚』2028年に公開予定。音楽を井内啓二、音響監督を岩浪美和が担当。追加スタッフ＆キャスト情報が解禁",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rckN3R1o2SHdndFNWelN5VmVfYzk5d0FPYVQxZDNmQWlhMDNCWUI5VlJJa2FsZ0dPeXFzQU51d2dUdGM5VjhONll2MTc0RHg5LTVzbjc4aw?oc=5",
+   "pubDate": "2026-10-08T23:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "ゴースト・オブ・ツシマ 冥人奇譚"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rckN3R1o2SHdndFNWelN5VmVfYzk5d0FPYVQxZDNmQWlhMDNCWUI5VlJJa2FsZ0dPeXFzQU51d2dUdGM5VjhONll2MTc0RHg5LTVzbjc4aw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "アニメ「Ghost of Tsushima 冥人奇譚」2028年に配信決定！追加スタッフも発表",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJdmpYbkJVVWVtZ3F3NjZzTXEyOVJmbWRuTGREeUF2aTRUWS0xWWY0bTRuTUFqS2w2akNxQlpSUWFTYTIySXpXSjA2MXpfQjRYREF4UnJ2MkdoZzdBN0Z1VHAtZmxzQQ?oc=5",
+   "pubDate": "2026-10-08T23:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "GAME Watch",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "broadcast",
+    "cast",
+    "game"
+   ],
+   "works": [
+    "Ghost of Tsushima 冥人奇譚"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJdmpYbkJVVWVtZ3F3NjZzTXEyOVJmbWRuTGREeUF2aTRUWS0xWWY0bTRuTUFqS2w2akNxQlpSUWFTYTIySXpXSjA2MXpfQjRYREF4UnJ2MkdoZzdBN0Z1VHAtZmxzQQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "GAME Watch（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/4bf208e7369e73babdb65e66676d27bd75d3296b?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "アニメ「Ghost of Tsushima 冥人奇譚」，2028年内に公開予定。追加スタッフやキャスト情報も同時に解禁",
+   "summary": "アニメ「GhostofTsushima冥人奇譚」が2028年内に公開予定であることが，現地時間2026年10月8日に開幕した「ニューヨーク・コミコン」で発表された。また，音楽や音響監督，キャストに関する続報も合わせて発表された。",
+   "link": "https://www.4gamer.net/games/587/G058755/20261008048/",
+   "pubDate": "2026-10-08T23:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "Ghost of Tsushima 冥人奇譚"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/587/G058755/20261008048/"
+    }
+   ]
+  },
+  {
+   "title": "亡くなった猫からのメッセージ…悲しむ飼い主を元気づけようとする姿に「うちの子も慰めてくれてたのかな」と話題に【漫画】(WEBザテレビジョン)",
+   "summary": "コミックの映像化や、ドラマのコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョンマンガ部」。今回は、『先にねこ2』を紹介する。11月20日(金",
+   "link": "https://news.yahoo.co.jp/articles/aa1e3fbf5efab33958903b8071e315487793b9ef?source=rss",
+   "pubDate": "2026-10-08T23:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "obituary"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/aa1e3fbf5efab33958903b8071e315487793b9ef?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「赤ずきん、旅の途中で死体と出会う。」27年1月放送開始 追加キャストに佐藤拓也、田丸篤志ら PV第1弾も公開(映画.com)",
+   "summary": "テレビアニメ「赤ずきん、旅の途中で死体と出会う。」の放送が、2027年1月からスタートすることが決定し、佐藤拓也、田丸篤志、くまいもとこ、西山宏太朗、雨蘭咲木子、白石涼子の出演が明らかになった。PV第",
+   "link": "https://news.yahoo.co.jp/articles/db5f42d0af98d0c4702bb7253c4107f92ce5964d?source=rss",
+   "pubDate": "2026-10-08T23:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "broadcast",
+    "visual",
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/db5f42d0af98d0c4702bb7253c4107f92ce5964d?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Ghost of Tsushima: Legends Anime Announces 2 Cast, Additional Staff Members, 2028 Delay",
+   "summary": "Mayumi Sako, Shinya Fukumatsu star; anime first announced to debut in 2027",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-08/ghost-of-tsushima-legends-anime-announces-2-cast-additional-staff-members-2028-delay/.242629",
+   "pubDate": "2026-10-08T23:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "new",
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-08/ghost-of-tsushima-legends-anime-announces-2-cast-additional-staff-members-2028-delay/.242629"
+    }
+   ]
+  },
+  {
+   "title": "流石にガッカリ…金曜ロードショーでファンがブチギレた映画（5）高速エンドロールに批判が殺到した名作アニメ(映画チャンネル)",
+   "summary": "毎週金曜日のお楽しみである「金曜ロードショー」。しかし、放送時間の都合上、名シーンがカットされてしまうこともしばしば…。これに違和感を感じた視聴者が不満を爆発させることは最早お約束となっている。そこで",
+   "link": "https://news.yahoo.co.jp/articles/019afbe0fcbb9a0c44dfbf5bc572957b86754bc7?source=rss",
+   "pubDate": "2026-10-08T22:56:55.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "映画チャンネル（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画チャンネル（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/019afbe0fcbb9a0c44dfbf5bc572957b86754bc7?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "映画チャンネル（Yahoo!ニュース）",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSzlWc3FldVl0dlpYM3FkV3g4MGg3Y2F6UmthZFlvbXFQOXJFdTMzdUtTQk5xODh6T0FPMFZaZE5uYXBxVG1GX1hzTENNYTBhajF4bHExemhYOU4tNjg0dUVHVFhRdmd3MTR1V0ViN0QzZmMwWG4wYy1QOFZwS2s?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "漫画『オーバーロード』休載へ／『ちいかわ』特典情報にネット衝撃【10／8よく読まれたアニメ＆ゲームニュース】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vQzZoYzZWRmdLSzBPaldueGZ2Qml4X1VINldGQVowQlhpVnRKTVB4YmxHOXJyM3p1N3RfaHBocFZ1dkV5dmtGbDcwa3R5VTI3?oc=5",
+   "pubDate": "2026-10-08T22:50:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "オリコンニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "game"
+   ],
+   "works": [
+    "オーバーロード",
+    "ちいかわ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコンニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vQzZoYzZWRmdLSzBPaldueGZ2Qml4X1VINldGQVowQlhpVnRKTVB4YmxHOXJyM3p1N3RfaHBocFZ1dkV5dmtGbDcwa3R5VTI3?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "Transformers Officially Brings Back an Overlooked G1 Autobot With Powerful Tank Upgrade",
+   "summary": "Transformers fans just got their first look at a wildly underrated G1 Autobot's new design -- and much more -- directly from NYCC2026.",
+   "link": "https://www.cbr.com/transformers-age-of-the-primes-guzzle-hasbro-nycc-2026/",
+   "pubDate": "2026-10-08T22:41:26.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/transformers-officially-brings-back-an-overlooked-g1-autobot-with-powerful-tank-upgrade.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/transformers-age-of-the-primes-guzzle-hasbro-nycc-2026/"
+    }
+   ]
+  },
+  {
+   "title": "ザ・ボクサー＞閲覧数10.6億の人気ウェブトゥーン テレビアニメ化 日韓スタジオ共同制作 内山昂輝、小野賢章、関智一、豊永利行出演（MANTANWEB）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MZW9abVVaLVJ1RXdRc05EdUpGZ21YVzNLYzdrZV8talNGcmpKYTB3TFpGdFUtazA3RUtlSk9NcUpKRERlVlBtaGZDNTM1M1g3ZWpUUGZ2blJhVXRxTVMtRW9WVTIxYjAyOHRRVGFnUjBickFNeHF2Y3Q2RHg4V0E?oc=5",
+   "pubDate": "2026-10-08T22:38:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "MANTANWEB（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "new",
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MANTANWEB（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MZW9abVVaLVJ1RXdRc05EdUpGZ21YVzNLYzdrZV8talNGcmpKYTB3TFpGdFUtazA3RUtlSk9NcUpKRERlVlBtaGZDNTM1M1g3ZWpUUGZ2blJhVXRxTVMtRW9WVTIxYjAyOHRRVGFnUjBickFNeHF2Y3Q2RHg4V0E?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ホロライブ所属VTuberユニット、アニメ「〈物語〉シリーズ」とのコラボ展覧会が開催決定 互いの世界観が交差した展示に",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MVhGZjlDdTlvSFNBa1FRb1dLQ21JektyTVpnSmJwdnQzRHFDdS04VDFmUERVSWN2TXpmbUdiUXo2anpmdWFXemxzcGJraGtiTld6akJfdEhWd1o1N3pVU2NoVGtxNWZ1ZVlrNS1CTWlDbEV3SVdvUDYxdzVNZEE?oc=5",
+   "pubDate": "2026-10-08T22:36:20.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "event",
+    "goods"
+   ],
+   "works": [
+    "〈物語〉シリーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MVhGZjlDdTlvSFNBa1FRb1dLQ21JektyTVpnSmJwdnQzRHFDdS04VDFmUERVSWN2TXpmbUdiUXo2anpmdWFXemxzcGJraGtiTld6akJfdEhWd1o1N3pVU2NoVGtxNWZ1ZVlrNS1CTWlDbEV3SVdvUDYxdzVNZEE?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "＜EAT-MAN＞完全新作アニメ 原作者・吉富昭仁描き下ろしビジュアル公開 近未来的な都市 ネジを口にくわえたボルト",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NDdNbHR0amRZd1NLdXVibnNzcmdXNFZYdTRBR0RadXZvWGZGNTVHRkZUc29DY1BvZHppLVlnbjJYcWU2c0RwaFZsUHNEejBCdHhwamVsRTBtd3FFdW5rQzFYOHFDXzhlXzYzNzhNclVUQ1NwYVdWQ1kwV1RXWm8?oc=5",
+   "pubDate": "2026-10-08T22:30:58.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NDdNbHR0amRZd1NLdXVibnNzcmdXNFZYdTRBR0RadXZvWGZGNTVHRkZUc29DY1BvZHppLVlnbjJYcWU2c0RwaFZsUHNEejBCdHhwamVsRTBtd3FFdW5rQzFYOHFDXzhlXzYzNzhNclVUQ1NwYVdWQ1kwV1RXWm8?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "『リゼロ』第4期完結、スバルとレムがついに…最終話の瞬間に盛り上がり！コメント最多シーンTOP3【ランキング】(オタク総研)",
    "summary": "累計部数1600万部を突破した長月達平原作によるTVアニメ『Re:ゼロから始める異世界生活』4th Seasonについて、先日放送・配信された第85話（最終話）の「コメント最多シーン」ランキングがAB",
@@ -8082,6 +8631,34 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/ab812e0aa8f6da86e61d09d509b0816f6cd45d55?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "再婚承認を要求します：LINEマンガの人気作がテレビアニメ化 2027年放送 TROYCA制作 日笠陽子、木村良平、前野智昭、上田麗奈出演",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzYmNFRlFqR1lwTUxpcTctUllXTGtscGx1WTh3aEVaNDFRU3ZKckdDb3V5RlF5ai15R1BfaXVXMFUtNlZCaEE0NC1NTHl6TG9lUW1Hbk5lRzdBLVN2cU9NeklIbHF6b01hbERr?oc=5",
+   "pubDate": "2026-10-08T22:04:38.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "MANTANWEB",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 22,
+   "categories": [
+    "new",
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MANTANWEB",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzYmNFRlFqR1lwTUxpcTctUllXTGtscGx1WTh3aEVaNDFRU3ZKckdDb3V5RlF5ai15R1BfaXVXMFUtNlZCaEE0NC1NTHl6TG9lUW1Hbk5lRzdBLVN2cU9NeklIbHF6b01hbERr?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -8229,6 +8806,13 @@
      "name": "ふたまん＋（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/89cab098fe30fe3f0a264f536bf47e60e623eb9f?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "ふたまん＋（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VSXF1TE1qazlkWlVnb1ptb0JHelpOYnpJaDdKMWc1RUpIaHJFb3RPX19oWFYxWGxpQU5pRlNwRDBRb3VWbUtDQUpGTk9FOE5TYU96X3A4dUhaeFl5LXNZYVRMZ0hkMDN3RDhCSGRPMFFROWY5XzEwYldPbHZNR1k?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -8451,6 +9035,13 @@
      "name": "Infoseek",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkWVFfcS1tOVp6czZPWGlMSzZBSmRHa3ZtaUpkZEEwUWJmbGZjeGJQZGFFanJtRDZ4ZzNjbk5kUi1Md1llWERrMVkwRm1ZaDhXM2MxTHlMVHFtUzZjNlRhZw?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
+    },
+    {
+     "name": "オリコン（Yahoo!ニュース）",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92eXF1cGVZWl9Mam90d0FPMHFhdTRnZWZFZnROOXQwWExnMFp1cVFZdzVoZl9VNzhUam53Rll0S0VVSkNKcHBORUk2U3lreDJfekNtcmRQTlBIcHptT3pnUjg5dlcyZThCY09xNWh2UklXN1ZRTmo1SWVXNlRjbjA?oc=5",
      "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
@@ -8687,6 +9278,12 @@
      "via": "Googleニュース「TVアニメ 放送」"
     },
     {
+     "name": "河北新報オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kLWI0Q2hYTWRxY0R6V3ZQZzdxSU45VkZwX2tMR2Q1RFBNX241VTA0YnJqcjFMU3hWY0s1VVVkay1hc09WSVlUMkZWUElnVlZBdXVaWkduS0M0SVU3U2c?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
      "name": "Infoseek",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04VXZhRW9nOU9aWGJFNVpVX0JfZjFXVHJrVTJUcmdSdEpydndqNTRvckRFRHB0cGJscXUtZk1lckNIQ2NjbzFVOXRGanVxOHkzOTh1UzAxMEFxdF9xQjZURg?oc=5",
@@ -8780,6 +9377,13 @@
      "name": "クランクイン！（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/2e22cf2b9f2c0ea57f024d8923467f41e26713e5?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScmtrandEeUUzNXZuY2htVmlDRFREVk5wNW5NMmlWVFg1TFFyNk1aUEd5aTlPR3d3N2Jwbkk1emZ6MXpZQkdPRUhWWXdJNllvc1RNakpmSHdwTGFQOFdxS0ZiMTVqU096OUJhTURtYlBvQjgtcTNTVHdNekk3cW8?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -8991,6 +9595,65 @@
    ]
   },
   {
+   "title": "TVアニメ『再婚承認を要求します』が2027年に放送決定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uUE8ydm1aVURPMkdtRWZxd0dndVZPVDNDb1oxQ1dvVVdhTUNYTW5pOXlyVFdWSjZJMTZsSi1RZHYzS2NOQzY0TGxWcjctNnJKX1cxY1Q3WndLZw?oc=5",
+   "pubDate": "2026-10-08T22:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "電ファミニコゲーマー",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "broadcast"
+   ],
+   "works": [
+    "再婚承認を要求します"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uUE8ydm1aVURPMkdtRWZxd0dndVZPVDNDb1oxQ1dvVVdhTUNYTW5pOXlyVFdWSjZJMTZsSi1RZHYzS2NOQzY0TGxWcjctNnJKX1cxY1Q3WndLZw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『EAT-MAN』完全新作アニメのティザービジュアル第2弾公開。“ネジ”が当たるプレゼントキャンペーンも開催",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UeGMwSWFBRDZSQldIZWtOSmV5S3dHRDZoamFibnF3cFNVVm9FVjMteDJRdm5MeUFSNjZMc0hlRWdfM04yQktZRlFvYzU4cTRROXU2alRmQQ?oc=5",
+   "pubDate": "2026-10-08T22:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "ファミ通",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new",
+    "visual"
+   ],
+   "works": [
+    "EAT-MAN"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファミ通",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UeGMwSWFBRDZSQldIZWtOSmV5S3dHRDZoamFibnF3cFNVVm9FVjMteDJRdm5MeUFSNjZMc0hlRWdfM04yQktZRlFvYzU4cTRROXU2alRmQQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
    "title": "アニメ『アイカツ！』アンコール放送が本日（10/9）18:25よりスタート。原点となる1stシーズン全50話を新OP・EDで放送",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zN0I3aHFJRnJsZDNsU1Fjc0NyMDE0cGlDdVl4a2ZLLXY2c25qTXpQUjB1MFR3Q1BYd0U5WFM1SEZleUhwNFBOZk1HUW9tZFRVWVB2VGtxZw?oc=5",
@@ -9099,34 +9762,6 @@
    ]
   },
   {
-   "title": "「暴食のベルセルク」2期ティザーPV、フェイトが激しい戦いに身を投じていく(コミックナタリー)",
-   "summary": "TVアニメ「暴食のベルセルク Season 2」のティザーPVと場面カットが公開された。【動画】TVアニメ「暴食のベルセルク Season 2」ティザーPVティザーPVでは、パワーアップしたフェイトが",
-   "link": "https://news.yahoo.co.jp/articles/f36157cd9b7c866e21abdd3039898eb279b4dc15?source=rss",
-   "pubDate": "2026-10-08T21:00:17.000Z",
-   "firstSeen": "2026-10-08T21:17:45.032Z",
-   "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "new",
-    "visual"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/f36157cd9b7c866e21abdd3039898eb279b4dc15?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "アニメ「雑用付与術師」に石谷春貴、斧アツシ、石川由依 OPはLiSA×凛として時雨TK（コメントあり / 動画あり）",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DZFMzTmV3cEVsTUE1QkJFNHk4UG5nZkdyY1ZFZklIcXBRZzdNYWxRVDFNdlZqMTJ3NmVzTkNPNVMtYW9DblFwMDRpa2w?oc=5",
@@ -9203,6 +9838,13 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/1be0d9db5e607c698a9fed1483d44221ceb984da?source=rss",
      "syndicated": true
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQjdvc01CM2FxY3o3YmRFRHR4OUtxUUxXNDBHYUNrd2RsNmVTMFlCQzRLbVpkNnRJVEFscmFROUJOVWpzZ1E3UEJsVzIxdlR4dHdsSkYwM1NwdkY0bG9XMUNBODhBRnpzOE5YR3FIdXBSZmE2QWZTREhsMFI0ZWM?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -9232,6 +9874,41 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWM2E5UjVHY1RPdTNtdkx0Z2twOE9WdkpKVmt1cVh3ZUY3bVpHVDhiRXdXckJXbDVEWjR0YWJlRWkwdFIzUktNVE9rTmk3OHdNZEJVNHAyUlZkUQ?oc=5",
      "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「暴食のベルセルク」2期ティザーPV、フェイトが激しい戦いに身を投じていく（動画あり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxQldrNVdLcUQySjZ0X0Q3Zm1RdURhNm9PQXhRSnhWR2YyS1ZtdXhnMjhvRk1ZYnh5NE9zOEhPRjdHM0lYdWZGQXpTUGk?oc=5",
+   "pubDate": "2026-10-08T21:00:00.000Z",
+   "firstSeen": "2026-10-08T21:17:45.032Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new",
+    "visual"
+   ],
+   "works": [
+    "暴食のベルセルク"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxQldrNVdLcUQySjZ0X0Q3Zm1RdURhNm9PQXhRSnhWR2YyS1ZtdXhnMjhvRk1ZYnh5NE9zOEhPRjdHM0lYdWZGQXpTUGk?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f36157cd9b7c866e21abdd3039898eb279b4dc15?source=rss",
+     "syndicated": true
     }
    ]
   },
@@ -9775,6 +10452,33 @@
    ]
   },
   {
+   "title": "アニメ『薬屋のひとりごと』猫猫は、趙迂に着せるための子ども用の綿入れを探して、大通りの市を訪れるが…？ 第50話「火鼠の皮衣」あらすじ＆先行カット",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hYndFckJPSS1aXzJjVnZ0dGRpVEM3TzIwVmgwdTlWY0VxMGRJR2RyMUFhUjRzLVRfRGVjSGE0d0t5R0psWEQwQkpZeDd2UQ?oc=5",
+   "pubDate": "2026-10-08T19:17:45.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "PASH! PLUS",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "works": [
+    "薬屋のひとりごと"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PASH! PLUS",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hYndFckJPSS1aXzJjVnZ0dGRpVEM3TzIwVmgwdTlWY0VxMGRJR2RyMUFhUjRzLVRfRGVjSGE0d0t5R0psWEQwQkpZeDd2UQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
    "title": "Dark Horse to Release Gou Tanabe's The Outsider and Other Early Adaptations Collection",
    "summary": "Company to also release Martial War graphic novel by co-creators Hiroyuki Takei, Will Carter, Aidan White.",
    "link": "https://www.animenewsnetwork.com/news/2026-10-08/dark-horse-to-release-gou-tanabe-the-outsider-and-other-early-adaptations-collection/.242625",
@@ -10272,6 +10976,30 @@
      "name": "コミックナタリー",
      "sourceId": "natalie-comic",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xT2hJSFRvRVRobmhiWWQwaE9kUlczcFR5aG1oT1NhcC1QUnpSVFNKVjB1X0ExOG1nVS1jUWlSYmppSGFqS3ZhUTFDNXY?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "本日2026年10月9日（金）発売分のマンガ雑誌リスト",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wcXhWTEs4UlhDZE9kUTZpeXM5VXFlcEtyWUI5OVpLMkYxS2tfS1lDRlZ3RU9PRWVSV3Q4cEpEeVU0b3g3TjUxX2c0SF8?oc=5",
+   "pubDate": "2026-10-08T15:00:00.000Z",
+   "firstSeen": "2026-10-08T23:18:47.956Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": -2,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wcXhWTEs4UlhDZE9kUTZpeXM5VXFlcEtyWUI5OVpLMkYxS2tfS1lDRlZ3RU9PRWVSV3Q4cEpEeVU0b3g3TjUxX2c0SF8?oc=5"
     }
    ]
   },
@@ -81600,7 +82328,7 @@
    "pubDate": "2026-10-02T03:02:25.000Z",
    "firstSeen": "2026-10-02T03:18:24.489Z",
    "image": null,
-   "source": "ANIPLEX",
+   "source": "Aniplex",
    "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
@@ -81613,15 +82341,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ANIPLEX",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qU0pUSFN3ZlpDYzRzRm9qS2E5RVhzN1NMV1pXY1ZuemZaTjRDUVpmZURuTmV1cmo1d21aNTc4MEFhNV9kMEtfaktNX1BxbVlWTVc0ejN3OVFnVmM?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    },
-    {
      "name": "Aniplex",
      "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVkhKUGhZc0xTTG9JM0lFUUhsR0QxdmRuNGpwXzlleVhESjdqX09LUnI5S0p2eWtfX09UQjBUdlMtblluOUpkbnhKeXhSTW5Sa1JSWFJzQVNQTDg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qU0pUSFN3ZlpDYzRzRm9qS2E5RVhzN1NMV1pXY1ZuemZaTjRDUVpmZURuTmV1cmo1d21aNTc4MEFhNV9kMEtfaktNX1BxbVlWTVc0ejN3OVFnVmM?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
