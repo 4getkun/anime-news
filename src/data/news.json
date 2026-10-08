@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-08T23:19:14.378Z",
+ "generatedAt": "2026-10-08T23:20:20.745Z",
  "count": 5663,
  "dedupe": {
-  "exact": 2886,
+  "exact": 2884,
   "syndicated": 268,
   "similar": 337,
-  "syndicatedTotal": 3204,
-  "syndicatedLeft": 1007
+  "syndicatedTotal": 3203,
+  "syndicatedLeft": 1008
  },
  "calendar": [
   {
@@ -7873,8 +7873,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 672,
-   "accepted": 672
+   "archived": 671,
+   "accepted": 671
   },
   {
    "id": "lisani",
@@ -7892,9 +7892,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 22,
    "accepted": 22
   },
@@ -7903,9 +7903,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 3,
    "accepted": 3
   },
@@ -7939,8 +7939,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 933,
-   "accepted": 909
+   "archived": 934,
+   "accepted": 908
   },
   {
    "id": "gnews-movie",
@@ -8038,7 +8038,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 13732,
+   "archived": 13733,
    "accepted": 1420
   },
   {
@@ -23341,7 +23341,7 @@
    "syndicated": false,
    "kind": "general",
    "lang": "ja",
-   "score": 16,
+   "score": 12,
    "categories": [
     "cast"
    ],
@@ -24450,7 +24450,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 6,
+   "score": 2,
    "categories": [
     "broadcast"
    ],
@@ -25529,7 +25529,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 16,
+   "score": 12,
    "categories": [],
    "works": [
     "バジリスク~甲賀忍法帖~"
@@ -28192,6 +28192,31 @@
    ]
   },
   {
+   "title": "「バジリスク～甲賀忍法帖～」TOKYO MX1で再放送、OPも有名な忍者バトルアクション(コミックナタリー)",
+   "summary": "せがわまさき・山田風太郎原作によるTVアニメ「バジリスク～甲賀忍法帖～」の再放送が決定。TOKYO MX1にて、10月12日より毎週月曜日21時25分から放送される。【画像】TVアニメ「バジリスク～甲",
+   "link": "https://news.yahoo.co.jp/articles/67e11cc5d38784bc394d5267830fb15f89ecb8af?source=rss",
+   "pubDate": "2026-10-07T08:00:17.000Z",
+   "firstSeen": "2026-10-07T08:17:44.265Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/67e11cc5d38784bc394d5267830fb15f89ecb8af?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "TVアニメ『蒼き伝承 - Welsh & Shedar』第2話場面写真公開 ウェルシュたちに新たな出会い",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JWWJ1dHZCWVF4ck9lWmdyMmxSODVxUktHQmNwLThTVmMxcGtEXzJkUzdHMnQ0Uy16OHM0b2Z2SmxBSmFVcDJzM05nSE12anVQaWpGYlQtNkQ3V3dRcmJPQzhB0gFnQVVfeXFMTkc4V3JTTDlyc3gyenVES1N6TFhwbm8ycVpUajJNOV8yTFhNT2RpVWFBNXBYbDVaZDBhNkNCRTFyTGwtbjhQNm1HLWlYLVpaVzFMSVkwM0xsR0pjX2FnbTdyTWV4TVVNNA?oc=5",
@@ -28352,45 +28377,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5la2V2dk11dUxRWUlEV0t0bE1nd18wbzZqbUM1RVRFZ1lKTWlxTElDX2g1Vk1JWEtmSnprQmxCM3lKNlVOeEpWRXVKUzZ4QkF2LUVubTZGMmo2SFoxQk1KcTJib0tCZHlGTWc?oc=5",
      "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「バジリスク～甲賀忍法帖～」TOKYO MX1で再放送、OPも有名な忍者バトルアクション",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53N1B2a0lybDllNXNNOV9Lb0RMRmRXcUlndGZQeUg4UVFzVmh3QW84cHlJTGdMQlRrNFVKSEhIRjRaYWVLUmh1YzRHczk?oc=5",
-   "pubDate": "2026-10-07T08:00:00.000Z",
-   "firstSeen": "2026-10-07T08:17:44.265Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [],
-   "works": [
-    "バジリスク~甲賀忍法帖~"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53N1B2a0lybDllNXNNOV9Lb0RMRmRXcUlndGZQeUg4UVFzVmh3QW84cHlJTGdMQlRrNFVKSEhIRjRaYWVLUmh1YzRHczk?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/67e11cc5d38784bc394d5267830fb15f89ecb8af?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YTW5sTWFJaDVidzcwTXI0WUZhSkFjRGhfVmVOV3kteTRSTGJJdGdXdld6eXR3VjhSMFVabFUwU3pqVm5XSHhYX0twYmFuX3ZFWFRIRVdVZDc3UE5rOVhHZGcyT0NidU9NZ1Mwei1qd3pWWC1ybnU3UmlaQjNmMUk?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
     }
    ]
   },
@@ -82328,7 +82314,7 @@
    "pubDate": "2026-10-02T03:02:25.000Z",
    "firstSeen": "2026-10-02T03:18:24.489Z",
    "image": null,
-   "source": "Aniplex",
+   "source": "ANIPLEX",
    "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
@@ -82341,9 +82327,15 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "Aniplex",
+     "name": "ANIPLEX",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qU0pUSFN3ZlpDYzRzRm9qS2E5RVhzN1NMV1pXY1ZuemZaTjRDUVpmZURuTmV1cmo1d21aNTc4MEFhNV9kMEtfaktNX1BxbVlWTVc0ejN3OVFnVmM?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "Aniplex",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVkhKUGhZc0xTTG9JM0lFUUhsR0QxdmRuNGpwXzlleVhESjdqX09LUnI5S0p2eWtfX09UQjBUdlMtblluOUpkbnhKeXhSTW5Sa1JSWFJzQVNQTDg?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
