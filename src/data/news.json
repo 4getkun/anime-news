@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-08T01:18:07.258Z",
- "count": 5176,
+ "generatedAt": "2026-10-08T02:18:02.533Z",
+ "count": 5188,
  "dedupe": {
-  "exact": 2637,
+  "exact": 2641,
   "syndicated": 246,
   "similar": 306,
-  "syndicatedTotal": 2936,
-  "syndicatedLeft": 915
+  "syndicatedTotal": 2941,
+  "syndicatedLeft": 917
  },
  "calendar": [
   {
@@ -3736,6 +3736,23 @@
   {
    "date": "2026-10-09",
    "precision": "day",
+   "verb": "stream",
+   "label": "配信",
+   "work": "このすば",
+   "title": "TVアニメ10周年記念「この素晴らしい世界に祝福を！ ABEMAチャンネル」初開設決定！TVアニメ全33話に、劇場版＆スピンオフも！『このすば』全アニメシリーズを10月9日（金）より5日間毎日無料配信",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zdWJVZGp4UklDYUNMeVppSUQxcEk1QzJxUHA3UHpQdFZuOUtEdkI3MGhoN3BsS3VGbi1BZWg3WlZUb3g0U3RzN1J1OTZDUkZ0UmhsNHRuREIwVENUNDcwYWQzdHZMSjRDbEE?oc=5",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [
+    "broadcast",
+    "movie"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-09",
+   "precision": "day",
    "verb": "movie",
    "label": "公開",
    "work": "バイオハザード",
@@ -3846,6 +3863,20 @@
    "categories": [
     "music"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-10",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "しまむらで「ナイトメアー・ビフォア・クリスマス」が10月10日発売！ジャックやゼロたちのアパレルや日常使いできる雑貨がラインナップ",
+   "link": "https://www.inside-games.jp/article/2026/10/08/188919.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -4054,6 +4085,22 @@
    "categories": [
     "new",
     "broadcast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-13",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": null,
+   "title": "ローソンで「ホロライブ」コラボが10月13日開催！兎田ぺこら、綺々羅々ヴィヴィら6人の秋衣装＆ハロウィングッズが盛りだくさん",
+   "link": "https://www.inside-games.jp/article/2026/10/08/188924.html",
+   "source": "インサイド",
+   "sources": 2,
+   "categories": [
+    "goods"
    ],
    "platforms": [],
    "spoiler": false
@@ -4450,6 +4497,22 @@
     "broadcast",
     "visual",
     "music"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-25",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": null,
+   "title": "プロの声優から“声の仕事”を学ぶ。声優・森田樹優氏を迎え、「ミニアフレコ体験」を10月25日に開催。",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50emRMZHBtVjVCSWg3TEN2TUpUNHhkcE44eWltSlNLMU5mZVM3cFp6Wm1ZdFVOZDlvY2xUTlBCalhZSlVfOXI5S1N5Q3hfMElNbjNHbTJVczZBV3J4T1paczZ4aFd1YnN1enc?oc=5",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [
+    "cast"
    ],
    "platforms": [],
    "spoiler": false
@@ -7183,8 +7246,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 608,
-   "accepted": 608
+   "archived": 610,
+   "accepted": 610
   },
   {
    "id": "lisani",
@@ -7227,8 +7290,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 187,
-   "accepted": 81
+   "archived": 189,
+   "accepted": 82
   },
   {
    "id": "gnews-anime",
@@ -7238,8 +7301,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2249,
-   "accepted": 2198
+   "archived": 2248,
+   "accepted": 2197
   },
   {
    "id": "gnews-tvanime",
@@ -7249,8 +7312,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 859,
-   "accepted": 838
+   "archived": 863,
+   "accepted": 841
   },
   {
    "id": "gnews-movie",
@@ -7260,8 +7323,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 448,
-   "accepted": 403
+   "archived": 449,
+   "accepted": 404
   },
   {
    "id": "gnews-seiyu",
@@ -7271,8 +7334,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1276,
-   "accepted": 1132
+   "archived": 1278,
+   "accepted": 1134
   },
   {
    "id": "natalie-eiga",
@@ -7282,7 +7345,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 429,
+   "archived": 430,
    "accepted": 36
   },
   {
@@ -7293,8 +7356,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 745,
-   "accepted": 260
+   "archived": 754,
+   "accepted": 264
   },
   {
    "id": "4gamer",
@@ -7304,7 +7367,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 569,
+   "archived": 571,
    "accepted": 25
   },
   {
@@ -7315,7 +7378,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 598,
+   "archived": 602,
    "accepted": 129
   },
   {
@@ -7326,7 +7389,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 638,
+   "archived": 640,
    "accepted": 27
   },
   {
@@ -7348,8 +7411,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 12728,
-   "accepted": 1275
+   "archived": 12778,
+   "accepted": 1278
   },
   {
    "id": "prtimes",
@@ -7359,8 +7422,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 12860,
-   "accepted": 190
+   "archived": 12957,
+   "accepted": 191
   },
   {
    "id": "ann",
@@ -7397,6 +7460,307 @@
   }
  ],
  "items": [
+  {
+   "title": "田村直美「ゆずれない願い」ついに配信解禁、昨晩放送「レイアース」新作で挿入歌に(音楽ナタリー)",
+   "summary": "田村直美の楽曲「ゆずれない願い」のデジタル配信が本日10月8日にスタートした。「ゆずれない願い」は1994年から翌95年にかけて放送されたテレビアニメ「魔法騎士レイアース」のオープニングテーマとして発",
+   "link": "https://news.yahoo.co.jp/articles/471b8374018acf638997f052c32dfe4429180d65?source=rss",
+   "pubDate": "2026-10-08T02:10:10.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "music"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/471b8374018acf638997f052c32dfe4429180d65?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "荒波ザッバーン……東映お馴染みの“荒磯に波”がキャラクター化 長年親しまれてきた企業シンボルを自社IPとして展開(KAI-YOU)",
+   "summary": "東映が、映画の冒頭などで長年使用してきた配給マーク、通称「荒磯に波」を擬人化した。【画像】ピクセルアニメ化もされた“荒磯に波”新キャラクターの名前は「あらいなみ T081」。10月8日の「トウエイの日",
+   "link": "https://news.yahoo.co.jp/articles/a9dc7adb44f78895cd730bb82443f3b80a0dd9ca?source=rss",
+   "pubDate": "2026-10-08T02:00:22.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "KAI-YOU（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "KAI-YOU（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/a9dc7adb44f78895cd730bb82443f3b80a0dd9ca?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ローソンで「ホロライブ」コラボが10月13日開催！兎田ぺこら、綺々羅々ヴィヴィら6人の秋衣装＆ハロウィングッズが盛りだくさん",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/08/188924.html",
+   "pubDate": "2026-10-08T02:00:03.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/08/188924.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d7fc71ea92067bdbebe3fe5546d0e12e3bc1468e?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ10周年記念「この素晴らしい世界に祝福を！ ABEMAチャンネル」初開設決定！TVアニメ全33話に、劇場版＆スピンオフも！『このすば』全アニメシリーズを10月9日（金）より5日間毎日無料配信",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zdWJVZGp4UklDYUNMeVppSUQxcEk1QzJxUHA3UHpQdFZuOUtEdkI3MGhoN3BsS3VGbi1BZWg3WlZUb3g0U3RzN1J1OTZDUkZ0UmhsNHRuREIwVENUNDcwYWQzdHZMSjRDbEE?oc=5",
+   "pubDate": "2026-10-08T02:00:02.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "broadcast",
+    "movie"
+   ],
+   "works": [
+    "このすば"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zdWJVZGp4UklDYUNMeVppSUQxcEk1QzJxUHA3UHpQdFZuOUtEdkI3MGhoN3BsS3VGbi1BZWg3WlZUb3g0U3RzN1J1OTZDUkZ0UmhsNHRuREIwVENUNDcwYWQzdHZMSjRDbEE?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
+   "title": "プロの声優から“声の仕事”を学ぶ。声優・森田樹優氏を迎え、「ミニアフレコ体験」を10月25日に開催。",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50emRMZHBtVjVCSWg3TEN2TUpUNHhkcE44eWltSlNLMU5mZVM3cFp6Wm1ZdFVOZDlvY2xUTlBCalhZSlVfOXI5S1N5Q3hfMElNbjNHbTJVczZBV3J4T1paczZ4aFd1YnN1enc?oc=5",
+   "pubDate": "2026-10-08T01:57:37.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50emRMZHBtVjVCSWg3TEN2TUpUNHhkcE44eWltSlNLMU5mZVM3cFp6Wm1ZdFVOZDlvY2xUTlBCalhZSlVfOXI5S1N5Q3hfMElNbjNHbTJVczZBV3J4T1paczZ4aFd1YnN1enc?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "「ワンピース」がガシャポン新シリーズ「CAPSULEVERSE」に登場！ルフィやゾロ、サンジたちがカプセルから飛び出す",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/08/188921.html",
+   "pubDate": "2026-10-08T01:41:00.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/08/188921.html"
+    }
+   ]
+  },
+  {
+   "title": "「攻殻機動隊」防水本革仕様のリュック、作品の世界観を日常で使える“装備”として再構築",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10WC15Ty1DM1RUV0gyZy1PejhhalY2TjIyOEF5cmFldWhNVzFZbnd0TUZBUUo0YWwtVkR4YjdQT3lEQ1g3S2F3eUtfWkw?oc=5",
+   "pubDate": "2026-10-08T01:32:00.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "攻殻機動隊"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10WC15Ty1DM1RUV0gyZy1PejhhalY2TjIyOEF5cmFldWhNVzFZbnd0TUZBUUo0YWwtVkR4YjdQT3lEQ1g3S2F3eUtfWkw?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "「ホロライブ」兎田ぺこら、大神ミオら5名の“しっぽ”がマスコットに！ガシャポン「カラフルカラビナ」全5種、可愛いお顔アクリルチャーム付き",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/08/188920.html",
+   "pubDate": "2026-10-08T01:30:07.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/08/188920.html"
+    }
+   ]
+  },
+  {
+   "title": "しまむらで「ナイトメアー・ビフォア・クリスマス」が10月10日発売！ジャックやゼロたちのアパレルや日常使いできる雑貨がラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/08/188919.html",
+   "pubDate": "2026-10-08T01:30:04.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/08/188919.html"
+    }
+   ]
+  },
+  {
+   "title": "「メダリスト」など6作品と早稲田アカデミーがコラボ、生徒への応援ムービーを公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zZkdIUDY1cnN0QndXM0RPMTl2dFFsakcyQ2hldFF0djZFTDdrUlJzY05yVzNaVDcxOVZrS04zODl0LTF6ZV9EZ1FzR3Q?oc=5",
+   "pubDate": "2026-10-08T01:30:00.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "メダリスト"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zZkdIUDY1cnN0QndXM0RPMTl2dFFsakcyQ2hldFF0djZFTDdrUlJzY05yVzNaVDcxOVZrS04zODl0LTF6ZV9EZ1FzR3Q?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "『リラックマ』×おふろcafeが3年連続開催！「おふろあがりのごゆるりタイム 2027」2027年1月8日から",
+   "summary": "『リラックマ』×おふろcafe「おふろあがりのごゆるりタイム 2027」が3年連続開催 リラックマとおふろcafeのコラボイベントが、3年連続開催となる「おふろあがりのごゆるりタイム 2027」として登場します。会場は全国のおふろcafe …",
+   "link": "https://nijimen.kusuguru.co.jp/topics/638988",
+   "pubDate": "2026-10-08T01:24:48.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/34897-1507-7dc0f3d4f5bc09644e4f9ff9fb21efb3-3900x2925-1.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event",
+    "goods"
+   ],
+   "works": [
+    "リラックマ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/638988"
+    }
+   ]
+  },
   {
    "title": "AIR TWOKYOからアニメ『刃牙道』グッズコレクションが10月8日（木）(10:00JST)販売開始！",
    "summary": "",
@@ -7599,6 +7963,33 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/4068ae73f282b1164134afb829609966ae75b35c?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『後宮の烏』の白川紺子の人気シリーズ『花菱夫妻の退魔帖』待望のコミカライズが発売！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000002458.000004702.html",
+   "pubDate": "2026-10-08T01:00:00.000Z",
+   "firstSeen": "2026-10-08T02:17:49.889Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "works": [
+    "後宮の烏",
+    "花菱夫妻の退魔帖"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000002458.000004702.html"
     }
    ]
   },
@@ -8064,7 +8455,7 @@
    "title": "この秋、新感覚“ゆる旅”アニメ始まる！鉄道旅行×完全オリジナル『てつりょー！meet with 鉄道むすめ』放送開始【先行カット】(オタク総研)",
    "summary": "トミーテックのキャラクターコンテンツ「鉄道むすめ」を原作とする完全オリジナルTVアニメ『てつりょー！meet with 鉄道むすめ』が、本日10月8日24時よりTOKYO MX、BSフジほかで放送を開",
    "link": "https://news.yahoo.co.jp/articles/9ec3a2b65edd43a8ab6db8381c744261c0443b71?source=rss",
-   "pubDate": "2026-10-07T22:12:00.000Z",
+   "pubDate": "2026-10-07T22:10:11.000Z",
    "firstSeen": "2026-10-07T22:17:46.536Z",
    "image": null,
    "source": "オタク総研（Yahoo!ニュース エンタメ）",
@@ -8091,6 +8482,13 @@
      "name": "Yahoo!ニュース",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjS1hsQVRXVVo0TEF2LXVISmhDdkFjd2lRM1VjNUZBZnMzNUdsWEVoRFdFcGpmOURCakV5MGxZRi1JNTRUbzc5RUZBQUl6RTJhb2VtczJHblpoNlNScHQwRmRXNjA2VE5GbkppQTVldnFyN1RlNExTWmVVRS04a3c?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oc0w1YmRHM2R1dlc4M05IbmtvZXI0Tnp0Z2VJQ1ZOUVhxUmtLUkdKSTFvS3ZFVmJIcjNIRFdQRWRlV3A3eWctWDIxUlo5ZGlCcV9VOEkwNVVEZmhGTV9BNk530gFnQVVfeXFMTy1OMVBLZ1oxQzZpdU5SU1pfWDYyWUI1ZWY3WmIyTHJ6NVRJaGp3clNtcEduVktYZGFodlZSTjU3N0t1WTJMQ2c0alM3NkJKdU9HdjBEci1LMU0tWi1yWWdzOGM1cGN6cw?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
@@ -11249,6 +11647,13 @@
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WdmN3MEdZamhzdGVoY2wwSXgyRE1PaXRrRGRDZ25MdHp2NzVVT0EtVklmcTZTUklYaHJRZmNlSmVqOGJ6bmRnbTlROWVRaXFqcjA1Y0tyQXBlOUIxTEJ0Y1pn0gFnQVVfeXFMT3J0a3JRNlFwWlpqZGltX01naWtPVFFEbndzN2lVdUtESWpFV0ZSM2Vhb3otWklETldyMDB1TXNaNEtkUkowZnpWRmt2b0dEalJMY3RyRkZDS2hqMm5ONFBNTTMtVm1Waw?oc=5",
      "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "リアルサウンド（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SVHZHYjRZU29pT3gtWUdTYTJTWnpOUUEwSnk1ZWw4aUpXVmdZZUZLcTRYQkdkdUhWRjRRRDBRUkdKS3JQdGV1RVA5YXdGQU0ySmcyRk14a0hfMm5yNUtMcDJjaklQRFFURFZqU2lMLUJNRWJvMVlHbFNYRC1VTUE?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
     }
    ]
   },
@@ -13956,9 +14361,9 @@
     },
     {
      "name": "ふたまん＋（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53VkRnaDd0VFJEUHVTRmZZclV2R0VHcnlKNHk4UVR6UE1rUEJYY1NOVG5ndDE4aWJtY04zN1dqaGx1QkYtTnkyc3Nhc3FnUEg5QTBhRG5oQUpiWmhXRC1BVXJLSlZwUF9fbXY4WWhEMl9sYzF1NFRhMkRGU3lLaEE?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -75066,7 +75471,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 8,
    "categories": [
     "movie"
    ],
@@ -166297,7 +166702,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 8,
+   "score": 12,
    "categories": [
     "visual",
     "movie",
