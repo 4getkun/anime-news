@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-08T16:19:02.377Z",
- "count": 5572,
+ "generatedAt": "2026-10-08T17:18:13.429Z",
+ "count": 5573,
  "dedupe": {
-  "exact": 2829,
+  "exact": 2833,
   "syndicated": 265,
   "similar": 334,
-  "syndicatedTotal": 3148,
+  "syndicatedTotal": 3150,
   "syndicatedLeft": 991
  },
  "calendar": [
@@ -5676,6 +5676,22 @@
    "spoiler": false
   },
   {
+   "date": "2026-12-03",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "ワルツとジャム",
+   "title": "まるでカートゥーンアニメな、ちょっと懐かしい3Dアクション！『ワルツとジャム』12月3日発売決定",
+   "link": "http://www.gamespark.jp/article/2026/10/09/173385.html",
+   "source": "Game*Spark",
+   "sources": 3,
+   "categories": [
+    "game"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2026-12-05",
    "precision": "day",
    "verb": "event",
@@ -7775,9 +7791,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 22,
    "accepted": 22
   },
@@ -7786,9 +7802,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 3,
    "accepted": 3
   },
@@ -7811,8 +7827,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2406,
-   "accepted": 2351
+   "archived": 2407,
+   "accepted": 2352
   },
   {
    "id": "gnews-tvanime",
@@ -7844,8 +7860,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1370,
-   "accepted": 1221
+   "archived": 1373,
+   "accepted": 1223
   },
   {
    "id": "natalie-eiga",
@@ -7855,7 +7871,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 446,
+   "archived": 447,
    "accepted": 45
   },
   {
@@ -7877,7 +7893,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 620,
+   "archived": 621,
    "accepted": 28
   },
   {
@@ -7888,7 +7904,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 648,
+   "archived": 654,
    "accepted": 150
   },
   {
@@ -7899,8 +7915,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 695,
-   "accepted": 32
+   "archived": 708,
+   "accepted": 33
   },
   {
    "id": "otakuma",
@@ -7921,8 +7937,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 13457,
-   "accepted": 1395
+   "archived": 13484,
+   "accepted": 1396
   },
   {
    "id": "prtimes",
@@ -7932,7 +7948,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 13976,
+   "archived": 13995,
    "accepted": 212
   },
   {
@@ -7970,6 +7986,47 @@
   }
  ],
  "items": [
+  {
+   "title": "まるでカートゥーンアニメな、ちょっと懐かしい3Dアクション！『ワルツとジャム』12月3日発売決定",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/10/09/173385.html",
+   "pubDate": "2026-10-08T16:27:57.000Z",
+   "firstSeen": "2026-10-08T17:17:52.759Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "game"
+   ],
+   "works": [
+    "ワルツとジャム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/10/09/173385.html"
+    },
+    {
+     "name": "Game Spark（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/03c4a7c5bcdc0a03edb5a530cff50219b41b8fd9?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Game Spark（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tLXEtNldpdXpnRE1DQWMwTkhpQXlZRTFCUFRjUHRvaHl4c3g5ZUhaYXhFd25nY0NwOFE0REpPZm10a0hMMFFaWjU2eFNVMlg4WFRHODdfcUhzbktWQzhCWHk5cERSa0lBeXRodHFHeVNkcmFYUzJfRDFMQVo4QmM?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "バディネット、みちょぱさん＆吉村崇さんをアンバサダーに迎えた新プロジェクト「チームバディネット」の新キービジュアルを公開！",
    "summary": "株式会社バディネット（本社：東京都中央区、代表取締役社長：堀 礼一郎、以下「バディネット」）は、「繋ぎ方、世界最高チーム」をプロモーションメッセージに掲げた、バディネットの新プロジェクト「チームバデ...",
@@ -10197,39 +10254,6 @@
    ]
   },
   {
-   "title": "銭形警部の声優が一日署長",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lU3ZHbzVvZ19QdTh2UkxfNWVMVFdCbm9hQXYzdkFwVDhzVzhtRktkZ3NKOUZSRXZqSjZTbGJLeEc0V1RWb3lnYXhNX0dSYmhNcXdSbHQ0dDI2T0k?oc=5",
-   "pubDate": "2026-10-08T10:16:00.000Z",
-   "firstSeen": "2026-10-08T11:18:46.046Z",
-   "image": null,
-   "source": "下野新聞社",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "下野新聞社",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lU3ZHbzVvZ19QdTh2UkxfNWVMVFdCbm9hQXYzdkFwVDhzVzhtRktkZ3NKOUZSRXZqSjZTbGJLeEc0V1RWb3lnYXhNX0dSYmhNcXdSbHQ0dDI2T0k?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "デイリースポーツ",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTOWJlYlF5cUVqSDBIb3BIelZRZDU3bW90Qk5LZmRZa2MtajU4bUFnUXZKOVN0Ny1wcVQ4SFYtWENJaUp3dkpRYklCbV9CNkp0WFlNN3Z6RXlwMDBCbUttaGJVeWtjNFN2Y3U0TzFOY3M1a0Zrb2hwSGpKdVNMUlU?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
    "title": "怪物が次々と人々を殺害していく…『PSYREN -サイレン-』2話あらすじ・先行カット解禁(ABEMA TIMES)",
    "summary": "アニメ『PSYREN -サイレン-』より、第2話の先行カットとあらすじが公開された。【画像】『PSYREN -サイレン-』第2話先行カット 本作は2008年から「週刊少年ジャンプ」で連載された、岩代俊",
    "link": "https://news.yahoo.co.jp/articles/e996ed438796ab29b1427d45205bfd4fe0e77f16?source=rss",
@@ -10255,6 +10279,45 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/e996ed438796ab29b1427d45205bfd4fe0e77f16?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "銭形警部の声優が一日署長",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lU3ZHbzVvZ19QdTh2UkxfNWVMVFdCbm9hQXYzdkFwVDhzVzhtRktkZ3NKOUZSRXZqSjZTbGJLeEc0V1RWb3lnYXhNX0dSYmhNcXdSbHQ0dDI2T0k?oc=5",
+   "pubDate": "2026-10-08T10:15:13.000Z",
+   "firstSeen": "2026-10-08T11:18:46.046Z",
+   "image": null,
+   "source": "下野新聞社",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "下野新聞社",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lU3ZHbzVvZ19QdTh2UkxfNWVMVFdCbm9hQXYzdkFwVDhzVzhtRktkZ3NKOUZSRXZqSjZTbGJLeEc0V1RWb3lnYXhNX0dSYmhNcXdSbHQ0dDI2T0k?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "デイリースポーツ",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTOWJlYlF5cUVqSDBIb3BIelZRZDU3bW90Qk5LZmRZa2MtajU4bUFnUXZKOVN0Ny1wcVQ4SFYtWENJaUp3dkpRYklCbV9CNkp0WFlNN3Z6RXlwMDBCbUttaGJVeWtjNFN2Y3U0TzFOY3M1a0Zrb2hwSGpKdVNMUlU?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "山陰中央新報デジタル",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oVi1hUmxSM3RzRWlYV1RBYVc2cnVvMFl2Mi1TNlQ1SUVmNDFzd2RfaUpYQVE0MEt0aHE0LXhHeWg1Z2FPLWhfc3lOR2RQMFBUWWFQZzlPVXhKR2s?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -10341,6 +10404,12 @@
      "name": "佐賀新聞",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wWEVBZlZoV3hzcnZneXZWc3c4X3ZnbkhjZERTZXRhQk1qc0pqSnhNcWgwNFc4aFBFSE9lVWZiQUVHbHFiZDVNR0pEcEotOGdsZmJjRS13?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "NEWSjp",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wcm9ZTmwtUEYzaENfYXlLN1IyMTgwU0N3RVI4NGJnaDltYkF4SWxNMmZFQmdtSlc5S2FvR2Q0anZtdFYxR3FCS2t5YmRhZw?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
