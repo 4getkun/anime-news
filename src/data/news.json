@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-09T10:18:25.088Z",
- "count": 5969,
+ "generatedAt": "2026-10-09T11:21:17.187Z",
+ "count": 5976,
  "dedupe": {
-  "exact": 3040,
+  "exact": 3041,
   "syndicated": 288,
   "similar": 361,
-  "syndicatedTotal": 3371,
+  "syndicatedTotal": 3372,
   "syndicatedLeft": 1066
  },
  "calendar": [
@@ -8165,6 +8165,22 @@
    "precision": "month",
    "verb": "event",
    "label": "開催",
+   "work": "シリーズ30周年記念 幻想水滸伝I&II展 FINAL 〜幻想博物館〜(東京凱旋)",
+   "title": "『シリーズ30周年記念 幻想水滸伝I&II展 FINAL 〜幻想博物館〜(東京凱旋)』2027年5月開幕！",
+   "link": "https://nijimen.kusuguru.co.jp/topics/639310",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-05",
+   "precision": "month",
+   "verb": "event",
+   "label": "開催",
    "work": null,
    "title": "日中アニメの祭典、AI受け入れ学ぶ映画祭に衣替え 27年5月開催",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93WV9jQWJ6VFJuelpRUzFWUWEwQjdqT0V5UE1SRmdXSklwR1M3YUdTdlJOa2xjS2x4YjY5MWhaZFJ0UklNdm9kS3NUbFNvMF9kV0VSdEFVbm1IdWhwQ2N4RkdlcVNXdEJHcnlDRg?oc=5",
@@ -8288,17 +8304,17 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 508,
-   "accepted": 507
+   "archived": 509,
+   "accepted": 508
   },
   {
    "id": "natalie-comic",
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 702,
    "accepted": 702
   },
@@ -8310,8 +8326,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 116,
-   "accepted": 116
+   "archived": 117,
+   "accepted": 117
   },
   {
    "id": "seigura",
@@ -8343,17 +8359,17 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 208,
-   "accepted": 90
+   "archived": 211,
+   "accepted": 91
   },
   {
    "id": "gnews-anime",
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 2601,
    "accepted": 2545
   },
@@ -8362,9 +8378,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 995,
    "accepted": 971
   },
@@ -8373,9 +8389,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 492,
    "accepted": 446
   },
@@ -8384,9 +8400,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1435,
    "accepted": 1282
   },
@@ -8395,9 +8411,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 468,
    "accepted": 46
   },
@@ -8409,8 +8425,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 868,
-   "accepted": 312
+   "archived": 872,
+   "accepted": 313
   },
   {
    "id": "4gamer",
@@ -8420,7 +8436,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 663,
+   "archived": 672,
    "accepted": 29
   },
   {
@@ -8442,7 +8458,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 752,
+   "archived": 755,
    "accepted": 34
   },
   {
@@ -8464,8 +8480,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 14308,
-   "accepted": 1495
+   "archived": 14358,
+   "accepted": 1496
   },
   {
    "id": "prtimes",
@@ -8475,8 +8491,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 15008,
-   "accepted": 240
+   "archived": 15055,
+   "accepted": 241
   },
   {
    "id": "ann",
@@ -8486,8 +8502,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 435,
-   "accepted": 435
+   "archived": 437,
+   "accepted": 437
   },
   {
    "id": "mal",
@@ -8513,6 +8529,142 @@
   }
  ],
  "items": [
+  {
+   "title": "「ミニキャラになると尊ﾀﾋ案件」「この二人見れるの神」アニメ『桃源暗鬼』ミニアニメ第25話にファン悶絶(ABEMA TIMES)",
+   "summary": "『桃源暗鬼』プロジェクト公式YouTubeチャンネルにて、ミニアニメ「おにもももも」第25話が配信された。ミニキャラになった無陀野無人（CV：神谷浩史）、猫咲波久礼（CV：岡本信彦）、印南幽（CV：伊",
+   "link": "https://news.yahoo.co.jp/articles/cf8e20342388e72447762e6e1f66fa580104ac2f?source=rss",
+   "pubDate": "2026-10-09T11:15:33.000Z",
+   "firstSeen": "2026-10-09T11:20:53.949Z",
+   "image": null,
+   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "works": [
+    "桃源暗鬼"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/cf8e20342388e72447762e6e1f66fa580104ac2f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『シリーズ30周年記念 幻想水滸伝I&II展 FINAL 〜幻想博物館〜(東京凱旋)』2027年5月開幕！",
+   "summary": "『幻想水滸伝I&II展 FINAL 〜幻想博物館〜(東京凱旋)』の新規展示 FINALとなる凱旋展では、これまでの展示内容に加えて新規展示が追加され、よりパワーアップした内容で開催されます。 新たに登場するのは、アニメ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/639310",
+   "pubDate": "2026-10-09T11:00:34.000Z",
+   "firstSeen": "2026-10-09T11:20:53.949Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/77656-507-64237bdf83d1def1a07100fded166bbb-1600x900-1.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "event"
+   ],
+   "works": [
+    "シリーズ30周年記念 幻想水滸伝I&II展 FINAL 〜幻想博物館〜(東京凱旋)"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/639310"
+    }
+   ]
+  },
+  {
+   "title": "麻倉もも、ベストアルバム『Momo Asakura Best Album “relier”』収録内容を一挙公開！シングル表題曲全17曲を網羅、自身セレクトによるスペシャルトラック19曲も収録！",
+   "summary": "声優として数々の人気作品に出演し、声優ユニットTrySail（トライセイル）のメンバーとしても...",
+   "link": "https://www.lisani.jp/0000319659/",
+   "pubDate": "2026-10-09T11:00:27.000Z",
+   "firstSeen": "2026-10-09T11:20:53.949Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610091800-yh-010.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "Momo Asakura Best Album “relier”"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000319659/"
+    }
+   ]
+  },
+  {
+   "title": "「薬屋のひとりごと」グッズがアベイルで再販！猫猫たちデザインのショルダーバッグや巾着ほか、カードケースなどラインナップ",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/09/189041.html",
+   "pubDate": "2026-10-09T10:30:03.000Z",
+   "firstSeen": "2026-10-09T11:20:53.949Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/09/189041.html"
+    }
+   ]
+  },
+  {
+   "title": "The Ghost of Bongcheon-Dong Horror Webtoon Gets Live-Action Film Adaptation",
+   "summary": "Series follows young woman who begins experiencing strange phenomena at an apartment complex in Seoul",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-09/the-ghost-of-bongcheon-dong-horror-webtoon-gets-live-action-film-adaptation/.242620",
+   "pubDate": "2026-10-09T10:24:44.000Z",
+   "firstSeen": "2026-10-09T11:20:53.949Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "movie",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-09/the-ghost-of-bongcheon-dong-horror-webtoon-gets-live-action-film-adaptation/.242620"
+    }
+   ]
+  },
   {
    "title": "「自宅で手軽に国葬を再現」「面白すぎる」アニメ『機動戦士ガンダム』の一番くじ、ガルマ・ザビの超巨大肖像画にツッコミ殺到(ABEMA TIMES)",
    "summary": "一番くじ公式Xにて、「一番くじ 機動戦士ガンダム UNIVERSAL CENTURY SAGA INTERLUDE」の全ラインアップが公開され、ファンの間で大きな話題を呼んでいる。約200cmという超",
@@ -8543,25 +8695,32 @@
    ]
   },
   {
-   "title": "「進撃の巨人」車力の巨人が可動フィギュアに！四足歩行で迫る脅威を兵装の鞍とともに立体化(アニメ！アニメ！)",
-   "summary": "『進撃の巨人』より、 車力の巨人の可動フィギュアが登場。「あみあみオンラインショップ」にて予約受付中だ。【画像全17枚】『進撃の巨人』は「別冊少年マガジン」で2009年から2021年まで連載されていた",
-   "link": "https://news.yahoo.co.jp/articles/b1abd9283e56256bac3314d3549e7ae9cfd6b0ea?source=rss",
+   "title": "「進撃の巨人」車力の巨人が可動フィギュアに！四足歩行で迫る脅威を兵装の鞍とともに立体化",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/09/103661.html",
    "pubDate": "2026-10-09T10:15:03.000Z",
    "firstSeen": "2026-10-09T10:18:01.304Z",
    "image": null,
-   "source": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
    "lang": "ja",
    "score": 4,
    "categories": [
     "goods",
     "media"
    ],
-   "works": [],
+   "works": [
+    "進撃の巨人"
+   ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/09/103661.html"
+    },
     {
      "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -8790,6 +8949,32 @@
      "name": "にじめん",
      "sourceId": "nijimen",
      "link": "https://nijimen.kusuguru.co.jp/topics/639275"
+    }
+   ]
+  },
+  {
+   "title": "Chiikawa Anime Film Drops to #4, Star Detective Precure! Film to #5 in Japan",
+   "summary": "Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising rejoins top 10 at #7",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-09/chiikawa-anime-film-drops-to-no.4-star-detective-precure-film-to-no.5-in-japan/.242508",
+   "pubDate": "2026-10-09T10:02:18.000Z",
+   "firstSeen": "2026-10-09T11:20:53.949Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-09/chiikawa-anime-film-drops-to-no.4-star-detective-precure-film-to-no.5-in-japan/.242508"
     }
    ]
   },
@@ -11150,6 +11335,34 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uUzZKeWVhbjlvNWV5b19DXzBhZm55bEdOQjdfZVpEY0FYLUlzVl9hdnBpbElRdjNWYnpySm54QTBpUkF0dHR2ZGRvN3o3OWdkci1VLQ?oc=5",
      "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『前橋ウィッチーズ』きゅるエモ(ハート)ジャージメイド POP UP SHOP10月23日より東京アニメセンター in DNP PLAZA SHIBUYAにて期間限定オープン！",
+   "summary": "株式会社バンダイナムコフィルムワークスは、『前橋ウィッチーズ』のPOP UP SHOPを、東京アニメセンター in DNP PLAZA SHIBUYA（渋谷MODI 2F）にて、2026年10月23日（金）より2026年11月8日（日）までの期間限...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000711.000029654.html",
+   "pubDate": "2026-10-09T08:40:43.000Z",
+   "firstSeen": "2026-10-09T11:20:53.949Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "event"
+   ],
+   "works": [
+    "前橋ウィッチーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000711.000029654.html"
     }
    ]
   },
