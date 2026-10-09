@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-09T22:18:47.447Z",
+ "generatedAt": "2026-10-09T23:18:48.798Z",
  "count": 6000,
  "dedupe": {
-  "exact": 3137,
-  "syndicated": 299,
+  "exact": 3138,
+  "syndicated": 300,
   "similar": 368,
-  "syndicatedTotal": 3469,
-  "syndicatedLeft": 1071
+  "syndicatedTotal": 3473,
+  "syndicatedLeft": 1072
  },
  "calendar": [
   {
@@ -3495,7 +3495,7 @@
    "work": null,
    "title": "本日10月8日（木）放送開始の2026年秋アニメ",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XUHJKR0NnbVQwcDRkMlk4cS1XSHRkejl3TTNPaTFJMEhVa2l2bWxTTXJjVlZZd1lLdW9xNlBaQlNmQU41Sm90V2xkc1U?oc=5",
-   "source": "コミックナタリー",
+   "source": "ナタリー",
    "sources": 3,
    "categories": [
     "broadcast",
@@ -3993,6 +3993,25 @@
   {
    "date": "2026-10-10",
    "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": null,
+   "title": "本日10月10日（土）放送開始の2026年秋アニメ",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qd3lrNGxfeURmcE1qV1dIY1plREpQa280Y2pfTFNSSmRFVTRFTEQydWJXVThRYkV1Z0dmOXZuRkt5Y3BlUTVtNWNkamI?oc=5",
+   "source": "ナタリー",
+   "sources": 4,
+   "categories": [
+    "broadcast",
+    "new",
+    "visual",
+    "movie"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-10",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "ポケモン",
@@ -4002,25 +4021,6 @@
    "sources": 4,
    "categories": [
     "goods"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-10",
-   "precision": "day",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": null,
-   "title": "本日10月10日（土）放送開始の2026年秋アニメ",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qd3lrNGxfeURmcE1qV1dIY1plREpQa280Y2pfTFNSSmRFVTRFTEQydWJXVThRYkV1Z0dmOXZuRkt5Y3BlUTVtNWNkamI?oc=5",
-   "source": "ナタリー",
-   "sources": 3,
-   "categories": [
-    "broadcast",
-    "new",
-    "visual",
-    "movie"
    ],
    "platforms": [],
    "spoiler": false
@@ -5879,6 +5879,23 @@
    "source": "にじめん",
    "sources": 2,
    "categories": [
+    "music"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-25",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "INHERIT",
+   "title": "エイハブ、11月25日発売のニューアルバム『INHERIT』より、TVアニメ『転生ゴブリンだけど質問ある？』エンディング主題歌「小さな僕ら」を先行配信！",
+   "link": "https://www.lisani.jp/0000319675/",
+   "source": "リスアニ！",
+   "sources": 1,
+   "categories": [
+    "broadcast",
     "music"
    ],
    "platforms": [],
@@ -8312,8 +8329,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 736,
-   "accepted": 736
+   "archived": 735,
+   "accepted": 735
   },
   {
    "id": "lisani",
@@ -8323,8 +8340,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 118,
-   "accepted": 118
+   "archived": 119,
+   "accepted": 119
   },
   {
    "id": "seigura",
@@ -8356,7 +8373,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 212,
+   "archived": 213,
    "accepted": 92
   },
   {
@@ -8367,8 +8384,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2653,
-   "accepted": 2597
+   "archived": 2657,
+   "accepted": 2601
   },
   {
    "id": "gnews-tvanime",
@@ -8379,7 +8396,7 @@
    "error": null,
    "fetched": 100,
    "archived": 1033,
-   "accepted": 1007
+   "accepted": 1008
   },
   {
    "id": "gnews-movie",
@@ -8400,7 +8417,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1469,
+   "archived": 1470,
    "accepted": 1313
   },
   {
@@ -8422,7 +8439,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 885,
+   "archived": 886,
    "accepted": 321
   },
   {
@@ -8444,7 +8461,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 715,
+   "archived": 716,
    "accepted": 162
   },
   {
@@ -8455,7 +8472,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 774,
+   "archived": 776,
    "accepted": 35
   },
   {
@@ -8477,8 +8494,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 14664,
-   "accepted": 1544
+   "archived": 14714,
+   "accepted": 1546
   },
   {
    "id": "prtimes",
@@ -8521,11 +8538,123 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 119,
-   "accepted": 119
+   "archived": 120,
+   "accepted": 120
   }
  ],
  "items": [
+  {
+   "title": "エイハブ、11月25日発売のニューアルバム『INHERIT』より、TVアニメ『転生ゴブリンだけど質問ある？』エンディング主題歌「小さな僕ら」を先行配信！",
+   "summary": "4人組バンド兼ボカロPとして活動するエイハブが、新曲「小さな僕ら」を配信リリースした。11月...",
+   "link": "https://www.lisani.jp/0000319675/",
+   "pubDate": "2026-10-09T23:00:21.000Z",
+   "firstSeen": "2026-10-09T23:18:24.800Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610091800-yh-015.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "broadcast",
+    "music"
+   ],
+   "works": [
+    "INHERIT",
+    "転生ゴブリンだけど質問ある?",
+    "小さな僕ら"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000319675/"
+    }
+   ]
+  },
+  {
+   "title": "ヤンデレ陰キャな男子が、束縛嫌いなイケメンに熱烈告白…恋人にだけ見せる満面の笑みが「忠犬みたいでかわいい」【漫画】(WEBザテレビジョン)",
+   "summary": "コミックの映像化や、ドラマのコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョンマンガ部」。今回は、あまもりさんのSNSで連載中の『彼氏の愛が",
+   "link": "https://news.yahoo.co.jp/articles/ffd5593454a84bf30a551e7316d3d423b94e5578?source=rss",
+   "pubDate": "2026-10-09T23:00:00.000Z",
+   "firstSeen": "2026-10-09T23:18:24.800Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ffd5593454a84bf30a551e7316d3d423b94e5578?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Boruto Officially Returns From Hiatus With Top 10 Debut",
+   "summary": "The series returned from its recent hiatus to sell over 30,000 copies and grab a spot in the latest weekly rankings.",
+   "link": "https://www.cbr.com/boruto-two-blue-vortex-vol-9-oricon-sales-ranking/",
+   "pubDate": "2026-10-09T22:46:50.000Z",
+   "firstSeen": "2026-10-09T23:18:24.800Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/02/boruto-two-blue-vortex.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/boruto-two-blue-vortex-vol-9-oricon-sales-ranking/"
+    }
+   ]
+  },
+  {
+   "title": "『ゴジラ-0.0』山崎監督に憂いなし 前作大成功のプレッシャー一蹴「またすげぇ映画作りゃいい」(シネマトゥデイ)",
+   "summary": "スクリーンに投影されたゴジラの姿に合わせて、猛烈な咆哮が響き渡る。某月某日、東京・成城の東宝スタジオで行われた、ゴジラシリーズ最新作『ゴジラ-0.0』（ゴジラマイナスゼロ）の音を完成させるダビング作業",
+   "link": "https://news.yahoo.co.jp/articles/f2ba72b6d2dac24bb8a950f4209dcfc76a70769f?source=rss",
+   "pubDate": "2026-10-09T22:32:02.000Z",
+   "firstSeen": "2026-10-09T23:18:24.800Z",
+   "image": null,
+   "source": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "ゴジラ-0.0"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f2ba72b6d2dac24bb8a950f4209dcfc76a70769f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "日テレで『らんま1/2』再び！第3期もらんまらしさ全開で開幕、あかねを巻き込んだ勝負の行方は？【先行カット】(オタク総研)",
    "summary": "高橋留美子の漫画を原作とするTVアニメ「らんま1/2」完全新作的シリーズについて、続編第3期が日本テレビ系にて2026年10月より放送中。この度、本日10月10日（土）より放送開始となる第2話のエピソ",
@@ -8594,6 +8723,13 @@
      "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/53c33165d5ea99c5e96a7dded8f251fd9eaf8d3f?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fWk43MVctUHJBRnRLckNPNm10OEpRUEJlWWhSbElkaDJMVGZOeUFkR1o5cjJFOU9PM0ZFTlFqckhxcENIUGpPSkJfN1JoZ0RRbzNSRklIZzlEN3FYZmNlT0JoRThVRnJkcmpoblF3OGFLdUo0bjBva2tKNnNqLWs?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -12382,7 +12518,7 @@
    "title": "声優・真野あゆみ 結婚と第1子妊娠を発表",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWW9PZFZSMElBSmlkVFRxdF9qSU84MHlHRzZRM2V2RldlZmtuSHJaTG8yTVBNaWpwRjBlNjc0Mk11RDE2dXhjcFc4bU5hT01yNlFpVlRxdllPdGF5ZEhqYnlLSER6cnd6MmJUd1hzRFFiQzJ6QjhfTVpUNnBCMkZEeUdUZzVYX2ZJa2lONHdSQi1YeDNIMEt1V0JMX3BTTTdMeTE1X09uZmRQM0I0NW5feTRuSzlxOXZPaV93b2V2cVVnYTdjbUZMY3V2Ny1SeTZHajh6ZHljdi1MNGdXbTRwbE9sXzFPblQwT2NjS9IBnAFBVV95cUxPQV96aGJqN2JzX3R5TTI4U0FydWlFVWJaT3RzbVNEVC1KZU5FcWkzOWdEekJySEJFS0dPV3V0eVhwMVBIVGV0YXIxVXM0TDh0V01wTlFzVmI2RWpFSG0xaHpPVWpXSDAyLTJTMEliMTBNOFRjcXlHY3Z3TEVzVkRwRE9Pb1JNQUNuUURnQ1FUd3FELVRaMy1HX0RLbm8?oc=5",
-   "pubDate": "2026-10-09T10:04:49.000Z",
+   "pubDate": "2026-10-09T10:05:00.000Z",
    "firstSeen": "2026-10-09T10:18:01.304Z",
    "image": null,
    "source": "ｄメニューニュース",
@@ -12409,13 +12545,6 @@
      "name": "Infoseek",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lWUxXci1Ud25rYmdQZTNUZzYtaG4xQkk5OUt6V0NiTUJMQWp4MDJLeFZ4WVBpTjVjZTBxTVAzdUpNUVp6emUwV3NkZXFCVS1RdDRwMmd5SzVWUHcxUi1jbXVrNXdKME1xOGxkNtIBckFVX3lxTE5aSGRUbV9oX0V6VkNJcDdHSW8tWDZrcnlkTmdxemp2NFc1R2dqZkhjMUYzN1daLVBsMVJsaW9JdjlkTnNJUnRJdmJXYW5mZHRxek9HSUhPa1M4LTkxSUYxYk84bzk2OU5Rb0pjMWt0VmxqZw?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "スポニチアネックス（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPbWZDdGljeDljT1J6TGtaTW5WTFZ2ejI2OWE5cVlCbHhOUGdRSnllYnJZRVp2TmF6Uk1yQk9QZmVkSmg1VlVfZWx5X3l2WXpCeHhOb0JYT1Rvcnh5Nm5yV0tEX1AtTk84cVBMSC0tZXdNVFdaUUxjLUdmcnVKdlE?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -12519,6 +12648,13 @@
      "name": "スポニチアネックス（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/7281a3f8c9d733cffa11416d1d9edeec66768281?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "スポニチアネックス（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPbWZDdGljeDljT1J6TGtaTW5WTFZ2ejI2OWE5cVlCbHhOUGdRSnllYnJZRVp2TmF6Uk1yQk9QZmVkSmg1VlVfZWx5X3l2WXpCeHhOb0JYT1Rvcnh5Nm5yV0tEX1AtTk84cVBMSC0tZXdNVFdaUUxjLUdmcnVKdlE?oc=5",
+     "via": "Googleニュース「声優」",
      "syndicated": true
     },
     {
@@ -13311,6 +13447,35 @@
    ]
   },
   {
+   "title": "秋アニメ『惚れ魔女』第2話あらすじ＆場面カット",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44NG9vVnJkQXE5dWR2ZDRpU3ZhV3NrcVptcmY1WXpIVmFoQ2lKWnFMVTJRdUZMdzA3TkI4UjZoT0lYZXBUaU1SX2RYLWg0VTRnekRadlNJTVFyV3pwSTN4MXJJVkFGTEtuSV9N?oc=5",
+   "pubDate": "2026-10-09T09:25:00.000Z",
+   "firstSeen": "2026-10-09T23:18:24.800Z",
+   "image": null,
+   "source": "アニメイトタイムズ",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "惚れ魔女"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44NG9vVnJkQXE5dWR2ZDRpU3ZhV3NrcVptcmY1WXpIVmFoQ2lKWnFMVTJRdUZMdzA3TkI4UjZoT0lYZXBUaU1SX2RYLWg0VTRnekRadlNJTVFyV3pwSTN4MXJJVkFGTEtuSV9N?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
    "title": "婚約破棄され男子校教師に、問題児たちを魔力で圧倒する令嬢の逆境ファンタジー1巻",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SUjQwYkk4VjhoOU9uclJ4QzZPQllzUThhOVpMNXNTaHBrVFZ4RFlwbjNtb2NTVmJodG5ibWVXNnZ3d2Q3d0lOY01BNU8?oc=5",
@@ -13978,6 +14143,31 @@
      "name": "ドラゴンボールオフィシャルサイト",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUakY5Y0VPaWVMYTJYN1VHb0lleWxIWUh2RlN6a0xrQ1JoVDVMZ3FqcGJaNG82eDkzcGZFWHV6cTBScXpqYkRRMXJZNEd2ZEJobVJGSkFiZlM1LUI2OTJV?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "昭和のアニメ・特撮ソング秘蔵カバー音源を集めた 2枚組コンピレーションCDが発売 珠玉の収録曲50曲、ジャケットほか全貌公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43bVJReExaSjltc2hLUHFSX0hqTUxHYlRmTGx3RFlnTlF0SHRITXVYcDQ2YVA3STJnUHl3cTduVnY1a0FrYTduMUFqSGJJcmVlUldOZ3QzMXk?oc=5",
+   "pubDate": "2026-10-09T09:00:56.000Z",
+   "firstSeen": "2026-10-09T23:18:24.800Z",
+   "image": null,
+   "source": "KING RECORDS TODAY",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "KING RECORDS TODAY",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43bVJReExaSjltc2hLUHFSX0hqTUxHYlRmTGx3RFlnTlF0SHRITXVYcDQ2YVA3STJnUHl3cTduVnY1a0FrYTduMUFqSGJJcmVlUldOZ3QzMXk?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
@@ -17257,9 +17447,9 @@
     },
     {
      "name": "Yahoo!ニュース",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mTndyLTBwbTUzd0NUbW5xVkhVNUtYZUlwVHI2RDJ4MXBqdVNrREVPaGQ4c0ZEamRGR3JrT3lFNDNOa0RnYnZIWkRVQ1hhTXpLQ3p1V0JYYWEzcDlja1pHUVh0anByaDRjb19TSV9FRVE1Tm90MHlfZDBuZ1RDTmc?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -36698,10 +36888,10 @@
    "pubDate": "2026-10-07T22:00:00.000Z",
    "firstSeen": "2026-10-07T22:17:46.536Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
    "score": 14,
    "categories": [
@@ -36712,9 +36902,10 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XUHJKR0NnbVQwcDRkMlk4cS1XSHRkejl3TTNPaTFJMEhVa2l2bWxTTXJjVlZZd1lLdW9xNlBaQlNmQU41Sm90V2xkc1U?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XUHJKR0NnbVQwcDRkMlk4cS1XSHRkejl3TTNPaTFJMEhVa2l2bWxTTXJjVlZZd1lLdW9xNlBaQlNmQU41Sm90V2xkc1U?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -42424,7 +42615,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 8,
    "categories": [
     "broadcast",
     "cast"
@@ -42439,6 +42630,13 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9faUlBajUxOFJkZVFXVzJQOVlaXzU3dGpfZlhENTg0R2JHSXRqTEhDN19SS1N6VDgtNFpZaGFISzdYZjhwc01wUnV4X3Z6M3NxcTNtcQ?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13OVpSSFo2VnBpUkM5dEgyT2xrWk41UkFkeHhndjlfRGE4cnpMYnFpalZvOUltZW5rQUhGbVpNU2VNcGxya2VrdDNMYmJ6dkJPODd2emxJS3MzWUpsWktibTgwM2hRczTSAWxBVV95cUxPMmJiR3pOVXlQRDdXazJjZEF4UURJTTZfX3Z6Z3o3eHJwRXRUOTVMYVJkSVdLcVJJNlB5dFpjSnY4bjJQR1dfdm1Vc1FUNjM2V3E1NGtyT21SUXJ4SVRkTmF4WHhvTU80cnJfVzg?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
     }
    ]
   },
@@ -51087,7 +51285,7 @@
    "syndicated": false,
    "kind": "press",
    "lang": "ja",
-   "score": 20,
+   "score": 24,
    "categories": [
     "new",
     "broadcast"
@@ -55597,7 +55795,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 16,
+   "score": 20,
    "categories": [
     "broadcast",
     "music"
@@ -59482,7 +59680,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [],
    "works": [
     "転生ゴブリンだけど質問ある?"
@@ -69804,7 +70002,7 @@
    "syndicated": true,
    "kind": "general",
    "lang": "ja",
-   "score": 8,
+   "score": 12,
    "categories": [],
    "works": [
     "転生ゴブリンだけど質問ある?"
@@ -187437,7 +187635,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "cast"
    ],
@@ -193459,164 +193657,6 @@
      "name": "コミックナタリー",
      "sourceId": "natalie-comic",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mNEgwQWR4dXU5TjhjdzNWcWxLUWYxZzByU3czbUNLbUlBUnlySENDVHd0TnBTTHVxemtPZmRyX0syZnF6aXQ5cUJ4R3Y?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "一番くじ アニメ『呪術廻戦』5周年FINAL！ ｜商品情報",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIODA0anBXcS1sZE9EQ0gyWnNFNHk5R08wTjBlU2pqX2xHNVVqWGQxeXNrTGZLNFNRWmJhd2gtYlFteXU1WEZKMjlsWURsbmZCdEE3aFFqak1IaEd1YnJSOHVHUQ?oc=5",
-   "pubDate": "2026-09-21T15:05:59.000Z",
-   "firstSeen": "2026-09-21T15:05:59.000Z",
-   "image": null,
-   "source": "family.co.jp",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "呪術廻戦"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "family.co.jp",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIODA0anBXcS1sZE9EQ0gyWnNFNHk5R08wTjBlU2pqX2xHNVVqWGQxeXNrTGZLNFNRWmJhd2gtYlFteXU1WEZKMjlsWURsbmZCdEE3aFFqak1IaEd1YnJSOHVHUQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "中島由貴＞人気声優を地元・和歌山で撮影 デジタルフォトブックでランチデート リラックスした部屋着姿も（MANTANWEB）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03cmRGTTk1SzZpV0ZYeWNySWZoaVBsbW5iT3h0b1JKRTQwaGN1enMxSjBPVHRCTF9kUUxpdUNPSm5QZGhNUUJobUJDS1NDa3djbXYtVVR1WlZ3clUxQlZDVk8xR3dycEJNMEl0YVZ4ekhzV0pJVjY2QU5yWmM0WVE?oc=5",
-   "pubDate": "2026-09-21T15:02:00.000Z",
-   "firstSeen": "2026-09-21T15:02:00.000Z",
-   "image": null,
-   "source": "MANTANWEB（Yahoo!ニュース）",
-   "sourceId": "gnews-seiyu",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03cmRGTTk1SzZpV0ZYeWNySWZoaVBsbW5iT3h0b1JKRTQwaGN1enMxSjBPVHRCTF9kUUxpdUNPSm5QZGhNUUJobUJDS1NDa3djbXYtVVR1WlZ3clUxQlZDVk8xR3dycEJNMEl0YVZ4ekhzV0pJVjY2QU5yWmM0WVE?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "1st 2 Lufia SNES RPGs Get Collection in 2027",
-   "summary": "Lufia 1 and 2 The Sinistrals Saga includes 1993 original, 1995 prequel",
-   "link": "https://www.animenewsnetwork.com/news/2026-09-21/1st-2-lufia-snes-rpgs-get-collection-in-2027/.242046",
-   "pubDate": "2026-09-21T15:00:00.000Z",
-   "firstSeen": "2026-09-21T15:00:00.000Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-09-21/1st-2-lufia-snes-rpgs-get-collection-in-2027/.242046"
-    }
-   ]
-  },
-  {
-   "title": "One Piece Meets Restaurant Management in One Piece: Grand Gourmet",
-   "summary": "The only fighting you're going to see is the kitchen staff fighting the orders.",
-   "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/one-piece-meets-restaurant-management-in-one-piece-grand-gourmet/.242023",
-   "pubDate": "2026-09-21T14:30:00.000Z",
-   "firstSeen": "2026-09-21T14:30:00.000Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/one-piece-meets-restaurant-management-in-one-piece-grand-gourmet/.242023"
-    }
-   ]
-  },
-  {
-   "title": "Remow Launches 'It's Anime' Free Ad-Supported Channel on Live TV on PS5, Pluto TV, Prime Video",
-   "summary": "Channel reveals 1st original program Tomodachi Talks with SungWon Cho, AJ Beckles",
-   "link": "https://www.animenewsnetwork.com/news/2026-09-21/remow-launches-its-anime-free-ad-supported-channel-on-live-tv-on-ps5-pluto-tv-prime-video/.242045",
-   "pubDate": "2026-09-21T14:30:00.000Z",
-   "firstSeen": "2026-09-21T14:30:00.000Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "broadcast",
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-09-21/remow-launches-its-anime-free-ad-supported-channel-on-live-tv-on-ps5-pluto-tv-prime-video/.242045"
-    }
-   ]
-  },
-  {
-   "title": "Cupid Parasite Visual Novel Review",
-   "summary": "Lighthearted for the most part but serious when it needs to be, this is a sheer delight.",
-   "link": "https://www.animenewsnetwork.com/review/game/steam/cupid-parasite-visual-novel/.241997",
-   "pubDate": "2026-09-21T14:00:00.000Z",
-   "firstSeen": "2026-09-21T14:00:00.000Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/review/game/steam/cupid-parasite-visual-novel/.241997"
     }
    ]
   }
