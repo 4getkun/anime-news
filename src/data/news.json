@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T00:18:08.210Z",
+ "generatedAt": "2026-10-09T00:19:16.771Z",
  "count": 5675,
  "dedupe": {
   "exact": 2901,
@@ -7811,8 +7811,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 675,
-   "accepted": 675
+   "archived": 674,
+   "accepted": 674
   },
   {
    "id": "lisani",
@@ -7866,8 +7866,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2470,
-   "accepted": 2415
+   "archived": 2471,
+   "accepted": 2416
   },
   {
    "id": "gnews-tvanime",
@@ -10139,12 +10139,12 @@
    "pubDate": "2026-10-08T21:00:00.000Z",
    "firstSeen": "2026-10-08T21:17:45.032Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
-   "score": 25,
+   "score": 21,
    "categories": [
     "broadcast",
     "visual",
@@ -10157,9 +10157,10 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DZFMzTmV3cEVsTUE1QkJFNHk4UG5nZkdyY1ZFZklIcXBRZzdNYWxRVDFNdlZqMTJ3NmVzTkNPNVMtYW9DblFwMDRpa2w?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DZFMzTmV3cEVsTUE1QkJFNHk4UG5nZkdyY1ZFZklIcXBRZzdNYWxRVDFNdlZqMTJ3NmVzTkNPNVMtYW9DblFwMDRpa2w?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
