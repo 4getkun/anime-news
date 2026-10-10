@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-10T16:17:59.010Z",
+ "generatedAt": "2026-10-10T17:17:46.168Z",
  "count": 6000,
  "dedupe": {
-  "exact": 3298,
+  "exact": 3301,
   "syndicated": 314,
   "similar": 378,
   "syndicatedTotal": 3666,
-  "syndicatedLeft": 1114
+  "syndicatedLeft": 1112
  },
  "calendar": [
   {
@@ -8276,8 +8276,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2794,
-   "accepted": 2737
+   "archived": 2792,
+   "accepted": 2735
   },
   {
    "id": "gnews-tvanime",
@@ -8287,8 +8287,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1053,
-   "accepted": 1027
+   "archived": 1054,
+   "accepted": 1028
   },
   {
    "id": "gnews-movie",
@@ -8309,8 +8309,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1556,
-   "accepted": 1384
+   "archived": 1559,
+   "accepted": 1387
   },
   {
    "id": "natalie-eiga",
@@ -8320,8 +8320,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 487,
-   "accepted": 49
+   "archived": 490,
+   "accepted": 50
   },
   {
    "id": "inside-games",
@@ -8386,7 +8386,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 15515,
+   "archived": 15518,
    "accepted": 1634
   },
   {
@@ -8518,7 +8518,7 @@
    "firstSeen": "2026-10-10T16:17:34.255Z",
    "image": null,
    "source": "エンタメ特化型情報メディア スパイス",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -8533,9 +8533,9 @@
    "sources": [
     {
      "name": "エンタメ特化型情報メディア スパイス",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XSE9GTy1uU2FkQjhIdW9iVlIwMmVoZzB6c2I0NVRnMTcwYkROelI3TGJSV3JrSm56MmY0NlVQWXI3SFhscjlWa3gxSzliZlHSAVRBVV95cUxNZ2MwcGtWeU80TE9vZTA1UDFVVDd0c0RNWGpFWlRlZFFneFVMY3ozREttcjZaOER3X3dJYU5HdThOdWhDV3YtSGlsUVhiTW9EVHpoZE8?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -8961,18 +8961,18 @@
    ]
   },
   {
-   "title": "福山雅治×有村架純「ブラック・ショーマン」Netflixで見放題に(映画ナタリー)",
-   "summary": "福山雅治が主演を務め、有村架純が共演した映画「ブラック・ショーマン」が10月12日からNetflixで見放題独占配信される。【写真】福山雅治、キャリア史上最多NGを出したシーン明かす東野圭吾の小説「ブ",
-   "link": "https://news.yahoo.co.jp/articles/fc4c21513d982e77e6b42d595f4f103f9a70073d?source=rss",
-   "pubDate": "2026-10-10T12:10:10.000Z",
+   "title": "福山雅治×有村架純「ブラック・ショーマン」Netflixで見放題に",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnZGh0WTVlR085VUJORHlUZDd4N0taTzdSS01XS3BYZGoyOWJDNnNxWFhrQWhDRFR4TVpvRjZ4cXQ1ejlfTXN5VWhJMA?oc=5",
+   "pubDate": "2026-10-10T12:10:00.000Z",
    "firstSeen": "2026-10-10T12:17:33.906Z",
    "image": null,
-   "source": "映画ナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
    "kind": "general",
    "lang": "ja",
-   "score": 4,
+   "score": 6,
    "categories": [
     "broadcast",
     "movie"
@@ -8980,6 +8980,11 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnZGh0WTVlR085VUJORHlUZDd4N0taTzdSS01XS3BYZGoyOWJDNnNxWFhrQWhDRFR4TVpvRjZ4cXQ1ejlfTXN5VWhJMA?oc=5"
+    },
     {
      "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -9847,9 +9852,9 @@
     },
     {
      "name": "山陽新聞デジタル（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUk9SWFl3VEVGY3FvemxIM09OR1V4NXdSc0NSbEhiZnJLMzVsNUxUV2MwQWQ5Q0Nyc0FqN0dSbkdpZEVDanRPQ0Z4ZFZYb1h3alp3d1RHS2dON0lpNXpIc3Q1ZkVpVnFPSVhJVDFPdXUzUDBRbkVMTW9rN3JnWEU?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「声優」",
      "syndicated": true
     }
    ]
@@ -14040,13 +14045,13 @@
   {
    "title": "【 ALS闘病 】声優・津久井教生さん「本当に時間が足りないと思っているのです」【ニャンちゅう】",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xb2h3N1AxR1lfSTFIaTZ2WUpuaVZ6Wm9iSS1mQW9LZlB5YjE4OWZZUk5STWp0TmRLZU5Qdks3SFVpUGtRd0dzVEdyYmc1UjlQSDdDdGlGRVNTcWpNSGNOa1RiSVBPdXJyZmI5eTZ3S01tMkFiTDc0YdIBfkFVX3lxTE9uQ19mWVhDbmJPNWMwN1FrN0pUODl6cU9ZNU1LeXo2NHIxeHRITjR0a3ZQYjRkV2Z1WUlONkJJdjdKWnM2X0lPSERBbF84WUdXMlR3UnM1VmpORVBaR1JUZTRWcWJRR0FaRmZzOGdmRWlwUFdPUkdLSDRZZ08zdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13SkVTYUVpMmlaMWw0bVZCNjlKSDlZZjBLLW45c0dHWGNLYzVpenlHMXNyY21leFdPVGNZVnpqU0ZQeTRJLW9NcHZKNU1tbDhWeTlRRlBjZw?oc=5",
    "pubDate": "2026-10-10T02:01:00.000Z",
    "firstSeen": "2026-10-10T02:18:27.155Z",
    "image": null,
-   "source": "ｄメニューニュース",
+   "source": "TBS NEWS DIG",
    "sourceId": "gnews-seiyu",
-   "syndicated": true,
+   "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
    "score": 8,
@@ -14056,6 +14061,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "TBS NEWS DIG",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13SkVTYUVpMmlaMWw0bVZCNjlKSDlZZjBLLW45c0dHWGNLYzVpenlHMXNyY21leFdPVGNZVnpqU0ZQeTRJLW9NcHZKNU1tbDhWeTlRRlBjZw?oc=5",
+     "via": "Googleニュース「声優」"
+    },
     {
      "name": "ｄメニューニュース",
      "sourceId": "gnews-seiyu",
@@ -52505,7 +52516,7 @@
    "pubDate": "2026-10-07T03:48:59.000Z",
    "firstSeen": "2026-10-07T13:17:46.920Z",
    "image": null,
-   "source": "GameWith",
+   "source": "ゲームウィズ",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -52518,7 +52529,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "GameWith",
+     "name": "ゲームウィズ",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GVE9VR1Rnb3NzZVN1dF8taWlsYWRFdG00Ym51SHhqT1pxaTJfQUR5enF3bHdnSjFSUnlHT1U1cnlZQ2RtckRzVDBjRmFxc2JnVjktM3o2a1M?oc=5",
      "via": "Googleニュース「声優」"
@@ -112109,7 +112120,7 @@
    ]
   },
   {
-   "title": "劇場版『メダリスト』：映画・アニメ",
+   "title": "劇場版『メダリスト』",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hUkRWbnRCOGZ0V0xfVDlsMWNBWlgtdEJoNnNNZjF0SEs3UWNTYmppdjUydUMxNnRNSXl6U3dGRFNUdXBic0lnVFV1RXR4b2xZa1JrckJwUTM?oc=5",
    "pubDate": "2026-10-01T09:09:14.000Z",
@@ -112120,7 +112131,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 8,
    "categories": [
     "movie"
    ],
