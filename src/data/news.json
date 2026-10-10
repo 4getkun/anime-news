@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-10T05:18:54.776Z",
+ "generatedAt": "2026-10-10T06:19:45.569Z",
  "count": 6000,
  "dedupe": {
-  "exact": 3196,
+  "exact": 3205,
   "syndicated": 304,
-  "similar": 372,
-  "syndicatedTotal": 3552,
-  "syndicatedLeft": 1095
+  "similar": 373,
+  "syndicatedTotal": 3561,
+  "syndicatedLeft": 1097
  },
  "calendar": [
   {
@@ -8280,9 +8280,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 45,
    "accepted": 44
   },
@@ -8291,9 +8291,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 1,
    "accepted": 1
   },
@@ -8316,8 +8316,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2693,
-   "accepted": 2638
+   "archived": 2702,
+   "accepted": 2647
   },
   {
    "id": "gnews-tvanime",
@@ -8327,8 +8327,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1039,
-   "accepted": 1014
+   "archived": 1041,
+   "accepted": 1016
   },
   {
    "id": "gnews-movie",
@@ -8349,8 +8349,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1498,
-   "accepted": 1339
+   "archived": 1501,
+   "accepted": 1341
   },
   {
    "id": "natalie-eiga",
@@ -8360,7 +8360,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 479,
+   "archived": 480,
    "accepted": 48
   },
   {
@@ -8371,7 +8371,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 903,
+   "archived": 904,
    "accepted": 327
   },
   {
@@ -8382,7 +8382,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 692,
+   "archived": 695,
    "accepted": 30
   },
   {
@@ -8393,7 +8393,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 724,
+   "archived": 725,
    "accepted": 165
   },
   {
@@ -8404,7 +8404,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 782,
+   "archived": 783,
    "accepted": 36
   },
   {
@@ -8426,8 +8426,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 15014,
-   "accepted": 1585
+   "archived": 15064,
+   "accepted": 1589
   },
   {
    "id": "prtimes",
@@ -8437,8 +8437,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 15667,
-   "accepted": 265
+   "archived": 15708,
+   "accepted": 266
   },
   {
    "id": "ann",
@@ -8475,6 +8475,228 @@
   }
  ],
  "items": [
+  {
+   "title": "玉木宏 １０２歳まで「俳優＆柔術」の生涯現役を宣言「やっていればギネスにも載れるかな」長寿家系の血筋も明かす(スポーツ報知)",
+   "summary": "俳優の玉木宏が１６日、都内でアニメ映画「どこよりも遠い場所にいる君へ」（和田純一監督）の公開記念舞台あいさつに、声優の石橋陽彩（ひいろ）らと登壇した。 第２２回本屋大賞を受賞した、阿部暁子氏による同名",
+   "link": "https://news.yahoo.co.jp/articles/7d0e8fbd2e8ec7aa21a3737663177c55ca18ce43?source=rss",
+   "pubDate": "2026-10-10T06:12:55.000Z",
+   "firstSeen": "2026-10-10T06:19:21.361Z",
+   "image": null,
+   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "cast",
+    "movie",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/7d0e8fbd2e8ec7aa21a3737663177c55ca18ce43?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「乙女ゲ―ムのヒロインで最強サバイバル」27年7月にTVアニメ化 主人公・アリア役に和泉風花(映画.com)",
+   "summary": "ファンタジーライトノベル「乙女ゲ―ムのヒロインで最強サバイバル」がテレビアニメ化され、2027年7月から放送を開始することが明らかになった。主人公のアリア役を和泉風花が務める。メインスタッフ、特報PV",
+   "link": "https://news.yahoo.co.jp/articles/0b5bfed2bb8e64354cbf8391441b00edce560e1f?source=rss",
+   "pubDate": "2026-10-10T06:00:00.000Z",
+   "firstSeen": "2026-10-10T06:19:21.361Z",
+   "image": null,
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 26,
+   "categories": [
+    "new",
+    "visual",
+    "cast",
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0b5bfed2bb8e64354cbf8391441b00edce560e1f?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "映画.com（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BcDROMHlmN2tVSHBEaFlXeEdLLVVLR1lIZWJ4SU9rSmRjQ3pYYnBaRlpWcXR4MDBCNFdNS1NNay1IUEZqcUVheFcxbUp4S254alZpM0pkd0NfSXVlaWJEcnl5Mmg5QWp1RFpoNGt4aGloMFJYcXg2Tld4bXE4d1U?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "玉木宏、祖父は102歳まで生きたと告白 役者・柔術で“生涯現役”を宣言「100歳は越えるかなと勝手に思っている」(ENCOUNT)",
+   "summary": "俳優の玉木宏が10日、都内で行われたアニメーション映画『どこよりも遠い場所にいる君へ』の公開記念舞台あいさつに登壇。声優の石橋陽彩、永瀬アンナ、土屋神葉、和田純一監督と共に出席し、作品にまつわる裏話を",
+   "link": "https://news.yahoo.co.jp/articles/cfd106ea40135930182e68473e8c501e8138a1a1?source=rss",
+   "pubDate": "2026-10-10T05:57:20.000Z",
+   "firstSeen": "2026-10-10T06:19:21.361Z",
+   "image": null,
+   "source": "ENCOUNT（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "cast",
+    "movie",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ENCOUNT（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/cfd106ea40135930182e68473e8c501e8138a1a1?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "坂東龍汰、主演アニメ映画「我々は宇宙人」の興収2億円突破＆上映劇場拡大に「すごい熱量」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGX0ZqTXpYZ0FMSm02LUIzSDJFRElWUGdFc1d0eENXSnd0X0h1dl9IZDVkbnZGUS1QelFhNDUtYmN0b0tWYTY0TU5SbmRLTllyWjdOX0gyV3Q0V240QnhqV3BKbklfUFNmTVlqQ1NjZnFtUFpQdWfSAYoBQVVfeXFMTW1XUFhNZU14NHduT0hxYVJWbEwyWmZIMF91MnVWTllIQU0tSEZtTlFULXlJbHJESGFSSjl2Um5VTUxOTzV2aGpVeWFFVEx4Q2V6N3U4M1hRX2MzQmd3V3JJckEyZU81cUx4ZjNPTUdyMFZUSDB6QnU3ODZiUm15aWhwNWFDamFBYUVR?oc=5",
+   "pubDate": "2026-10-10T05:47:54.000Z",
+   "firstSeen": "2026-10-10T06:19:21.361Z",
+   "image": null,
+   "source": "サンスポ",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "movie",
+    "cast",
+    "stage"
+   ],
+   "works": [
+    "我々は宇宙人"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "サンスポ",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGX0ZqTXpYZ0FMSm02LUIzSDJFRElWUGdFc1d0eENXSnd0X0h1dl9IZDVkbnZGUS1QelFhNDUtYmN0b0tWYTY0TU5SbmRLTllyWjdOX0gyV3Q0V240QnhqV3BKbklfUFNmTVlqQ1NjZnFtUFpQdWfSAYoBQVVfeXFMTW1XUFhNZU14NHduT0hxYVJWbEwyWmZIMF91MnVWTllIQU0tSEZtTlFULXlJbHJESGFSSjl2Um5VTUxOTzV2aGpVeWFFVEx4Q2V6N3U4M1hRX2MzQmd3V3JJckEyZU81cUx4ZjNPTUdyMFZUSDB6QnU3ODZiUm15aWhwNWFDamFBYUVR?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "サンケイスポーツ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c725bbf83ab3f44ad9fdb517583db9710e529eec?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "大ヒット中のアニメ映画「我々は宇宙人」 主題歌担当ａｄｉｅｕがイベント初参加 「遺影にします」監督に似顔絵贈られ大興奮",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qYmY1SGpJWk9uUVNVUDJhaURKdmk2RFc3Yi03MGxwVVVEY3ExYmU3dGhyUFc4elBQT1V4R1ZKMTRIQlR6Q0Y5NnBfT2llT1h3WnNob00xeUlDVVRXd2ZCSGJsb2RIN0hoXzZ5aFJVOVYxcG9LdEQ0Y0JNTXpkdms?oc=5",
+   "pubDate": "2026-10-10T05:46:20.000Z",
+   "firstSeen": "2026-10-10T06:19:21.361Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "cast",
+    "movie",
+    "music",
+    "event"
+   ],
+   "works": [
+    "我々は宇宙人"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qYmY1SGpJWk9uUVNVUDJhaURKdmk2RFc3Yi03MGxwVVVEY3ExYmU3dGhyUFc4elBQT1V4R1ZKMTRIQlR6Q0Y5NnBfT2llT1h3WnNob00xeUlDVVRXd2ZCSGJsb2RIN0hoXzZ5aFJVOVYxcG9LdEQ0Y0JNTXpkdms?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "政府、漫画・アニメを外交活用 「日本ファン」新興国で拡大狙う",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16Q2cySHpDSXZib1RJNFZCVHhSeU1Na01VTFRkd182cU9ybUVZMmdFRGxmakc5SmdfVzdINHVrZXRGYmJBYWJ2UU5FdGdzOUxaMHJyb05ybFlDUS1oOWZ4X1hFQQ?oc=5",
+   "pubDate": "2026-10-10T05:32:00.000Z",
+   "firstSeen": "2026-10-10T06:19:21.361Z",
+   "image": null,
+   "source": "時事ドットコム",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "時事ドットコム",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16Q2cySHpDSXZib1RJNFZCVHhSeU1Na01VTFRkd182cU9ybUVZMmdFRGxmakc5SmdfVzdINHVrZXRGYmJBYWJ2UU5FdGdzOUxaMHJyb05ybFlDUS1oOWZ4X1hFQQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "時事通信（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMFQ2aENoOEhrUjA5enJXY0diemtrSDJKM09BQmRBVGxiZi13aE5udXBPSl94Ul9ybXNzYjNSVDNEc0pUaU5kRlZubnBOd3BIU2duYVJhMmdibFdWVWpzYXl3NnYxbzVzbVhMT2l2ak9QdEI1RDZqaHJEVHA1MVE?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "アニメに登場するヒトデのパトリックが、現実世界で発見された。",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVdJVlQ4SVdfS2tUTWRaSGFLcVZ0Ti10OHBIS1dQMnRjSVpvQUNzQXRrWTY1N3FjUVRERGIzR1d0N2p5QjRNVkoyZHVLMjVTUVZ0a0phbUdMcW51bmlWckN3VUpJOTBoSDF5MHAyZ1ZmbG5zcFBRYnVabEZ0NWhwYS1Zd2JSbG1EZzVRSUV2bU12dw?oc=5",
+   "pubDate": "2026-10-10T05:06:59.000Z",
+   "firstSeen": "2026-10-10T06:19:21.361Z",
+   "image": null,
+   "source": "Vietnam.vn",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Vietnam.vn",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVdJVlQ4SVdfS2tUTWRaSGFLcVZ0Ti10OHBIS1dQMnRjSVpvQUNzQXRrWTY1N3FjUVRERGIzR1d0N2p5QjRNVkoyZHVLMjVTUVZ0a0phbUdMcW51bmlWckN3VUpJOTBoSDF5MHAyZ1ZmbG5zcFBRYnVabEZ0NWhwYS1Zd2JSbG1EZzVRSUV2bU12dw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
   {
    "title": "「ハイキュー!!」「黒子のバスケ」など青春スポーツアニメ5選☆ スポーツの日は球技で盛り上がろう【ABEMA】",
    "summary": "",
@@ -8664,6 +8886,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/10/103676.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzX3QwaWZkS1IwN05kTXdRZHNqWGJZSC1uMDdzZFNTSlJGbWt1UERROWlnMENEZ2hIeDRIaVZiQ1QtWEtEVkM5a3hvQzhqLUZCRW9JdG1zSVV6VE80NEFURGkxVHdYS3NPVmRmQ3ZINTdZYW12ckJMMjBPNVMwazQ?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -8929,6 +9158,33 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/10/103673.html"
+    }
+   ]
+  },
+  {
+   "title": "『ちいかわ』新たな特典配布スタートでネットざわつく「ナガノ先生最高―！」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Qa2dPWjJJSGVvbEd3NllQT1NOd1NVVWdRTGtQa2lxcG4tN3B4X1hCMVYwbk1pdXU4ZEVyQzdGa1ZhLV9reVlzZGMySGpKaWpWd05ITS13?oc=5",
+   "pubDate": "2026-10-10T03:27:00.000Z",
+   "firstSeen": "2026-10-10T06:19:21.361Z",
+   "image": null,
+   "source": "オリコンニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ちいかわ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコンニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Qa2dPWjJJSGVvbEd3NllQT1NOd1NVVWdRTGtQa2lxcG4tN3B4X1hCMVYwbk1pdXU4ZEVyQzdGa1ZhLV9reVlzZGMySGpKaWpWd05ITS13?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -10487,16 +10743,16 @@
    ]
   },
   {
-   "title": "『東リベ』作者、『チー付与』イラスト描く 作品に意外な共通点(オリコン)",
-   "summary": "テレビアニメ『追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち",
-   "link": "https://news.yahoo.co.jp/articles/32f4c2aab469512056adee7c61f3cc97e75a705d?source=rss",
+   "title": "『東リベ』作者、『チー付与』イラスト描く 作品に意外な共通点",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jS0plNURKY09xeFZ2eW91UGtCYUVSeEhhN0NFbGhKSmVic2JyR1l1anBwbHE1VEh5RWowclhzOXZVbm91WTFCZll0ZGoyMlhZajBkQ0p3?oc=5",
    "pubDate": "2026-10-10T01:00:00.000Z",
    "firstSeen": "2026-10-10T01:18:34.267Z",
    "image": null,
-   "source": "オリコン（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "オリコンニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
    "lang": "ja",
    "score": 10,
    "categories": [],
@@ -10506,6 +10762,12 @@
    ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "オリコンニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jS0plNURKY09xeFZ2eW91UGtCYUVSeEhhN0NFbGhKSmVic2JyR1l1anBwbHE1VEh5RWowclhzOXZVbm91WTFCZll0ZGoyMlhZajBkQ0p3?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
     {
      "name": "オリコン（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -10535,6 +10797,13 @@
      "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/8a2025481fb5a02a6e6fbd4fe3f4a5b63e8c0023?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "アニメージュプラス（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54d1dfVGtqT1AxeTFhM09RU2JlVjBZV0VZNnphcVdFSzVkaXRlUFRXSGNVakc4UVpKUmxybFFyUnhhWWZQQU8tSEhyVWd0V1RKWHhNX1lRQzNtR0NTREFXN1dCTWp2Uy1yem8yWUpnR3hMbExkN2xmSXA5MTZfdGM?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -21287,16 +21556,16 @@
    ]
   },
   {
-   "title": "NHKワールド JAPAN特別番組「Anime Journal」 海外の人気アニメ系YouTuber「The Anime Man」が出演決定 ～声優・下野紘らと、 世界が注目する日本アニメの魅力を深掘り",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oOU9MLTJRTzgzOEF5MHJoRUJzVjJkRTItcjdKRUt6MGswaEliOUZCei1KSnFQSGhhN0JEVG50dUZWcXdhdUJoWUMwNzZubDlWMkxjVXl3?oc=5",
+   "title": "NHKワールド JAPAN特別番組「Anime Journal」海外の人気アニメ系YouTuber「The Anime Man」が出演決定 ～声優・下野紘らと、世界が注目する日本アニメの魅力を深掘り～",
+   "summary": "株式会社GeeXPlus（ギークスプラス／株式会社ドワンゴの子会社）は、同社所属のクリエイター「The Anime Man（アニメマン）」が、2026年10月14日（水）に、NHKの国際放送「NHKワールド JAPAN 」の特別番組「Ani...",
+   "link": "https://prtimes.jp/main/html/rd/p/000001016.000096446.html",
    "pubDate": "2026-10-09T04:31:42.000Z",
    "firstSeen": "2026-10-09T05:17:47.610Z",
    "image": null,
-   "source": "株式会社ドワンゴ",
-   "sourceId": "gnews-anime",
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "press",
    "lang": "ja",
    "score": 20,
    "categories": [
@@ -21305,6 +21574,11 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000001016.000096446.html"
+    },
     {
      "name": "株式会社ドワンゴ",
      "sourceId": "gnews-anime",
@@ -21318,10 +21592,10 @@
      "via": "Googleニュース「声優」"
     },
     {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WTjNVbHFOWnJPamFJVXN1b0ZaX216QkhMN05PZjhfcnppbU5xYkN3eDB0WFRvdmJvREdSN2ZfZlZaUTY2MGhyYmp3OE00dGJVTW5nWGRlN0FyRHR4NS1MZ1V5X1ltV3hua0E?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "毎日キレイ",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xV2huTFByUERJaV9ycXYwVUtFY0VKX25rWlluRU1pRm1hckp0MVU1V3djT3h3cnZZc2ZqcmpGQVFjVF9tbmY3Q1RidC1YdHNaM2dXUlNHaWZmVEpieldtZTJQVXRlRUJEVlB4UDc1Vy04STNKSmhBQ21n?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -32345,7 +32619,7 @@
    "firstSeen": "2026-10-08T09:17:53.854Z",
    "image": null,
    "source": "eeo",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -32358,9 +32632,9 @@
    "sources": [
     {
      "name": "eeo",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XWUw0WnlmNTV4ZmtlaU1VbTJBOU5jd0NCR1pyN216TlVRNHYySEJXOEc0UjZNWmVlUF9RaG1MblAyRkR4dm5RN0xrbG5XdUNPWkotWA?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -193770,242 +194044,6 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/09/23/103169.html"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『ヤニねこ』公式サイト - yanineko-anime.com",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaT3dTUzVwUHNXY2RmTlZqQy02VnREN3lzLU1EWDdQU21SX3I4VTc5RG5vNmRxb2JBaU9lcWZRNnNXMG93MUE?oc=5",
-   "pubDate": "2026-09-23T07:00:00.000Z",
-   "firstSeen": "2026-09-24T16:01:32.000Z",
-   "image": null,
-   "source": "Googleニュース「アニメ」",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 24,
-   "categories": [],
-   "works": [
-    "ヤニねこ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「アニメ」",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaT3dTUzVwUHNXY2RmTlZqQy02VnREN3lzLU1EWDdQU21SX3I4VTc5RG5vNmRxb2JBaU9lcWZRNnNXMG93MUE?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "松岡修造と『新テニスの王子様』 ～アニメシリーズＳＰ～(テレ東、2026/9/23 24:06 OA)の番組情報ページ - tv-tokyo.co.jp",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMF93N3VSUUlONDJaZ0ExSk42NlkwNVlBRkxfMlVyb3RmVEViZXUzWkZNS2pCNzlxcWNWS2M4cXpxZnhVbkRpWnFDMXFJUnhqeFdLMkdZckE0RUx5ZlVlRm03MVo4LXAwOUlHdWhFRUhCLWxOWk9SRFB4d0wwREp5eTFhQ3RZQ1RDeThzREc0OA?oc=5",
-   "pubDate": "2026-09-23T07:00:00.000Z",
-   "firstSeen": "2026-09-23T07:00:00.000Z",
-   "image": null,
-   "source": "Googleニュース「アニメ」",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "新テニスの王子様"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「アニメ」",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMF93N3VSUUlONDJaZ0ExSk42NlkwNVlBRkxfMlVyb3RmVEViZXUzWkZNS2pCNzlxcWNWS2M4cXpxZnhVbkRpWnFDMXFJUnhqeFdLMkdZckE0RUx5ZlVlRm03MVo4LXAwOUlHdWhFRUhCLWxOWk9SRFB4d0wwREp5eTFhQ3RZQ1RDeThzREc0OA?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『アイシールド21』放送21周年記念 ABEMAに「アイシールド21」公式無料チャンネル初開設決定 9月“21”日(月)よりTVアニメ全145話を“21”日間ノンストップ無料放送",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85T1BuTlBJaVNrN0lkX3NKaE9oNVd2NXJYTHVpX1FNejc1Z1hPd3I2UTVXS3hDeklsUVZjRWlZdHR2cmpVV0pWTENlT3BXN2NIV0IzbUxSZ01jWHQ4Rmc?oc=5",
-   "pubDate": "2026-09-23T07:00:00.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "株式会社サイバーエージェント",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [
-    "アイシールド21"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "株式会社サイバーエージェント",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85T1BuTlBJaVNrN0lkX3NKaE9oNVd2NXJYTHVpX1FNejc1Z1hPd3I2UTVXS3hDeklsUVZjRWlZdHR2cmpVV0pWTENlT3BXN2NIV0IzbUxSZ01jWHQ4Rmc?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    },
-    {
-     "name": "株式会社AbemaTV",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VOTAtTzMxbDlBRy12aUxjdFQ2QzV6ZllWa1pDVXRBQ2tENWxtT1VsaURWeEZOMEl0ME5mWWJfUFM2NzdJU3E0RzZNYUnSAVJBVV95cUxPZHRiX013ZERVVGdMSi1JT2JCaWxpUjFDQTJPWmVIUzZtWE5Tb25lRHU0MU9ZbzlpT2FBWWV1T3hHSEtJb0tGaXA5ZlFFWnItTE9R?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "Kis-My-Ft2宮田俊哉さんがアニメの舞台を巡る旅 新作＆過去作を一挙放送！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybkVVQ09CZDlCcUJteUdqSHUxUWxTaU1HRkhiSDcxNWNDci1GdVdJYTQ0UkNBbmlzTUt0aWtkWVdNb2NPcXR4aWpqMkNmZlhPSkRqcW1BaVZoYmFxVkJuLUZzN3BERkYy?oc=5",
-   "pubDate": "2026-09-23T07:00:00.000Z",
-   "firstSeen": "2026-09-29T08:18:10.732Z",
-   "image": null,
-   "source": "nhk.or.jp",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "nhk.or.jp",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ybkVVQ09CZDlCcUJteUdqSHUxUWxTaU1HRkhiSDcxNWNDci1GdVdJYTQ0UkNBbmlzTUt0aWtkWVdNb2NPcXR4aWpqMkNmZlhPSkRqcW1BaVZoYmFxVkJuLUZzN3BERkYy?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ「ワールド イズ ダンシング」7/2放送開始！ 足利義満役に櫻井孝宏ら追加キャスト発表＆先行上映会も",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ObVhiZ3NNdTRLQ0VVRTJQbzRhVXlWSUltb3dVUmlpSVYtenhUb0ZGalBDdVlNMjQ2R2N0MXVfZ2RrLXNYdjV5ZFplRDdzUUI3Sl9WRU52YXpuVGJnT2g0LWhrTFg5ZHNRcEFvYzRJeXBhVmc?oc=5",
-   "pubDate": "2026-09-23T06:34:18.000Z",
-   "firstSeen": "2026-10-02T04:18:18.202Z",
-   "image": null,
-   "source": "推し楽",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "broadcast",
-    "cast",
-    "movie",
-    "event"
-   ],
-   "works": [
-    "ワールド イズ ダンシング"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "推し楽",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ObVhiZ3NNdTRLQ0VVRTJQbzRhVXlWSUltb3dVUmlpSVYtenhUb0ZGalBDdVlNMjQ2R2N0MXVfZ2RrLXNYdjV5ZFplRDdzUUI3Sl9WRU52YXpuVGJnT2g0LWhrTFg5ZHNRcEFvYzRJeXBhVmc?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "【ブラック・ウィドウ役日本版声優・米倉涼子】「なんで今日呼ばれているんだろう?」の本音に内田有紀がフォロー「米ちゃん、疑問に思わないで」（TBS NEWS DIG Powered by JNN）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54YUtJel81cjJMWUNRMWc1UzltQ3BfUFA4XzhHUGRuZ0ZaNnZ1TEtWOG5TUFhrN2NINUM1SDR1VlJNNXNLMXdZUXpxMjZaNE42MldrdWE2NzNIaDhmSGV3cnQtaGhzWTZiYy1Ga0RrNmx1YmZleEMxMXVUSkozRm8?oc=5",
-   "pubDate": "2026-09-23T06:02:14.000Z",
-   "firstSeen": "2026-09-23T06:02:14.000Z",
-   "image": null,
-   "source": "TBS NEWS DIG Powered by JNN（Yahoo!ニュース）",
-   "sourceId": "gnews-seiyu",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "TBS NEWS DIG Powered by JNN（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54YUtJel81cjJMWUNRMWc1UzltQ3BfUFA4XzhHUGRuZ0ZaNnZ1TEtWOG5TUFhrN2NINUM1SDR1VlJNNXNLMXdZUXpxMjZaNE42MldrdWE2NzNIaDhmSGV3cnQtaGhzWTZiYy1Ga0RrNmx1YmZleEMxMXVUSkozRm8?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「ＶＩＶＡＮＴ」チョッキー俳優 吹き替え担当の人気声優と２ショット！「本当に気に入っています」正体は「禰豆子」役・鬼頭明里",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yVVRISGtydjd4d2oxUzZYSEpjdHZRRjd5ME43R1A2aXZnbjVhQnQ1dEhESWVtZTBKSF8wRDVOa3VUd0Z4WUJYTjFUejFheUkycG1WLU5qSWN1S2RLX1lWemZkeU9MUmctVlhfNXltZmI?oc=5",
-   "pubDate": "2026-09-23T05:10:02.000Z",
-   "firstSeen": "2026-09-23T05:10:02.000Z",
-   "image": null,
-   "source": "読売新聞",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "読売新聞",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yVVRISGtydjd4d2oxUzZYSEpjdHZRRjd5ME43R1A2aXZnbjVhQnQ1dEhESWVtZTBKSF8wRDVOa3VUd0Z4WUJYTjFUejFheUkycG1WLU5qSWN1S2RLX1lWemZkeU9MUmctVlhfNXltZmI?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HT1ZOM1o4elZmZloyTlJtcU9tcXQ1VldaSDRYamlPRjhnVWg3c1RxWDAwdEdiQ0YzTnhDTzh4UF9RbngzcDBKQjU4dVZMVk93X3Z3cTdlMkZSa1lHZUIxUXJWSnN0bTVQZk9hTmRIX2UxZTJOVlJHUXZ5ZFV3U1U?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "【敬老の日】『ONE PIECE』Dr.くれはの口癖は？＜クイズ企画 第5弾＞",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/09/23/103168.html",
-   "pubDate": "2026-09-23T04:30:03.000Z",
-   "firstSeen": "2026-09-23T04:30:03.000Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "ONE PIECE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/09/23/103168.html"
     }
    ]
   }
