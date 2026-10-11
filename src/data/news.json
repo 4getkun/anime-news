@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-11T17:19:28.472Z",
+ "generatedAt": "2026-10-11T18:18:25.203Z",
  "count": 6000,
  "dedupe": {
-  "exact": 3509,
+  "exact": 3510,
   "syndicated": 348,
   "similar": 397,
   "syndicatedTotal": 3925,
@@ -8051,9 +8051,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 45,
    "accepted": 44
   },
@@ -8062,9 +8062,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 1,
    "accepted": 1
   },
@@ -8087,8 +8087,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2934,
-   "accepted": 2872
+   "archived": 2933,
+   "accepted": 2871
   },
   {
    "id": "gnews-tvanime",
@@ -8120,8 +8120,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1690,
-   "accepted": 1509
+   "archived": 1693,
+   "accepted": 1512
   },
   {
    "id": "natalie-eiga",
@@ -8131,7 +8131,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 502,
+   "archived": 503,
    "accepted": 50
   },
   {
@@ -8197,7 +8197,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 16472,
+   "archived": 16473,
    "accepted": 1757
   },
   {
@@ -9335,6 +9335,37 @@
    ]
   },
   {
+   "title": "『バイオハザード』公開記念 声優舞台挨拶",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TdUs0YzNfNkdROEFjNDljUE85THMzU01FSmVmc1NkMC02S1ljRFlHTndBSGtQVk96TC01SG1ZU00xLUo1czlXcV83TlNnRnNfQVllMm5BNDFPT19M?oc=5",
+   "pubDate": "2026-10-11T11:58:08.000Z",
+   "firstSeen": "2026-10-11T18:18:03.934Z",
+   "image": null,
+   "source": "CINEMA FACTORY",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast",
+    "movie",
+    "stage"
+   ],
+   "works": [
+    "バイオハザード"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CINEMA FACTORY",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TdUs0YzNfNkdROEFjNDljUE85THMzU01FSmVmc1NkMC02S1ljRFlHTndBSGtQVk96TC01SG1ZU00xLUo1czlXcV83TlNnRnNfQVllMm5BNDFPT19M?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
    "title": "Godzilla Minus Zero Film Streams Final Trailer",
    "summary": "Sequel to Godzilla Minus One opens in Japan on November 3, N. America on November 6",
    "link": "https://www.animenewsnetwork.com/news/2026-10-11/godzilla-minus-zero-film-streams-final-trailer/.242719",
@@ -9852,6 +9883,12 @@
      "name": "福井新聞社",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15THNvVFlJU002VjZTMTF5d3V5X0FpSngwdDNpNDJqcjR3MEk3Sm1YVmJUcmNYUkw1REtkZVBDeGNTdGFub3QwN2J3WVQ1dXN2QUpzd0RpSFN0NzdGcGc?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "佐賀新聞",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84Sm5fT19CQjEzNjlxdHNPaE5kRzJwUS1kQWpPd294NmZmTFN0ZHBPM202S3FiVFRqdENxT3NicGhpS0QyeUlIM3pYRVVod1o2dXpISGhB?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
@@ -18139,7 +18176,7 @@
    "pubDate": "2026-10-10T12:00:00.000Z",
    "firstSeen": "2026-10-10T12:17:33.906Z",
    "image": null,
-   "source": "ファミ通.com",
+   "source": "ファミ通",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
@@ -18155,7 +18192,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通.com",
+     "name": "ファミ通",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SLW5HT1k4c3FrNVFRclJjRjEyT3NZTVRCcUxJV2R2YWw4OEY2dll6Mm1Kdzl3b2c3aFN3aXJfdkg5VjE1dFgzODNja0Z0b1VnY0RVZ0dudw?oc=5",
      "via": "Googleニュース「アニメ」"
@@ -19017,9 +19054,9 @@
     },
     {
      "name": "山陽新聞",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iR0NhNHU4ajdMZlpWY0dWdHVLaXM1a21wS2QzcW5HZ0tMNC1PemlRRng2Vkx1aUZuWnR5ZW9qQ0lFZ18tWlQ2M2R5cXFZMmhZN3c?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「声優」"
     },
     {
      "name": "ｄメニューニュース",
@@ -194944,41 +194981,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRNUo4MzJ4bEVjbHpqTXRwbUtXMUVyLTVCZEM4YURXVFJnUGZiSGM5R2l3VkFDa20wN1JRQnpmcG5sWW9jLTlpUUdsTWszZlJzWW52Rg?oc=5",
      "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "VIVANT【 チョッキー 】吹き替え役の声優・鬼頭明里さんとの2ショット写真公開「彼女の声本当に気に入っています」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WYUttZ29NMDFjZ01VWUNqN2lZaXAydElRM0QtZjJVWG9pM1VfMEFsQVp4dGZXZTIwSUdJUTRXdWpDdzBBWURVWlM4cGp4TjlPRkM3S3VSVWhTaVhMX1VlNkVuRi0?oc=5",
-   "pubDate": "2026-09-25T03:07:00.000Z",
-   "firstSeen": "2026-09-25T03:07:00.000Z",
-   "image": null,
-   "source": "TBS NEWS DIG",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "TBS NEWS DIG",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WYUttZ29NMDFjZ01VWUNqN2lZaXAydElRM0QtZjJVWG9pM1VfMEFsQVp4dGZXZTIwSUdJUTRXdWpDdzBBWURVWlM4cGp4TjlPRkM3S3VSVWhTaVhMX1VlNkVuRi0?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11b2k2S0ZjX21OdnFtUl8wYzF4SXBTUlA4VlhmaGpkTmxzYldnUk4tSnFJa3dTYkh5cEdaRVppaUtvZG5lYm1BMktOMS1IdTFETFJUMEZoVTBUREhfWHBRUXZLZFM0NDBqeVRHU0NMQk5JejVsMU56T2dtcWRZQlU?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
     }
    ]
   }
