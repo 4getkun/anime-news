@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-11T16:18:18.299Z",
+ "generatedAt": "2026-10-11T17:19:28.472Z",
  "count": 6000,
  "dedupe": {
-  "exact": 3505,
+  "exact": 3509,
   "syndicated": 348,
   "similar": 397,
-  "syndicatedTotal": 3923,
-  "syndicatedLeft": 1149
+  "syndicatedTotal": 3925,
+  "syndicatedLeft": 1148
  },
  "calendar": [
   {
@@ -8032,8 +8032,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 763,
-   "accepted": 763
+   "archived": 764,
+   "accepted": 764
   },
   {
    "id": "lisani",
@@ -8051,9 +8051,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 45,
    "accepted": 44
   },
@@ -8062,9 +8062,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 1,
    "accepted": 1
   },
@@ -8087,8 +8087,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2935,
-   "accepted": 2873
+   "archived": 2934,
+   "accepted": 2872
   },
   {
    "id": "gnews-tvanime",
@@ -8109,8 +8109,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 536,
-   "accepted": 482
+   "archived": 537,
+   "accepted": 483
   },
   {
    "id": "gnews-seiyu",
@@ -8120,8 +8120,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1686,
-   "accepted": 1506
+   "archived": 1690,
+   "accepted": 1509
   },
   {
    "id": "natalie-eiga",
@@ -8197,7 +8197,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 16471,
+   "archived": 16472,
    "accepted": 1757
   },
   {
@@ -8528,6 +8528,20 @@
      "name": "ｄメニューニュース",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0dfbmc4LWQ4ZllfY2lyc0pZNThJYUZwal9sSzM1cENMNXk4TFZiTkE4VGI5SkdhUXVPYlRjeHZZMkM0NkRWS0U4NC1IWU5jTHBzQ0M0RUVTNW1NcTdCbzkzc1pPNTJFVmpEb2xZTTdXSU5Od2Zwd3pjZ0VQME0yNE8yTjAyUWFMTHJmbVA0bzB6ZWkwM2dTMnJmS0plUmlLTlFUTzJPSjU1dnNXTmt3THZZZGwzRzNSTkoyTXlhX3lRYVJsdGNaMFc0Y3lLRXNtSjN4NmdR0gGGAUFVX3lxTE1mX2JBWkMzbmxRTmpyNW5rZXFMZ2llanRERjhUUmota3Ztc05NelU4VzJEOG9fU0tYZDBKTFhaTno1QU1CenJWQ01HSU1MdTVYWHZwWHRjb2I1TExwV1ozWjFQdTBTVXBseVY5OXRLTHQwVFRmZjlRdHpzYXJIczZ1bUdqQmF3?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "オリコン（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHMkc5VUh0U1hoaUdvdFNrcEtsSEVOSjF5U3FUUFRlQi14OXBNRlBnNzN2TndGd0t6dy14X3JCRE5ub1cxVHg2TlZTUVlLcEd0UnVldE94N3F4cnNyMUpJbS1XNGVaTGQ3REszMDVCdW1FaU44Yjh5SkZOeHdKbE0?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxVmFSVGRFVFQ5VUgtZU1LNXM4RmtrMHJwMGNndXBDNWhTR1NCR3l1VjVBNlZiSTdyQnhUakQ4a3FCMDhidEs2bFdpVEV6bm5oN2RrWU5XTFRXc1FLdjRF?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -9628,16 +9642,16 @@
    ]
   },
   {
-   "title": "電撃文庫「こちら、終末停滞委員会。」アニメ化企画が進行中(映画.com)",
-   "summary": "ライトノベル「こちら、終末停滞委員会。」のアニメ化企画が進行中であることが、「電撃文庫 秋の祭典オンライン2026 powered by ABEMA」内で発表された。あわせて、アニメ化発表PV（htt",
-   "link": "https://news.yahoo.co.jp/articles/8a43d4b23374eee78cd721d5d894d802743cfbc4?source=rss",
+   "title": "電撃文庫「こちら、終末停滞委員会。」アニメ化企画が進行中",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LQ1h1Tm02TFctRnhRdG5ZLUNRQXJJaTlINXZDS2wtLXVUZS13enBha3VsSmIyNmpJcHpUUTB1bFdIbEI4THRpWWFB?oc=5",
    "pubDate": "2026-10-11T11:00:00.000Z",
    "firstSeen": "2026-10-11T11:17:40.376Z",
    "image": null,
-   "source": "映画.com（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "映画.com",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
    "lang": "ja",
    "score": 14,
    "categories": [
@@ -9649,6 +9663,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "映画.com",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9LQ1h1Tm02TFctRnhRdG5ZLUNRQXJJaTlINXZDS2wtLXVUZS13enBha3VsSmIyNmpJcHpUUTB1bFdIbEI4THRpWWFB?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
     {
      "name": "映画.com（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -10015,9 +10035,9 @@
     },
     {
      "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGWkY0Z0tCYjZZQ2Z3cWxsY09UUWQwR2lMRUVQenZJUVc0d3F2ak9aUTE0NV9TLVdBX0VIMlJmS1JVWTNFYms0UkFrdkh3UE5tUm8xZWFwSF9PdEpLLVQ2TEJMYWFXXzFBOS1WZ3NQZWpXalZUcW1JeHVVMWZLQjA?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「劇場版 アニメ」",
      "syndicated": true
     }
    ]
@@ -11426,6 +11446,12 @@
      "via": "Googleニュース「声優」"
     },
     {
+     "name": "佐賀新聞",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJNFB2cVJaVF84Q0Y4bC1jclAwYlBfUXgwVWJaZ3JWQ0FvbzlRal9YVDF6N0pNam5tSFhoaUszb2M0a0RMVjhhaXdoZUxDUnd5V1dibEFn?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
      "name": "オリコン（Yahoo!ニュース）",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWMlRqX3JzZk9VQ05WckgzazBDbWlHXzBDX1VhZC1PWWdGOHJhOFNSYWczOEs0MjNmLTUwLURkbjlnMkVxeXJzSF9RZjR1TExFT0x3RklZUDQyTllyWmExQTd1SG1jLUg1eVcxR0RLSktuNkVpWjFLVmtRMFJzQ0E?oc=5",
@@ -12375,7 +12401,7 @@
    "pubDate": "2026-10-11T06:08:00.000Z",
    "firstSeen": "2026-10-11T06:17:53.066Z",
    "image": null,
-   "source": "ファミ通",
+   "source": "ファミ通.com",
    "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
@@ -12390,7 +12416,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通",
+     "name": "ファミ通.com",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wZTlpd3pCc1JZdDU3RUw3OEhhNVl1RlZDUmpfNTNaV2JGSmhwS3RrOWlzUUJWSjB5dURtamtmaTRINW04N0hvWDFUWFgxdXh6Y3hUYmZ1dw?oc=5",
      "via": "Googleニュース「声優」"
@@ -14537,7 +14563,7 @@
    "pubDate": "2026-10-11T01:49:00.000Z",
    "firstSeen": "2026-10-11T02:17:47.500Z",
    "image": null,
-   "source": "ファミ通",
+   "source": "ファミ通.com",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
@@ -14554,7 +14580,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通",
+     "name": "ファミ通.com",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QOEI4eEpyc3h3XzdKcmNfR1lIeTc2WGxfY0xoaVhpODlpaU5DdDRISWFwbGhOemo3bV9PVEdDNGI4aE0tREkxTENwSm5sMFo0Y0VocmVORQ?oc=5",
      "via": "Googleニュース「アニメ」"
@@ -18113,12 +18139,12 @@
    "pubDate": "2026-10-10T12:00:00.000Z",
    "firstSeen": "2026-10-10T12:17:33.906Z",
    "image": null,
-   "source": "ファミ通",
+   "source": "ファミ通.com",
    "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 22,
+   "score": 26,
    "categories": [
     "new"
    ],
@@ -18129,7 +18155,7 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ファミ通",
+     "name": "ファミ通.com",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SLW5HT1k4c3FrNVFRclJjRjEyT3NZTVRCcUxJV2R2YWw4OEY2dll6Mm1Kdzl3b2c3aFN3aXJfdkg5VjE1dFgzODNja0Z0b1VnY0RVZ0dudw?oc=5",
      "via": "Googleニュース「アニメ」"
@@ -18148,7 +18174,7 @@
    "syndicated": true,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 18,
+   "score": 22,
    "categories": [
     "new",
     "visual"
@@ -18168,16 +18194,16 @@
    ]
   },
   {
-   "title": "『Dr.STONE』新作アニメ制作決定でPV公開 本編完結後の続編エピソード「TERRAFORMING」",
+   "title": "アニメ「Dr.STONE」新作の制作決定！本編完結後を描く「Dr.STONE TERRAFORMING」（コメントあり / 動画あり）",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dDlWbW9mTVk0REtZdVBDYUxETmlsVTFUcHFOSTFKdkl3YzFJdElpcWtKX0FzUmVSWHhSMU9hQ3ViZ0w0XzhHNGpLOU1rcGs?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4LU5SNjJVZ2dXWlFfcFpFUF9BQlZIMnJnLTZfaHI0WGhsSzBLdUgwRDlyTklTcVRwSnBKdDh4dlN6cFduajFaUDdzRTg?oc=5",
    "pubDate": "2026-10-10T12:00:00.000Z",
    "firstSeen": "2026-10-10T12:17:33.906Z",
    "image": null,
-   "source": "オリコンニュース",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
    "score": 24,
    "categories": [
@@ -18192,15 +18218,14 @@
    "spoiler": false,
    "sources": [
     {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4LU5SNjJVZ2dXWlFfcFpFUF9BQlZIMnJnLTZfaHI0WGhsSzBLdUgwRDlyTklTcVRwSnBKdDh4dlN6cFduajFaUDdzRTg?oc=5"
+    },
+    {
      "name": "オリコンニュース",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dDlWbW9mTVk0REtZdVBDYUxETmlsVTFUcHFOSTFKdkl3YzFJdElpcWtKX0FzUmVSWHhSMU9hQ3ViZ0w0XzhHNGpLOU1rcGs?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4LU5SNjJVZ2dXWlFfcFpFUF9BQlZIMnJnLTZfaHI0WGhsSzBLdUgwRDlyTklTcVRwSnBKdDh4dlN6cFduajFaUDdzRTg?oc=5",
      "via": "Googleニュース「アニメ」"
     },
     {
@@ -121911,7 +121936,7 @@
    ]
   },
   {
-   "title": "劇場版『メダリスト』",
+   "title": "劇場版『メダリスト』：映画・アニメ",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hUkRWbnRCOGZ0V0xfVDlsMWNBWlgtdEJoNnNNZjF0SEs3UWNTYmppdjUydUMxNnRNSXl6U3dGRFNUdXBic0lnVFV1RXR4b2xZa1JrckJwUTM?oc=5",
    "pubDate": "2026-10-01T09:09:14.000Z",
@@ -121922,7 +121947,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 8,
+   "score": 12,
    "categories": [
     "movie"
    ],
