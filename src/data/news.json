@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-11T12:18:06.609Z",
+ "generatedAt": "2026-10-11T13:21:09.754Z",
  "count": 6000,
  "dedupe": {
-  "exact": 3478,
+  "exact": 3479,
   "syndicated": 341,
   "similar": 396,
-  "syndicatedTotal": 3891,
-  "syndicatedLeft": 1143
+  "syndicatedTotal": 3896,
+  "syndicatedLeft": 1146
  },
  "calendar": [
   {
@@ -8012,9 +8012,9 @@
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 763,
    "accepted": 763
   },
@@ -8067,9 +8067,9 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 2914,
    "accepted": 2852
   },
@@ -8078,9 +8078,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1090,
    "accepted": 1062
   },
@@ -8089,9 +8089,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 534,
    "accepted": 480
   },
@@ -8100,9 +8100,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1670,
    "accepted": 1491
   },
@@ -8111,9 +8111,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 499,
    "accepted": 50
   },
@@ -8136,7 +8136,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 704,
+   "archived": 705,
    "accepted": 30
   },
   {
@@ -8180,8 +8180,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 16346,
-   "accepted": 1741
+   "archived": 16392,
+   "accepted": 1746
   },
   {
    "id": "prtimes",
@@ -8191,7 +8191,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 15856,
+   "archived": 15857,
    "accepted": 277
   },
   {
@@ -8202,8 +8202,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 478,
-   "accepted": 478
+   "archived": 479,
+   "accepted": 479
   },
   {
    "id": "mal",
@@ -8229,6 +8229,124 @@
   }
  ],
  "items": [
+  {
+   "title": "『まどマギ』ほむらが1万円で巨大フィギュアに！微笑み姿×長髪で魅力を表現、＋1万円でまどかも買える(オタク総研)",
+   "summary": "ホビーメーカーのフリューはフィギュアブランド「TENITOL」から新商品「TENITOL TALL 暁美ほむら」を発表した。税込1万450円で、FURYU HOBBY MALL限定の受注生産にて予約を",
+   "link": "https://news.yahoo.co.jp/articles/dec3525a610e5f6247541dbfa4e69588237c1c0c?source=rss",
+   "pubDate": "2026-10-11T13:04:00.000Z",
+   "firstSeen": "2026-10-11T13:20:43.681Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "まどマギ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/dec3525a610e5f6247541dbfa4e69588237c1c0c?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「バイオハザード」日本でも公開2日間で興収4億の好スタート！日本版声優の下野紘、早見沙織、杉田智和が公開舞台挨拶に登壇(映画.com)",
+   "summary": "「WEAPONS ウェポンズ」のザック・クレッガー監督が、世界的人気を誇るカプコンのホラーゲームを映画化した「バイオハザード」の公開記念舞台挨拶が10月11日、都内で行われ、日本版声優を務める下野紘、",
+   "link": "https://news.yahoo.co.jp/articles/228e6bac16b8c44e166ced79791383cce370fc0a?source=rss",
+   "pubDate": "2026-10-11T13:00:00.000Z",
+   "firstSeen": "2026-10-11T13:20:43.681Z",
+   "image": null,
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast",
+    "movie",
+    "game",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/228e6bac16b8c44e166ced79791383cce370fc0a?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ゴジラ-0.0』ファイナル予告公開 “敷島”神木隆之介ら人類に絶望が襲いかかる(リアルサウンド)",
+   "summary": "11月3日に公開される映画『ゴジラ-0.0』のファイナル予告と新場面写真が公開された。【写真】NYのタイムズスクエアで記念撮影をする神木隆之介と浜辺美波（多数あり） 本作は、第96回アカデミー賞視覚効",
+   "link": "https://news.yahoo.co.jp/articles/c98095c90515debd857cc2092e60effef136f869?source=rss",
+   "pubDate": "2026-10-11T12:37:06.000Z",
+   "firstSeen": "2026-10-11T13:20:43.681Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "visual",
+    "movie"
+   ],
+   "works": [
+    "ゴジラ-0.0"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c98095c90515debd857cc2092e60effef136f869?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "7ORDERの新曲がVシネ「超宇宙刑事ギャバン」主題歌に決定、本予告映像を公開(音楽ナタリー)",
+   "summary": "7ORDERの新曲「Feeling your Dream」が、12月11日に東京・新宿バルト9ほかで期間限定上映されるVシネクスト「超宇宙刑事ギャバン インフィニティVSライヤ」の主題歌に決定した。【",
+   "link": "https://news.yahoo.co.jp/articles/092ae0bdd93d15db22cd462b6711c6390805a587?source=rss",
+   "pubDate": "2026-10-11T12:35:10.000Z",
+   "firstSeen": "2026-10-11T13:20:43.681Z",
+   "image": null,
+   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "visual",
+    "movie",
+    "music"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/092ae0bdd93d15db22cd462b6711c6390805a587?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "『NARUTO』の完全新作アニメは『忍空』コラボ作品と判明！全4話で構成、ナルトを描くキッカケの作品と融合(オタク総研)",
    "summary": "米ニューヨークで現地時間10日に開かれた「ニューヨーク・コミコン2026」のステージ「NARUTO: What's Next?」にて、以前発表されていた『NARUTO』シリーズ新作アニメの続報が公表。",
@@ -8294,7 +8412,7 @@
    ]
   },
   {
-   "title": "『入替夫婦～あなたが親友を抱いたとしても～』最終話がまんが王国で独占先行配信中！3話まで無料キャンペーンも",
+   "title": "『入替夫婦～あなたが親友を抱いたとしても～』最終話がまんが王国で独占先行配信中！無料＆割引キャンペーンも",
    "summary": "『入替夫婦～あなたが親友を抱いたとしても～』が感動の最終回へ 『入替夫婦～あなたが親友を抱いたとしても～』は、作画を夏江ユウさん、原作を武田愛子さんが手がける作品。バリキャリOLと専業主婦の入れ替わりを描くラブ・サスペンスです。 &nbsp…",
    "link": "https://nijimen.kusuguru.co.jp/topics/639651",
    "pubDate": "2026-10-11T12:08:00.000Z",
@@ -8641,6 +8759,34 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/56d68b3e8025901ff63115d6194a1baa8113aabf?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Godzilla Minus Zero Film Streams Final Trailer",
+   "summary": "Sequel to Godzilla Minus One opens in Japan on November 3, N. America on November 6",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-11/godzilla-minus-zero-film-streams-final-trailer/.242719",
+   "pubDate": "2026-10-11T11:55:00.000Z",
+   "firstSeen": "2026-10-11T13:20:43.681Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new",
+    "visual",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-11/godzilla-minus-zero-film-streams-final-trailer/.242719"
     }
    ]
   },
@@ -46053,6 +46199,12 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSbjNBdV9GSDBsX3BpUUtZQWZqTU8xSXo2bU1vUjhKMXB5cUt4NVl6ekRkdVVSZkZUQXhQNGUzU18yZlFFZmJidXJrNA?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
+     "name": "映画.com（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/378dd61e7b1d5657abf213dad26d3b4f143c1b5c?source=rss",
+     "syndicated": true
     }
    ]
   },
@@ -194666,152 +194818,6 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000043.000157042.html"
-    }
-   ]
-  },
-  {
-   "title": "LAST ALLIANCE、人気曲「疾走」ライヴ・クリップ映像公開！TVアニメ\"桜蘭高校ホスト部\"EDテーマの名曲がアニメ・イントロを新たに加えたライヴ音源で蘇る！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LMUdBa3QzMDRkSHB1MGk4a0RoRU1FaE8xWjVyekt1SWpyNUdnMWk4RHZ0U2o4YUZXakVPNmhfQy1UOTJCQmZVZzM2eWl0UThmeUNjWnIzZFktek4tNEhXaWlodWNYOVRzeFNoQWVMY0JhVXJmblZjZA?oc=5",
-   "pubDate": "2026-09-25T03:00:00.000Z",
-   "firstSeen": "2026-09-25T03:00:00.000Z",
-   "image": null,
-   "source": "激ロック",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "music"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "激ロック",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LMUdBa3QzMDRkSHB1MGk4a0RoRU1FaE8xWjVyekt1SWpyNUdnMWk4RHZ0U2o4YUZXakVPNmhfQy1UOTJCQmZVZzM2eWl0UThmeUNjWnIzZFktek4tNEhXaWlodWNYOVRzeFNoQWVMY0JhVXJmblZjZA?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "天は赤い河のほとり＞テレビアニメ第2クール 新PVにラムセス登場 「欲しいものは奪い取るしかないのさ」（MANTANWEB）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pMVFoX0RPT2FsRHFxOHRaRGxZSG1sLWRDRmIwQUpxTGsyVkFybG1Kcmp1M29tME94NW9GWS1KOXItNW90UFltdllYQ0c4VHUzcEVqMXdQNWVLNkY1X0paRDA0TzlzT3ZiQ3J2SERPTDkzaGRLOFRBeTNMVXRBUlk?oc=5",
-   "pubDate": "2026-09-25T03:00:00.000Z",
-   "firstSeen": "2026-09-25T03:00:00.000Z",
-   "image": null,
-   "source": "MANTANWEB（Yahoo!ニュース）",
-   "sourceId": "gnews-tvanime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 26,
-   "categories": [
-    "visual"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pMVFoX0RPT2FsRHFxOHRaRGxZSG1sLWRDRmIwQUpxTGsyVkFybG1Kcmp1M29tME94NW9GWS1KOXItNW90UFltdllYQ0c4VHUzcEVqMXdQNWVLNkY1X0paRDA0TzlzT3ZiQ3J2SERPTDkzaGRLOFRBeTNMVXRBUlk?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『SAKAMOTO DAYS』DJ GROOVE CAFE at 洒落CAFE 描き下ろしオリジナルグッズ & コラボメニューが登場！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html",
-   "pubDate": "2026-09-25T03:00:00.000Z",
-   "firstSeen": "2026-09-25T03:00:02.000Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "SAKAMOTO DAYS"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000345.000048489.html"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『天は赤い河のほとり』第2クール、メインビジュアル＆本PV解禁",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lbUlHLURqMXFwOUN0b1Zsc3JOSld1UkpjQWdJbGNMQWRQa2VWWVpvdUdBbDZDaUJvT0ZHQjJPenprWjdydlIyMEc3alNkMnPSAVRBVV95cUxOUVc3b3pVb3RXeGR0cHhpWnIzTGNUUEo3NWVrUzNSZE9acFRrRW5SQmQ4RzVDMGNtRzZHLThzUkluOWc5N1gxQ01OSlZJOGczaUxmQ00?oc=5",
-   "pubDate": "2026-09-25T03:00:00.000Z",
-   "firstSeen": "2026-09-25T03:00:25.000Z",
-   "image": null,
-   "source": "エンタメ特化型情報メディア スパイス",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 30,
-   "categories": [
-    "visual"
-   ],
-   "works": [
-    "天は赤い河のほとり"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "エンタメ特化型情報メディア スパイス",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lbUlHLURqMXFwOUN0b1Zsc3JOSld1UkpjQWdJbGNMQWRQa2VWWVpvdUdBbDZDaUJvT0ZHQjJPenprWjdydlIyMEc3alNkMnPSAVRBVV95cUxOUVc3b3pVb3RXeGR0cHhpWnIzTGNUUEo3NWVrUzNSZE9acFRrRW5SQmQ4RzVDMGNtRzZHLThzUkluOWc5N1gxQ01OSlZJOGczaUxmQ00?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    },
-    {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pZnZHZERLVmN5WTE5cEJTX0c3NzBrSC1acFpvRkRsTmF2bFVuak9SczFpM3FQTkFZWXZBQ3dQYzJzVGhUY2tXanVST1FndHdkZTBjbzZBME5EbnlCRURtWXRnZmQtUTJZ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "花澤香菜、津田健次郎、林原めぐみ…本当に面白いラジオ番組【声優編】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81M0Y2WTBxLUxEN0NPS2Jqb3I2ZTFsQ1h0bF92UUhuNExMdG5zRVZQdzJHdjRzR0NZT3daYmF3d1ZIaHRfTk9nQldYYU1hVnRiNWFSTXdR0gFbQVVfeXFMUGtYVXZJcGJpeFRoUG1zanRSUExzSU1UNEd0eHN5Uk9yaHVnWTYyOHVGTzd4NldtTzVXOGJqYnNYdzF6VTF3SWpJZnJOVEJjTE82bGZsWFphcDBYVQ?oc=5",
-   "pubDate": "2026-09-25T03:00:00.000Z",
-   "firstSeen": "2026-09-25T03:00:00.000Z",
-   "image": null,
-   "source": "radiko news",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "radiko news",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81M0Y2WTBxLUxEN0NPS2Jqb3I2ZTFsQ1h0bF92UUhuNExMdG5zRVZQdzJHdjRzR0NZT3daYmF3d1ZIaHRfTk9nQldYYU1hVnRiNWFSTXdR0gFbQVVfeXFMUGtYVXZJcGJpeFRoUG1zanRSUExzSU1UNEd0eHN5Uk9yaHVnWTYyOHVGTzd4NldtTzVXOGJqYnNYdzF6VTF3SWpJZnJOVEJjTE82bGZsWFphcDBYVQ?oc=5",
-     "via": "Googleニュース「声優」"
     }
    ]
   }
