@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-12T21:18:56.822Z",
+ "generatedAt": "2026-10-12T22:18:09.125Z",
  "count": 6000,
  "dedupe": {
-  "exact": 3633,
-  "syndicated": 361,
+  "exact": 3635,
+  "syndicated": 362,
   "similar": 406,
-  "syndicatedTotal": 4077,
-  "syndicatedLeft": 1176
+  "syndicatedTotal": 4081,
+  "syndicatedLeft": 1177
  },
  "calendar": [
   {
@@ -1723,20 +1723,6 @@
    "categories": [
     "broadcast"
    ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-03",
-   "precision": "day",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": "ビストロボイス",
-   "title": "山寺宏一MCのNHK「ビストロボイス」Season2、矢野顕子＆松たか子の声の仕事に迫る",
-   "link": "https://natalie.mu/comic/news/691059",
-   "source": "コミックナタリー",
-   "sources": 2,
-   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -3925,6 +3911,20 @@
    "categories": [
     "goods"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-13",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "千歳くんはラムネ瓶のなか",
+   "title": "昨年放送の『千歳くんはラムネ瓶のなか』アニメ“後半”クールが本日開幕！初回から「駆け落ち」してしまう？【先行カット】(オタク総研)",
+   "link": "https://news.yahoo.co.jp/articles/66ad8845407ae452ff43c6fd9949a12aaf9bd0bc?source=rss",
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -8081,9 +8081,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 46,
    "accepted": 45
   },
@@ -8092,9 +8092,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 1,
    "accepted": 1
   },
@@ -8117,8 +8117,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 3045,
-   "accepted": 2975
+   "archived": 3047,
+   "accepted": 2977
   },
   {
    "id": "gnews-tvanime",
@@ -8128,8 +8128,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1112,
-   "accepted": 1082
+   "archived": 1115,
+   "accepted": 1085
   },
   {
    "id": "gnews-movie",
@@ -8172,7 +8172,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 974,
+   "archived": 975,
    "accepted": 370
   },
   {
@@ -8194,7 +8194,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 767,
+   "archived": 768,
    "accepted": 185
   },
   {
@@ -8227,8 +8227,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 17547,
-   "accepted": 1838
+   "archived": 17597,
+   "accepted": 1841
   },
   {
    "id": "prtimes",
@@ -8276,6 +8276,116 @@
   }
  ],
  "items": [
+  {
+   "title": "昨年放送の『千歳くんはラムネ瓶のなか』アニメ“後半”クールが本日開幕！初回から「駆け落ち」してしまう？【先行カット】(オタク総研)",
+   "summary": "2025年に放送されたTVアニメ『千歳くんはラムネ瓶のなか』について、本作の第2クールが2026年10月より放送される。この度、初回エピソードにあたる第14話「君と先輩の駆け落ち」の先行カット・あらす",
+   "link": "https://news.yahoo.co.jp/articles/66ad8845407ae452ff43c6fd9949a12aaf9bd0bc?source=rss",
+   "pubDate": "2026-10-12T22:12:00.000Z",
+   "firstSeen": "2026-10-12T22:17:45.957Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 11,
+   "categories": [],
+   "works": [
+    "千歳くんはラムネ瓶のなか"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/66ad8845407ae452ff43c6fd9949a12aaf9bd0bc?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「星のカービィ」の新作発表後に株価が下落、任天堂を苦しめるIP育成のジレンマ(＠ＤＩＭＥ)",
+   "summary": "日本を代表するゲーム会社·任天堂が転換点を迎えています。ゲーム産業は新規ユーザーが爆発的に増える段階から抜け出しつつあり、既存ユーザーが収益の源となっているのです。これは典型的な成熟期の兆候。任天堂の",
+   "link": "https://news.yahoo.co.jp/articles/7c40506e80dd12f1bc0f8abc480dd1c246e601c8?source=rss",
+   "pubDate": "2026-10-12T22:10:09.000Z",
+   "firstSeen": "2026-10-12T22:17:45.957Z",
+   "image": null,
+   "source": "＠ＤＩＭＥ（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "＠ＤＩＭＥ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/7c40506e80dd12f1bc0f8abc480dd1c246e601c8?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "あの黒ひげもビビった…!? 『ワンピース』“インペルダウン最深部”に収監されていた「規格外の大物」たち(ふたまん＋)",
+   "summary": "尾田栄一郎氏が描く大人気漫画『ONE PIECE（ワンピース）』（集英社）には、世界政府直轄の海底監獄「インペルダウン」が登場。数多くの凶悪犯が収監されるこの監獄には、罪の重さで階層ごとに分けられた区",
+   "link": "https://news.yahoo.co.jp/articles/a4de46b2e3b9955ba84684f1393e108564ad6ccc?source=rss",
+   "pubDate": "2026-10-12T22:00:35.000Z",
+   "firstSeen": "2026-10-12T22:17:45.957Z",
+   "image": null,
+   "source": "ふたまん＋（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [
+    "ONE PIECE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ふたまん＋（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/a4de46b2e3b9955ba84684f1393e108564ad6ccc?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "アニメ『幽遊白書』幽助、蔵馬、飛影たちの“リラックスタイム”がテーマ。 新規描き下ろしイラストを含むグッズが登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwWEh0bzVkQmJ1aVdNNU5TODZzVzZtd2NEMHoxNzF6WDN1Q2JwOEJmWV9FbGtrTkhLVWY5UlJQdHdweHRsVGlWeDNLdWdiUXJkcXBXVFlabw?oc=5",
+   "pubDate": "2026-10-12T22:00:00.000Z",
+   "firstSeen": "2026-10-12T22:17:45.957Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "幽遊白書"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwWEh0bzVkQmJ1aVdNNU5TODZzVzZtd2NEMHoxNzF6WDN1Q2JwOEJmWV9FbGtrTkhLVWY5UlJQdHdweHRsVGlWeDNLdWdiUXJkcXBXVFlabw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
   {
    "title": "Killing Bites Manga Publishes 1st Part of Final Chapter",
    "summary": "Kazasa Sumita, Shinya Murata debuted manga in March 2017",
@@ -9110,16 +9220,16 @@
    ]
   },
   {
-   "title": "「放課後帰宅びより」27年4月にTVアニメ化 女子高生＆新入生の「ハイパー帰宅部」ラブコメディ(映画.com)",
-   "summary": "双葉社の「漫画アクション」「webアクション」で連載中の漫画「放課後帰宅びより」のテレビアニメ化が決定し、2027年4月から日本テレビで放送されることが分かった。あわせて、ティザービジュアルと原作者の",
-   "link": "https://news.yahoo.co.jp/articles/476a3555c34596bc6e0309a47f60f5159ad9869d?source=rss",
+   "title": "「放課後帰宅びより」27年4月にTVアニメ化 女子高生＆新入生の「ハイパー帰宅部」ラブコメディ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBKeVFSQmRZLVc4ZW1fUldpY21ySVVOTHNleW9LU0lxdndxUUlDLWNTb3lmVmxWRHVibFdaUQ?oc=5",
    "pubDate": "2026-10-12T13:00:00.000Z",
    "firstSeen": "2026-10-12T13:17:44.880Z",
    "image": null,
-   "source": "映画.com（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "映画.com",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
    "lang": "ja",
    "score": 30,
    "categories": [
@@ -9130,6 +9240,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "映画.com",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBKeVFSQmRZLVc4ZW1fUldpY21ySVVOTHNleW9LU0lxdndxUUlDLWNTb3lmVmxWRHVibFdaUQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
     {
      "name": "映画.com（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -9201,15 +9317,15 @@
    ]
   },
   {
-   "title": "＜鵺の陰陽師＞「ジャンプ」話題作がテレビアニメ化 2027年夏放送 三浦魁、大西沙織、鈴代紗弓出演 制作はスタジオ雲雀",
+   "title": "鵺の陰陽師：「ジャンプ」話題作がテレビアニメ化 2027年夏放送 三浦魁、大西沙織、鈴代紗弓出演 制作はスタジオ雲雀",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SbENDWjZuNHZzWUJDanhtaksyU0JaWkF6NjdPT05vNVFoQmV6Rm5GSDBLdEd4V0xwT2dXSjRJMERyNHZlc0JQVW15d01jWEVPN0JrTWpjQ0ZlS0oya2lTeWJOaHBOTFVVX2gxVkxSZEZ1TEw1WnQ2bF9TdmpSZm8?oc=5",
-   "pubDate": "2026-10-12T12:33:00.000Z",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVZFFiazBBTlM3aDFZcUtjemtEczNRVW5JcTdkT3JnZjR5ZEpiMlNoRHFKYnRvNmFDeUlwR3k0VVRhQ05ESFlYMFRObWRlcTgzSXJUaUExcWl0cE90Y195X3FqMzh5YkhhdDUw?oc=5",
+   "pubDate": "2026-10-12T12:25:09.000Z",
    "firstSeen": "2026-10-12T13:17:44.880Z",
    "image": null,
-   "source": "Yahoo!ニュース",
+   "source": "MANTANWEB",
    "sourceId": "gnews-tvanime",
-   "syndicated": true,
+   "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
    "score": 20,
@@ -9220,6 +9336,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "MANTANWEB",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVZFFiazBBTlM3aDFZcUtjemtEczNRVW5JcTdkT3JnZjR5ZEpiMlNoRHFKYnRvNmFDeUlwR3k0VVRhQ05ESFlYMFRObWRlcTgzSXJUaUExcWl0cE90Y195X3FqMzh5YkhhdDUw?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
     {
      "name": "Yahoo!ニュース",
      "sourceId": "gnews-tvanime",
@@ -13333,6 +13455,33 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/362abe8ce410a6523c5f4fc8cb326e2422466e26?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『アオアシ Season2』最新情報！第3話「プレミアリーグ第7節 柏大商業高校戦」あらすじ＆先行カット解禁！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zNDZYOEtnT0M1bmxrMFlickhOOXlRR0h5eVBwZkpfaVNUcHM4ZUlqNlM2LURiRzhKS2J4MzBlbEd0bU1wSHRTNlNJSDM1U0ZBZEp2V3lSUnFzcUtmczlzMlk5dE1EOUVjWnozX0VEcmJsSm02TUZ4ejN3?oc=5",
+   "pubDate": "2026-10-12T02:12:05.000Z",
+   "firstSeen": "2026-10-12T22:17:45.957Z",
+   "image": null,
+   "source": "アットエス",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "アオアシ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アットエス",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zNDZYOEtnT0M1bmxrMFlickhOOXlRR0h5eVBwZkpfaVNUcHM4ZUlqNlM2LURiRzhKS2J4MzBlbEd0bU1wSHRTNlNJSDM1U0ZBZEp2V3lSUnFzcUtmczlzMlk5dE1EOUVjWnozX0VEcmJsSm02TUZ4ejN3?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -195135,149 +195284,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/50f20af112cddea011bdd3101765d9dae28f2031?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ「マジカル★エクスプローラー」 キャラクターPV（水守雪音ver.）を解禁！ | ニュース | アニプレックス オフィシャルサイト",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LSjFsanR6ZC16QjVsQmFsdHpfbXY5dGROWGd1X28zRGg1OEhYdWVxZVd5N2JFdEd6S0I3NTkzSHkzTlU5LXI5N3M2OUhBczN1bFFhN3djaVFjWG8?oc=5",
-   "pubDate": "2026-09-25T10:58:27.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "Aniplex",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "visual"
-   ],
-   "works": [
-    "マジカル★エクスプローラー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Aniplex",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LSjFsanR6ZC16QjVsQmFsdHpfbXY5dGROWGd1X28zRGg1OEhYdWVxZVd5N2JFdEd6S0I3NTkzSHkzTlU5LXI5N3M2OUhBczN1bFFhN3djaVFjWG8?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "甘党上司と酒好き後輩でデザートのある居酒屋へ、社会人男女の“飯友”マンガ1巻",
-   "summary": "真白あさひ「ふたりの後味、やばいひと時。」1巻が、本日9月25日にforcsのレーベル・じるみてから電子書籍で発売された。",
-   "link": "https://natalie.mu/comic/news/691058",
-   "pubDate": "2026-09-25T10:55:00.000Z",
-   "firstSeen": "2026-09-25T14:09:46.491Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://natalie.mu/comic/news/691058"
-    }
-   ]
-  },
-  {
-   "title": "坂東龍汰と岡山天音が「我々は宇宙人」見どころ語る、櫻坂46山﨑天はサプライズに笑顔",
-   "summary": "長編アニメーション映画「我々は宇宙人」の初日舞台挨拶が本日9月25日に東京・TOHOシネマズ 日比谷で行われ、キャストの坂東龍汰、岡山天音、山﨑天（櫻坂46）、松井ケムリ（令和ロマン）、監督の門脇康平が登壇した。",
-   "link": "https://natalie.mu/eiga/news/691008",
-   "pubDate": "2026-09-25T10:50:00.000Z",
-   "firstSeen": "2026-09-25T14:09:46.491Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "cast",
-    "movie",
-    "goods",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://natalie.mu/eiga/news/691008"
-    }
-   ]
-  },
-  {
-   "title": "山寺宏一MCのNHK「ビストロボイス」Season2、矢野顕子＆松たか子の声の仕事に迫る",
-   "summary": "山寺宏一がMCを務めるNHK Eテレの番組「ビストロボイス」Season2が、10月3日21時に放送スタート。初回は2週にわたって放送される。",
-   "link": "https://natalie.mu/comic/news/691059",
-   "pubDate": "2026-09-25T10:44:00.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "ビストロボイス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://natalie.mu/comic/news/691059"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03WjB5U0tFSkpvNDNtZWVTWURRZ0RFMXdjQ3o3a0tfb2RHSEkyNUhfNjNvQUdkX3NkODI0S05Na2hnMVF5Z2h1MjN5WWZGb2NTXzVsNl8yMkFzbVlWZWxRb19FeDlZdm5nOWtPZG9DMVo1R05KV3dXTW9kdXltbTg?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『薬屋のひとりごと』第3期も第1話無料！U-NEXT秋アニメ配信ラインナップ発表、2026年10月から",
-   "summary": "U-NEXTの秋アニメ配信ラインナップが発表 今期の目玉は、やはり第1話の無料配信です。TVアニメ『薬屋のひとりごと』第3期をはじめ、多数の作品で第1話の無料配信を実施します。しかも対象作品の第1話はU-NEXTへの会員登録不要で、誰でも視…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/637224",
-   "pubDate": "2026-09-25T10:40:09.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/09/31998-2957-eb79e0f0a4300cae74992d9e677d5bd8-1920x1080-1.jpg",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/637224"
     }
    ]
   }
