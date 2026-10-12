@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-12T16:18:05.523Z",
+ "generatedAt": "2026-10-12T17:18:08.463Z",
  "count": 6000,
  "dedupe": {
   "exact": 3623,
   "syndicated": 360,
   "similar": 403,
   "syndicatedTotal": 4070,
-  "syndicatedLeft": 1180
+  "syndicatedLeft": 1179
  },
  "calendar": [
   {
@@ -8092,9 +8092,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "connect ECONNREFUSED 183.90.246.3:443",
+   "fetched": 0,
    "archived": 1,
    "accepted": 1
   },
@@ -8117,8 +8117,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 3038,
-   "accepted": 2969
+   "archived": 3037,
+   "accepted": 2968
   },
   {
    "id": "gnews-tvanime",
@@ -8139,8 +8139,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 551,
-   "accepted": 496
+   "archived": 552,
+   "accepted": 497
   },
   {
    "id": "gnews-seiyu",
@@ -8150,8 +8150,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1730,
-   "accepted": 1549
+   "archived": 1731,
+   "accepted": 1550
   },
   {
    "id": "natalie-eiga",
@@ -8227,7 +8227,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 17415,
+   "archived": 17416,
    "accepted": 1836
   },
   {
@@ -8249,8 +8249,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 495,
-   "accepted": 495
+   "archived": 497,
+   "accepted": 497
   },
   {
    "id": "mal",
@@ -8276,6 +8276,60 @@
   }
  ],
  "items": [
+  {
+   "title": "'Killed Again, Mr. Detective?' Manga's Inaba Launches New Manga",
+   "summary": "Nukedashi romantic comedy manga launches on October 26",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-12/killed-again-mr-detective-manga-inaba-launches-new-manga/.242738",
+   "pubDate": "2026-10-12T17:15:00.000Z",
+   "firstSeen": "2026-10-12T17:17:41.402Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [
+    "Killed Again, Mr. Detective?"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-12/killed-again-mr-detective-manga-inaba-launches-new-manga/.242738"
+    }
+   ]
+  },
+  {
+   "title": "Erica Sakurazawa Launches New Manga on November 6",
+   "summary": "Sakurazawa to launch Watashi no Manga (Mayoi) Michi manga featuring behind-the-scenes essays from \"that era\"",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-12/erica-sakurazawa-launches-new-manga-on-november-6/.242740",
+   "pubDate": "2026-10-12T16:15:00.000Z",
+   "firstSeen": "2026-10-12T17:17:41.402Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-12/erica-sakurazawa-launches-new-manga-on-november-6/.242740"
+    }
+   ]
+  },
   {
    "title": "Dramatic Road: the origin of wind Game Review",
    "summary": "Dramatic Road isn't just a modern-day Fire Emblem. It's specifically a high school delinquent saga inspired by classics like Bari Bari Dense…",
@@ -8464,6 +8518,35 @@
      "name": "コミックナタリー",
      "sourceId": "natalie-comic",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vT1BLM3BwNGJ5dnR1eVNWanVIaFlVTmxXZ2FUdU50NVR0ckRfTElkaW9uNHdnZ3UwSHZyZFBFTlB3TW9LNnRqSmJ1WUo?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "興行収入の海外比率70％超、劇場版『チェンソーマン レゼ篇』はなぜ海外で受けたのか",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHV0QW5BZG5kQ3BxbzNkTkZxWjljZmQzbnJCZV9jREctb25xYWZPdWRGdTd1c3Z1ZXBhR01aQlV3czZ5SXl0dXV0ejMtdEZZcUlmWktNLVE1X3BteUc1U0FId0t1VWdoaDlwVzJ5VUNGaV9YYTV1ZXNMa1pScVVIemRzYkFqMHc2OVdB?oc=5",
+   "pubDate": "2026-10-12T15:00:00.000Z",
+   "firstSeen": "2026-10-12T17:17:41.402Z",
+   "image": null,
+   "source": "日経クロストレンド",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "チェンソーマン レゼ篇"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "日経クロストレンド",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHV0QW5BZG5kQ3BxbzNkTkZxWjljZmQzbnJCZV9jREctb25xYWZPdWRGdTd1c3Z1ZXBhR01aQlV3czZ5SXl0dXV0ejMtdEZZcUlmWktNLVE1X3BteUc1U0FId0t1VWdoaDlwVzJ5VUNGaV9YYTV1ZXNMa1pScVVIemRzYkFqMHc2OVdB?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
   },
@@ -195150,96 +195233,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/1d96be930cb5ada22508a551161cd8930121da8f?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "名古屋発の3ピースバンド・至福ぽんちょ、10月6日スタートのテレビアニメ『超巡！超条先輩』EDテーマを担当することが決定！",
-   "summary": "「頑張れ」じゃなく「頑張ったね」と歌う、音楽がいつだって心の支えであるよう全力でロックン...",
-   "link": "https://www.lisani.jp/0000318713/",
-   "pubDate": "2026-09-25T10:00:39.000Z",
-   "firstSeen": "2026-09-25T10:14:29.074Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/09/2609251800-yh-002.jpeg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "超巡!超条先輩"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000318713/"
-    }
-   ]
-  },
-  {
-   "title": "＜魔入りました！入間くん＞新宿プリンスホテル最上階(開催byオペラ)と地下(監修byカルエゴ)のコラボメニュー＜試食レポート＞(WEBザテレビジョン)",
-   "summary": "TVアニメ「魔入りました！入間くん」(毎週土曜夜6:25-6:50、NHK Eテレ／ABEMA・ディズニープラス・U-NEXT・Huluほかでも配信)の第4シリーズ放送を記念して、新宿プリンスホテルと",
-   "link": "https://news.yahoo.co.jp/articles/a5d0a3ae9c0740894c30edd1062664425285cc46?source=rss",
-   "pubDate": "2026-09-25T10:00:15.000Z",
-   "firstSeen": "2026-09-25T10:14:29.074Z",
-   "image": null,
-   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "broadcast",
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/a5d0a3ae9c0740894c30edd1062664425285cc46?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "藤本タツキの短編8作品をアニメ化した「藤本タツキ 17-26」第54回国際エミー賞『短編シリーズ部門』にノミネート",
-   "summary": "エイベックス・ピクチャーズ株式会社（本社:東京都港区、代表取締役社長:勝股英夫）は、同社が幹事と企画プロデュース、配給として製作委員会に参加する「藤本タツキ 17-26」が第54回国際エミー賞の『短編シリー...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000395.000002323.html",
-   "pubDate": "2026-09-25T10:00:09.000Z",
-   "firstSeen": "2026-09-25T10:14:29.074Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new"
-   ],
-   "works": [
-    "短編シリーズ部門"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000395.000002323.html"
-    },
-    {
-     "name": "エイベックス・ポータル",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IZHZZRGZIRnpQMDBXN1c3M3ZnZnozcU9DYWlmRWNTTk9RT1IxSXZ2YWZCN2N4OVBqb0FtNWZLOWU4c2o3c2c?oc=5",
-     "via": "Googleニュース「アニメ」"
     }
    ]
   }
