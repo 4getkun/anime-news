@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-12T22:18:09.125Z",
+ "generatedAt": "2026-10-12T23:21:12.248Z",
  "count": 6000,
  "dedupe": {
   "exact": 3635,
   "syndicated": 362,
   "similar": 406,
-  "syndicatedTotal": 4081,
-  "syndicatedLeft": 1177
+  "syndicatedTotal": 4088,
+  "syndicatedLeft": 1182
  },
  "calendar": [
   {
@@ -365,22 +365,6 @@
   {
    "date": "2026-10",
    "precision": "month",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": "薬屋のひとりごと",
-   "title": "『薬屋のひとりごと』第3期が日テレ系で堂々開幕！第50話、見つけた「火鼠の皮衣」とは一体？【先行カット】(オタク総研)",
-   "link": "https://news.yahoo.co.jp/articles/74edaebfa81759874993affe667fe0d4e7fdacaa?source=rss",
-   "source": "オタク総研（Yahoo!ニュース エンタメ）",
-   "sources": 3,
-   "categories": [
-    "new"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10",
-   "precision": "month",
    "verb": "event",
    "label": "開催",
    "work": null,
@@ -407,6 +391,22 @@
    "categories": [
     "new",
     "broadcast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10",
+   "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "薬屋のひとりごと",
+   "title": "『薬屋のひとりごと』第3期が日テレ系で堂々開幕！第50話、見つけた「火鼠の皮衣」とは一体？【先行カット】(オタク総研)",
+   "link": "https://news.yahoo.co.jp/articles/74edaebfa81759874993affe667fe0d4e7fdacaa?source=rss",
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sources": 2,
+   "categories": [
+    "new"
    ],
    "platforms": [],
    "spoiler": false
@@ -4320,6 +4320,23 @@
   {
    "date": "2026-10-17",
    "precision": "day",
+   "verb": "stream",
+   "label": "配信",
+   "work": null,
+   "title": "「プリコネR」と「ウマ娘」がコラボ！ 特別番組を10月17日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "link": "https://www.4gamer.net/games/421/G042182/20261009041/",
+   "source": "4Gamer.net",
+   "sources": 1,
+   "categories": [
+    "goods",
+    "game"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-17",
+   "precision": "day",
    "verb": "broadcast",
    "label": "放送",
    "work": "ビストロボイス",
@@ -6225,10 +6242,10 @@
    "verb": "broadcast",
    "label": "放送",
    "work": "ワンパンマン",
-   "title": "「ワンパンマン」第3期第2クールは来年1月放送、ビジュアル＆PV公開（コメントあり / 動画あり）",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nRnQtYkU3NjZXZXo1NEE1SHhvTG9zdnhZNWY4V0V2Vk43b1pmZ2ZpUlozVTdhVzc4ekJlN3dGWEQ1bU01T2E0SVRkaG8?oc=5",
-   "source": "コミックナタリー",
-   "sources": 13,
+   "title": "最強VS最恐、決着！アニメ『ワンパンマン』第3期第2クール2027年1月放送決定！キービジュアルとPV第1弾を公開＆OP主題歌はJAM Projectに決定！",
+   "link": "https://www.lisani.jp/0000319821/",
+   "source": "リスアニ！",
+   "sources": 14,
    "categories": [
     "new",
     "broadcast",
@@ -7104,6 +7121,24 @@
    "sources": 1,
    "categories": [
     "cast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01-22",
+   "precision": "day",
+   "verb": "movie",
+   "label": "公開",
+   "work": "アングリーバード",
+   "title": "『アングリーバード』新作映画、2027年1月22日公開 吹替版声優に本田紗来、齋藤潤ら(リアルサウンド)",
+   "link": "https://news.yahoo.co.jp/articles/a23e9c80f8adf8f6245eaab2dffc271fa7b2fe18?source=rss",
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sources": 2,
+   "categories": [
+    "cast",
+    "movie",
+    "game"
    ],
    "platforms": [],
    "spoiler": false
@@ -8059,9 +8094,9 @@
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 778,
    "accepted": 778
   },
@@ -8073,8 +8108,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 137,
-   "accepted": 136
+   "archived": 138,
+   "accepted": 137
   },
   {
    "id": "seigura",
@@ -8106,17 +8141,17 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 248,
-   "accepted": 112
+   "archived": 249,
+   "accepted": 113
   },
   {
    "id": "gnews-anime",
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 3047,
    "accepted": 2977
   },
@@ -8125,9 +8160,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1115,
    "accepted": 1085
   },
@@ -8136,9 +8171,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 552,
    "accepted": 497
   },
@@ -8147,9 +8182,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1737,
    "accepted": 1556
   },
@@ -8158,9 +8193,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 525,
    "accepted": 53
   },
@@ -8183,8 +8218,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 709,
-   "accepted": 30
+   "archived": 712,
+   "accepted": 31
   },
   {
    "id": "denfaminico",
@@ -8194,7 +8229,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 768,
+   "archived": 772,
    "accepted": 185
   },
   {
@@ -8205,7 +8240,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 840,
+   "archived": 841,
    "accepted": 39
   },
   {
@@ -8227,8 +8262,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 17597,
-   "accepted": 1841
+   "archived": 17647,
+   "accepted": 1848
   },
   {
    "id": "prtimes",
@@ -8271,11 +8306,326 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 142,
-   "accepted": 142
+   "archived": 143,
+   "accepted": 143
   }
  ],
  "items": [
+  {
+   "title": "『アングリーバード』新作映画、2027年1月22日公開 吹替版声優に本田紗来、齋藤潤ら(リアルサウンド)",
+   "summary": "大人気モバイルゲーム『アングリーバード』の新作映画『The Angry Birds Movie 3（原題）』が、『アングリーバード／大奮闘！ファミリー・ミッション』の邦題で2027年1月22日に全国公",
+   "link": "https://news.yahoo.co.jp/articles/a23e9c80f8adf8f6245eaab2dffc271fa7b2fe18?source=rss",
+   "pubDate": "2026-10-12T23:01:07.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "movie",
+    "game"
+   ],
+   "works": [
+    "アングリーバード"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/a23e9c80f8adf8f6245eaab2dffc271fa7b2fe18?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "最強VS最恐、決着！アニメ『ワンパンマン』第3期第2クール2027年1月放送決定！キービジュアルとPV第1弾を公開＆OP主題歌はJAM Projectに決定！",
+   "summary": "WEBコミック界のカリスマ・ONE（『モブサイコ100』）とジャンプ最強遺伝子・村田雄介（『アイ...",
+   "link": "https://www.lisani.jp/0000319821/",
+   "pubDate": "2026-10-12T23:00:55.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610121800-yh-012.png",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 30,
+   "categories": [
+    "new",
+    "broadcast",
+    "visual",
+    "music"
+   ],
+   "works": [
+    "ワンパンマン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000319821/"
+    }
+   ]
+  },
+  {
+   "title": "劇場版「アングリーバード」新作が来年公開 坂上忍、竹達彩奈、本田紗来、齋藤潤が吹替版に参加(映画ナタリー)",
+   "summary": "モバイルゲーム「アングリーバード」の劇場版最新作「アングリーバード／大奮闘！ファミリー・ミッション」が2027年1月22日に全国で公開決定。ポスタービジュアルが到着し、坂上忍、竹達彩奈、本田紗来、齋藤",
+   "link": "https://news.yahoo.co.jp/articles/ff42dee6814db6dc5ec8eb4cff18bab535ea6378?source=rss",
+   "pubDate": "2026-10-12T23:00:18.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": null,
+   "source": "映画ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie",
+    "game"
+   ],
+   "works": [
+    "アングリーバード"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ff42dee6814db6dc5ec8eb4cff18bab535ea6378?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「薬屋のひとりごと」劇場版、小野賢章ら水賊「化蛇団」キャスト発表！キャラPV公開(シネマトゥデイ)",
+   "summary": "『劇場版 薬屋のひとりごと 亡妃の秘宝』（12月11日公開）から、猫猫・壬氏の脅威となる水賊「化蛇（カジャ）団」のキャラクターPVが公開。あわせて化蛇団の声優陣として小野賢章、竹内良太、斉藤次郎の参加",
+   "link": "https://news.yahoo.co.jp/articles/f4f80c2bee9470523da75fe69dda77bc50e0c693?source=rss",
+   "pubDate": "2026-10-12T23:00:03.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": null,
+   "source": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "visual",
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f4f80c2bee9470523da75fe69dda77bc50e0c693?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「プリコネR」と「ウマ娘」がコラボ！ 特別番組を10月17日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+   "summary": "「プリンセスコネクト！Re:Dive」と「ウマ娘プリティーダービー」のコラボを記念した特別番組が，10月17日19：00に配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+   "link": "https://www.4gamer.net/games/421/G042182/20261009041/",
+   "pubDate": "2026-10-12T23:00:00.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods",
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/421/G042182/20261009041/"
+    }
+   ]
+  },
+  {
+   "title": "「彼氏いないんすか？」と聞かれた先輩…含みを持たせて気持ちを伝えるも、鈍感な後輩の姿に反響【漫画】(WEBザテレビジョン)",
+   "summary": "コミックの映像化や、ドラマのコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョンマンガ部」。今回は、『先輩に彼氏がいない理由』を紹介する。作者",
+   "link": "https://news.yahoo.co.jp/articles/3aa977547f590d62ef48dfd9d9e7c9c7f31e89f6?source=rss",
+   "pubDate": "2026-10-12T23:00:00.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/3aa977547f590d62ef48dfd9d9e7c9c7f31e89f6?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫＆壬氏たちに襲い掛かる水賊「化蛇団」キャラPV公開 小野賢章が頭領・水蛇役(映画.com)",
+   "summary": "「劇場版 薬屋のひとりごと 亡妃の秘宝」のキャラクターPV「化蛇団」編（",
+   "link": "https://news.yahoo.co.jp/articles/5f73d50a37016f33e9cc59701a2684c79d2d3777?source=rss",
+   "pubDate": "2026-10-12T23:00:00.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": null,
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "visual",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/5f73d50a37016f33e9cc59701a2684c79d2d3777?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "坂上忍、約7年ぶり『アングリーバード』レッド役 “子ども役”に本田紗来＆齋藤潤、来年1・22公開決定(オリコン)",
+   "summary": "モバイルゲーム「アングリーバード」を原作とするアニメーション映画の最新作が、『アングリーバード／大奮闘！ファミリー・ミッション』の邦題で、来年1月22日に全国公開されることが決定した。日本語吹替版では",
+   "link": "https://news.yahoo.co.jp/articles/087a6202908ab2f5fcffc446cbc8aef506134e30?source=rss",
+   "pubDate": "2026-10-12T23:00:00.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie",
+    "game"
+   ],
+   "works": [
+    "アングリーバード"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/087a6202908ab2f5fcffc446cbc8aef506134e30?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」(オリコン)",
+   "summary": "アニメ映画『劇場版 薬屋のひとりごと 亡妃の秘宝』（12月11日）より、前頭領が隠した財宝を巡り、猫猫・壬氏たちに襲い掛かる水賊「化蛇団」のキャラPVが解禁された。あわせて化蛇団の声優として、化蛇団の",
+   "link": "https://news.yahoo.co.jp/articles/0c599abef6ed2bc1cc2d0eab0629a026658c5295?source=rss",
+   "pubDate": "2026-10-12T23:00:00.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "visual",
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "薬屋のひとりごと"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0c599abef6ed2bc1cc2d0eab0629a026658c5295?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『極と蜜～アフターシャンパンコール～』が「マンガPark」で移籍連載中！読書チャレンジは10/16まで",
+   "summary": "『極と蜜～アフターシャンパンコール～』がマンガParkで移籍連載スタート 株式会社白泉社が運営する総合エンタメアプリ「マンガPark」にて、電子増刊『××LaLa いちゃ LaLa』の連載作品『極と蜜～アフターシャンパンコール～』（星逢ユリ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/639782",
+   "pubDate": "2026-10-12T22:57:38.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/46848-2481-e2ea0ac0c1f5fb689aa4740e8164a876-1125x765-1.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "media",
+    "game"
+   ],
+   "works": [
+    "極と蜜~アフターシャンパンコール~"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/639782"
+    }
+   ]
+  },
+  {
+   "title": "Gundam's Legendary Space Opera Rival Has Good News for Mecha Collectors",
+   "summary": "There is good news for fans of Mobile Suit Gundam's biggest competitor, and it means some truly stunning collectibles in the years to come.",
+   "link": "https://www.cbr.com/macross-good-smile-company-new-partnership-announce/",
+   "pubDate": "2026-10-12T22:35:11.000Z",
+   "firstSeen": "2026-10-12T23:20:44.747Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/01/lynn-minmay.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/macross-good-smile-company-new-partnership-announce/"
+    }
+   ]
+  },
   {
    "title": "昨年放送の『千歳くんはラムネ瓶のなか』アニメ“後半”クールが本日開幕！初回から「駆け落ち」してしまう？【先行カット】(オタク総研)",
    "summary": "2025年に放送されたTVアニメ『千歳くんはラムネ瓶のなか』について、本作の第2クールが2026年10月より放送される。この度、初回エピソードにあたる第14話「君と先輩の駆け落ち」の先行カット・あらす",
@@ -194947,343 +195297,6 @@
      "name": "コミックナタリー",
      "sourceId": "natalie-comic",
      "link": "https://natalie.mu/comic/news/690991"
-    }
-   ]
-  },
-  {
-   "title": "Hatsune Miku's New Global Era Officially Begins Today",
-   "summary": "The world is hers.",
-   "link": "https://www.cbr.com/hatsune-miku-beyond-borders-emerge-release/",
-   "pubDate": "2026-09-25T11:05:11.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/hatsune-miku-evolves-in-biggest-update-for-piapro-vocaloid-fans-in-6-years.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/hatsune-miku-beyond-borders-emerge-release/"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『地雷なんですか？地原さん』 地原 舞音楽プロジェクト第三弾 3rd Digital Single『ヴァンパイア』リリース&MV公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16eGlQODh1T19VS2Rzbm5xT2RZWlJXS1RibU95ZXphRGFPTElCdUs1OFpBLUNXYm44RXI5MlRqeW5YcVl3SW91dk1CRl9sTnlReDd0MWxDaFY?oc=5",
-   "pubDate": "2026-09-25T11:00:47.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "KING RECORDS TODAY",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "地雷なんですか?地原さん",
-    "ヴァンパイア"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "KING RECORDS TODAY",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16eGlQODh1T19VS2Rzbm5xT2RZWlJXS1RibU95ZXphRGFPTElCdUs1OFpBLUNXYm44RXI5MlRqeW5YcVl3SW91dk1CRl9sTnlReDd0MWxDaFY?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "『タローマン』藤井監督による完全新作映画が制作決定！子どもの頃は広くて宝の山のように見えたおもちゃ屋が舞台の長編ホラー、“嘘”に包まれたノスタルジックな特報映像が公開",
-   "summary": "子どもの頃は広くて宝の山のように見えたおもちゃ屋が舞台。ノスタルジーとワクワクを目一杯使って、楽しいホラー映画を届けるという",
-   "link": "https://news.denfaminicogamer.jp/news/2609252m",
-   "pubDate": "2026-09-25T11:00:47.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/108f190570df29bc8fd273d2643732de-1024x887.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "new",
-    "visual",
-    "cast",
-    "movie",
-    "stage"
-   ],
-   "works": [
-    "タローマン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2609252m"
-    }
-   ]
-  },
-  {
-   "title": "堀江由衣、初のディナーショーを開催！「堀江由衣 謎解きはディナーショーの途中で 2026」東京夜公演のオフィシャルレポートが到着！",
-   "summary": "声優・アーティストとして活躍する“堀江由衣”が、初のディナーショー「謎解きはディナーショー...",
-   "link": "https://www.lisani.jp/0000318719/",
-   "pubDate": "2026-09-25T11:00:19.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/09/2609251800-yh-003.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "堀江由衣 謎解きはディナーショーの途中で 2026"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000318719/"
-    }
-   ]
-  },
-  {
-   "title": "秋アニメ「薬屋のひとりごと 第3期」皇弟・壬氏の新たな試練とは？第2弾PV公開＆EDテーマは Eveに決定",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/09/25/103235.html",
-   "pubDate": "2026-09-25T11:00:07.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "new",
-    "visual",
-    "music"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/09/25/103235.html"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JT0hGaHZ4QktldzVUaFBIM2Fsb19XVzkzRUFwREFNSS1OV3RvWVlUVFFHV1IxUjhZRkR4N2tjMVUzLXp1U3ZJa1ptem1TbmZqS196Z3BVUHRxd3JzTDE1a0lxVUp5cUVaQ3liX3BKY1lpQlBRR0REYnJfaWU2SkU?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『炎の闘球女 ドッジ弾子』一撃弾子役・中山まなかインタビュー！「弾子の勢いや激しさを表現できるように」",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/09/25/103234.html",
-   "pubDate": "2026-09-25T11:00:03.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "炎の闘球女 ドッジ弾子",
-    "弾子の勢いや激しさを表現できるように"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/09/25/103234.html"
-    }
-   ]
-  },
-  {
-   "title": "「日本アニメ映画史に残る大傑作」「一度観たらしばらく観られなくなるくらいの衝撃」――弱冠29歳の監督が描く『我々は宇宙人』が「小学生時代の記憶の扉」をこじ開ける【レビュー】（ダ・ヴィンチWeb）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qOUFRTmhUb19ENWhGRzFQT09IVy1QN1V4eVpoa2RfeEVCd3pmaHRuNXdGUFdxcWRrQTRTaXcxdWdpMUtaY09QZmhaa0ZjYjVqRTVCSkhTMk93cDhSbDV5Umk2Y2RTTWt3a09sYkVrc1ctdWtyNUQ3dmNZVGVCSGc?oc=5",
-   "pubDate": "2026-09-25T11:00:00.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "ダ・ヴィンチWeb（Yahoo!ニュース）",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "我々は宇宙人"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ダ・ヴィンチWeb（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qOUFRTmhUb19ENWhGRzFQT09IVy1QN1V4eVpoa2RfeEVCd3pmaHRuNXdGUFdxcWRrQTRTaXcxdWdpMUtaY09QZmhaa0ZjYjVqRTVCSkhTMk93cDhSbDV5Umk2Y2RTTWt3a09sYkVrc1ctdWtyNUQ3dmNZVGVCSGc?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『薬屋のひとりごと』3期の第2弾PV解禁、EDテーマはEveの『AIYOU』。10月の放送カレンダーでスケジュールもチェック",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PYlpHSHRwWW9iS3Q1TG5hdjV0ZVNDaVFPSjNQU0xYVUh3OHU5aFUzMER3TFdWWmVhMUZza1FqQ2VIU012RFFJMGFJUFNUWnhhU0tNVHpLOA?oc=5",
-   "pubDate": "2026-09-25T11:00:00.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "news.dengeki.com",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "visual",
-    "music"
-   ],
-   "works": [
-    "薬屋のひとりごと",
-    "AIYOU"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "news.dengeki.com",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PYlpHSHRwWW9iS3Q1TG5hdjV0ZVNDaVFPSjNQU0xYVUh3OHU5aFUzMER3TFdWWmVhMUZza1FqQ2VIU012RFFJMGFJUFNUWnhhU0tNVHpLOA?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "薬屋のひとりごと＞皇弟としての責務に向き合う壬氏 謎の仙女も EDはEve テレビアニメ第3期の第2弾PV公開（MANTANWEB）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HTUg4aEp4T21GdVI3UDlGZlktOXpORjJlVHN5emhTdGYxMktxYUVjQk9QaGFGc01rUWM5LWNOZmIwb1p6RU1ya2dyYXhRR1MwNm9SN045elEtZUlMS3owbDVPdjNVRDdPYmlaZDBKTDFuMGlucm83N05XcWl2YWM?oc=5",
-   "pubDate": "2026-09-25T11:00:00.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "MANTANWEB（Yahoo!ニュース）",
-   "sourceId": "gnews-tvanime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "new",
-    "visual"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HTUg4aEp4T21GdVI3UDlGZlktOXpORjJlVHN5emhTdGYxMktxYUVjQk9QaGFGc01rUWM5LWNOZmIwb1p6RU1ya2dyYXhRR1MwNm9SN045elEtZUlMS3owbDVPdjNVRDdPYmlaZDBKTDFuMGlucm83N05XcWl2YWM?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「大長編 タローマン」監督・藤井亮の新作映画が制作決定、おもちゃがテーマのホラー作品に",
-   "summary": "映画「大長編 タローマン 万博大爆発」の藤井亮が手がける新作映画の制作が決定。カプセルトイ（ガチャガチャ）商品の企画・製造を行うキタンクラブの創立20周年を記念した“怪奇オモチャ映画”になるという。",
-   "link": "https://natalie.mu/eiga/news/690965",
-   "pubDate": "2026-09-25T11:00:00.000Z",
-   "firstSeen": "2026-09-25T14:09:46.491Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "new",
-    "cast",
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://natalie.mu/eiga/news/690965"
-    }
-   ]
-  },
-  {
-   "title": "EveがソニーミュージックEchoesへ移籍、第1弾はアニメ「薬屋のひとりごと」エンディングテーマ（コメントあり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fUURING5mVU5jcWl2YkhiOWFBSHcxcVByOVNCODA4QjdVSGhQeWhZd0dnS0pyVzdTWlh4TmM1MkFCel9IS0MwMXFyNXM?oc=5",
-   "pubDate": "2026-09-25T11:00:00.000Z",
-   "firstSeen": "2026-09-25T14:59:47.157Z",
-   "image": null,
-   "source": "natalie.mu",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 21,
-   "categories": [
-    "broadcast",
-    "music"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "natalie.mu",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fUURING5mVU5jcWl2YkhiOWFBSHcxcVByOVNCODA4QjdVSGhQeWhZd0dnS0pyVzdTWlh4TmM1MkFCel9IS0MwMXFyNXM?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "リアルサウンド",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOTnpTS2RFZ3B0bWoyWlp5bVpmOWU2elRfSlBjOHU3bk4wM1F0dkVha05wMU5YTFBuOXJkejZwbkNsdDFMM0JTUEJ6ckphTmctOE9SQjdMWWlDZ9IBX0FVX3lxTE5Na3ZjUDZ1NlhOZ092bnp4cExPYW0tb0t5Nm1tWTY0cTk1alF6R0VJWUotUnBJN2hDSkpLOVdyT0dOZW1NQ0RiS0p4MWVZejZTOWJ0Yy1hYUtxOEZSSGlv?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/50f20af112cddea011bdd3101765d9dae28f2031?source=rss",
-     "syndicated": true
     }
    ]
   }
