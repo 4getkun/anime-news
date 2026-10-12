@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-12T18:18:04.473Z",
+ "generatedAt": "2026-10-12T19:18:02.234Z",
  "count": 6000,
  "dedupe": {
-  "exact": 3624,
+  "exact": 3628,
   "syndicated": 360,
   "similar": 406,
-  "syndicatedTotal": 4071,
+  "syndicatedTotal": 4074,
   "syndicatedLeft": 1178
  },
  "calendar": [
@@ -8062,8 +8062,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 777,
-   "accepted": 777
+   "archived": 778,
+   "accepted": 778
   },
   {
    "id": "lisani",
@@ -8092,9 +8092,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "connect ECONNREFUSED 183.90.246.3:443",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 1,
    "accepted": 1
   },
@@ -8128,8 +8128,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1108,
-   "accepted": 1078
+   "archived": 1111,
+   "accepted": 1081
   },
   {
    "id": "gnews-movie",
@@ -8150,8 +8150,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1733,
-   "accepted": 1552
+   "archived": 1734,
+   "accepted": 1553
   },
   {
    "id": "natalie-eiga",
@@ -8227,8 +8227,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 17416,
-   "accepted": 1836
+   "archived": 17447,
+   "accepted": 1838
   },
   {
    "id": "prtimes",
@@ -8249,8 +8249,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 498,
-   "accepted": 498
+   "archived": 499,
+   "accepted": 499
   },
   {
    "id": "mal",
@@ -8276,6 +8276,60 @@
   }
  ],
  "items": [
+  {
+   "title": "野村萬斎＆稲垣吾郎が初共演 舞台「テンペスト」来年２月上演 共通点に「陰陽師」(スポーツ報知)",
+   "summary": "狂言師の野村萬斎（６０）と俳優の稲垣吾郎（５２）が舞台「テンペスト」（来年２月２４日～３月１５日、東京・ＴＨＥＡＴＥＲ ＭＩＬＡＮＯ―Ｚａ）で初共演することが１２日、分かった。２人には過去に「陰陽師」",
+   "link": "https://news.yahoo.co.jp/articles/1adf00c89c961d9e0bb1581e2ef8f594a4f658b3?source=rss",
+   "pubDate": "2026-10-12T19:00:05.000Z",
+   "firstSeen": "2026-10-12T19:17:31.491Z",
+   "image": null,
+   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/1adf00c89c961d9e0bb1581e2ef8f594a4f658b3?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Osamu Tezuka's Phoenix Manga's Future Arc Gets Stage Play in February",
+   "summary": "Hi no Tori Mirai-hen ZEROMDISTANCE opens in Tokyo from February 6-8",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-12/osamu-tezuka-phoenix-manga-future-arc-gets-stage-play-in-february/.242752",
+   "pubDate": "2026-10-12T19:00:00.000Z",
+   "firstSeen": "2026-10-12T19:17:31.491Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-12/osamu-tezuka-phoenix-manga-future-arc-gets-stage-play-in-february/.242752"
+    }
+   ]
+  },
   {
    "title": "Deadpool Joins the Avengers and Gets Filthy Rich in Brand-New Marvel Series",
    "summary": "Deadpool is setting his sights on becoming the richest antihero in the world, and he's about to do just that in the latest Marvel manga seri…",
@@ -8736,6 +8790,41 @@
      "name": "映画.com（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/9960514fb6c06e9e9470cc757cdd65a491b8340e?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "愛田真夕美「マリオネット」展覧会がヴァニラ画廊で 約70点展示のほかグッズも販売",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMM0FKekZFeEFCQlRLT3ZVeGNMRW4ycW9qVERrc09aTE9yeldsdmItbU4xQUtONTNiTXhQNkFic3VwaW5VRG51SmNQS28?oc=5",
+   "pubDate": "2026-10-12T13:19:00.000Z",
+   "firstSeen": "2026-10-12T14:17:32.316Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event",
+    "goods"
+   ],
+   "works": [
+    "マリオネット"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMM0FKekZFeEFCQlRLT3ZVeGNMRW4ycW9qVERrc09aTE9yeldsdmItbU4xQUtONTNiTXhQNkFic3VwaW5VRG51SmNQS28?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6945be784ea84b4734fd8e02b0520b41ae6641b1?source=rss",
      "syndicated": true
     }
    ]
@@ -13434,6 +13523,35 @@
    ]
   },
   {
+   "title": "■TVアニメ『サザエさん』放送57年で初のお酒ブランドコラボ動画！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRGQwaTVaLUcxVnhZSVY1TzNGQkpaQXR5Z3BTUUlyQzVvYmxHVm5fUlluenFVUWtHSkg5WVZmSF9pUmhNVTlWWjZ2VERNQVNQQ2o2XzNiVFF0X3VBX3k4TDEweTBrTjVoR0tEOGR1UTdsczVmbEE?oc=5",
+   "pubDate": "2026-10-12T00:41:17.000Z",
+   "firstSeen": "2026-10-12T19:17:31.491Z",
+   "image": null,
+   "source": "MANTANWEB",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "サザエさん"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MANTANWEB",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRGQwaTVaLUcxVnhZSVY1TzNGQkpaQXR5Z3BTUUlyQzVvYmxHVm5fUlluenFVUWtHSkg5WVZmSF9pUmhNVTlWWjZ2VERNQVNQQ2o2XzNiVFF0X3VBX3k4TDEweTBrTjVoR0tEOGR1UTdsczVmbEE?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
    "title": "「まだこんな怖い映像が作れるの…」 『ゴジラ-0.0』最終予告にネット戦慄「赤ちゃんが○亡！？」(ENCOUNT)",
    "summary": "山崎貴監督が監督・脚本・VFXを務める映画『ゴジラ-0.0』（11月3日公開）のファイナル予告映像とゴジラの場面カットが12日、解禁された。俳優の神木隆之介が演じる敷島の絶望するシーンに、ネット上で話",
    "link": "https://news.yahoo.co.jp/articles/fc27920ec686f6ca0e82296c30e9f3852292eb62?source=rss",
@@ -17662,6 +17780,12 @@
      "name": "AERA DIGITAL",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93SHhYVV9mQUY3RjFkbG1vdU96SWF1Wm85SmJITmE0QWxoMFJmUzNEQmQ4SFMtZEEtWjJJRFQtWGdjZDh5QmRmczBaQXFNYm9f?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tLUlTMEo4ZDBxVTdBUFRiZ2x0VVFJc1F4QmswNGk0V3RKczlLeW5mMDRudmhNWVRITExjcTRMZ1p4YXhycWFUbzFQZ2lHNjRZNjR3emt1OEpGRzZlbHl6Z0hmQUh5ci1zd2llVGg5ZkRIYWM?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
@@ -31279,9 +31403,9 @@
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fWk43MVctUHJBRnRLckNPNm10OEpRUEJlWWhSbElkaDJMVGZOeUFkR1o5cjJFOU9PM0ZFTlFqckhxcENIUGpPSkJfN1JoZ0RRbzNSRklIZzlEN3FYZmNlT0JoRThVRnJkcmpoblF3OGFLdUo0bjBva2tKNnNqLWs?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -195134,115 +195258,6 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/09/25/103232.html"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『魔入りました！入間くん』第4シリーズ：第24話（最終回） 先行カット＆あらすじ公開！ - at-s.com",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWxiTjJlME1uMGhrTWNRWmJSSG5xVkpVZXhiM3pndXFlWmtQbFB3eUM2NHpGTHVCbUVNbFVraEl1NGZvT3RBb1B3d0pMMDY4Q2huem1FTUNfVkxFY3NfOHhvb3kyYkR1OVM2YUhOVFlRQU5yVU9Yczl5d1VHdFpaV28tU0tnR05qN3BjdXVuLVQ?oc=5",
-   "pubDate": "2026-09-25T10:14:19.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "Googleニュース「アニメ」",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "魔入りました!入間くん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「アニメ」",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWxiTjJlME1uMGhrTWNRWmJSSG5xVkpVZXhiM3pndXFlWmtQbFB3eUM2NHpGTHVCbUVNbFVraEl1NGZvT3RBb1B3d0pMMDY4Q2huem1FTUNfVkxFY3NfOHhvb3kyYkR1OVM2YUhOVFlRQU5yVU9Yczl5d1VHdFpaV28tU0tnR05qN3BjdXVuLVQ?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "『エヴァ』台湾人アーティストが水墨画で描いた「エヴァ初号機」が圧巻の美しさ！「すごい」「驚きの技術」(マグミクス)",
-   "summary": "台湾出身で、現在は中国・上海を拠点に活動するアーティスト、「李國弘（Bruce Lee）」さん。自身のInstagramに投稿した、『新世紀エヴァンゲリオン』をモチーフとする作品は、伝統的な水墨画の",
-   "link": "https://news.yahoo.co.jp/articles/01620881431a6d40aa041dca6429ba6970efa24e?source=rss",
-   "pubDate": "2026-09-25T10:10:00.000Z",
-   "firstSeen": "2026-09-25T10:14:29.074Z",
-   "image": null,
-   "source": "マグミクス（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "エヴァ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "マグミクス（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/01620881431a6d40aa041dca6429ba6970efa24e?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "10年前に戻って悲劇の未来を覆す「【やり直し】最強ダンジョン配信者！」新連載",
-   "summary": "岩﨑寅修の新連載「【やり直し】最強ダンジョン配信者！ 突然10年前の世界に戻ったので全てをやり直す！」が、本日9月25日にホビージャパンのWebマンガサイト・コミックファイアでスタートした。もちぱん太郎の小説を原作としたコミカライズ作品だ。",
-   "link": "https://natalie.mu/comic/news/690964",
-   "pubDate": "2026-09-25T10:09:00.000Z",
-   "firstSeen": "2026-09-25T14:09:46.491Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://natalie.mu/comic/news/690964"
-    }
-   ]
-  },
-  {
-   "title": "'Yozakura-san Chi no Daisakusen 2nd Season Part 2' Announces Additional Cast, Character Promo",
-   "summary": "The official website of the Yozakura-san Chi no Daisakusen (Mission: Yozakura Family) television anime announced additional cast members for…",
-   "link": "https://myanimelist.net/news/74757874?_location=rss",
-   "pubDate": "2026-09-25T10:08:52.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "MyAnimeList News",
-   "sourceId": "mal",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new",
-    "visual",
-    "cast"
-   ],
-   "works": [
-    "Yozakura-san Chi no Daisakusen 2nd Season Part 2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MyAnimeList News",
-     "sourceId": "mal",
-     "link": "https://myanimelist.net/news/74757874?_location=rss"
     }
    ]
   }
