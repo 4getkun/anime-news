@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-12T20:18:06.943Z",
+ "generatedAt": "2026-10-12T21:18:56.822Z",
  "count": 6000,
  "dedupe": {
-  "exact": 3628,
-  "syndicated": 360,
+  "exact": 3633,
+  "syndicated": 361,
   "similar": 406,
-  "syndicatedTotal": 4074,
-  "syndicatedLeft": 1178
+  "syndicatedTotal": 4077,
+  "syndicatedLeft": 1176
  },
  "calendar": [
   {
@@ -8081,9 +8081,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 46,
    "accepted": 45
   },
@@ -8092,9 +8092,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 1,
    "accepted": 1
   },
@@ -8117,8 +8117,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 3043,
-   "accepted": 2973
+   "archived": 3045,
+   "accepted": 2975
   },
   {
    "id": "gnews-tvanime",
@@ -8128,8 +8128,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1111,
-   "accepted": 1081
+   "archived": 1112,
+   "accepted": 1082
   },
   {
    "id": "gnews-movie",
@@ -8150,8 +8150,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1734,
-   "accepted": 1553
+   "archived": 1737,
+   "accepted": 1556
   },
   {
    "id": "natalie-eiga",
@@ -8161,7 +8161,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 521,
+   "archived": 525,
    "accepted": 53
   },
   {
@@ -8205,7 +8205,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 839,
+   "archived": 840,
    "accepted": 39
   },
   {
@@ -8227,7 +8227,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 17497,
+   "archived": 17547,
    "accepted": 1838
   },
   {
@@ -8249,8 +8249,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 500,
-   "accepted": 500
+   "archived": 501,
+   "accepted": 501
   },
   {
    "id": "mal",
@@ -8271,11 +8271,63 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 141,
-   "accepted": 141
+   "archived": 142,
+   "accepted": 142
   }
  ],
  "items": [
+  {
+   "title": "Killing Bites Manga Publishes 1st Part of Final Chapter",
+   "summary": "Kazasa Sumita, Shinya Murata debuted manga in March 2017",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-12/killing-bites-manga-publishes-1st-part-of-final-chapter/.242755",
+   "pubDate": "2026-10-12T21:00:00.000Z",
+   "firstSeen": "2026-10-12T21:18:29.809Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-12/killing-bites-manga-publishes-1st-part-of-final-chapter/.242755"
+    }
+   ]
+  },
+  {
+   "title": "Transformers Brings Back Its Most Infamous Autobot Traitor With New Movie Design",
+   "summary": "The villain from Michael Bay's Transformers: Dark of the Moon is coming back, and the first look is glorious.",
+   "link": "https://www.cbr.com/transformers-dark-of-the-moon-sentinel-prime-model-kit-yolopark/",
+   "pubDate": "2026-10-12T20:35:11.000Z",
+   "firstSeen": "2026-10-12T21:18:29.809Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/12/sentinel-prime-in-transformers-dark-of-the-moon.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/transformers-dark-of-the-moon-sentinel-prime-model-kit-yolopark/"
+    }
+   ]
+  },
   {
    "title": "紅白歌合戦でちいかわコラボ計画浮上 映画大ヒット、近年増加“アニメ枠” 今年を象徴する顔としてリストアップ",
    "summary": "",
@@ -9432,13 +9484,13 @@
   {
    "title": "Iカップ声優・もものすけ ギリギリカット連発の1st写真集 FLASHに未公開アザーカット",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbW5GUWtwMUd0QUdjVjVRQUp6Zy1qOG9qUXdCNXJ1VWoxRzhWeFNER1dGMW5GMFJIYkNhS21DTllUVVBOZzY0RmUzVml5NnY4X25TRnhWRGV6bGlPT0V1cVZTN1BBdGZqcGthVWhMaFV0UFNwRGdiTGdaTVpVZks4WkhwVnNVQl92bnRLdFFWTdIBlAFBVV95cUxPWTFKOFJjTjlvcllabkVrV0xFRFgtZnkyYUZZaVdKTnNzeW9BVEFKcnZTV0NzeXlkUndnckEtZjlOc21hV3pTMkRxR25vT3FPSEZ4WkxtREpFR0N2bzRJaFlDd1cyazk3U0ZqdWhPWFVBSEZ4VEZ0bjlUeVlySjhXLUlwOHdQNDk5eXVvYjN6SjBQd1ZF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IX3NwZ2NaMGxOVFFib0wxblVCYlo5SDlOdnFEWUdJdjNJMUtUc1VqQXRMd1ZOSHVHZFpBZVh4NWFOaEFYZ3JkS3BZN2NuVmhD?oc=5",
    "pubDate": "2026-10-12T11:45:00.000Z",
    "firstSeen": "2026-10-12T12:17:37.035Z",
    "image": null,
-   "source": "ｄメニューニュース",
+   "source": "まいどなニュース",
    "sourceId": "gnews-seiyu",
-   "syndicated": true,
+   "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
    "score": 8,
@@ -9448,6 +9500,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "まいどなニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IX3NwZ2NaMGxOVFFib0wxblVCYlo5SDlOdnFEWUdJdjNJMUtUc1VqQXRMd1ZOSHVHZFpBZVh4NWFOaEFYZ3JkS3BZN2NuVmhD?oc=5",
+     "via": "Googleニュース「声優」"
+    },
     {
      "name": "ｄメニューニュース",
      "sourceId": "gnews-seiyu",
@@ -10205,6 +10263,13 @@
      "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/21ba4d711984f3eddb13ff8753285883a7b2ca76?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03NnVmNTBWY1Y5aUp2WTdra1Q3TWp3TjBSYjZmMGZWeVV0ZlY2T3NFcTZjQ2p2UWZWWFNlelRjTy1fbloyX2JwT0E5TWE1UGN1S2Z5V2l5OFFqUDd5TENuVVVWNm9ZeXpoa1dqTXZLM01BOTA3VHBHTzY5XzAyRVE?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -16011,7 +16076,7 @@
    "title": "津田健次郎の“なりすましアカウント”を掲載 TVアニメ「ホタルの嫁入り」公式が謝罪「深くお詫び申し上げます」",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNNHptYjRYSXA2ZGU4VTRhYjhjdlozTHBaZTBuc25QOFo3MU16TTBOMWtmY0I1eGE5blNjLTd5QkV1aXd3MGxwWUhRMNIBR0FVX3lxTFAwS2RES2w0QUQ2UEhTZVJNN2xtYmE0VndGWE1EenVsYUFoZG5EYW1ieEZJb043cU1wUGtldmc2QmxXYVp5NEN3?oc=5",
-   "pubDate": "2026-10-11T11:49:26.000Z",
+   "pubDate": "2026-10-11T11:49:00.000Z",
    "firstSeen": "2026-10-11T12:17:40.037Z",
    "image": null,
    "source": "モデルプレス",
@@ -16052,6 +16117,13 @@
      "name": "ｄメニューニュース",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUjFGQUhGWW1CeTh2SmZ5U3dSdzJnbDQtZ2tybzlVaG8zc3ljdkJZeXlzNE1JdXZnNEFiVGUzTWpNZmVhbjUwSldqcUpvTk15MVdQeWFsY2NfVDJwQWNjZ3pveHdJUXJNVHU3ZkJjX0wwUzR3S2RXb3BxaENUeVhRWXY3aVlveEFfNEFrNWUySk1NSTZ3TWMzWEJnQVZsZGotSGVVOWdTeGhybDZyQWJlQlJsOHpSaXlZeng1Q3F1QnB1ZTlabXJqSHVxT19LeWdN0gGAAUFVX3lxTE1sclJWTU5HMHFfZ0VSbEctc0VrY0hrUFdnUUtFazNPWThsZWdvME5maTRCMmhIN041bzVzU19FTmpTV2lacTR0T1NFclNqelpMLXY3Q3c5cXRqQmdyR3NJMTUwejVhU2c4amg2VEhLU1NLOEY1YWlqZGp5MXBrWmtV?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByQ29LNHRpcW5nSlNKczZBMnIwVXRBVWZhTzBLbV9lb0htOGpPSVZMQnVPRUY2TTJwWEFvdkxpV05vQWY0ZndNOGNZNnlOanduc0oyLTh0NWstWGlLVWlibGliU0tvNTBHUUR2QTdB?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
@@ -16455,6 +16527,13 @@
      "name": "ｄメニューニュース",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdXJ3V09TRnAwWnV5b192WEswSjlZbXlyMkhWcFlHaEg0a1NENWJ4djYyNlpQUHUxUEgwbjZYRGIwQ0JJSldKSERUMXZaeTAwNjZsREFFMWxzcW9sbkJabjN1LUdVY245d3BPd1ZQUi1jSWdzNWV4VmdjVVU2U0pmdm1XamxxYVlGbE1RSW4xd2tRamFNdVJJckxITW8wYzE2dlFiMzdDcFVyeFNnWHE2LWhNajcxWXVkVUlhNWhJQTBLakRPRU92cVBUN2tIZEhrUGt3eWtaX1BObnhrUnhRVWFNZW5DNFlOdTgya1pVQ25FWVJj0gGkAUFVX3lxTFBMbHRQMDlDbVcyeVBuUjU0bjVadTd1R0pQMzhOajZsRm5pN1dDbkNnR3JRQjIyZzNzM29BUmkwbDhzcFM2X2ZKRE5uNDlYTHdzSUEwYloxcnhQbG1xZXdjT1Jud2FENzZDWVM3NnkwQkUxM1l5cWZEUjV1SFZ5WFUtRzk3T0pYWHhwV1VvT2hISXlITWI1ME9NN2RiWm1veTltREM1?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CZTlLSFhZWXJSR05oYkFkWlB4b1JXb3FMeHoyLVRuZ0xGX1ZKU1VqVDlnRmxrMFdZMGEybms4NERWRlFFYWMwWGNyTmd3cnIybEZNR1dqQXNZZlg4NXdVYWRWQ0ttM2xSNXZ6aTU5V2FtclXSAXhBVV95cUxNT21TMWVhdUhPcGxaelFDTG52VGZwZnVlRkpkdzJwWTZ2aGpqWGhJTllwZHZmdzFYWE9UVmttMFFsaW1MM0JlenRJaGJISEtIcGZPMlp5dm16N1QwOHI0dmxIZk9ELXJaWmFGUUZHX3FPRU13LWtvbGw?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -30146,7 +30225,7 @@
    "firstSeen": "2026-10-10T03:18:27.392Z",
    "image": null,
    "source": "オタク総研（Yahoo!ニュース）",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-tvanime",
    "syndicated": true,
    "kind": "aggregator",
    "lang": "ja",
@@ -30157,9 +30236,9 @@
    "sources": [
     {
      "name": "オタク総研（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0TFdjNXhUaVJSSDNXZGFlOUFlb3BneUZBNk1FUm8yWDhqU1lHVUJDS2Uxc0dJYnlKNU8tYkFkM1RZaWdIYlRwcHl2NXY1dENycVk0WnFqaTFCNGJscnlvZFNuYXhFQXMxTmZwWHZtaVNfY3RzWW1UY1N4ZW9Xa00?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -195199,63 +195278,6 @@
      "name": "にじめん",
      "sourceId": "nijimen",
      "link": "https://nijimen.kusuguru.co.jp/topics/637224"
-    }
-   ]
-  },
-  {
-   "title": "『ゼルダの伝説』オリジナル商品がアニメイトにズラリ！アクスタやアクセサリー、「コログ」のカーテンタッセルまで約70アイテム",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/09/25/188271.html",
-   "pubDate": "2026-09-25T10:40:02.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ゼルダの伝説"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/09/25/188271.html"
-    }
-   ]
-  },
-  {
-   "title": "矢吹奈子、韓国アニメ映画で主演＆主題歌務める「まだ信じられなくて」IZ*ONEでの経験活かし訳詞も担当【縁の手紙】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05c3ZHbmxGOFMtNGNwZjl4RnRQaVQzcExRdmpBRjdEMmdoNmFLWVQ1NWtiUDV5VS1nZ3M4Rm03cEFXSmFKeFJsVDJMVkdCRHlJTEI3QVpXV291V19wUWY2aGdJUFp3MmVqV0FibFE3LVZHLUVQVmtmWjVvTFdiLVk?oc=5",
-   "pubDate": "2026-09-25T10:38:39.000Z",
-   "firstSeen": "2026-09-25T13:22:16.145Z",
-   "image": null,
-   "source": "Yahoo!ニュース",
-   "sourceId": "gnews-movie",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "movie",
-    "music"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05c3ZHbmxGOFMtNGNwZjl4RnRQaVQzcExRdmpBRjdEMmdoNmFLWVQ1NWtiUDV5VS1nZ3M4Rm03cEFXSmFKeFJsVDJMVkdCRHlJTEI3QVpXV291V19wUWY2aGdJUFp3MmVqV0FibFE3LVZHLUVQVmtmWjVvTFdiLVk?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
-     "syndicated": true
     }
    ]
   }
