@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-15T16:18:16.382Z",
+ "generatedAt": "2026-10-15T17:18:37.332Z",
  "count": 6000,
  "dedupe": {
   "exact": 4324,
-  "syndicated": 426,
+  "syndicated": 427,
   "similar": 490,
   "syndicatedTotal": 4824,
   "syndicatedLeft": 1158
@@ -8228,8 +8228,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 885,
-   "accepted": 885
+   "archived": 886,
+   "accepted": 886
   },
   {
    "id": "lisani",
@@ -8283,8 +8283,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 3598,
-   "accepted": 3505
+   "archived": 3600,
+   "accepted": 3507
   },
   {
    "id": "gnews-tvanime",
@@ -8371,7 +8371,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 981,
+   "archived": 984,
    "accepted": 49
   },
   {
@@ -8393,7 +8393,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 20349,
+   "archived": 20351,
    "accepted": 2194
   },
   {
@@ -8404,7 +8404,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 19918,
+   "archived": 19985,
    "accepted": 342
   },
   {
@@ -9833,6 +9833,31 @@
      "name": "Googleニュース「アニメ」",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kUUVJbjRqM3pQSU1uOVlNcmVBcmJxTGg4cUU4VkRrLXE0TGFEd1RiMFppbm90dWVwcTdzcnVsVTNTdENSdzBfWA?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "日常が一変する新作TVアニメーション、10月18日に発表！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTGxPOGJ6S1ZDYXBkcTRhb3hNX056M0ViVFAtSFlkX2J3cm9VUUJfNFhjLXdSU3FWbjhaN3VPNUlyZ0FoRXdIX1JVdE9zcnpVdFVqOWtsV09lS0FweU5pdHZqOFQ2ejk5VHkw?oc=5",
+   "pubDate": "2026-10-15T12:00:00.000Z",
+   "firstSeen": "2026-10-15T17:18:04.524Z",
+   "image": null,
+   "source": "アニメイトタイムズ",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTGxPOGJ6S1ZDYXBkcTRhb3hNX056M0ViVFAtSFlkX2J3cm9VUUJfNFhjLXdSU3FWbjhaN3VPNUlyZ0FoRXdIX1JVdE9zcnpVdFVqOWtsV09lS0FweU5pdHZqOFQ2ejk5VHkw?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -11426,7 +11451,7 @@
    "firstSeen": "2026-10-15T10:17:56.454Z",
    "image": null,
    "source": "アニメハック",
-   "sourceId": "gnews-movie",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -11439,9 +11464,9 @@
    "sources": [
     {
      "name": "アニメハック",
-     "sourceId": "gnews-movie",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DcWh4V3N3UlZuT1dtaS1YTjRXcGhsNFF5SjY1amJkRUw1aDJUY24xTkRXU3ZkOVc3Z0NGSjQxRHBhR0g0Q0RnYWFSekJ2bEJ3eTRSTkxsTFRITkJqMVljeGdQaFF6UVE?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "ニコニコニュース",
@@ -12437,12 +12462,12 @@
    "pubDate": "2026-10-15T09:06:00.000Z",
    "firstSeen": "2026-10-15T09:18:53.177Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "cast"
    ],
@@ -12452,10 +12477,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5laGcxWlgxQVM2cVh4bDhsTDQwQVh6WlVSZURhLTVyQWJFTjliV3hNc2pBeEljM1BnNDB0LVBlNkFtREVvalJ5QnY0cng?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5laGcxWlgxQVM2cVh4bDhsTDQwQVh6WlVSZURhLTVyQWJFTjliV3hNc2pBeEljM1BnNDB0LVBlNkFtREVvalJ5QnY0cng?oc=5"
     },
     {
      "name": "リアルサウンド",
@@ -168513,6 +168537,36 @@
    ]
   },
   {
+   "title": "TVアニメ「ホテル・インヒューマンズ」第2期放送直前！キャスト大集結SP",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNzRlSE5McWFKTlh2NGNhYUE4MHk2ZTZ3VTRNUUlGOG5adHQ4N3BuTTNWaGpiVThGODhXZnpxN0NyOWo4TE1kQnR3Si1mY0lfcXdWemxJTHBiYTlZ?oc=5",
+   "pubDate": "2026-10-01T09:00:37.000Z",
+   "firstSeen": "2026-10-01T11:17:39.842Z",
+   "image": null,
+   "source": "YouTube",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "new",
+    "cast"
+   ],
+   "works": [
+    "ホテル・インヒューマンズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "YouTube",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNzRlSE5McWFKTlh2NGNhYUE4MHk2ZTZ3VTRNUUlGOG5adHQ4N3BuTTNWaGpiVThGODhXZnpxN0NyOWo4TE1kQnR3Si1mY0lfcXdWemxJTHBiYTlZ?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
    "title": "『どこよりも遠い場所にいる君へ』玉木宏のインタビュー映像公開 2日連続舞台挨拶開催も",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84MGpvc182SnVqNG0yQWhpQ0Z1MWsxemh1VGtreDFTNHhiNUNXZGZjVi1XQ3Z4dE9ocUJ6OVNnRVdUdjRmdko5VWFsNHREX2xwUG5zNTF6WFlRZlpRYlFycU130gFnQVVfeXFMTWhtZDROcUVzYzRuM194a1JFNU13T192bVR6N1RLNHlTcklvQ1JMVC1IVEJvT0tjRjgyUlNzOHB3WjE3NUJxOFk1dGNyQUxEckdmWmlrNHdfd3NwWGF4QmNjT1Y4VGdaOA?oc=5",
@@ -194997,77 +195051,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/a9487348510932e09537c95b24ce49100e0d31b4?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ANIAFFで出崎統を特集「ベルばら」「あしたのジョー2」「劇場版 AIR」など10作を上映",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OSDEySVpPQkl2ZHBwSWEyQjBSRGhYOHFsZGhNWG5PajFoZnNEWEJBa1pnd1ZWX2dEalNkLXpWcjg0N1BnajlDOWI3d18?oc=5",
-   "pubDate": "2026-09-29T09:00:00.000Z",
-   "firstSeen": "2026-09-29T09:18:12.727Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [
-    "movie",
-    "cast",
-    "event"
-   ],
-   "works": [
-    "ベルばら",
-    "あしたのジョー2",
-    "AIR"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OSDEySVpPQkl2ZHBwSWEyQjBSRGhYOHFsZGhNWG5PajFoZnNEWEJBa1pnd1ZWX2dEalNkLXpWcjg0N1BnajlDOWI3d18?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/9c4106c72de2adcb6e40b74b0696caaab131c29e?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "コミックナタリー（news.yahoo.co.jp）",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qOGt6MGlaZklUbHdROEE5T3NPVjFrNEdKT1ZOYjFrRXNRMXByVE9vZ0YtblNYYkFMU2VWcjZ5ZF93Z1VqUGJJbUJoYUpfZUE0ZVVzUHRuOUN4VVdiaFZXbnVHQjRwSUtjVTlvVlVWeS1qUWVQYzBYc3lQV0xhV2s?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "BaLmyコミックス誕生1周年記念！BL好きVTuber・四季凪アキラインタビュー｜“壁”となって見守りたい、関係性が心に刺さる2作",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pN3owWkFxZ1NzWkNKbGJRSkRLNkZaR1JvUjdQdGpIemhydnhseXhEQ1FrcXNmSm5yQWpuN1JadlJtMnczeUdGbUM3bFRtaWFFVUJQVDV1RkRHekZ0dk9kQm9DVEM?oc=5",
-   "pubDate": "2026-09-29T09:00:00.000Z",
-   "firstSeen": "2026-09-29T10:18:15.324Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 2,
-   "categories": [
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pN3owWkFxZ1NzWkNKbGJRSkRLNkZaR1JvUjdQdGpIemhydnhseXhEQ1FrcXNmSm5yQWpuN1JadlJtMnczeUdGbUM3bFRtaWFFVUJQVDV1RkRHekZ0dk9kQm9DVEM?oc=5"
     }
    ]
   }
