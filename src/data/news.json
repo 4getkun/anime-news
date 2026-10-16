@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-16T00:19:28.683Z",
+ "generatedAt": "2026-10-16T01:21:19.451Z",
  "count": 6000,
  "dedupe": {
-  "exact": 4352,
+  "exact": 4355,
   "syndicated": 428,
   "similar": 492,
-  "syndicatedTotal": 4854,
-  "syndicatedLeft": 1160
+  "syndicatedTotal": 4861,
+  "syndicatedLeft": 1162
  },
  "calendar": [
   {
@@ -1637,23 +1637,6 @@
    "sources": 1,
    "categories": [
     "goods"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-06",
-   "precision": "day",
-   "verb": "stream",
-   "label": "配信",
-   "work": "PSYREN -サイレン-",
-   "title": "Who-ya Extended、新曲「ICARUS」が10月クールTVアニメ『PSYREN -サイレン-』のEDテーマに決定！10月6日先行配信＆11月18日シングルリリース決定！",
-   "link": "https://www.lisani.jp/0000318947/",
-   "source": "リスアニ！",
-   "sources": 1,
-   "categories": [
-    "broadcast",
-    "music"
    ],
    "platforms": [],
    "spoiler": false
@@ -3976,6 +3959,22 @@
    "verb": "release",
    "label": "発売",
    "work": null,
+   "title": "「キン肉マン」新作一番くじが10月17日発売！ブロッケンJr.、アシュラマンら「超人血盟軍」5人を堂々立体化(インサイド)",
+   "link": "https://news.yahoo.co.jp/articles/097537fe5c892c7afd9521a80ca30196749b281c?source=rss",
+   "source": "インサイド（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-17",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
    "title": "コミカルな絵柄がとってもカワイイ！アベイルで「パンどろぼう」グッズが10月17日発売",
    "link": "https://www.inside-games.jp/article/2026/10/14/189224.html",
    "source": "インサイド",
@@ -4217,6 +4216,22 @@
    "link": "https://www.inside-games.jp/article/2026/10/13/189174.html",
    "source": "インサイド",
    "sources": 2,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-20",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": null,
+   "title": "ファミマと「PEANUTS」のコラボキャンペーン「スヌーピーと楽しむ、ファミマの秋」が10月20日から開催決定(GAME Watch)",
+   "link": "https://news.yahoo.co.jp/articles/bdcad9160c3f5802517a0021df6a8120b61e885b?source=rss",
+   "source": "GAME Watch（Yahoo!ニュース エンタメ）",
+   "sources": 1,
    "categories": [
     "goods"
    ],
@@ -4580,6 +4595,22 @@
    "sources": 2,
    "categories": [
     "cast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-25",
+   "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": null,
+   "title": "「名探偵プリキュア！」×「おジャ魔女どれみ」コラボ決定 10月25日にコラボエピソード放送 グッズも発売(映画.com)",
+   "link": "https://news.yahoo.co.jp/articles/159a78f0223bde38f6dcfa2922c4e603b423e06c?source=rss",
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [
+    "goods"
    ],
    "platforms": [],
    "spoiler": false
@@ -7735,6 +7766,22 @@
   {
    "date": "2027-04",
    "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "散歩・日傘をさす女",
+   "title": "「一番くじ」に印象派の巨匠 ・モネの名作『散歩・日傘をさす女』をモチーフにしたフィギュアが登場。絵画の筆跡と色使いと立体で再現",
+   "link": "https://news.denfaminicogamer.jp/news/261016i",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-04",
+   "precision": "month",
    "verb": "broadcast",
    "label": "放送",
    "work": null,
@@ -7979,17 +8026,17 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 704,
-   "accepted": 702
+   "archived": 706,
+   "accepted": 704
   },
   {
    "id": "natalie-comic",
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 890,
    "accepted": 890
   },
@@ -8009,9 +8056,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 45,
    "accepted": 44
   },
@@ -8020,11 +8067,11 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
-   "archived": 1,
-   "accepted": 1
+   "ok": true,
+   "error": null,
+   "fetched": 10,
+   "archived": 0,
+   "accepted": 0
   },
   {
    "id": "nijimen",
@@ -8034,7 +8081,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 288,
+   "archived": 289,
    "accepted": 132
   },
   {
@@ -8042,9 +8089,9 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 3619,
    "accepted": 3525
   },
@@ -8053,9 +8100,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1240,
    "accepted": 1208
   },
@@ -8064,9 +8111,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 671,
    "accepted": 600
   },
@@ -8075,9 +8122,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 2186,
    "accepted": 1962
   },
@@ -8086,9 +8133,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 611,
    "accepted": 70
   },
@@ -8100,8 +8147,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1166,
-   "accepted": 466
+   "archived": 1169,
+   "accepted": 467
   },
   {
    "id": "4gamer",
@@ -8111,7 +8158,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 898,
+   "archived": 899,
    "accepted": 58
   },
   {
@@ -8122,8 +8169,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 948,
-   "accepted": 227
+   "archived": 950,
+   "accepted": 229
   },
   {
    "id": "gamespark",
@@ -8133,7 +8180,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 989,
+   "archived": 990,
    "accepted": 50
   },
   {
@@ -8155,8 +8202,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 20624,
-   "accepted": 2211
+   "archived": 20674,
+   "accepted": 2218
   },
   {
    "id": "prtimes",
@@ -8166,8 +8213,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 20146,
-   "accepted": 344
+   "archived": 20241,
+   "accepted": 345
   },
   {
    "id": "ann",
@@ -8199,11 +8246,322 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 165,
-   "accepted": 165
+   "archived": 166,
+   "accepted": 166
   }
  ],
  "items": [
+  {
+   "title": "「キン肉マン」新作一番くじが10月17日発売！ブロッケンJr.、アシュラマンら「超人血盟軍」5人を堂々立体化(インサイド)",
+   "summary": "BANDAI SPIRITSは、「一番くじ キン肉マン 超人血盟軍」の全ラインナップを公開しました。【画像】ブロッケンJr.、アシュラマンなど「超人血盟軍」5人のフィギュア！◆「超人血盟軍」5人のフィ",
+   "link": "https://news.yahoo.co.jp/articles/097537fe5c892c7afd9521a80ca30196749b281c?source=rss",
+   "pubDate": "2026-10-16T01:15:03.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": null,
+   "source": "インサイド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/097537fe5c892c7afd9521a80ca30196749b281c?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『名探偵プリキュア！』×『おジャ魔女どれみ』コラボ放送決定 設定画解禁！魔女見習いに仮装するあんな達(オリコン)",
+   "summary": "アニメ『プリキュア』シリーズの最新作『名探偵プリキュア！』（たんプリ ABCテレビ・テレビ朝日系 毎週日曜 午前8：30）と『おジャ魔女どれみ』がコラボレーションすることが決定した。25日放送の第39",
+   "link": "https://news.yahoo.co.jp/articles/93091c346f7c7a2ee0f0ba3c586c79b09cd1e5b2?source=rss",
+   "pubDate": "2026-10-16T01:13:08.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "broadcast",
+    "goods"
+   ],
+   "works": [
+    "名探偵プリキュア!",
+    "おジャ魔女どれみ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/93091c346f7c7a2ee0f0ba3c586c79b09cd1e5b2?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『名探偵プリキュア！』と『おジャ魔女どれみ』のコラボが決定！プリキュア4人が魔女見習いに“仮装”するハロウィン回を放送、どっきりどっきりDON DONすぎる",
+   "summary": "舞台である1999年に『おジャ魔女どれみ』が放送されているため実現した。形式は異なるが『ヒープリ』以来のコラボ。どっきりどっきりDON DONすぎる。『おジャ魔女どれみ』『ハートキャッチプリキュア！』のキャラクターデザイン・馬越嘉彦氏によるコラボイラストを使用したグッズも。来年発…",
+   "link": "https://news.denfaminicogamer.jp/news/2610162z",
+   "pubDate": "2026-10-16T01:00:58.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/1012_doremi_purecure_hz-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "goods",
+    "stage"
+   ],
+   "works": [
+    "名探偵プリキュア!",
+    "おジャ魔女どれみ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610162z"
+    }
+   ]
+  },
+  {
+   "title": "「機動戦士ガンダム ならぶんです。ザク」第2弾が発売！シャア専用ザクⅡや高機動型ザクⅡ3機などズラリ",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/16/103858.html",
+   "pubDate": "2026-10-16T01:00:04.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/16/103858.html"
+    }
+   ]
+  },
+  {
+   "title": "GU×アニメ「ジョジョ」コラボが最高にオシャレ！DIOのプルオーバー、柱の男たちTシャツなど“宿敵”テーマの全7種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/16/189341.html",
+   "pubDate": "2026-10-16T01:00:03.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ジョジョ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/16/189341.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c4a3f44c5e838b927051aa510b353c4e713ca2e4?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ファミマと「PEANUTS」のコラボキャンペーン「スヌーピーと楽しむ、ファミマの秋」が10月20日から開催決定(GAME Watch)",
+   "summary": "ファミリーマートは、「PEANUTS」とのコラボレーションキャンペーン「スヌーピーと楽しむ、ファミマの秋」を10月20日から全国のファミリーマート約16,500店舗にて実施する。【この記事に関する別の",
+   "link": "https://news.yahoo.co.jp/articles/bdcad9160c3f5802517a0021df6a8120b61e885b?source=rss",
+   "pubDate": "2026-10-16T01:00:00.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": null,
+   "source": "GAME Watch（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/bdcad9160c3f5802517a0021df6a8120b61e885b?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "3度目のファミマ×「PEANUTS」コラボ先行フォトレポ(GAME Watch)",
+   "summary": "ファミリーマートは、人気キャラクター「スヌーピー」でおなじみの「PEANUTS」とコラボレーションしたキャンペーン「スヌーピーと楽しむ、ファミマの秋」を10月20日より開催する。今回のキャンペーンでは",
+   "link": "https://news.yahoo.co.jp/articles/d2b64d43b1e59fc007fb7469bc508235be266c4f?source=rss",
+   "pubDate": "2026-10-16T01:00:00.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": null,
+   "source": "GAME Watch（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GAME Watch（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d2b64d43b1e59fc007fb7469bc508235be266c4f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「名探偵プリキュア！」×「おジャ魔女どれみ」コラボ決定 10月25日にコラボエピソード放送 グッズも発売(映画.com)",
+   "summary": "10月25日放送の「名探偵プリキュア！」第39話で、「おジャ魔女どれみ」とコラボレーションすることが決定した。※BSS山陰放送では、第39話は11月1日放送。 「名探偵プリキュア！」は、主人公・明智あ",
+   "link": "https://news.yahoo.co.jp/articles/159a78f0223bde38f6dcfa2922c4e603b423e06c?source=rss",
+   "pubDate": "2026-10-16T01:00:00.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": null,
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/159a78f0223bde38f6dcfa2922c4e603b423e06c?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【名探偵プリキュア！】10月25日放送の第39話で『おジャ魔女どれみ』とコラボ決定！(アニメージュプラス)",
+   "summary": "『名探偵プリキュア！』第39話にて、『おジャ魔女どれみ』とコラボが決定。名探偵プリキュアが魔女見習いに仮装するハロウィン回が放送される。【関連画像】コラボイラストや設定イラストをチェック！（写真7点）",
+   "link": "https://news.yahoo.co.jp/articles/d9881d77a56af1d9ae08063758224663e76ff75d?source=rss",
+   "pubDate": "2026-10-16T01:00:00.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": null,
+   "source": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "おジャ魔女どれみ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d9881d77a56af1d9ae08063758224663e76ff75d?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「一番くじ」に印象派の巨匠 ・モネの名作『散歩・日傘をさす女』をモチーフにしたフィギュアが登場。絵画の筆跡と色使いと立体で再現",
+   "summary": "「一番くじ クロード・モネ」は2027年4月下旬に発売予定。詳細は今後発表される",
+   "link": "https://news.denfaminicogamer.jp/news/261016i",
+   "pubDate": "2026-10-16T00:49:31.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUqWMGwbUAApXk3-1024x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "散歩・日傘をさす女"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261016i"
+    }
+   ]
+  },
+  {
+   "title": "Jujutsu Kaisen Meets The X-Files in New Supernatural Murder Mystery Coming to Steam",
+   "summary": "An indie developer invokes the spirit of two legendary supernatural horror IPs to create a thrilling new game about detectives who deal with…",
+   "link": "https://www.cbr.com/angelic-agency-soul-salvation-unit-steam-announce/",
+   "pubDate": "2026-10-16T00:35:13.000Z",
+   "firstSeen": "2026-10-16T01:20:46.663Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/a-custom-image-featuring-satoru-gojo-posing-in-front-of-an-older-yuji-itadori-from-jujutsu-kaisen-modulo.jpeg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/angelic-agency-soul-salvation-unit-steam-announce/"
+    }
+   ]
+  },
   {
    "title": "【マルチ対応】詐欺師となって「AI」を話術で騙しお金をむしり取るゲーム『Scam With Your Friends』リリース初日から大人気。Steam最大同接は「2万8000人」を突破",
    "summary": "リアルタイムVCでAIと自由に会話をし、あの手この手で個人情報を抜き取って日々のノルマを達成。警察のガさ入れに要注意",
@@ -8235,15 +8593,15 @@
   },
   {
    "title": "声優になる夢を、生活の不安であきらめない！企業と学校が連携し、声優を目指す学生の「夢」と「暮らし」を支援国際アート＆デザイン大学校声優科が特別研修を実施",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNE8xanZHQWRhVnZ3bmFGTnBZWFBDZDU3UFlsUkNPMkx2blMyLVNGSWpaWGxMdFo4Q2JXS3FzU3pEZ2NfZ3ZCeEJsZDBKNDRBS1NURkxfZjRUYWdvaDBwNUV3Z01sMHpXRHc?oc=5",
-   "pubDate": "2026-10-16T00:00:02.000Z",
+   "summary": "ＮＳＧグループの国際アート＆デザイン大学校（Ａ＆Ｄ／福島県郡山市）声優科は、9月28日にパーソルテンプスタッフ株式会社による「声優支援プロジェクト」の特別研修を実施しました。 本研修では、声優になる夢...",
+   "link": "https://prtimes.jp/main/html/rd/p/000002263.000032951.html",
+   "pubDate": "2026-10-16T00:00:00.000Z",
    "firstSeen": "2026-10-16T00:18:52.740Z",
    "image": null,
    "source": "PR TIMES",
-   "sourceId": "gnews-seiyu",
+   "sourceId": "prtimes",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "press",
    "lang": "ja",
    "score": 8,
    "categories": [
@@ -8254,9 +8612,8 @@
    "sources": [
     {
      "name": "PR TIMES",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNE8xanZHQWRhVnZ3bmFGTnBZWFBDZDU3UFlsUkNPMkx2blMyLVNGSWpaWGxMdFo4Q2JXS3FzU3pEZ2NfZ3ZCeEJsZDBKNDRBS1NURkxfZjRUYWdvaDBwNUV3Z01sMHpXRHc?oc=5",
-     "via": "Googleニュース「声優」"
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000002263.000032951.html"
     }
    ]
   },
@@ -52560,22 +52917,29 @@
   {
    "title": "「ちいかわ」カラビナつきポーチがプライズ展開！ハチワレやくりまんじゅうなど全8種",
    "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/12/189128.html",
+   "link": "https://animeanime.jp/article/2026/10/16/103857.html",
    "pubDate": "2026-10-12T00:00:04.000Z",
    "firstSeen": "2026-10-12T00:17:57.392Z",
    "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
    "syndicated": false,
-   "kind": "general",
+   "kind": "specialist",
    "lang": "ja",
    "score": 4,
    "categories": [
     "goods"
    ],
-   "works": [],
+   "works": [
+    "ちいかわ"
+   ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/16/103857.html"
+    },
     {
      "name": "インサイド",
      "sourceId": "inside-games",
@@ -194375,336 +194739,6 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1PVFdCLWI5UVpSMHZwd18wYU5sbER6cFlDeHB1N0lKMjY5eVVZSWN1QzlBeG5Yc2xoc0g1aGpOVnhidw?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "「たまごっち」30周年！まめっち＆くちぱっちたちが宇宙モチーフの雑貨に♪ 全品390円でサンキューマートに登場",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/09/29/103353.html",
-   "pubDate": "2026-09-29T10:30:04.000Z",
-   "firstSeen": "2026-09-29T11:18:16.239Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "たまごっち"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/09/29/103353.html"
-    }
-   ]
-  },
-  {
-   "title": "Nia Liston: The Merciless Maiden Anime Adds 4 More Cast Members",
-   "summary": "Saeko Kamijō, Hitomi Ueda, Azusa Tadokoro, Ayaka Ōhashi join cast of October 6 series",
-   "link": "https://www.animenewsnetwork.com/news/2026-09-29/nia-liston-the-merciless-maiden-anime-adds-4-more-cast-members/.242304",
-   "pubDate": "2026-09-29T10:28:41.000Z",
-   "firstSeen": "2026-09-29T11:18:16.239Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-09-29/nia-liston-the-merciless-maiden-anime-adds-4-more-cast-members/.242304"
-    }
-   ]
-  },
-  {
-   "title": "牧野真莉愛が“推し作品”への愛を全開！ 『ホタルの嫁入り』アニメ制作現場＆「東京ゲームショウ」に突撃 山寺宏一の“まだ世に出ていない秘密”とは…！？",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10MWpjZ0ttdTBPSVpnWjRDRFlBeDBSVGNiVDhrNnNuX19Mc1VBOXN2YUtrbnNDTjlqLUl1R1dDT0xoNFE4MjRUUGQ1cWd2SEdDTG1GVXRxMktTNmpVT0tz?oc=5",
-   "pubDate": "2026-09-29T10:28:21.000Z",
-   "firstSeen": "2026-09-29T11:18:16.239Z",
-   "image": null,
-   "source": "fujitv.co.jp",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "game"
-   ],
-   "works": [
-    "ホタルの嫁入り"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "fujitv.co.jp",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10MWpjZ0ttdTBPSVpnWjRDRFlBeDBSVGNiVDhrNnNuX19Mc1VBOXN2YUtrbnNDTjlqLUl1R1dDT0xoNFE4MjRUUGQ1cWd2SEdDTG1GVXRxMktTNmpVT0tz?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "ヤンキー＆ガンマン女子高生VS地球外生命体、井上和郎のガンアクション1巻",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXc3FHNlZzbno4Zkh3cEhEZDFFOXRqTG11ZVZKWXVHQXVPQlJ2YnpwZmRNMjdYRm9TWm5heUlyTUZtSGRpYXA1LXVVSm4?oc=5",
-   "pubDate": "2026-09-29T10:25:00.000Z",
-   "firstSeen": "2026-09-29T18:18:15.209Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXc3FHNlZzbno4Zkh3cEhEZDFFOXRqTG11ZVZKWXVHQXVPQlJ2YnpwZmRNMjdYRm9TWm5heUlyTUZtSGRpYXA1LXVVSm4?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "伊集院光、若手芸人の手がけたアニメ酷評を謝罪も…「外野の養分になるだけ」発言に「自分で始めといて」一部ファン疑問視",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02Q3FYOENaQW9PUDZuVV9VVkhBa21hNHZReWt5eVZOUmZpOUc4Qmp3a3dKNk5VVFpCa1FOWmwxd21aRFU0U0t4Zm5QaV9XdW4za0dIS3YySjd0VmhLYjhQMmt2VkxFUFNXNV9nUUQ5cG8xYm5FOS10R0FzTmVYRVU?oc=5",
-   "pubDate": "2026-09-29T10:20:54.000Z",
-   "firstSeen": "2026-09-29T11:18:16.239Z",
-   "image": null,
-   "source": "Yahoo!ニュース",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "trouble"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02Q3FYOENaQW9PUDZuVV9VVkhBa21hNHZReWt5eVZOUmZpOUc4Qmp3a3dKNk5VVFpCa1FOWmwxd21aRFU0U0t4Zm5QaV9XdW4za0dIS3YySjd0VmhLYjhQMmt2VkxFUFNXNV9nUUQ5cG8xYm5FOS10R0FzTmVYRVU?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "高速道路で追突被害も〝ケガなし〟自虐ショットで無事を伝える声優・稲田徹に反響「これなら、けがない」「ご無事でよかった」(西スポWEB OTTO!)",
-   "summary": "声優の稲田徹が交通事故遭遇を報告し反響が寄せられている。【写真あり】無事を伝える〝けがなし〟自虐ショット",
-   "link": "https://news.yahoo.co.jp/articles/02d8bad046f16c184e323cd19b4a77be3fd6da2d?source=rss",
-   "pubDate": "2026-09-29T10:20:00.000Z",
-   "firstSeen": "2026-09-29T11:18:16.239Z",
-   "image": null,
-   "source": "西スポWEB OTTO!（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "西スポWEB OTTO!（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/02d8bad046f16c184e323cd19b4a77be3fd6da2d?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "ｄメニューニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZFRGaTNqVTg2ZkZUTjJCalpuV2NZUmplSWFiY3ozRXJseTFYMV8yX0ZYQTJsOXZvalQ0c2tQWHpnd2V1cGpNSHVENV8xZnc4QmwzSEhQSm01eTJWNHRua2ZLeDk1dWVzR1dNVjNxS2pGY291b1NiQzZYWUI5MkxUalU1eE5JYkRjVGlGcm1tY3hzU3VKVzF4X3NralRwYUpOM2JHeDdrVFQ2RFBwbDlkRHBxOTIwVWF6VENHb1laVmZkMC1FQlNzQVFBYk1tbUNKVUVURld3d2xtb2_SAYsBQVVfeXFMUHNBcHhHWVFRc3RNbzBaVzhteUs1VU02U1pHN2k5RlFtdHVyV3pDVnloaG9HNGZ6U1VwRFdZLWhmNkVBUkIzWGI0WGRiVDZmZm5YTThkRzBWTGRMeEprWVhsY0NFYVV3R0RsbldISkR2bTlmaEVvR2tITTdXRU9COHJ3Z2ZZYkNqMHFxSQ?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "au Webポータル",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yWWptWVl5WDNhXzV3MElXQzZyUjIxd3UyYXFXV0tTN3BsYlV6U2FEX2xpWUxCNENXbWRUV2QzVTdlNllQeHNxSThDOFVoZ1BSVmZyN1U0NWI3czQzS1lzU0tPVDlkMEl4S2xYSDFn?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Fel8zZndjM3RVZTRtM0c5WmVHbmtzMVBGLWpva2lZOEFrMFRWWFQxOHZvbF95UmhRYXFESGVpcklwaU1BQ3plNm5TZDE1aWF0Qk11ekE1eXpUM0N6d1o2d0dqcnF3S1ZrblhFQjVGMW10RU9YMnJYWHp3YUJhMVU?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "キミとアイドルプリキュア♪｜アニメ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11U1hzelpqV0VDZGZ1YUNCVTk2RGIwNURzSk44dUFzZTMyVS1TVmJoV1FWOUdxTGJWSEQ4T2YtSEFsWHBlaUljSldMaDR1ekZTRWlRSmtRdHo?oc=5",
-   "pubDate": "2026-09-29T10:12:05.000Z",
-   "firstSeen": "2026-09-29T11:18:16.239Z",
-   "image": null,
-   "source": "TOKYO MX",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "TOKYO MX",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11U1hzelpqV0VDZGZ1YUNCVTk2RGIwNURzSk44dUFzZTMyVS1TVmJoV1FWOUdxTGJWSEQ4T2YtSEFsWHBlaUljSldMaDR1ekZTRWlRSmtRdHo?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "『ヤニねこ』歌詞がアウトな主題歌MVが「大記録」達成 ボーカルの投稿に「紅白出て」「バズらない理由がない」「時代が追いついた」(マグミクス)",
-   "summary": "2026年夏クールのアニメのなかでも、その過激な内容で注目を集めた『ヤニねこ』のOP主題歌「なんもねえ」のミュージックビデオが、「大記録」を達成し、作詞・作曲の忘れらんねえよ・柴田隆浩さんの投稿に反響",
-   "link": "https://news.yahoo.co.jp/articles/d47bda75c8a00087aa3b1feac349b504485d4aab?source=rss",
-   "pubDate": "2026-09-29T10:10:00.000Z",
-   "firstSeen": "2026-09-29T10:18:15.324Z",
-   "image": null,
-   "source": "マグミクス（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "ヤニねこ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "マグミクス（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/d47bda75c8a00087aa3b1feac349b504485d4aab?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『デジモン』「僕らが選んだベストアドベンチャー」メインPV＆放送情報解禁",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80ZVdZRWVQZ0szd3E3Mlo5RTh4OUxKNk01d1pkRXBvQXpOQTRRaTE4X21sUFNtenFNZXliR1JobG1TQ3J4d280QUxrSF9ZWk1MS1EwWjdrbkxiT3dqdEFENXplWFhkZXNWcFlZ?oc=5",
-   "pubDate": "2026-09-29T10:10:00.000Z",
-   "firstSeen": "2026-09-30T04:18:19.567Z",
-   "image": null,
-   "source": "アニメイトタイムズ",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "visual"
-   ],
-   "works": [
-    "デジモン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメイトタイムズ",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80ZVdZRWVQZ0szd3E3Mlo5RTh4OUxKNk01d1pkRXBvQXpOQTRRaTE4X21sUFNtenFNZXliR1JobG1TQ3J4d280QUxrSF9ZWk1MS1EwWjdrbkxiT3dqdEFENXplWFhkZXNWcFlZ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "Who-ya Extended、新曲「ICARUS」が10月クールTVアニメ『PSYREN -サイレン-』のEDテーマに決定！10月6日先行配信＆11月18日シングルリリース決定！",
-   "summary": "ボーカリストWho-ya（フーヤ）を中心としたクリエイターズユニット、Who-ya Extended（フーヤ...",
-   "link": "https://www.lisani.jp/0000318947/",
-   "pubDate": "2026-09-29T10:00:40.000Z",
-   "firstSeen": "2026-09-29T10:18:15.324Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/09/2609291800-yh-007.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "broadcast",
-    "music"
-   ],
-   "works": [
-    "PSYREN -サイレン-",
-    "ICARUS"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000318947/"
-    }
-   ]
-  },
-  {
-   "title": "小雪は美姫が話をしようとするが、偶然湊と陽太が居合わせて…アニメ『氷の城壁』第15話あらすじ・先行カット公開(ABEMA TIMES)",
-   "summary": "アニメ『氷の城壁』より、第15話のあらすじと先行カットが到着した。 本作はLINEマンガ累計閲覧数1.9億回突破（4月時点）、コミックスの累計発行部数300万部突破（電子版含む8月末時点・集英社ジャン",
-   "link": "https://news.yahoo.co.jp/articles/d509adff8b6fc4455c4a384dce82cb9067372d24?source=rss",
-   "pubDate": "2026-09-29T10:00:36.000Z",
-   "firstSeen": "2026-09-29T10:18:15.324Z",
-   "image": null,
-   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "media"
-   ],
-   "works": [
-    "氷の城壁"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/d509adff8b6fc4455c4a384dce82cb9067372d24?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JemFGMEhmalQ1NXdjeVBqVHNPT1ZaWmN0V0xYRC1ZbVN0Z2tRT29sYlA2LUVNdEhENTQ4R25rQUJ2Skl0bkNtYktYbTlueVlsSzVVX2Zrdzc3N3RzNV9kajFmM3VpNXkwaXlNUzhzSENzQzdUbk5wbWJJc19vZGM?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
     }
    ]
   }
