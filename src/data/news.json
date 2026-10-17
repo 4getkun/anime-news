@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-17T10:18:33.393Z",
+ "generatedAt": "2026-10-17T11:18:25.774Z",
  "count": 6000,
  "dedupe": {
-  "exact": 4669,
-  "syndicated": 470,
-  "similar": 519,
-  "syndicatedTotal": 5197,
-  "syndicatedLeft": 1180
+  "exact": 4676,
+  "syndicated": 469,
+  "similar": 520,
+  "syndicatedTotal": 5201,
+  "syndicatedLeft": 1181
  },
  "calendar": [
   {
@@ -6714,6 +6714,24 @@
   {
    "date": "2027-01",
    "precision": "month",
+   "verb": "movie",
+   "label": "公開",
+   "work": "アイカツスターズ!~星々のProgress~",
+   "title": "新作映画「アイカツスターズ！～星々のProgress～」来年1月公開、主題歌聴ける本予告（コメントあり / 動画あり）",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80QnpLMDFETkZsYTBONUV1eGJaZDU3cUNRRE5EenNuV0pNeWY1d2E0dnZuZ2hHR1lZRmpNcDBqTm9DYXQ5Tkt0NExJTnQ?oc=5",
+   "source": "コミックナタリー",
+   "sources": 1,
+   "categories": [
+    "visual",
+    "movie",
+    "music"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01",
+   "precision": "month",
    "verb": "release",
    "label": "発売",
    "work": "鬼滅の刃",
@@ -7901,24 +7919,6 @@
    "precision": "month",
    "verb": "broadcast",
    "label": "放送",
-   "work": "メガネ、時々、ヤンキーくん",
-   "title": "アニメ『メガネ、時々、ヤンキーくん』27年4月放送開始＆PV解禁！ メインキャストに清水大登、原涼子",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6N0xKeVdjaVhtbnR1WmprM0VJZ0NUd2VYMjhIM2ZnMTA0dktqeDM0VjNjcFNZRjJGRFhnSG5XR0pDUjgyV1Nmb0RSay12elE?oc=5",
-   "source": "クランクイン！",
-   "sources": 5,
-   "categories": [
-    "broadcast",
-    "visual",
-    "cast"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-04",
-   "precision": "month",
-   "verb": "broadcast",
-   "label": "放送",
    "work": null,
    "title": "「メガネ、時々、ヤンキーくん」壱倉役は清水大登、百瀬役は原涼子に決定 27年4月に放送開始",
    "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5XVThFUjhpdnVmcXpkdE9mNm1LX1c1b043YkpwaVBPMHpYVmJTRG5tQ3pZUmw0bGxCb3dheQ?oc=5",
@@ -8108,6 +8108,22 @@
    "spoiler": false
   },
   {
+   "date": "2027-04",
+   "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "メガネ、時々、ヤンキーくん",
+   "title": "【ティザーPV】アニメ「メガネ、時々、ヤンキーくん」2027年4月放送！",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yWlBRRlZKUHNQTlhjNjR5VlR6dkprZ3o5VkhmLUhaWUFld096ZkJLdzItUmVhdFhpaVhLU3RwRVlKUQ?oc=5",
+   "source": "YouTube",
+   "sources": 1,
+   "categories": [
+    "visual"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2027-05",
    "precision": "month",
    "verb": "release",
@@ -8268,8 +8284,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 765,
-   "accepted": 763
+   "archived": 767,
+   "accepted": 765
   },
   {
    "id": "natalie-comic",
@@ -8279,8 +8295,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 935,
-   "accepted": 935
+   "archived": 937,
+   "accepted": 937
   },
   {
    "id": "lisani",
@@ -8290,8 +8306,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 172,
-   "accepted": 171
+   "archived": 173,
+   "accepted": 172
   },
   {
    "id": "seigura",
@@ -8323,8 +8339,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 314,
-   "accepted": 149
+   "archived": 315,
+   "accepted": 150
   },
   {
    "id": "gnews-anime",
@@ -8334,8 +8350,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 3929,
-   "accepted": 3817
+   "archived": 3936,
+   "accepted": 3824
   },
   {
    "id": "gnews-tvanime",
@@ -8345,8 +8361,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1328,
-   "accepted": 1291
+   "archived": 1329,
+   "accepted": 1292
   },
   {
    "id": "gnews-movie",
@@ -8356,7 +8372,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 708,
+   "archived": 709,
    "accepted": 635
   },
   {
@@ -8367,8 +8383,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2309,
-   "accepted": 2073
+   "archived": 2311,
+   "accepted": 2075
   },
   {
    "id": "natalie-eiga",
@@ -8389,7 +8405,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1249,
+   "archived": 1250,
    "accepted": 511
   },
   {
@@ -8444,8 +8460,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 22118,
-   "accepted": 2389
+   "archived": 22168,
+   "accepted": 2391
   },
   {
    "id": "prtimes",
@@ -8455,7 +8471,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 21717,
+   "archived": 21723,
    "accepted": 391
   },
   {
@@ -8493,6 +8509,242 @@
   }
  ],
  "items": [
+  {
+   "title": "＜魔法騎士レイアース＞創師プレセアと出会った光たちは武器の材料集めへと向かう 第3話あらすじ＆先行カット公開(WEBザテレビジョン)",
+   "summary": "アニメ「魔法騎士レイアース」(毎週水曜よる11:45-深夜0:15、テレビ朝日系全国ネット“IMAnimation W”枠ほか／AnimeFesta・アニメ放題・ABEMA・FOD・dアニメストア・H",
+   "link": "https://news.yahoo.co.jp/articles/5cb2786855667a217d799bac476a37268595f8c4?source=rss",
+   "pubDate": "2026-10-17T11:06:33.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "broadcast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/5cb2786855667a217d799bac476a37268595f8c4?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "映画「BanG Dream! Ave Mujica prima aurora」公開！上映中PVや続編TVアニメのタイトル・PVを公開！",
+   "summary": "映画「BanG Dream! Ave Mujica prima aurora」が、10月16日(金)より全国の劇場にて公開された...",
+   "link": "https://www.lisani.jp/0000320233/",
+   "pubDate": "2026-10-17T11:00:23.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610171800-yh-005.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "new",
+    "visual",
+    "movie"
+   ],
+   "works": [
+    "BanG Dream! Ave Mujica prima aurora"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000320233/"
+    }
+   ]
+  },
+  {
+   "title": "「リゼロ」エミリア、レム、ラムの湯上がり銭湯姿にドキドキ☆ 全5種のコラボ薬湯で温まろう♪【大黒湯コラボ】",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/17/103919.html",
+   "pubDate": "2026-10-17T11:00:03.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "goods",
+    "event"
+   ],
+   "works": [
+    "リゼロ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/17/103919.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/a1c90dd1bbf32865e2a15079fd243308206848ee?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "マチ★アソビ開幕 徳島県内外からのアニメファンや家族連れらでにぎわう",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14Mm0tTXVWOHh0SVhPUi1Pcks2OEQ1ckJQZzdMSFMzMGdMMFotdklaSFJONGFkOGl3MzVKQWRkcG5fRXFRN2ZOQUxPdVQyV05CR2JvVWRn?oc=5",
+   "pubDate": "2026-10-17T11:00:00.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": null,
+   "source": "徳島新聞デジタル",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "徳島新聞デジタル",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14Mm0tTXVWOHh0SVhPUi1Pcks2OEQ1ckJQZzdMSFMzMGdMMFotdklaSFJONGFkOGl3MzVKQWRkcG5fRXFRN2ZOQUxPdVQyV05CR2JvVWRn?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "アニメ「ゲルぴよ」一挙放送",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tUmFqTzFqTHVTN2FIN3Z6b0VRRkllTjNqYm8xcVBRWTRocFo4NHduTGRHTXhHZ2EtYUIxLXA2UkZaazZTY3BLTWtaTQ?oc=5",
+   "pubDate": "2026-10-17T10:36:35.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": null,
+   "source": "TVer",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "works": [
+    "ゲルぴよ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TVer",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tUmFqTzFqTHVTN2FIN3Z6b0VRRkllTjNqYm8xcVBRWTRocFo4NHduTGRHTXhHZ2EtYUIxLXA2UkZaazZTY3BLTWtaTQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「ヒロアカ」が梅田スカイビルにやってくる！ かっちゃんたちがお出迎え♪ 描き下ろしビジュグッズ＆コラボドリンク展開",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/17/103918.html",
+   "pubDate": "2026-10-17T10:30:03.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "僕のヒーローアカデミア"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/17/103918.html"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85Y3NLeEM3Wlo3Ymd3dUd6Y1JtaHNBRlZULUN3Y3UtdV92d2FCZUtWNC1ELXB4YV96RVd1d2Z3bnI4bE1hTndFa0FJNXlCZ29lQnI1blB0MG4xcDJfODloV19fZDFiRnFBR2JBWUN4SDlsUndhY3E1d2Uwb1R1dUU?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「我々は宇宙人」シッチェス国際映画祭で最優秀長編アニメーション映画賞を受賞（コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Z3FkUTNUREhFTDhtZ2RHRmhnSWNmbEI2Wll6dWg4ZHFCSTdPUWNRa1l0UmUxcGVCZHh0S3VfdXUtNFlubTJOa2NGM0I?oc=5",
+   "pubDate": "2026-10-17T10:30:00.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "我々は宇宙人"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Z3FkUTNUREhFTDhtZ2RHRmhnSWNmbEI2Wll6dWg4ZHFCSTdPUWNRa1l0UmUxcGVCZHh0S3VfdXUtNFlubTJOa2NGM0I?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "「我々は宇宙人」シッチェス映画祭で最優秀長編アニメ賞、門脇康平は日本人監督として史上最年少（映画ナタリー）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00YXNkNXRLR1NIU3JvdU43YWI2QzBhZEZ1dzkzakdYVzdSR2tRZzJneUU2b2p4R1RPYmplQUNOc3dkNEo5NnJfM21tbF91QS1WYjg0M3FLVHpNdWZVd2w2ZmN4ejVsTnNVVE9yT1lRY1c3dkNicUxCWDZfZS1Ma2M?oc=5",
+   "pubDate": "2026-10-17T10:26:10.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": null,
+   "source": "映画ナタリー（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00YXNkNXRLR1NIU3JvdU43YWI2QzBhZEZ1dzkzakdYVzdSR2tRZzJneUU2b2p4R1RPYmplQUNOc3dkNEo5NnJfM21tbF91QS1WYjg0M3FLVHpNdWZVd2w2ZmN4ejVsTnNVVE9yT1lRY1c3dkNicUxCWDZfZS1Ma2M?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "しまむら・アベイルで「頭文字D」グッズが10月25日発売！アパレルやカーグッズ、雑貨まで豊富なデザイン",
    "summary": "",
@@ -8580,6 +8832,38 @@
      "name": "リスアニ！",
      "sourceId": "lisani",
      "link": "https://www.lisani.jp/0000320227/"
+    }
+   ]
+  },
+  {
+   "title": "乃木坂46・中西アルノ、アニメ声優初挑戦に大興奮！一ノ瀬美空がツボる #乃木坂46 #中西アルノ 映画『GROTESQQQUE-グロテスク-』完成披露上映会舞台あいさつ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sWGRDZ1JtR3hhQ296aEp5TXFCUWNfRElFM0xvbklMTTFGSEY4VXhwdzVnUGxDWllVa0JXalZDZEZ0YmM3dkNQbHlUWUwtWUZ0ekRVTjg0NnBiY00?oc=5",
+   "pubDate": "2026-10-17T10:00:25.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": null,
+   "source": "シネマトゥデイ",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "cast",
+    "movie",
+    "event",
+    "stage"
+   ],
+   "works": [
+    "GROTESQQQUE-グロテスク-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "シネマトゥデイ",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sWGRDZ1JtR3hhQ296aEp5TXFCUWNfRElFM0xvbklMTTFGSEY4VXhwdzVnUGxDWllVa0JXalZDZEZ0YmM3dkNQbHlUWUwtWUZ0ekRVTjg0NnBiY00?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -8856,6 +9140,12 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5URUFZTnZsazU2ZGJ5UGZsZ2Rzb0ZLTk1zOEpEUEg1QXhsQmUxX25rLVdLbU9RVG9Od2RuLVdFWTFVSE1JV2FoZ3pZLWluZw?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IdVlNRXN0bHRlRzQzdDg3c0g1OHp6clNoS0FiUmFGVzNIbWdxMDNkb0oxZ2F0UnVLd2FFMXpqd1M0ak9mdTF0RXRzY2YxdzBpd20tNS1mNGpsRDRsTVR6T3IzTW9SaGhXRW9uNg?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -9299,6 +9589,36 @@
    ]
   },
   {
+   "title": "新作映画「アイカツスターズ！～星々のProgress～」来年1月公開、主題歌聴ける本予告（コメントあり / 動画あり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80QnpLMDFETkZsYTBONUV1eGJaZDU3cUNRRE5EenNuV0pNeWY1d2E0dnZuZ2hHR1lZRmpNcDBqTm9DYXQ5Tkt0NExJTnQ?oc=5",
+   "pubDate": "2026-10-17T08:38:00.000Z",
+   "firstSeen": "2026-10-17T11:17:57.139Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "visual",
+    "movie",
+    "music"
+   ],
+   "works": [
+    "アイカツスターズ!~星々のProgress~"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80QnpLMDFETkZsYTBONUV1eGJaZDU3cUNRRE5EenNuV0pNeWY1d2E0dnZuZ2hHR1lZRmpNcDBqTm9DYXQ5Tkt0NExJTnQ?oc=5"
+    }
+   ]
+  },
+  {
    "title": "亡くなった声優・俳優の声は原則AIで再現禁止！ 日本俳優連合が新ガイドラインを発表",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xMGZMY2ZEbU1LcWZxRkMzUUFORlpLSE1VWThMTmQ4d2dqZEhrVFB4b2o0WWlldXJOZ09XNDVRc3JPMHJmUWJEcmZsaFR1T0dK?oc=5",
@@ -9738,7 +10058,7 @@
    "syndicated": false,
    "kind": "press",
    "lang": "ja",
-   "score": 8,
+   "score": 12,
    "categories": [
     "visual",
     "movie"
@@ -12000,6 +12320,12 @@
      "name": "毎日新聞",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1leWx0YnhrMGhlckRSbU1kTXoyODM2VTlHV09nVkp1amw3NFFzOEVKRk1aOGdoaVNmSnd1VzZSTVZHdWpDczNTWnB6QjBrcUxOX0tWM29yYjZQRlB2ZkVGWDhNcWxxRHVl?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "佐賀新聞",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83eVo4djBGMDBIVy1LaUJSRWotcXJXQWozNGFaclJWTTcxTXRqWE9vYklwWEMwT0hzQmNoNmx3ZmlvUVdaek9iQmZNWGlzTl8zOWkyWXJn?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
@@ -17306,14 +17632,14 @@
    ]
   },
   {
-   "title": "BanG Dream！ Ave Mujica prima aurora：劇場版アニメ 新PV公開 続編テレビアニメのタイトルも発表",
+   "title": "映画『BanG Dream! Ave Mujica prima aurora』新PV解禁",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZeUNxbFBZQi1WNGtCLXgxVkF0NGxneTRqTlo4dDRQTHZGSHBNZVFMaWoyWDFZbzExeXpocHVuSDRtdzZTMnpFUWVJT3hodWRHVllrREx4LTNOOGJFenlnSm5XQmh6T2xQT3ZB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UFlUTzJmb2hMc2hPUkJDMVo0bzFwalRlRHpsdmRPN2RWbjFReWF2SzdoQl9EZ09JOVBVdnQ0Vnh1WDZSYkV4RTRDel9nLVpsZkNzd1Rn?oc=5",
    "pubDate": "2026-10-16T09:29:00.000Z",
    "firstSeen": "2026-10-16T10:18:00.969Z",
    "image": null,
-   "source": "MANTANWEB",
-   "sourceId": "gnews-movie",
+   "source": "オリコンニュース",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -17323,9 +17649,17 @@
     "visual",
     "movie"
    ],
-   "works": [],
+   "works": [
+    "BanG Dream! Ave Mujica prima aurora"
+   ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "オリコンニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UFlUTzJmb2hMc2hPUkJDMVo0bzFwalRlRHpsdmRPN2RWbjFReWF2SzdoQl9EZ09JOVBVdnQ0Vnh1WDZSYkV4RTRDel9nLVpsZkNzd1Rn?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
     {
      "name": "MANTANWEB",
      "sourceId": "gnews-movie",
@@ -18355,7 +18689,7 @@
    "syndicated": false,
    "kind": "press",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "new",
     "visual",
@@ -20583,7 +20917,7 @@
    ]
   },
   {
-   "title": "小中学校に有名声優の朗読CD配布も 北九州市教委「読書改革」｜KBCニュース",
+   "title": "小中学校に有名声優の朗読CD配布も 北九州市教委「読書改革」",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvbXlvUjhCZlNJcW0wU0p4eF9ERnluSnM5ZG80WkNuZ3ZmSHNNc0thUkV1Nkx4V3pLSklxZS03SmJxajkxajN3MFZRUXhaQl9sV2k3MC1aMFo1bGZkN2d5QXNDU2RUUUZJSUR3T0N3?oc=5",
    "pubDate": "2026-10-16T06:52:00.000Z",
@@ -34474,7 +34808,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 8,
    "categories": [
     "movie"
    ],
@@ -152308,6 +152642,34 @@
    ]
   },
   {
+   "title": "『BanG Dream! Ave Mujica prima aurora』第1週特典は色紙風カード全5種！",
+   "summary": "映画「BanG Dream! Ave Mujica prima aurora」第1週の入場者プレゼントが解禁 第1週の入場者プレゼントに用意されるのは、信澤収 描き下ろし色紙風カード〈全5種〉。描き下ろしならではの表情を楽しめる、劇場へ足を…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/638581",
+   "pubDate": "2026-10-05T01:20:18.000Z",
+   "firstSeen": "2026-10-05T02:17:50.841Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/14827-9787-8ed3e7f1b80e702077365b4737ab6cc2-1920x1080-1.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "BanG Dream! Ave Mujica prima aurora"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/638581"
+    }
+   ]
+  },
+  {
    "title": "人気イラストレーターLAM氏によるオリジナルアニメ企画が発表。原作・脚本・監督・キャラクター原案・総作画監督を兼任",
    "summary": "HIMEHINAさん歌唱のアニメーションMVも公開。今後は不定期でショートアニメを公開していく",
    "link": "https://news.denfaminicogamer.jp/news/261005m",
@@ -194780,382 +195142,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jR2h0VGhid21KSWFJbUgxeFAtOFA3TFpLMzJ1a3RnTWZESzMzS0xONk01a1EzZ043NFBwVi0xc3B0WTVWeDN0TXFQUUI2NjFH?oc=5",
      "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『天は赤い河のほとり』14話“弔いの矢傷”。ザナンザは兄・カイルの理想を胸にユーリと共にエジプトへ。その道中、ナキアの刺客により傷を負った2人は",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlcmI5ZEo4anUtOUFfcUNCcV9qUGcwQTFaRERzYVF2eXdkbHRDZlFxOG53dk1SNmN4Y2x4ZXJUX0Q4cDRVNzFqSjlGbU9yNjRFZ0xkeFV0TzM5QQ?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "天は赤い河のほとり"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlcmI5ZEo4anUtOUFfcUNCcV9qUGcwQTFaRERzYVF2eXdkbHRDZlFxOG53dk1SNmN4Y2x4ZXJUX0Q4cDRVNzFqSjlGbU9yNjRFZ0xkeFV0TzM5QQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「メガネ、時々、ヤンキーくん」キャスト＆ティザーPV公開 ナレ担当はオハナちゃん（動画あり / コメントあり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qek1WMHhydmk0TTdhelBJZEJxcjNGbXVDeFB3bjBpaHdCdS1iTlpfcHpnU05oWGloSW9pU0F5YXFhR3hqbWJGcGllZnc?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "visual",
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qek1WMHhydmk0TTdhelBJZEJxcjNGbXVDeFB3bjBpaHdCdS1iTlpfcHpnU05oWGloSW9pU0F5YXFhR3hqbWJGcGllZnc?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『メガネ、時々、ヤンキーくん』27年4月放送開始＆PV解禁！ メインキャストに清水大登、原涼子",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6N0xKeVdjaVhtbnR1WmprM0VJZ0NUd2VYMjhIM2ZnMTA0dktqeDM0VjNjcFNZRjJGRFhnSG5XR0pDUjgyV1Nmb0RSay12elE?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "クランクイン！",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "broadcast",
-    "visual",
-    "cast"
-   ],
-   "works": [
-    "メガネ、時々、ヤンキーくん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6N0xKeVdjaVhtbnR1WmprM0VJZ0NUd2VYMjhIM2ZnMTA0dktqeDM0VjNjcFNZRjJGRFhnSG5XR0pDUjgyV1Nmb0RSay12elE?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    },
-    {
-     "name": "クランクイン！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUGFOcEZlUElyY2pTN1Yyb2xYSHNNSnpJSG0tOVZpbFdQOUxjWHdXWHZNd2JKbFVuRzBpdVZEUlRIMWJIUGV0RFVnd0lGb2xLVHhrU21XVVY0NEtOVXhNTWFBZHJXc2h3MjdTUTUtcjBQaFNNQ2p3eVZrX1pFQ2M?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MUVlBWnNzZ0dQazV4ZzVfMmh2d21uMUZGOG01V2p3ajhnZE83bXdpMHhfaDZtMWU0T2g5XzFVSmY5eE4tcTVuWWgtdTlxbTV5UW55dEJiODlwS2lMdmg5TjZmZw?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "映画「バイオハザード」日本語吹替版に日笠陽子、Lynn、小野大輔、杉田智和ら13名",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXMWNsYjFvQXlDRFFPOG55enItMFB2Ny01akd1c3dWS09XUXJXN2NsTWxUdUt2andReEZpRjF6M2xkTVY2cDF5WVYwaw?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast",
-    "movie",
-    "game"
-   ],
-   "works": [
-    "バイオハザード"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXMWNsYjFvQXlDRFFPOG55enItMFB2Ny01akd1c3dWS09XUXJXN2NsTWxUdUt2andReEZpRjF6M2xkTVY2cDF5WVYwaw?oc=5"
-    },
-    {
-     "name": "Googleニュース「声優」",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUaEtxVzRfRl83WklVbDJlNVk3a0lZa3FwUDRLLW1nS0ZET1ZwTXRnRUNnN0xrRFppNFFXRTRCbXV1c001YmdnRTJWMVdjQXM?oc=5"
-    },
-    {
-     "name": "cdjournal.com",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qbFdWMnl4T2s4TkpKWWl1TXQ0OFQ3WWd3MjNnWmhURWFWSzg3dGFmSVQzaVVHRkg5NVltVGZuWElkcHNxdk5tTzI0QkJxYkxnY243cEhCNA?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/481dac46b08bc9dbc78afc3c484882c7e7af141f?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "クランクイン！（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMDF6MHk5Vm0tMHBMZGp6cnJNOVNVb3dzOVhRMWJGVVNXb3lGWmZIbXAzS2pGZ2ZsMExwSGlYS3dtdHBJRmwzSnBOUzRxRmZmM2drVEljanhQWEIwY1NDR2xyX3lwMHZqa3o1QmJIWlhxZ0J4cXdjelY0cnY2b0U?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "CDJournal（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9odER4ODRLTHdfOXdOeTk1Vi1mUGlrUXZocXYwWmJYOVZYSVZyWlVaSUNRcm9OTVZDTm5tRmNmRWVON2VwcUFSV19tNno3MVMtOXpJakx4WUp6SW1zT0RsSHUyOGZaTTVTOGxBMmV1SURYdUt1SDR4X2NuSU04UDg?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QYWRnLWQzZzNZYjNsRnZzV0hWd1VSVDJqQUJrV0JCTjN6WmZRMGFtNUtISHVDbnVoX2dFZGlSTDlYQjhKV01yQlVjd0htUmM0XzczZkpwdnJreXhQT0k3NC01RFFUT0dyZmg4MjFPUTNUS2Z5UktDTS1hRWJrYkE?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ショートアニメ『ぷちきゅあ～Precure Fairies～』シーズン4が本日配信スタート（クランクイン！）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rRnlWS1ZQM09FdGNXQlRQZVJaNXhoc3JLaEJXckFkYVVFc05ZQ0xydDZ5eUFHT2NmZldza282ay1uNm9MU2hwbGRMMEszclBfYk81azFlQTMycTFETWx5RnB4NFR0Ukt4NEdLOGdFWlJFUDhsZ0l4VVNJaEd5RzA?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T04:17:35.090Z",
-   "image": null,
-   "source": "クランクイン！（Yahoo!ニュース）",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "ぷちきゅあ~Precure Fairies~"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rRnlWS1ZQM09FdGNXQlRQZVJaNXhoc3JLaEJXckFkYVVFc05ZQ0xydDZ5eUFHT2NmZldza282ay1uNm9MU2hwbGRMMEszclBfYk81azFlQTMycTFETWx5RnB4NFR0Ukt4NEdLOGdFWlJFUDhsZ0l4VVNJaEd5RzA?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "プリキュア：ショートアニメ「ぷちきゅあ」シーズン4 10月1日に配信開始 図書館の本の中に！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMcXlJeGEteXJCUldWbnhEcW9lUnltV3U2R3ZfTXZiTF8xem1vTnhhWGdQYWtwOXJEY0NHbXU0RmE0blQxaGRhdzJaZFo3TVkyT1NkbEJKc1lheGs3QTZ5YUc3VjRWbnZHNW84?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T04:17:35.090Z",
-   "image": null,
-   "source": "MANTANWEB",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [
-    "ぷちきゅあ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MANTANWEB",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMcXlJeGEteXJCUldWbnhEcW9lUnltV3U2R3ZfTXZiTF8xem1vTnhhWGdQYWtwOXJEY0NHbXU0RmE0blQxaGRhdzJaZFo3TVkyT1NkbEJKc1lheGs3QTZ5YUc3VjRWbnZHNW84?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNS2YyR2N4dXhCMHB5NXlCdnBObklwYlpsRGk4M185amdBWEVzVzJaYzhJS2M4dHBFUkQtWnc1UnR6ODJLUUFnZlEwMFlUWWdTRWctOERPX0EtbVUwVDk0ZmNlLTd5NjlDeXdxa2RGa0tCVnVGd3lNTEw4SVNKUGs?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『メガネ、時々、ヤンキーくん』2027年4月放送開始。メイン声優に清水大登、原涼子が決定＆二人の声を収めたティザーPV公開！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10MTlLcWIzTzVIb01lVXpUMzBzY3hsVzZOeGh1eDVXUWxhYmJuSk00ek1qbFA0NDZZVWZBUVhJQmdEbm9CbllPQ0dxaDdzWGdrMDFzTUxnRDVrQQ?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T04:17:35.090Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "broadcast",
-    "visual",
-    "cast"
-   ],
-   "works": [
-    "メガネ、時々、ヤンキーくん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10MTlLcWIzTzVIb01lVXpUMzBzY3hsVzZOeGh1eDVXUWxhYmJuSk00ek1qbFA0NDZZVWZBUVhJQmdEbm9CbllPQ0dxaDdzWGdrMDFzTUxnRDVrQQ?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "レジェンド声優・古川登志夫が自ら選ぶ“印象深い持ち役 TOP3” 声優人生50年に寄り添う“後悔と感謝”【映画『時給三〇〇円の死神』公開記念インタビュー】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ib0JhSGlUY0hNYzRIOHFsR0hhNkEyd3BJOWhQVHdSUDNoeGp0ai1SZkFsYUNZQ0VaM3Z6a2xtYmNEWXlnd1NwY0N1YmZUZ3Q4OVR4RHZ3OUdBODRMNHlR?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T05:18:33.526Z",
-   "image": null,
-   "source": "entax（エンタックス）",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "時給三〇〇円の死神"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "entax（エンタックス）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ib0JhSGlUY0hNYzRIOHFsR0hhNkEyd3BJOWhQVHdSUDNoeGp0ai1SZkFsYUNZQ0VaM3Z6a2xtYmNEWXlnd1NwY0N1YmZUZ3Q4OVR4RHZ3OUdBODRMNHlR?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "映画「バイオハザード」日笠陽子さんや杉田智和さんなど吹替版声優第2弾の13名が公開！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dVM4QktYN2VYVmM2dW4yYWRpYVlZanZYUDZqalg4WDhqRW43ekVQZkNXU0hpQ1BnWDRmek9VVmZLTkNRUHpCZGVzaFRzTmFkdjA1Uw?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T05:18:33.526Z",
-   "image": null,
-   "source": "Gamer",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "バイオハザード"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gamer",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dVM4QktYN2VYVmM2dW4yYWRpYVlZanZYUDZqalg4WDhqRW43ekVQZkNXU0hpQ1BnWDRmek9VVmZLTkNRUHpCZGVzaFRzTmFkdjA1Uw?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "「ぷちきゅあ」シーズン4配信開始 チョッピ、ラケル、ラテ、パムパムがぷちきゅあに",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYcWtWTWlHMVN4NW8yQmVBMXc1cEQwaDRYaW8zY3JEUVItMHdKd0ZrSnBZdlNBb1dHZGtBcXdBcWR2TGYtWFBRZWk4LXU?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T05:59:29.871Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [
-    "ぷちきゅあ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYcWtWTWlHMVN4NW8yQmVBMXc1cEQwaDRYaW8zY3JEUVItMHdKd0ZrSnBZdlNBb1dHZGtBcXdBcWR2TGYtWFBRZWk4LXU?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "「さむわんへるつ」くらげとミメイがメンズノンノの表紙に 付録は付け替えカバーなど",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZVC1fZ19OOGg0OWZpM1NHM3RqM0EtTG5DRnhjTjJxSGNtZ0ZuUnRLQmdxUFZRTEd2c285bFVWRmZ4RkpZUE5SZHYzc3M?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T08:18:31.066Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "さむわんへるつ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZVC1fZ19OOGg0OWZpM1NHM3RqM0EtTG5DRnhjTjJxSGNtZ0ZuUnRLQmdxUFZRTEd2c285bFVWRmZ4RkpZUE5SZHYzc3M?oc=5"
     }
    ]
   }
