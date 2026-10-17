@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-17T11:18:25.774Z",
+ "generatedAt": "2026-10-17T12:18:31.756Z",
  "count": 6000,
  "dedupe": {
-  "exact": 4676,
+  "exact": 4681,
   "syndicated": 469,
-  "similar": 520,
-  "syndicatedTotal": 5201,
-  "syndicatedLeft": 1181
+  "similar": 521,
+  "syndicatedTotal": 5205,
+  "syndicatedLeft": 1180
  },
  "calendar": [
   {
@@ -130,22 +130,6 @@
    "title": "『旬感LIVE とれたてっ!』10月クールから“新展開”…アニメ放送開始 シュールで愛らしい物語",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LSU41WmlRZFYwRW5FdWFfZ0NZWXdyNWtBeWR1Y2c5Z0h3UmxsSFZDdXJPc0tMMm82YTU3UVhRUHpUUkRaR3ZaQzJlYXU4THpHMUdhblVsRXlTbGlFN00weFRfWHA?oc=5",
    "source": "オリコンニュース",
-   "sources": 2,
-   "categories": [
-    "broadcast"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10",
-   "precision": "month",
-   "verb": "event",
-   "label": "開催",
-   "work": null,
-   "title": "10月開幕！圧倒的スペル体験を。dアニメストアで魔法・魔術アニメのコミックが50%OFF！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000791.000005738.html",
-   "source": "PR TIMES",
    "sources": 2,
    "categories": [
     "broadcast"
@@ -3665,6 +3649,22 @@
   {
    "date": "2026-10-17",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "Dr.STONE",
+   "title": "TVアニメ「Dr.STONE」展 科学王国ミュージアム、12月10日開幕！千空の描き下ろしKV初公開、チケットは本日発売",
+   "link": "https://nijimen.kusuguru.co.jp/topics/640699",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-17",
+   "precision": "day",
    "verb": "stream",
    "label": "配信",
    "work": "とある暗部の少女共棲",
@@ -6218,6 +6218,22 @@
    "spoiler": false
   },
   {
+   "date": "2026-12-10",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "Dr.STONE",
+   "title": "TVアニメ「Dr.STONE」展 科学王国ミュージアム、12月10日開幕！千空の描き下ろしKV初公開、チケットは本日発売",
+   "link": "https://nijimen.kusuguru.co.jp/topics/640699",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2026-12-11",
    "precision": "day",
    "verb": "movie",
@@ -8306,8 +8322,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 173,
-   "accepted": 172
+   "archived": 174,
+   "accepted": 173
   },
   {
    "id": "seigura",
@@ -8339,8 +8355,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 315,
-   "accepted": 150
+   "archived": 316,
+   "accepted": 151
   },
   {
    "id": "gnews-anime",
@@ -8350,8 +8366,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 3936,
-   "accepted": 3824
+   "archived": 3943,
+   "accepted": 3830
   },
   {
    "id": "gnews-tvanime",
@@ -8361,8 +8377,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1329,
-   "accepted": 1292
+   "archived": 1330,
+   "accepted": 1293
   },
   {
    "id": "gnews-movie",
@@ -8383,8 +8399,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2311,
-   "accepted": 2075
+   "archived": 2314,
+   "accepted": 2078
   },
   {
    "id": "natalie-eiga",
@@ -8394,8 +8410,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 651,
-   "accepted": 76
+   "archived": 654,
+   "accepted": 77
   },
   {
    "id": "inside-games",
@@ -8427,8 +8443,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1000,
-   "accepted": 239
+   "archived": 1001,
+   "accepted": 240
   },
   {
    "id": "gamespark",
@@ -8460,8 +8476,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 22168,
-   "accepted": 2391
+   "archived": 22218,
+   "accepted": 2392
   },
   {
    "id": "prtimes",
@@ -8471,7 +8487,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 21723,
+   "archived": 21726,
    "accepted": 391
   },
   {
@@ -8509,6 +8525,211 @@
   }
  ],
  "items": [
+  {
+   "title": "お祓い用の\"盛り塩\"が逆効果に…？ 作者が岡山県で実際に体験した話が怖すぎると話題に【ジャパニーズホラー漫画3選】(WEBザテレビジョン)",
+   "summary": "コミックの映像化や、ドラマのコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョンマンガ部」。【漫画】『私と旦那に起きた不思議な話。』を読む今回",
+   "link": "https://news.yahoo.co.jp/articles/486b3fc336205d0da73e6ade49c52deaac02b85a?source=rss",
+   "pubDate": "2026-10-17T12:05:00.000Z",
+   "firstSeen": "2026-10-17T12:17:55.780Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/486b3fc336205d0da73e6ade49c52deaac02b85a?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "花冷え。、TVアニメ「転生したら剣でしたII」EDテーマ「バリバリBuddy」Music Video 公開！",
+   "summary": "花冷え。の新曲「バリバリBuddy」のMusic Videoが公開となった。 「バリバリBuddy」はTVアニメ...",
+   "link": "https://www.lisani.jp/0000320238/",
+   "pubDate": "2026-10-17T12:00:50.000Z",
+   "firstSeen": "2026-10-17T12:17:55.780Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610161800-yh-018.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "music"
+   ],
+   "works": [
+    "転生したら剣でしたII",
+    "バリバリBuddy"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000320238/"
+    }
+   ]
+  },
+  {
+   "title": "アニメ「花咲くいろは」の聖地 金沢・湯涌温泉でぼんぼり祭り 震災からの復旧復興を願う",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wNVhsNndfSDBBVHByX3BQazN0dG45czJyRmFHa0QwYjc5Z0ZDVFB2bVpqdEFKVzN6djlqRHQ5OW1RX3dZODBOblBsUjhncVBYaXBaRnNJUHZDY04zR1RUZWdMeVgzSHM?oc=5",
+   "pubDate": "2026-10-17T12:00:00.000Z",
+   "firstSeen": "2026-10-17T12:17:55.780Z",
+   "image": null,
+   "source": "TBS NEWS DIG",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "花咲くいろは"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TBS NEWS DIG",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wNVhsNndfSDBBVHByX3BQazN0dG45czJyRmFHa0QwYjc5Z0ZDVFB2bVpqdEFKVzN6djlqRHQ5OW1RX3dZODBOblBsUjhncVBYaXBaRnNJUHZDY04zR1RUZWdMeVgzSHM?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "ｄメニューニュース",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfRVkyQmQzNmlJeFRTalJQMTFuTWZXVUxlTWo3UU5NVmlXWlI4RDdnZHVQcVhoWXd2cW16VG1adHBMS0NrdG5yMTNkT0F3eEtXMWRUWG5PVFRQVVVDazlpRFE0ck9WWFZoNTFnQ2pNc9IBdEFVX3lxTE1oODdnMzZiQlExQWpzYklXRFpUZ1ZDa3FRbnRXT1MzN3p6Z2lTY293ZXN0X1Exd3ZhTW5IZGhIdm1yMjVuX0lkMXkzNDNLM2NnaG9Zdkw2dnktZDFYaC1vMTI4MUppMHpDamJWczFTOENydzY5?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「オーディション会場や現場の収録で…」『ウマ娘』“ゴールドシップ”上田瞳、声優として“育成”したいステータスとは",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GcHBTY3Z1TVFOVENnaGFJdUdKUDYwTlpmdW9HaHEwcG90eTlHd2lkaEpoeW00WlRtS0Nkd1hib1phd3FzTGFGaERMRG1SMWVTYmdkT1dTa01jc2dY?oc=5",
+   "pubDate": "2026-10-17T12:00:00.000Z",
+   "firstSeen": "2026-10-17T12:17:55.780Z",
+   "image": null,
+   "source": "マイナビニュース",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "ウマ娘"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "マイナビニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GcHBTY3Z1TVFOVENnaGFJdUdKUDYwTlpmdW9HaHEwcG90eTlHd2lkaEpoeW00WlRtS0Nkd1hib1phd3FzTGFGaERMRG1SMWVTYmdkT1dTa01jc2dY?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "ｄメニューニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43NGFnR21fUWdfMzhzN3NDbEtqQWpJOEtnYTFodDlHUGJ4VFJDQTJsUXJqWi1QdlVpc3dyckNfTzlaR2xtd3RwVDBpejJnaklGSmFCWjNLWFoxd3huUUMwQUhGS3hVbHF3bTYxZWhueWNLdXpmazJKMldVeTY1Z9IBgwFBVV95cUxOOHkwTlBHZF9CN0lnaVJVOW4yYllRMGxUNTVxb05vLVBDalRQTEVCclN6TkdkemZqYmVtWVZYMm03M1NMMnA0R18wcm9uaTdoLXFQYTlkT0c3UzFmT3VBNzVmZ001S1BsVm1RQ2gxOFI1c1NwYTNRdHhoVkFEX29mRXJhcw?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "貞本義行氏によるマンガ『新世紀エヴァンゲリオン』愛蔵版がKindleにて1冊660円で購入できるセール中。全7巻まとめて「9240円→4620円」に",
+   "summary": "TVアニメ版でキャラデザを手がけた同氏によるコミカライズ作品。アニメのストーリーをベースに、独自の切り口で描かれる“貞本エヴァ”",
+   "link": "https://news.denfaminicogamer.jp/news/261017i",
+   "pubDate": "2026-10-17T11:33:25.000Z",
+   "firstSeen": "2026-10-17T12:17:55.780Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/817e9ZsAckL._SL1500_-722x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "works": [
+    "新世紀エヴァンゲリオン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261017i"
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ「Dr.STONE」展 科学王国ミュージアム、12月10日開幕！千空の描き下ろしKV初公開、チケットは本日発売",
+   "summary": "最終話の「科学王国の博物館」が会場に 「Dr.STONE」展 科学王国ミュージアムは、TVアニメ「Dr.STONE SCIENCE FUTURE」最終話（第37話）のラストで描かれた「科学王国の博物館」をイメージした体験型の展覧会です。千空…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/640699",
+   "pubDate": "2026-10-17T11:32:33.000Z",
+   "firstSeen": "2026-10-17T12:17:55.780Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/7c2ef9777b5e4a189b33beee75c76dcf.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "event"
+   ],
+   "works": [
+    "Dr.STONE"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/640699"
+    }
+   ]
+  },
+  {
+   "title": "アニメ「プラノサウルス ガチコセイブツ部」連動キット「イグアノドン」を現代的な復元へとディテールアップ！【プラノサウルス復元プロジェクト】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43czA0RW10U3cya1FzRWFJR0FWbllkTHVIVlBQU2lMalhCSXNfY1hmZGI3aHZ1WFlORjZCV283ZWJZTl9XV2FUWQ?oc=5",
+   "pubDate": "2026-10-17T11:26:15.000Z",
+   "firstSeen": "2026-10-17T12:17:55.780Z",
+   "image": null,
+   "source": "Hobby JAPAN Web",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "プラノサウルス ガチコセイブツ部"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Hobby JAPAN Web",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43czA0RW10U3cya1FzRWFJR0FWbllkTHVIVlBQU2lMalhCSXNfY1hmZGI3aHZ1WFlORjZCV283ZWJZTl9XV2FUWQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
   {
    "title": "＜魔法騎士レイアース＞創師プレセアと出会った光たちは武器の材料集めへと向かう 第3話あらすじ＆先行カット公開(WEBザテレビジョン)",
    "summary": "アニメ「魔法騎士レイアース」(毎週水曜よる11:45-深夜0:15、テレビ朝日系全国ネット“IMAnimation W”枠ほか／AnimeFesta・アニメ放題・ABEMA・FOD・dアニメストア・H",
@@ -8563,6 +8784,33 @@
      "name": "リスアニ！",
      "sourceId": "lisani",
      "link": "https://www.lisani.jp/0000320233/"
+    }
+   ]
+  },
+  {
+   "title": "【公式アニメ】『テニスの王子様』第49話～第53話イッキ見！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBdlVEQzV5aUo5UVRWRXNrQUFUcThyaURjVVhzZFVHanlOVnJDRFY3WThhbWJRR09GTmlzbk90SFlaLU9XWWxiR3RscHdOX0dsRk5pQW5pdWdlWllf?oc=5",
+   "pubDate": "2026-10-17T11:00:11.000Z",
+   "firstSeen": "2026-10-17T12:17:55.780Z",
+   "image": null,
+   "source": "YouTube",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "works": [
+    "テニスの王子様"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "YouTube",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBdlVEQzV5aUo5UVRWRXNrQUFUcThyaURjVVhzZFVHanlOVnJDRFY3WThhbWJRR09GTmlzbk90SFlaLU9XWWxiR3RscHdOX0dsRk5pQW5pdWdlWllf?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -8717,16 +8965,16 @@
    ]
   },
   {
-   "title": "「我々は宇宙人」シッチェス映画祭で最優秀長編アニメ賞、門脇康平は日本人監督として史上最年少（映画ナタリー）",
+   "title": "「我々は宇宙人」シッチェス映画祭で最優秀長編アニメ賞、門脇康平は日本人監督として史上最年少",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00YXNkNXRLR1NIU3JvdU43YWI2QzBhZEZ1dzkzakdYVzdSR2tRZzJneUU2b2p4R1RPYmplQUNOc3dkNEo5NnJfM21tbF91QS1WYjg0M3FLVHpNdWZVd2w2ZmN4ejVsTnNVVE9yT1lRY1c3dkNicUxCWDZfZS1Ma2M?oc=5",
-   "pubDate": "2026-10-17T10:26:10.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hMWhvWFY5ZE9hY2RRckdKN0hLVXBRc00tRW1UUmxrMXpieTZLWldxZzRXUlRDZDBuY0JqRDU2RVdfSG1QS3R0TlV4bw?oc=5",
+   "pubDate": "2026-10-17T10:25:00.000Z",
    "firstSeen": "2026-10-17T11:17:57.139Z",
    "image": null,
-   "source": "映画ナタリー（Yahoo!ニュース）",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
    "lang": "ja",
    "score": 8,
    "categories": [
@@ -8736,6 +8984,11 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hMWhvWFY5ZE9hY2RRckdKN0hLVXBRc00tRW1UUmxrMXpieTZLWldxZzRXUlRDZDBuY0JqRDU2RVdfSG1QS3R0TlV4bw?oc=5"
+    },
     {
      "name": "映画ナタリー（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
@@ -8931,9 +9184,9 @@
     },
     {
      "name": "映画.com（Yahoo!ニュース）",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fVTBCRWthVFhnWG9YUklLSDZwWVZTQ2MzdWFWZV9PQXpPVHdvV0tnbHVBemJReks5N3NiU1dmaHRKbVpRN0wtSFp3Z1dIaWNPN09URTJXbms3dG5QSDVaVlhBSHJWSFRqV0tPdkM3NU9pbUthZHlOUVYtMU1oV0k?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -11700,6 +11953,12 @@
      "name": "Googleニュース「声優」",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10aUpxbUlVcEpXQlphZDBacEE4NG02MkxUb1M3QWYwbVowZjY2bDl4dXpUN1FEbi02YXE4MHJkUHR5TDZnVUxGcw?oc=5"
+    },
+    {
+     "name": "千葉テレビ放送株式会社",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByRENtX3ViNHB3UDdmaUJVZklCOTVjeHBpRnoyYVRjSEMxcjdVbmZXbGNSQm53ZzNPUTZBYUpvazI5YWdGOTNQalBDTmJFN1JZMldKRUt2V0xGZXZaVkEw?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -12914,6 +13173,12 @@
      "name": "MANTANWEB",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XZnNiWHRCV0p1TjZaYnRFb3ZwZF8xakQxc1pWZE9ZY2dSTHhXMkcxY2hjOVY3SU9sbEpxTVcwa05aekRCbGZQa1ZkMV9wV19HeW0yQVVTVHU0ZXVoalYzR3NnbTdIbEZvWUFGOWZxTXM1UlNPSmc?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "AERA DIGITAL",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OLXZMYlhJbm9DRzViQUFrai05cEt5MkdwZ3JhZzB5X2wzS3dwcWpLbGdHTFNYMDc5ZUJadV9NdG8xa2RRS1JCdm1LNzRZbFdu?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
@@ -34662,6 +34927,35 @@
    ]
   },
   {
+   "title": "NEWS｜『劇場版「暗殺教室」みんなの時間』2026年3月20日（金）全国公開 - ansatsu-anime.com",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zVTJKRVFwcnVJZkVUUnVEUnlJX3BQWDhDZl85NDhoUHZmOGh5Y19WeGNhNXN1aWpVTG14bGk1Qm9iVVJqSGxaME9hcUNnb1owZGFYUnlRanpCUFVNeERHNXBfaHc3WHM?oc=5",
+   "pubDate": "2026-10-15T07:00:00.000Z",
+   "firstSeen": "2026-10-17T12:17:55.780Z",
+   "image": null,
+   "source": "Googleニュース「アニメ」",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "「暗殺教室」みんなの時間",
+    "暗殺教室"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Googleニュース「アニメ」",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zVTJKRVFwcnVJZkVUUnVEUnlJX3BQWDhDZl85NDhoUHZmOGh5Y19WeGNhNXN1aWpVTG14bGk1Qm9iVVJqSGxaME9hcUNnb1owZGFYUnlRanpCUFVNeERHNXBfaHc3WHM?oc=5"
+    }
+   ]
+  },
+  {
    "title": "「セブンナイツ Re:BIRTH」×アニメ「鬼滅の刃」コラボ第2弾として冨岡義勇、胡蝶しのぶが登場！",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hS1FSY1NlVzE2c3J6UUJkek1objBEcWE0S0VGRVJocFV6ZDlFbThhU2hNRVJUcmotT1JTNUJUOUtjb0hDcVFyQWQ1dE44YTl1eTZJYw?oc=5",
@@ -42382,7 +42676,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 20,
+   "score": 24,
    "categories": [
     "music",
     "stage"
@@ -194868,279 +195162,6 @@
      "name": "KADOKAWAグループ ポータルサイト",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVdtc0RrZ1FPUHpsZVFHcjFqeWc1Q3FoOVVUa2ZWTWZWeGllaGh3OWdYTDdIY040cXpSQTBnaFZuVG1nVFczZWVWb0RjcGx6cHBmM1doREE4cTBzT0cxaUVSeWU3a2RkQ1RIUEgyWnBEbFhQQ2xfSHExTUl5cFhzaWN5TEw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "秋アニメの注目作を揃えました！dアニメストアでアニメ化コミック・ノベルのセットが50％OFF！",
-   "summary": "国内最大級（※1）の7,400作品以上のアニメが見放題（※2）の『dアニメストア』（ ）では、秋アニメの注目作品を含む人気のコミック・ノベルが、セットで50％OFFにて購入できる、...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000790.000005738.html",
-   "pubDate": "2026-10-01T03:00:02.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 21,
-   "categories": [
-    "new",
-    "broadcast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000790.000005738.html"
-    },
-    {
-     "name": "毎日新聞",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jbjAwSWcxWUJ1ZnVyZUI2N0M2LWdCcElPcjJ5TnhTYVJBeWlVZk8wQVZTOHg2aG1xQ1VuWVJkTHI5b0s3NEdBNDF4T19ZWnJUTnV6ZmZzVFN4S095WWd0YXNOZ1ZxMjFT?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "10月開幕！圧倒的スペル体験を。dアニメストアで魔法・魔術アニメのコミックが50%OFF！",
-   "summary": "国内最大級（※1）の7,400作品以上のアニメが見放題（※2）の『dアニメストア』 （ ）では、「解き放たれる魔力と絆！魔法・魔術アニメ特集」を実施しています。魔法・魔術が題材...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000791.000005738.html",
-   "pubDate": "2026-10-01T03:00:02.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 13,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000791.000005738.html"
-    },
-    {
-     "name": "毎日新聞",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNDNhUkNzb2FXYjZrZDJMM3hBWC1MS3F4R2oyQmhaZ0EweEpiMFRZR2lnTTFIQnFwNHY2dm5jNzRMTnUzc0xhVy1xa21GLTRZb01OQVk2eHJJaV9tcFdyWWJKdXVrUWxm?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『キャンディーカリエス』コラボカフェ「SWEET HALLOWEEN CAFE at 洒落CAFE」描き下ろしグッズ & コラボメニューが公開！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSRWpISmtGa2VOVE1Nc3hLb2tPZy1YWnhlVkV0YUM5SV9TS1otZzVPYmRHcElZR1I1QldtUElkWkhvM2lwQjNueHMwaW1LbnpBc18zQi0xNVgycV94RXJWSGQzV0EzMnZlNkE?oc=5",
-   "pubDate": "2026-10-01T03:00:02.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "event",
-    "goods"
-   ],
-   "works": [
-    "キャンディーカリエス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSRWpISmtGa2VOVE1Nc3hLb2tPZy1YWnhlVkV0YUM5SV9TS1otZzVPYmRHcElZR1I1QldtUElkWkhvM2lwQjNueHMwaW1LbnpBc18zQi0xNVgycV94RXJWSGQzV0EzMnZlNkE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "【角川ビーンズ文庫25thフェア 心ときめく図書館へ！】開催！ 声優・土岐隼一がナレーションを務めるショート動画も公開！",
-   "summary": "株式会社KADOKAWA（本社：東京都千代田区、取締役 代表執行役社長 CEO：夏野剛）の角川ビーンズ文庫は、2026年10月に創刊25周年を迎えます。 声優・土岐隼一さんナレーションによるショート動画の公開や、抽選で...",
-   "link": "https://prtimes.jp/main/html/rd/p/000020047.000007006.html",
-   "pubDate": "2026-10-01T03:00:02.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000020047.000007006.html"
-    },
-    {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByYzh3cjhrVlNyckx0QTh2TDhzZDV3NHNwQ0FwNUhvQzJuM3FRSk9PcEtKQjdsT05kMkpkREpHZ2MtS0p1VXk3WlhSSnJqUGJhaXhpSGk5VzNwYWQ5WjU2X0ViQ0lwTHVRVTBv?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "本日18時 第１話配信開始！ショートアニメ「ちょこっとヤバシティ」メインキャスト解禁！",
-   "summary": "YouTubeで活動する日本の6人組ゲーム実況グループ「まじめにヤバシティ」。総再生回数は1億回を突破するなど大人気！そんな彼らのマスコットが大活躍するショートアニメ「ちょこっとヤバシティ」。本日10/1(木)18...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000007.000186018.html",
-   "pubDate": "2026-10-01T03:00:02.000Z",
-   "firstSeen": "2026-10-01T05:18:33.526Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "broadcast",
-    "cast",
-    "game"
-   ],
-   "works": [
-    "ちょこっとヤバシティ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000007.000186018.html"
-    }
-   ]
-  },
-  {
-   "title": "「テレビアニメ『春夏秋冬代行者 春の舞』 POP UP SHOP in AMNIBUS STORE -white-」が開催決定！",
-   "summary": "漫画・アニメのオリジナルグッズを販売する「AMNIBUS STORE -white-」を運営する株式会社アルマビアンカは「テレビアニメ『春夏秋冬代行者 春の舞』 POP UP SHOP in AMNIBUS STORE -white-」を2026年10月16日（金...",
-   "link": "https://prtimes.jp/main/html/rd/p/000009618.000016064.html",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 13,
-   "categories": [
-    "event",
-    "goods"
-   ],
-   "works": [
-    "春夏秋冬代行者 春の舞"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000009618.000016064.html"
-    },
-    {
-     "name": "毎日新聞",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvYTRGR0ZGcHZtdFc4S1ZrZXhXeXhqaHA5N21LdlpZRmk1N2dfU3ZMNks3a3JGelA5SGRuaU9oZFBUVEtLT0VlVHhmOG5OcjNPWGE3aHdwTnlDbFd4cmkxbDVlTWZxc2hk?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「エースをねらえ！」＆「新・エースをねらえ！」連続無料放送 女子高生と鬼コーチの“熱き師弟愛”を描くスポ根アニメ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Fc0V0dEwzNk1ZZDBveDYzdUZkYnB1djJfM29Ld1JRYy1tM29QdXdpQjlmd3U2RWJRcEw2cnI2QWZOSldrQ2NhSExZeTZPdDBlYmVfUFBCeTYtUmhuVWRKMVE1QTlwUXR3emJVMS0yb0QwYjgxZkpEd1VqemhjQdIBgwFBVV95cUxPV09iYWt0TTRMcWlTeXFxSEthVE9sa05uWnV2M2JBUk5NWEZpaWVxWEd5M09zNkxDalZUTXpMbFd3TC1SemcyeWhTVzhrMWJsVzlrbXEwVERiaFQyc2dMRDZlY21sOVgzcDdveHpJNWJNUFUycFhvZWNlREQ5WDhHZV9WVQ?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "ｄメニューニュース",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ｄメニューニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Fc0V0dEwzNk1ZZDBveDYzdUZkYnB1djJfM29Ld1JRYy1tM29QdXdpQjlmd3U2RWJRcEw2cnI2QWZOSldrQ2NhSExZeTZPdDBlYmVfUFBCeTYtUmhuVWRKMVE1QTlwUXR3emJVMS0yb0QwYjgxZkpEd1VqemhjQdIBgwFBVV95cUxPV09iYWt0TTRMcWlTeXFxSEthVE9sa05uWnV2M2JBUk5NWEZpaWVxWEd5M09zNkxDalZUTXpMbFd3TC1SemcyeWhTVzhrMWJsVzlrbXEwVERiaFQyc2dMRDZlY21sOVgzcDdveHpJNWJNUFUycFhvZWNlREQ5WDhHZV9WVQ?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『葬送のフリーレン』の新商品が【mochochoシリーズ】にて発売決定！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000704.000071079.html",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "葬送のフリーレン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000704.000071079.html"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『陰の実力者になりたくて！』ハロウィン風仮装の描き下ろしイラストグッズが当たるオンラインくじが「くじ引き堂」にて再販決定！S賞は選べるBIG布ポスター！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jR2h0VGhid21KSWFJbUgxeFAtOFA3TFpLMzJ1a3RnTWZESzMzS0xONk01a1EzZ043NFBwVi0xc3B0WTVWeDN0TXFQUUI2NjFH?oc=5",
-   "pubDate": "2026-10-01T03:00:00.000Z",
-   "firstSeen": "2026-10-01T03:17:29.439Z",
-   "image": null,
-   "source": "電撃ホビーウェブ",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "陰の実力者になりたくて!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃ホビーウェブ",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jR2h0VGhid21KSWFJbUgxeFAtOFA3TFpLMzJ1a3RnTWZESzMzS0xONk01a1EzZ043NFBwVi0xc3B0WTVWeDN0TXFQUUI2NjFH?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
