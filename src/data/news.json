@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-18T18:18:21.763Z",
+ "generatedAt": "2026-10-18T19:18:32.064Z",
  "count": 6000,
  "dedupe": {
-  "exact": 4844,
-  "syndicated": 488,
-  "similar": 535,
-  "syndicatedTotal": 5394,
-  "syndicatedLeft": 1189
+  "exact": 4846,
+  "syndicated": 489,
+  "similar": 536,
+  "syndicatedTotal": 5395,
+  "syndicatedLeft": 1188
  },
  "calendar": [
   {
@@ -8103,8 +8103,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 4114,
-   "accepted": 3989
+   "archived": 4115,
+   "accepted": 3990
   },
   {
    "id": "gnews-tvanime",
@@ -8114,8 +8114,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1355,
-   "accepted": 1314
+   "archived": 1356,
+   "accepted": 1315
   },
   {
    "id": "gnews-movie",
@@ -8136,8 +8136,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2378,
-   "accepted": 2139
+   "archived": 2380,
+   "accepted": 2141
   },
   {
    "id": "natalie-eiga",
@@ -8213,7 +8213,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 23313,
+   "archived": 23337,
    "accepted": 2484
   },
   {
@@ -9207,16 +9207,16 @@
    ]
   },
   {
-   "title": "「似てると言われたことも…」藤木直人 イケメン人気声優との２ショットに「イケおじツーショット」「似てるって思ってました」(スポーツ報知)",
-   "summary": "俳優の藤木直人が人気声優との２ショットを公開し、反響を呼んでいる。 藤木は１８日までに自身のインスタグラムを更新。「Ｗ宵のパパ共演 今日の『旅サラダ』ゲストは津田健次郎さん！アニメ『うるわしの宵の月』",
-   "link": "https://news.yahoo.co.jp/articles/e2927ecf5259a80bc255901026395eed5f107baa?source=rss",
-   "pubDate": "2026-10-18T12:31:02.000Z",
+   "title": "「似てると言われたことも…」藤木直人 イケメン人気声優との２ショットに「イケおじツーショット」「似てるって思ってました」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WS2hMOHMyRFBVeWp6VTUwdjZuRUdoN0Z4cmNoOUY0NTVoWS1reWU3NHBTc1lWY2dWNm8wbEs1aUh0VV9uVk80ME1UUFFEY21vMFo3NHBQMEV4ckxDUDZPYmxB?oc=5",
+   "pubDate": "2026-10-18T12:31:00.000Z",
    "firstSeen": "2026-10-18T13:18:04.224Z",
    "image": null,
-   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "スポーツ報知",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
    "lang": "ja",
    "score": 10,
    "categories": [
@@ -9225,6 +9225,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "スポーツ報知",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WS2hMOHMyRFBVeWp6VTUwdjZuRUdoN0Z4cmNoOUY0NTVoWS1reWU3NHBTc1lWY2dWNm8wbEs1aUh0VV9uVk80ME1UUFFEY21vMFo3NHBQMEV4ckxDUDZPYmxB?oc=5",
+     "via": "Googleニュース「声優」"
+    },
     {
      "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -9475,6 +9481,12 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yTjZXczQ1S1NOYVc1RFVlU3FvdS1ZY2ZmZmR5ODlibHlTRDZnWS1GSXR1ZThJTzBndFJlN1N4a0pkY1FmY2VRNDQzMkduVmxBY1JMOU5n?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "佐賀新聞",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEa3d5dG1uMWdJWkEwNWcxOEJQYXNsR0loRF94UHdnWnpYd2EyYy0wLVkzbnR2ZnVlVWtVT04ydWRsNy1ZT2FKOWgxVjRxcl9VX1VaV2RR?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "オリコン（Yahoo!ニュース エンタメ）",
