@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-18T11:12:14.520Z",
+ "generatedAt": "2026-10-18T11:18:35.430Z",
  "count": 6000,
  "dedupe": {
-  "exact": 4806,
-  "syndicated": 482,
-  "similar": 535,
-  "syndicatedTotal": 5351,
+  "exact": 4809,
+  "syndicated": 484,
+  "similar": 533,
+  "syndicatedTotal": 5353,
   "syndicatedLeft": 1191
  },
  "calendar": [
@@ -8164,8 +8164,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 4078,
-   "accepted": 3955
+   "archived": 4081,
+   "accepted": 3957
   },
   {
    "id": "gnews-tvanime",
@@ -8175,8 +8175,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1345,
-   "accepted": 1304
+   "archived": 1346,
+   "accepted": 1305
   },
   {
    "id": "gnews-movie",
@@ -8274,7 +8274,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 23137,
+   "archived": 23148,
    "accepted": 2465
   },
   {
@@ -8512,6 +8512,13 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE55VVU1VEhjLW1hWjRwbFJLX3NaTzRMOHphVDVwOWYxem5aZHNOOTJ0cU5ZaV9HSkxUT3hzR1A5Nk5VU0E?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "THE FIRST TIMES（Yahoo!ニュース）",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4U2NyWWJ0dzRJaDhOMmxQeElUQ0phZ3pLS3FSdjhleDNMdU5lZndxdGlkbXZ0cTNjQllwMXhBNkpJYmFYZGt1Z18tQXd1bVFrVW1SZGxRRDF5aW4yQTJXMzBKTUNKWDFFUjRnbE4xb2V5NldsUE9KSmxoSTRyMjA?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
     }
    ]
   },
