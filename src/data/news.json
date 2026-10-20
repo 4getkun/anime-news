@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T17:12:14.360Z",
+ "generatedAt": "2026-10-20T17:19:37.387Z",
  "count": 6000,
  "dedupe": {
   "exact": 5283,
@@ -8061,9 +8061,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 46,
    "accepted": 45
   },
@@ -8072,9 +8072,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 0,
    "accepted": 0
   },
@@ -8218,7 +8218,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 24116,
+   "archived": 24124,
    "accepted": 438
   },
   {
