@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-20T17:19:37.387Z",
+ "generatedAt": "2026-10-20T18:18:36.970Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5283,
+  "exact": 5287,
   "syndicated": 535,
   "similar": 567,
-  "syndicatedTotal": 5926,
-  "syndicatedLeft": 1216
+  "syndicatedTotal": 5930,
+  "syndicatedLeft": 1217
  },
  "calendar": [
   {
@@ -1293,24 +1293,6 @@
   {
    "date": "2026-10-10",
    "precision": "day",
-   "verb": "event",
-   "label": "開催",
-   "work": "進撃の巨人",
-   "title": "『進撃の巨人』ニジゲンノモリで巨人と撮影！「目指せ！調査兵団 ～入団への特別試練～」10月10日開催",
-   "link": "https://nijimen.kusuguru.co.jp/topics/638872",
-   "source": "にじめん",
-   "sources": 2,
-   "categories": [
-    "event",
-    "goods",
-    "ranking"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-10",
-   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -1504,6 +1486,24 @@
    "source": "Nintendo DREAM WEB",
    "sources": 1,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-10",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "進撃の巨人",
+   "title": "『進撃の巨人』ニジゲンノモリで巨人と撮影！「目指せ！調査兵団 ～入団への特別試練～」10月10日開催",
+   "link": "https://nijimen.kusuguru.co.jp/topics/638872",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
+    "event",
+    "goods",
+    "ranking"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -5925,20 +5925,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-12-02",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "LiSA BEST -LOUD-",
-   "title": "LiSA、ベストアルバム『LiSA BEST -LOUD-』12月2日発売決定！",
-   "link": "https://www.lisani.jp/0000319299/",
-   "source": "リスアニ！",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-12-03",
    "precision": "day",
    "verb": "release",
@@ -6581,6 +6567,22 @@
    "sources": 2,
    "categories": [
     "broadcast",
+    "visual"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01",
+   "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "ムルシエラゴ",
+   "title": "TVアニメ『ムルシエラゴ』“元死刑囚”・紅守黒湖役に上田瞳さん、相棒・弔桜ひな子役に鈴木みのりさん、極道娘・柳岡千代役に上坂すみれさんが決定",
+   "link": "https://news.denfaminicogamer.jp/news/2610212w",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
     "visual"
    ],
    "platforms": [],
@@ -8042,8 +8044,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1012,
-   "accepted": 1012
+   "archived": 1013,
+   "accepted": 1013
   },
   {
    "id": "lisani",
@@ -8061,9 +8063,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 46,
    "accepted": 45
   },
@@ -8072,9 +8074,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 0,
    "accepted": 0
   },
@@ -8097,8 +8099,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 4459,
-   "accepted": 4324
+   "archived": 4463,
+   "accepted": 4328
   },
   {
    "id": "gnews-tvanime",
@@ -8108,8 +8110,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1417,
-   "accepted": 1370
+   "archived": 1418,
+   "accepted": 1371
   },
   {
    "id": "gnews-movie",
@@ -8130,8 +8132,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2623,
-   "accepted": 2379
+   "archived": 2625,
+   "accepted": 2380
   },
   {
    "id": "natalie-eiga",
@@ -8174,8 +8176,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1102,
-   "accepted": 269
+   "archived": 1103,
+   "accepted": 270
   },
   {
    "id": "gamespark",
@@ -8207,8 +8209,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 25286,
-   "accepted": 2796
+   "archived": 25289,
+   "accepted": 2798
   },
   {
    "id": "prtimes",
@@ -8218,7 +8220,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 24124,
+   "archived": 24133,
    "accepted": 438
   },
   {
@@ -8229,8 +8231,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 665,
-   "accepted": 665
+   "archived": 668,
+   "accepted": 668
   },
   {
    "id": "mal",
@@ -8251,11 +8253,271 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 198,
-   "accepted": 198
+   "archived": 199,
+   "accepted": 199
   }
  ],
  "items": [
+  {
+   "title": "Demon Lord 2099 Novels End With 6th Volume",
+   "summary": "Daigo Murasaki, Kureta debuted light novels in January 2021",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-20/demon-lord-2099-novels-end-with-6th-volume/.243031",
+   "pubDate": "2026-10-20T18:00:00.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-20/demon-lord-2099-novels-end-with-6th-volume/.243031"
+    }
+   ]
+  },
+  {
+   "title": "Hello Kitty Turns Up the Heat as 2 Sold-Out Slow Cookers Return to U.S. Kitchens",
+   "summary": "Sanrio fans can now take one more step towards transforming their kitchens into a cozy Hello Kitty and Friends-themed wonderland for fall 20…",
+   "link": "https://www.cbr.com/hello-kitty-sold-out-slow-cooker-return-fall-2026/",
+   "pubDate": "2026-10-20T17:35:11.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/hello-kitty-turns-up-the-heat-as-2-sold-out-slow-cookers-return-to-u-s-kitchens.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/hello-kitty-sold-out-slow-cooker-return-fall-2026/"
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ『ムルシエラゴ』“元死刑囚”・紅守黒湖役に上田瞳さん、相棒・弔桜ひな子役に鈴木みのりさん、極道娘・柳岡千代役に上坂すみれさんが決定",
+   "summary": "凶悪犯罪者が蔓延る世界で、最凶の女性バディが社会の闇を過激に葬り去る。ティザービジュアル＆PVが公開、2027年1月より放送",
+   "link": "https://news.denfaminicogamer.jp/news/2610212w",
+   "pubDate": "2026-10-20T17:30:54.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/1-6-1024x576.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "ムルシエラゴ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2610212w"
+    }
+   ]
+  },
+  {
+   "title": "MURCIELAGO-ムルシエラゴ-：テレビアニメ 上田瞳、鈴木みのり、上坂すみれ出演 国家公認の処刑人、ワケあり天然少女、極道娘に！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Y0g3NnlRMFNmcFZDODYwb0JPMjZqR00wV08wTGdEMzJ0d0NPZG5SZjJRb0Fybk5OUkNHM0I2eXg4bktmQ2dDaW51MFd5dnZ3VGVzOGozLVBpRS1ucXN0dUxZLUNMbF9UYzl3?oc=5",
+   "pubDate": "2026-10-20T17:30:49.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": null,
+   "source": "MANTANWEB",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MANTANWEB",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Y0g3NnlRMFNmcFZDODYwb0JPMjZqR00wV08wTGdEMzJ0d0NPZG5SZjJRb0Fybk5OUkNHM0I2eXg4bktmQ2dDaW51MFd5dnZ3VGVzOGozLVBpRS1ucXN0dUxZLUNMbF9UYzl3?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「ムルシエラゴ」ティザーPV公開 上田瞳、鈴木みのり、上坂すみれが出演（動画あり / コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3MTgzWVdLOUE4M3lDTENnbGxSNXgwb1ZHZDF6LTBQaVN1OW1uSnVNS3dXMVRMOGZNMTlQVW10QUNTX2dNUzVvNXlRVG0?oc=5",
+   "pubDate": "2026-10-20T17:30:00.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 19,
+   "categories": [
+    "visual",
+    "cast"
+   ],
+   "works": [
+    "ムルシエラゴ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3MTgzWVdLOUE4M3lDTENnbGxSNXgwb1ZHZDF6LTBQaVN1OW1uSnVNS3dXMVRMOGZNMTlQVW10QUNTX2dNUzVvNXlRVG0?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6e9888da966db104b07962c43f27fd84e847dc37?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ『ムルシエラゴ』メインキャストが解禁。ティザービジュアル＆ティザーPVも公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YM3lBaDhZMjdjSUx2Z0VoeTdad3lQcW5qTVJ4Q1lNbWFORFRqMDZHcnFoSlZXOU9TTi1lSGZBYThTbXBtUEttOEpVdXY1Uk12VmFtZDRSTGo4UQ?oc=5",
+   "pubDate": "2026-10-20T17:30:00.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": null,
+   "source": "電ファミニコゲーマー",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "visual",
+    "cast"
+   ],
+   "works": [
+    "ムルシエラゴ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YM3lBaDhZMjdjSUx2Z0VoeTdad3lQcW5qTVJ4Q1lNbWFORFRqMDZHcnFoSlZXOU9TTi1lSGZBYThTbXBtUEttOEpVdXY1Uk12VmFtZDRSTGo4UQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ『MURCIÉLAGO-ムルシエラゴ-』ティザービジュアル＆PV発表。メインキャストは上田瞳、鈴木みのり、上坂すみれ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOGdMU0hkdnQtc1haTUN5U0dSTWJRVHRYMV9zV2I0SnpSeWFLM2lubFFiZFdWZHRRdlZLaHNxdC05b0NteVNnLUhCQjlHTWxpV0NvZWxJSzlNQQ?oc=5",
+   "pubDate": "2026-10-20T17:30:00.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "visual",
+    "cast"
+   ],
+   "works": [
+    "MURCIÉLAGO-ムルシエラゴ-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOGdMU0hkdnQtc1haTUN5U0dSTWJRVHRYMV9zV2I0SnpSeWFLM2lubFFiZFdWZHRRdlZLaHNxdC05b0NteVNnLUhCQjlHTWxpV0NvZWxJSzlNQQ?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
+   "title": "【ムルシエラゴ】上田瞳・鈴木みのり・上坂すみれ・豪華メイン声優陣発表！(アニメージュプラス)",
+   "summary": "2027年1月よりTOKYO MX／関西テレビ／BS11にて放送開始となるTVアニメ『MURCIÉLAGO-ムルシエラゴ-』の、ティザービジュアル、最新PV、あらすじ、設定画などが一挙に公開された。【",
+   "link": "https://news.yahoo.co.jp/articles/ba1c354e93b0ccfb7543b1b3637b6b93ab0cbf06?source=rss",
+   "pubDate": "2026-10-20T17:30:00.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": null,
+   "source": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 15,
+   "categories": [
+    "cast",
+    "broadcast",
+    "visual"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ba1c354e93b0ccfb7543b1b3637b6b93ab0cbf06?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "アニメージュプラス（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sZjZYUERoakUwaXBmZ1BTVEExVXdZNUlhTUVqZFNYSVFET1BET1RZb0ROTFBZOFpnZzlHWDB5cjVPZjdkT0JVeHpnbmRGSFJ1aWhaREt6cUVnSGltR1BkYXgyR1YxVGdtN25mQV9vSEV3RHpkQ0wwbFVYald2M0U?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Even the Student Council Has Its Holes! ‒ Episodes 1-3",
+   "summary": "This is a fundamentally fun work of harem smut with a keen eye for the art of cartooning, and it uses those powers to enhance both the comed…",
+   "link": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episodes-1-3/.243011",
+   "pubDate": "2026-10-20T17:30:00.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episodes-1-3/.243011"
+    }
+   ]
+  },
   {
    "title": "「超難解。解読不能な精神世界アニメ」青春ブタ野郎はディアフレンドの夢を見ない minavoさんの映画レビュー（感想・評価）",
    "summary": "",
@@ -9720,7 +9982,7 @@
    ]
   },
   {
-   "title": "アニメ『たまゆら』の聖地 での大規模火災から1年半 アニメファンが復興支援 広島・竹原市",
+   "title": "アニメ『たまゆら』の聖地 での大規模火災から1年半 アニメファンが復興支援 広島・竹原市（2026年10月20日掲載）",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmRza3MyeFdqaWczdzBWYWR4R1djMFdfU3JrdnlsZnJDcEVlTjlFZTIyM0Y0MXgxejF6Sk10TlVOaEhROUxfd2tYNnlfNnJobk5CdnNOeDJlaXdIVWNhZFRfcnBHYlBjeGYwT0ZMbkR6aXFNREVraVJmbGc4bVQ5enQtNGZVUWs?oc=5",
    "pubDate": "2026-10-20T11:12:00.000Z",
@@ -10691,6 +10953,33 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/918df908aba32e6c6e2662ad8b70796ed3e3858c?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "秋アニメ『氷の城壁』第18話あらすじ&場面写真が解禁",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yVHhkcGY4eTlFV0lRbkVHYW9pUFdsT3NBTi1UVHcxS2hZUDNTWnhHUHI1SmVTMldGY05PbG5QaDBzeGJENWR3TGthV19PMzBVeGtZSGMwN2J6MUpIbFJXY3VfYTZJbXZuUmE4?oc=5",
+   "pubDate": "2026-10-20T10:00:00.000Z",
+   "firstSeen": "2026-10-20T18:18:03.757Z",
+   "image": null,
+   "source": "アニメイトタイムズ",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "works": [
+    "氷の城壁"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yVHhkcGY4eTlFV0lRbkVHYW9pUFdsT3NBTi1UVHcxS2hZUDNTWnhHUHI1SmVTMldGY05PbG5QaDBzeGJENWR3TGthV19PMzBVeGtZSGMwN2J6MUpIbFJXY3VfYTZJbXZuUmE4?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -193711,322 +194000,6 @@
      "name": "にじめん",
      "sourceId": "nijimen",
      "link": "https://nijimen.kusuguru.co.jp/topics/638467"
-    }
-   ]
-  },
-  {
-   "title": "LiSA、ベストアルバム『LiSA BEST -LOUD-』12月2日発売決定！",
-   "summary": "2026年4月20日にソロデビュー15周年を迎えたLiSA。3年半ぶりとなる7枚目のフルアルバム「LACE ...",
-   "link": "https://www.lisani.jp/0000319299/",
-   "pubDate": "2026-10-04T04:00:34.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610031800-yh-019.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "LiSA BEST -LOUD-"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000319299/"
-    }
-   ]
-  },
-  {
-   "title": "「リスアニ！」と「802 Palette」による音楽メディア「リスパレ！」が、今聴いてほしいアーティストを選出する「リスパレ！チョイス」の次期選出アーティストを発表！",
-   "summary": "アニメ音楽メディアである「リスアニ！」と、大阪のラジオ局・FM802で、カラフルな音楽との出...",
-   "link": "https://www.lisani.jp/0000319153/",
-   "pubDate": "2026-10-04T04:00:06.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610031300_os_000.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "802 Palette"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000319153/"
-    }
-   ]
-  },
-  {
-   "title": "「ガンダム 逆襲のシャア」×Leeコラボ！デニムジャケットやFLeeasy、Tシャツ全7種が登場",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/04/103502.html",
-   "pubDate": "2026-10-04T04:00:04.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ガンダム 逆襲のシャア"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/04/103502.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/63c730787db313634793e55b8f299279824da67a?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80ckJ0OXh5UUo0Z2QwUFh3LVZ1UWtYN2Z4Z21UOUdHWmFSUjFsWnE3VjM1RGh6dHFVT2lJTG43d3ZVeGhjbTdUUnAwV1VmSTZqZWVBNjNaWEZ0aXNob3lmNTFURUJHRFk0N0FYRmtfbkhsMXRWeXQwazBLNGhLc3M?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    },
-    {
-     "name": "au Webポータル",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iLW9OWC1oZWdxSTBuSWZoMDJkMDByV2tjZ0pWcHVFc0NJYlpzY0FHS3pYbW9jdjJUTUpXRWJ5R0R4OUx5R1NmTzN3VFNHOVdPdldIRFFlT0ZRbEdxYVgwOWpZNU1rZmxRc05HX2ln?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「アニメちいかわ」クリスマスにぴったり！おかしソックスとおもちゃケーキ缶が、中に入った個包装まで可愛い",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/04/188724.html",
-   "pubDate": "2026-10-04T04:00:04.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/04/188724.html"
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ebd3baf4bae17789506aefc7438db0cd7845e054?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEWXBtVll2cklNRWlmMHZLN2JITk1MTjNxbEtzT2g4T09IcFZMcVRvaDZCeXA0d2xQWXVWNjlEV1MtaEMzY241OEh2RFp3MUV5eXY5R0JsRGtNei1DakIxa1o2cmd6bTNQTzNlM1g1d3JFczBkTkZXQzhoSE5KUTA?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "【2026秋アニメ】気になる注目作の続編が続々！ 『アオのハコ』に『ホテル・インヒューマンズ』",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40eFh3NG53TktiSlh3NjN6OVlVU3RhRWk3RTZxeFNYU2kwR2xubXlEV1lpTnkyakt6WkJRVkY3LXk5NHdNQlo4VUVZVDZ2amdsRS1XN2g5VHZQNkJJdkE?oc=5",
-   "pubDate": "2026-10-04T04:00:00.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": null,
-   "source": "週刊アスキー",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new"
-   ],
-   "works": [
-    "アオのハコ",
-    "ホテル・インヒューマンズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "週刊アスキー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40eFh3NG53TktiSlh3NjN6OVlVU3RhRWk3RTZxeFNYU2kwR2xubXlEV1lpTnkyakt6WkJRVkY3LXk5NHdNQlo4VUVZVDZ2amdsRS1XN2g5VHZQNkJJdkE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "ASCII.jp",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ka2FRLUFzU28yajBwczNDNmlBU3lxYm9XNUZ4Szk2cFJCQ1Q1d3d3bFdPOVRiaHdMbGx3SnEtRFRYQndZbmZjems5cUZqUVdBTmxzeQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "The Apothecary Diaries Anime Returns to Universal Studios Japan",
-   "summary": "Join Maomao & Jinshi for an all-new attraction at the theme park",
-   "link": "https://www.animenewsnetwork.com/interest/2026-10-03/the-apothecary-diaries-anime-returns-to-universal-studios-japan/.242445",
-   "pubDate": "2026-10-04T03:59:00.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/interest/2026-10-03/the-apothecary-diaries-anime-returns-to-universal-studios-japan/.242445"
-    }
-   ]
-  },
-  {
-   "title": "Suikoden Anime to Stream on YouTube with English Subtitles",
-   "summary": "Series launches on YouTube on October 6",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-03/suikoden-anime-to-stream-on-youtube-with-english-subtitles/.242451",
-   "pubDate": "2026-10-04T03:47:03.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-03/suikoden-anime-to-stream-on-youtube-with-english-subtitles/.242451"
-    }
-   ]
-  },
-  {
-   "title": "『進撃の巨人』グッズも！「ニジゲンノモリ」POPUPストアがフクヤマニメ9に登場、10月10日・11日開催",
-   "summary": "「ニジゲンノモリPOPUPストアinフクヤマアニメ9」が2日間限定で出店 淡路島アニメパーク「ニジゲンノモリ」は、広島県福山市にて開催される中国地方最大級のアニメイベント「フクヤマニメ9」に10月10日（土）、11日（日）の2日間限定で「ニ…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/638452",
-   "pubDate": "2026-10-04T03:45:55.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/128966-802-78c115eea88c32366545699564a6c5a0-1920x1080-1.jpg",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "event",
-    "goods"
-   ],
-   "works": [
-    "進撃の巨人"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/638452"
-    }
-   ]
-  },
-  {
-   "title": "“君はヒーローになれる”「ヒロアカ」10周年記念！名台詞を刻んだメッセージリング全10種が登場",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/04/103501.html",
-   "pubDate": "2026-10-04T03:45:03.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "僕のヒーローアカデミア"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/04/103501.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IZWVseGRyQ2dXNm1hYmNSYURNZGhDeEYxNnFZVzRTV0VoaEhGV1ZNRWJYTGNTXzYtejdDVkZEdnVJOUttOVY3cDY4MFllLXFRS2pUMFlQRExjcHNYZDdXQXhvNWd3MGZpaTJXWFlfZ3o0bERXelVVaHhFdFBCcFE?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「こちら、終末停滞委員会。」アニメ化企画進行中、“終末”停滞のために戦う少年少女の物語（動画あり / コメントあり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hdlVkSGhER1VGZzRIRTJ2S1pBSXRwUERaVThvSGlWcURjZk53YmFxanNlTl9ENGRNam96enZvRnNTNmxOYTk5S0JPQTU?oc=5",
-   "pubDate": "2026-10-04T03:45:00.000Z",
-   "firstSeen": "2026-10-04T04:18:23.063Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hdlVkSGhER1VGZzRIRTJ2S1pBSXRwUERaVThvSGlWcURjZk53YmFxanNlTl9ENGRNam96enZvRnNTNmxOYTk5S0JPQTU?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0UTR3ejRtQ2ExaTlzNF9aQjlsVFoyTG84bnJ5d1kteTRHWEQ3a1ZjOEpPOXZMNHNaQkZGMnVNdDNvLVc4dEdJVzl1Z1VfeDVmUk53RzJlU1pTWU1Nei1abkdQLUh1bFN0bjc1NGdNTDV6VGVWTGFaVjBnT2dNUm8?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
     }
    ]
   }
