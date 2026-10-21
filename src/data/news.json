@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-21T17:19:06.763Z",
+ "generatedAt": "2026-10-21T18:19:08.048Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5480,
-  "syndicated": 556,
+  "exact": 5483,
+  "syndicated": 557,
   "similar": 585,
-  "syndicatedTotal": 6140,
-  "syndicatedLeft": 1207
+  "syndicatedTotal": 6141,
+  "syndicatedLeft": 1205
  },
  "calendar": [
   {
@@ -8040,8 +8040,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1029,
-   "accepted": 1029
+   "archived": 1028,
+   "accepted": 1028
   },
   {
    "id": "lisani",
@@ -8095,8 +8095,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 4653,
-   "accepted": 4516
+   "archived": 4657,
+   "accepted": 4520
   },
   {
    "id": "gnews-tvanime",
@@ -8117,7 +8117,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 777,
+   "archived": 778,
    "accepted": 688
   },
   {
@@ -8128,8 +8128,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2691,
-   "accepted": 2441
+   "archived": 2692,
+   "accepted": 2442
   },
   {
    "id": "natalie-eiga",
@@ -8205,7 +8205,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 26299,
+   "archived": 26300,
    "accepted": 2909
   },
   {
@@ -8216,7 +8216,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 25357,
+   "archived": 25365,
    "accepted": 456
   },
   {
@@ -8235,9 +8235,9 @@
    "name": "MyAnimeList News",
    "kind": "specialist",
    "lang": "en",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 20,
    "archived": 109,
    "accepted": 109
   },
@@ -8249,11 +8249,64 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 205,
-   "accepted": 205
+   "archived": 206,
+   "accepted": 206
   }
  ],
  "items": [
+  {
+   "title": "The Apothecary Diaries' First-Ever Console Game Officially Launches March 18 on Nintendo Switch",
+   "summary": "The Apothecary Diaries has highlighted Maomao's investigation and medicine-crafting system in a brand-new gameplay trailer.",
+   "link": "https://www.cbr.com/apothecary-diaries-false-imperial-brother-new-trailer-release-date/",
+   "pubDate": "2026-10-21T17:33:48.000Z",
+   "firstSeen": "2026-10-21T18:18:23.607Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/07/maomao-tasting-poison-in-the-apothecary-diaries-episode-6.png",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "visual",
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/apothecary-diaries-false-imperial-brother-new-trailer-release-date/"
+    }
+   ]
+  },
+  {
+   "title": "One Piece Grand Gourmet: A Simulated Feast Game Review",
+   "summary": "When you hear One Piece, I bet you think “retro-themed restaurant simulator RPG,” right? No? Well, maybe you should!",
+   "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-nintendo-switch-2-pc-via-steam-ios-and-android/one-piece-grand-gourmet/a-simulated-/.242984",
+   "pubDate": "2026-10-21T17:17:47.000Z",
+   "firstSeen": "2026-10-21T18:18:23.607Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-nintendo-switch-2-pc-via-steam-ios-and-android/one-piece-grand-gourmet/a-simulated-/.242984"
+    }
+   ]
+  },
   {
    "title": "Interview: Adding a New Ending to STEINS;GATE",
    "summary": "STEINS;GATE RE:BOOT Producer Tatsuya Matsubara and Scenario Writer Naotaka Hayashi speak on the game's new ending, it's origins, and other p…",
@@ -9628,6 +9681,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/21/104065.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTWVnRGFKNGh1MGE1YVlMV0xCM0dlQTZtTy00Zml4N0RoNHhEMElyX2tnMGx4OVlwdkNvYmM2c0NBRUpKcUpoVnFVT0lpSWxDTlVQdHFkekNJWGhHTXlzUm0wb3R3QkQzVHdMU1dqQ011QXJVMFNHQTZiNm9OMTQ?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -16246,6 +16306,12 @@
      "name": "PR TIMES",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SZ1BGekV5aC1zR3Z3OEFpc0hWSjM3aVBLZ2R1QmIxektCdG16TXQycXFidFdwSkw0QU5wY29vS1o3Q19tajRYSndZYXhSTm9LRC1aZE1VdGp2NUZiZTgyNWwyLTB3bnpleFE?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "毎日キレイ",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JRU9CTEs1VThNdk9jSnVpWUJ1MTdvLXlLS1YzWjdvRU9PRzJ5QlNCc1g5Sl85MmotNjBBYndBV2gycGdPQ28wUXF1ZlJEa3VJYlBqU0Yyd0JTVXZMWlkwYXZBU01TOFRhRjJWXzdOLU9SZnpsMVNNWUF3?oc=5",
      "via": "Googleニュース「声優」"
     }
    ]
@@ -30276,16 +30342,16 @@
    ]
   },
   {
-   "title": "アニメ「暁のヨナ」続編のアニメ制作はPIERROT FILMS",
+   "title": "『暁のヨナ』続編アニメ制作で新情報 制作はPIERROT FILMS",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53dnlHUDJ2bUN0ZHpmbWh2eVBqTFVKRExjV2dKLV8ySG1hSzhxNkJqZVZqOE5ab0RGSUt5bTY0c1F5dE9DOFIzWmh0blQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vUVdsU3I2bjExYy1iZVpOeTc5emRDM2tIRHN0MU5HdE1UY19mZHRwTDJnX0RxeHBva0tHXzlOOXA4VHV4aXJLb3htNnRiVzVIam00WHVB?oc=5",
    "pubDate": "2026-10-20T01:12:57.000Z",
    "firstSeen": "2026-10-20T01:17:57.729Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "オリコンニュース",
+   "sourceId": "gnews-anime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
    "score": 16,
    "categories": [
@@ -30298,11 +30364,6 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53dnlHUDJ2bUN0ZHpmbWh2eVBqTFVKRExjV2dKLV8ySG1hSzhxNkJqZVZqOE5ab0RGSUt5bTY0c1F5dE9DOFIzWmh0blQ?oc=5"
-    },
-    {
      "name": "オリコンニュース",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vUVdsU3I2bjExYy1iZVpOeTc5emRDM2tIRHN0MU5HdE1UY19mZHRwTDJnX0RxeHBva0tHXzlOOXA4VHV4aXJLb3htNnRiVzVIam00WHVB?oc=5",
@@ -30312,6 +30373,12 @@
      "name": "河北新報オンライン",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aUUduc3FBNUlNcUlRaC05M3E4R2VuZ2tKUmU0ZzhoRFpDTDRSbV9ZNTBfQjk2RVVnTENiNC00eThCZk1hb1B0aWV3THVBSVpSRXFnMlJmZ3RRMGZ1S2c?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53dnlHUDJ2bUN0ZHpmbWh2eVBqTFVKRExjV2dKLV8ySG1hSzhxNkJqZVZqOE5ab0RGSUt5bTY0c1F5dE9DOFIzWmh0blQ?oc=5",
      "via": "Googleニュース「アニメ」"
     },
     {
@@ -193818,62 +193885,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04XzJ6Rk9LUkVsVlhQelk5NUtJaTk3Nmw4QWFKaG1OdzJfWUpwbmtBdTFYdW9LMF9KbzhWRmxueG16Q3Nfb0hDX3N4Tm80SFN2RTNJcTlkSzJBaERhYTRMQktzel96VHA1cVlDMlh6QmN5VUJGS084d1RVejY3bDA?oc=5",
      "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『我々は宇宙人』地球人のふりを覚えるまでの三十年の軌跡 ※注！ネタバレ含みます(CINEMORE)",
-   "summary": "※本記事は物語の結末に触れているため、映画未見の方はご注意ください。",
-   "link": "https://news.yahoo.co.jp/articles/20f2a94a2aac78d0bede417757799150078576ef?source=rss",
-   "pubDate": "2026-10-05T08:01:07.000Z",
-   "firstSeen": "2026-10-05T08:18:50.914Z",
-   "image": null,
-   "source": "CINEMORE（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "我々は宇宙人"
-   ],
-   "spoiler": true,
-   "sources": [
-    {
-     "name": "CINEMORE（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/20f2a94a2aac78d0bede417757799150078576ef?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「原作派は知らない…!?」『ドラゴンボール』人造人間18号による「クリリン愛」あふれる名場面(ふたまん＋)",
-   "summary": "鳥山明さんの不朽の名作バトル漫画『ドラゴンボール』。本作に登場する人造人間18号といえば、クールで勝ち気な性格が印象的なキャラクターである。■【画像】「こんな家族写真が…」娘もそっくり！『ドラゴンボー",
-   "link": "https://news.yahoo.co.jp/articles/109b70e6559905228b764cb2a9bda9c1c6210a5e?source=rss",
-   "pubDate": "2026-10-05T08:00:31.000Z",
-   "firstSeen": "2026-10-05T08:18:50.914Z",
-   "image": null,
-   "source": "ふたまん＋（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 7,
-   "categories": [],
-   "works": [
-    "ドラゴンボール"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ふたまん＋（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/109b70e6559905228b764cb2a9bda9c1c6210a5e?source=rss",
      "syndicated": true
     }
    ]
