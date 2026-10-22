@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-22T20:18:25.639Z",
+ "generatedAt": "2026-10-22T21:18:43.262Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5663,
+  "exact": 5681,
   "syndicated": 570,
-  "similar": 610,
-  "syndicatedTotal": 6337,
-  "syndicatedLeft": 1194
+  "similar": 611,
+  "syndicatedTotal": 6359,
+  "syndicatedLeft": 1195
  },
  "calendar": [
   {
@@ -932,20 +932,6 @@
    "title": "ゴッホ最晩年の傑作も！ 上野の森美術館で『シンシナティ美術館展』が10月10日より開催(ぴあ)",
    "link": "https://news.yahoo.co.jp/articles/3552d63d5094d648535d481b44bff14192f234d7?source=rss",
    "source": "ぴあ（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-10",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "ポケモン",
-   "title": "ドンキから 『ポケモン』のBIG着ぐるみパーカーが登場 コダック、カビゴン、ピカチュウ、ゲンガーに“へんしん”しよう(リアルサウンド)",
-   "link": "https://news.yahoo.co.jp/articles/567bc597b4e053152d0f84a8b4b6314a393e658e?source=rss",
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
    "sources": 1,
    "categories": [],
    "platforms": [],
@@ -3328,6 +3314,22 @@
   {
    "date": "2026-10-23",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "ポケモン",
+   "title": "GUの『ポケモン』新作コラボ、いよいよ10月23日発売！“森でのポケモンとの暮らし”テーマのイーブイジャケット、カイリューTシャツなど全19種",
+   "link": "https://www.inside-games.jp/article/2026/10/23/189663.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-23",
+   "precision": "day",
    "verb": "stream",
    "label": "配信",
    "work": null,
@@ -3896,24 +3898,6 @@
   {
    "date": "2026-10-26",
    "precision": "day",
-   "verb": "stream",
-   "label": "配信",
-   "work": "超巡!超条先輩",
-   "title": "M!LK、TVアニメ『超巡！超条先輩』OPテーマ「ザッツ！超常」が10月26日(月)に配信リリース決定！",
-   "link": "https://www.lisani.jp/0000319545/",
-   "source": "リスアニ！",
-   "sources": 16,
-   "categories": [
-    "broadcast",
-    "music",
-    "visual"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-26",
-   "precision": "day",
    "verb": "broadcast",
    "label": "放送",
    "work": null,
@@ -3936,6 +3920,22 @@
    "source": "NHK",
    "sources": 1,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-26",
+   "precision": "day",
+   "verb": "stream",
+   "label": "配信",
+   "work": "超巡!超条先輩",
+   "title": "M!LK「ザッツ！超常」10月26日(月)に配信リリース決定！ TVアニメ『超巡！超条先輩』オープニングテーマ楽曲",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6VnNXMEFfZFNiUVgtZlF0SFJQRE1neW1ETndfbDJON2k1VmoydWJHTXRaX2cxZ0o0aHd5dVVqWXJvaWZV?oc=5",
+   "source": "Emo!miu",
+   "sources": 1,
+   "categories": [
+    "music"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -5839,6 +5839,25 @@
    "precision": "day",
    "verb": "movie",
    "label": "公開",
+   "work": "スティッチ",
+   "title": "『スティッチ』新作アニメ、実写版声優陣が続投 リロ役の永尾柚乃「すごく楽しみで待ちきれないです！」(ENCOUNT)",
+   "link": "https://news.yahoo.co.jp/articles/be29455798f17f6f2f6b3f3083cb4dcc8b91864a?source=rss",
+   "source": "ENCOUNT（Yahoo!ニュース エンタメ）",
+   "sources": 3,
+   "categories": [
+    "new",
+    "cast",
+    "stage",
+    "movie"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-04",
+   "precision": "day",
+   "verb": "movie",
+   "label": "公開",
    "work": "レイ・ガン",
    "title": "トム・ウェイツが声優として一つ目の異星人役！ 映画『レイ・ガン』Netflix独占配信、一部劇場にて12/4(金)より先行劇場公開決定！",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkbjBVUXJOUk9FSEdfTUpXeUdlUGNlMW5URG4ta0hwbFNqbXd5dHNnWWljdjV6ZWpmczk3Slpnd1VIZTY0NE91b3BEYWwyWmN6RDJZZFo0SGRyd2lUNHhfZHZB?oc=5",
@@ -6202,6 +6221,20 @@
    "categories": [
     "cast"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-23",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "鉄鍋のジャン!",
+   "title": "TVアニメ「鉄鍋のジャン！」BD-BOX フロンティアワークス公式通販限定版アイテム＆店舗特典のデザインを一挙公開！",
+   "link": "https://prtimes.jp/main/html/rd/p/000009114.000016756.html",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -8008,8 +8041,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 4846,
-   "accepted": 4699
+   "archived": 4849,
+   "accepted": 4702
   },
   {
    "id": "gnews-tvanime",
@@ -8019,8 +8052,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1487,
-   "accepted": 1440
+   "archived": 1486,
+   "accepted": 1439
   },
   {
    "id": "gnews-movie",
@@ -8030,8 +8063,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 817,
-   "accepted": 723
+   "archived": 818,
+   "accepted": 724
   },
   {
    "id": "gnews-seiyu",
@@ -8041,8 +8074,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2765,
-   "accepted": 2511
+   "archived": 2781,
+   "accepted": 2527
   },
   {
    "id": "natalie-eiga",
@@ -8052,7 +8085,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 718,
+   "archived": 720,
    "accepted": 118
   },
   {
@@ -8063,8 +8096,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1490,
-   "accepted": 651
+   "archived": 1492,
+   "accepted": 653
   },
   {
    "id": "4gamer",
@@ -8096,7 +8129,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1280,
+   "archived": 1281,
    "accepted": 82
   },
   {
@@ -8118,8 +8151,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 27324,
-   "accepted": 3018
+   "archived": 27374,
+   "accepted": 3029
   },
   {
    "id": "prtimes",
@@ -8129,8 +8162,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26585,
-   "accepted": 474
+   "archived": 26593,
+   "accepted": 475
   },
   {
    "id": "ann",
@@ -8162,11 +8195,530 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 214,
-   "accepted": 214
+   "archived": 215,
+   "accepted": 215
   }
  ],
  "items": [
+  {
+   "title": "【スクープ】超人気声優・小野賢章 後輩美人声優と二人きりの「極秘誕生日会デート」撮った！！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FbVhIT21qbVI3M3haRV80bW9GUDRCaUthRFVHcDNBWEhxNnR3bXB3TGhPVWNxaEM3ZWFtcVZaMl9KVHhQZW1qaEhpR1dCc2NyRjFORUNERQ?oc=5",
+   "pubDate": "2026-10-22T21:05:43.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "FRIDAYデジタル",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "FRIDAYデジタル",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FbVhIT21qbVI3M3haRV80bW9GUDRCaUthRFVHcDNBWEhxNnR3bXB3TGhPVWNxaEM3ZWFtcVZaMl9KVHhQZW1qaEhpR1dCc2NyRjFORUNERQ?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "秋ドラマ「ベスト10」 圧勝「VIVANT」 良作そろった「箱根駅伝」「LOST10」「いろはの恋」「ポリティカルパン」(デイリー新潮)",
+   "summary": "秋ドラマがほぼ出そろった。7月に始まったTBS「VIVANT」（日曜午後9時）を含めると、プライム帯（午後7〜10時）に16本ある。どのドラマが見られているのか。【高堀冬彦/放送コラムニスト、ジャーナ",
+   "link": "https://news.yahoo.co.jp/articles/309a9c66c7a6ddcc7e1868db8644514db08bbb3f?source=rss",
+   "pubDate": "2026-10-22T21:02:41.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "デイリー新潮（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "デイリー新潮（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/309a9c66c7a6ddcc7e1868db8644514db08bbb3f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "永尾柚乃「スティッチも成長したんだな」再びリロ役に喜び 新作『リロ＆スクラッチ』声優発表(テレビ朝日系（ANN）)",
+   "summary": "ディズニー・アニメーション「リロ＆スティッチ」シリーズの完全新作となる短編映画「リロ＆スクラッチ」の日本版声優が23日、発表された。あわせてポスタービジュアルも公開された。【画像】永尾柚乃「スティッチ",
+   "link": "https://news.yahoo.co.jp/articles/f8f54f4401dd6a448cce4f50edcab38024ef7875?source=rss",
+   "pubDate": "2026-10-22T21:00:39.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "Yahoo!ニュース エンタメ",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 11,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "リロ&スクラッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース エンタメ",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f8f54f4401dd6a448cce4f50edcab38024ef7875?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVm1oM3JXSzg2X2hNRTRwS2FCdTdDaEhLbHlWYmNKVzhNRm1wYjBWdWRxZjRLMW00dk9tdndzTWpFQTV5VEFJVF93MjV4MGFmR0dTUlY4dnBSVXZIejMtazNMenROaXFQclVySmgwQmpMRldnNmdMSG1QZ3JyWnM?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ちいかわ×ANA」オリジナルコラボグッズ第1弾が順次発売！ANA制服姿で働くちいかわたちのマスコットやぬいぐるみなど多数",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/23/189664.html",
+   "pubDate": "2026-10-22T21:00:03.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/23/189664.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/057050de14f16c3dfbae994102a97c2325700aa8?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『リロ＆スティッチ』23年ぶり劇場公開アニメに実写版声優再結集 永尾柚乃、山寺宏一、シソンヌ長谷川が決定(シネマトゥデイ)",
+   "summary": "23年ぶりに劇場公開される、映画『リロ＆スティッチ』のアニメーションシリーズ最新作となる短編『リロ＆スクラッチ』の日本版声優が23日に発表され、実写版を声で彩った永尾柚乃、山寺宏一、長谷川忍（シソンヌ",
+   "link": "https://news.yahoo.co.jp/articles/1e41921b6914fe123b235d1fe8644a458d28b313?source=rss",
+   "pubDate": "2026-10-22T21:00:02.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 13,
+   "categories": [
+    "cast",
+    "movie",
+    "stage"
+   ],
+   "works": [
+    "リロ&スティッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/1e41921b6914fe123b235d1fe8644a458d28b313?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "シネマトゥデイ（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMNzBsYktWcFh0YXkxSVd5TDd6S3FHMTNSUFlDNk83dnNWaUlNOGNDaUJnRUdzSDNlT3UxOEI2eEdBUmk1TlN5OVZCTVBVa0tTWUdsbzZfTV9uaWpUNXJXak9fRTJLU2hjaUZzSXE0RS1xQWIzbnUwVjJPNDZqU0k?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『スティッチ』新作アニメ、実写版声優陣が続投 リロ役の永尾柚乃「すごく楽しみで待ちきれないです！」(ENCOUNT)",
+   "summary": "ディズニーの人気キャラクター・スティッチが主人公の短編映画『リロ＆スクラッチ』（12月4日公開）の日本版声優として、永尾柚乃、山寺宏一、長谷川忍（シソンヌ）が出演することが23日に発表された。【動画】",
+   "link": "https://news.yahoo.co.jp/articles/be29455798f17f6f2f6b3f3083cb4dcc8b91864a?source=rss",
+   "pubDate": "2026-10-22T21:00:00.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "ENCOUNT（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 20,
+   "categories": [
+    "new",
+    "cast",
+    "stage",
+    "movie"
+   ],
+   "works": [
+    "スティッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ENCOUNT（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/be29455798f17f6f2f6b3f3083cb4dcc8b91864a?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "ENCOUNT（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUVNqU1VZUk9FSWV2R1ZfR0NQRl9IMXctUWRxSW5iQTdLc2ozLTVic25IX2JMTEdvUkdCRzRXVVd4M2dMNHkyNkV0SktmT3lNaU4zNzZzOXpBU2ltT1dDOUhSNVU5SEtpSy1EZndaSUtMNlhjMzY5QTZSRXpyT0U?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "ｄメニューニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc1dzcjl3XzFzM0x1QkU3NGxFdU9ndHF1cmNOQnlyMzZ2d1hKSjZoTy10T3RoOXJaUmJrdFlsM3VXV0JmanhiYUlQWnNMc0VUdU9RQWh0cFl1RHY3ZEs2aGx5LTY0UFlEZ1JEU3BxSHpaOFVRZGRjd1N1U0FDdE9XRWY1azFRVTB0T2RoNlIxV2diNUl5Z0hYVURCVzVYS3U5UzE3VkNkVXNWOUpaaV9vZnhRd1RkT2pDUGZ5NlBGV0FCTmwzRUFQb05yQkJPWGFNVkRYTnFZMnnSAYgBQVVfeXFMT2lqOEx2NFFNVUhOZzM3MU0wRUZzSktYZzZnRUswMHc2YzZuajBDaFpGSExndUdIVWJTSTc2bk9VYm5RMmdkSFRXSGhXSmNkUE9hUi1aOGV2UGdaWWVuVGoxZlVucnN1Z05JU0Y4YURwbGNnRnJESkozS3VQa1JIa2Q2NVVxcElGLQ?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "シソンヌ長谷川が映画「リロ＆スクラッチ」日本語吹替版で声優、成長を見せたい",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCVDFyc0xiRnVPVldDd3E2dm5Ca0RtaE9JMWIzbjd4Yk1qTGV5VGRPVG82Wnc2NkRjTzFDODRlLUFpb3I1LTRHWlNCT0xvdw?oc=5",
+   "pubDate": "2026-10-22T21:00:00.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "ナタリー",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "リロ&スクラッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ナタリー",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCVDFyc0xiRnVPVldDd3E2dm5Ca0RtaE9JMWIzbjd4Yk1qTGV5VGRPVG82Wnc2NkRjTzFDODRlLUFpb3I1LTRHWlNCT0xvdw?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "お笑いナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ec4d018cb95425f5ed7de595980201b4fcb85e90?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "お笑いナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNUHVNNGRDZTNDME5mSjNtQkJneXpaQUhXWWtTbzJRN01Sb2JCZDdVaE1RSDliNFRBbTBQRGgtUUdvYUExUTVkdW5hWFNKVERwUnJUblVlU1VqUGhMMDlQRVYyNjZKQXl5aGZpUHJLU1lUdGtWbi1iZmJhbzlyMmc?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「リロ＆スクラッチ」日本版声優発表！リロ役は永尾柚乃、スティッチ役に山寺宏一、ジャンバ博士役にシソンヌ長谷川(映画.com)",
+   "summary": "ディズニー・アニメーション・スタジオ最新作「ビリーと魔法のはじまり」と同時上映される短編映画「リロ＆スクラッチ」の日本版声優が発表され、永尾柚乃、山寺宏一、シソンヌ・長谷川忍が参加していることがわかっ",
+   "link": "https://news.yahoo.co.jp/articles/bbbf0057e2d4338ea92fd328ec5488bd2c0d97b7?source=rss",
+   "pubDate": "2026-10-22T21:00:00.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 11,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/bbbf0057e2d4338ea92fd328ec5488bd2c0d97b7?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "映画.com（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKeURzVlNxLWMxMFpiMlNmLTVpQUo3d3pXcXI5cWxwRzhfbnFNYzcyVWllbGlwbEdoYkhUbi10MmN3dHRWNDJTZFBTOXNvcm9MODM5a3BmeUd2MEJOV1RTTE5zdklpUGdBRnQtWW53WVBfWXVyX2xCSG1NZ2RpOFE?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ディズニー短編『リロ＆スクラッチ』日本版声優に永尾柚乃・山寺宏一・シソンヌ長谷川が集結！ 本ポスターも解禁",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8weFV2VmlWY0lqWFNpeHdPakIyU0d5cWZEQS0xUmRVQUJKMGh1bUVoZVlwX1lSOTk4T3VUdVZVLXk4bmRaYmttN2hzMjg?oc=5",
+   "pubDate": "2026-10-22T21:00:00.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "クランクイン！",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 11,
+   "categories": [
+    "cast",
+    "movie",
+    "stage"
+   ],
+   "works": [
+    "リロ&スクラッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "クランクイン！",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8weFV2VmlWY0lqWFNpeHdPakIyU0d5cWZEQS0xUmRVQUJKMGh1bUVoZVlwX1lSOTk4T3VUdVZVLXk4bmRaYmttN2hzMjg?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/b19251f1589aab769c33016a403c85f4750a0540?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/36db7c71640f6cf68b2937a32d590b38dc8085f5?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "クランクイン！（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UdVczN3c0V09QRWtZcjBqYVpSbkpYQm4yWlVYX1dfUy1oV3Y5TzJuYnlWTUhDczlrbm5fS0FPQm1SSmQ2cm51Y19uNlBBWmdsNUhLNTJSRFlETDdwZzQ5OE8xNW84NGVaVlN4NC1xNElka2xGQU0xWXdmbUg3bjg?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "リアルサウンド（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rSklRXzIyRHF5RUJvd2JPQS1xMjQ0VEhjZlNJYzZqSHU4SkRGNnYtaGVFY0dTdnktekwwcjJDZy0wNW5JZWhFbWdEbXZ0M1NWbFlUakFPekFhT2VUUEdGY1ExSGJmZHJmOEdlbDZ2czRCU1RUeThIYzREMnFhb2c?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "永尾柚乃、スティッチ最新作『リロ＆スクラッチ』で山寺宏一らと日本版声優に「またリロになれるんだ！」本ポスター公開も",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80RktzdTM0bXYzOF9DU1B4NlB4WnowMTc5Wkd4bERsRTREd3VHQlpUU2wxOEFlZkFSRXBtTGttNTVFVDEyUGNBTzlZYTlNdw?oc=5",
+   "pubDate": "2026-10-22T21:00:00.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "WEBザテレビジョン",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 11,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "リロ&スクラッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80RktzdTM0bXYzOF9DU1B4NlB4WnowMTc5Wkd4bERsRTREd3VHQlpUU2wxOEFlZkFSRXBtTGttNTVFVDEyUGNBTzlZYTlNdw?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/a15f20dcac1963686bb588c0983cad5800cc5e5d?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4RWU1ZTNzOE9mV3FuNGlDTDB2a1dOVTJQNHJ2TTVVOHBQb1p6a244S0Ffd0JmSDc1SVNSNHFhQktudWdkQU5sTlZCNjJyNDItUWZkc0NnVzA5N1JBVDBGdUtlcWZwUVpqMkF4RnpxSFd3Q3NVVmVnZUJwV1NzRXM?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "永尾柚乃、再びリロ役に「またスティッチに会えるんだ！」 新作短編で山寺宏一＆シソンヌ長谷川と再集結(オリコン)",
+   "summary": "短編アニメーション映画『リロ＆スクラッチ』（12月4日公開）の日本版声優が発表され、永尾柚乃、山寺宏一、長谷川忍（シソンヌ）の出演が決定した。2025年公開の実写版『リロ＆スティッチ』に続き、それぞれ",
+   "link": "https://news.yahoo.co.jp/articles/9e30bddb6f9e1a86113a0c17de77cf7469fbb934?source=rss",
+   "pubDate": "2026-10-22T21:00:00.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "cast",
+    "movie",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/9e30bddb6f9e1a86113a0c17de77cf7469fbb934?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "K Manga Adds Shinobu Ohtaka's Geekrown Manga",
+   "summary": "Magi creator's new manga launches on service on October 26",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-22/k-manga-adds-shinobu-ohtaka-geekrown-manga/.243115",
+   "pubDate": "2026-10-22T21:00:00.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-22/k-manga-adds-shinobu-ohtaka-geekrown-manga/.243115"
+    }
+   ]
+  },
+  {
+   "title": "Jujutsu Kaisen's New 8-Player Nintendo Switch 2 Game Becomes Playable Again December 19",
+   "summary": "Jujutsu Kaisen's upcoming battle royale video game reaches an exciting new milestone this holiday season.",
+   "link": "https://www.cbr.com/jujutsu-kaisen-rumble-survivation-playtest-jump-festa-2027/",
+   "pubDate": "2026-10-22T20:35:05.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/jujutsu-kaisen-rumble-survivation-cover.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/jujutsu-kaisen-rumble-survivation-playtest-jump-festa-2027/"
+    }
+   ]
+  },
+  {
+   "title": "GUの『ポケモン』新作コラボ、いよいよ10月23日発売！“森でのポケモンとの暮らし”テーマのイーブイジャケット、カイリューTシャツなど全19種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/23/189663.html",
+   "pubDate": "2026-10-22T20:30:03.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/23/189663.html"
+    }
+   ]
+  },
+  {
+   "title": "高知信金、「アニメテック研究」始動 〝高知の風景〟を背景制作に生かす",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41MWpHTE1faXYxM3Mxc2l5VVdpNEFJcFowb2JxYURCc0lncDUyQmphQm1acHNSQTcyaWFmeGdtNGl5UzdWVEIyQmp6R3pURnJYWGZhaWpn?oc=5",
+   "pubDate": "2026-10-22T20:15:00.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "ニッキンONLINE",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ニッキンONLINE",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41MWpHTE1faXYxM3Mxc2l5VVdpNEFJcFowb2JxYURCc0lncDUyQmphQm1acHNSQTcyaWFmeGdtNGl5UzdWVEIyQmp6R3pURnJYWGZhaWpn?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
   {
    "title": "「芸能界1の推し夫婦」夫は「VIVANT」出演俳優…大島優子〝プライベート写真〟に「旦那さんが作ったの⁉」「もうすっかりママ」の声(西スポWEB OTTO!)",
    "summary": "女優・大島優子の〝プライベート写真〟に注目が集まっている。【写真あり】大島優子の〝プライベート写真〟「もうすっかりママ」",
@@ -8348,6 +8900,34 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-10-22/fatal-fury-city-of-the-wolves-streams-animated-trailer-for-tokyo-revengers-dlc-characters-mikey-/.243114"
+    }
+   ]
+  },
+  {
+   "title": "【小野賢章 MAO】超人気声優・小野賢章 声優M・A・Oと二人きりの「極秘誕生日会デート」激撮、花澤香菜との離婚前から親密な関係が… 【フライデー】【花澤香菜】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZQnJjV05xZHNTNXM2TTFfNUMxZm9UaldqaHltbDVEc2gteVJ1SDI2d05vUGh0blF5LTBtZFpqcmotRkJVTWd5ZEFMYzNNa2t4bFlCTUROZGlXZTdw?oc=5",
+   "pubDate": "2026-10-22T18:57:30.000Z",
+   "firstSeen": "2026-10-22T21:17:57.618Z",
+   "image": null,
+   "source": "YouTube",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "romance"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "YouTube",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZQnJjV05xZHNTNXM2TTFfNUMxZm9UaldqaHltbDVEc2gteVJ1SDI2d05vUGh0blF5LTBtZFpqcmotRkJVTWd5ZEFMYzNNa2t4bFlCTUROZGlXZTdw?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -10179,6 +10759,13 @@
      "name": "ニコニコニュース",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pUGV0MVVLcGV6ZmE5Ym40X1p1c05xYWs5WW9oZm1rWlNBLXJXa3B1TS0wVnlFYUJ1blV0LV9rMzExck1WbEowaE5jQkstSl9tWklSOTBGdXVuekVWS3ZvcFlRczhCN3ZTaGhjSGlWdmllN28?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4RVpqRndERFM0cjNqN2ZHWjQ4X2xVdm9oTmFjTkxGWHFMR3EwVjlwWWpuSFlhUUNnUE02Z29GZE5NMUJqODNHeEswcU93c0xzemRYVmJWT3JNNmN6ZXR3X1pZQm9jUGpraVpaTmV3SEt1Tm0wclQ2bmdUVEw2Uk0?oc=5",
      "via": "Googleニュース「劇場版 アニメ」",
      "syndicated": true
     }
@@ -13598,17 +14185,17 @@
   },
   {
    "title": "TVアニメ「鉄鍋のジャン！」BD-BOX フロンティアワークス公式通販限定版アイテム＆店舗特典のデザインを一挙公開！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IOFFvMHJNa0hmQ0JGVUJFVDVKRjNFTWNsZlAxTHF6Q2ljUW0xZ21lakY0eE52dC10N0xJeTFGS3N2X3FreENTcllacnlYeDdvS1VUc3FHWDBKc0ZpdExiTUFfbHd1RFVoWVE?oc=5",
+   "summary": "株式会社フロンティアワークス(アニメイトグループ)より新情報をお届けいたします！ 2026年12月23日（水）発売のTVアニメ「鉄鍋のジャン！」BD-BOX＜完全初回限定生産＞。ファン待望のフロンティアワークス公式通...",
+   "link": "https://prtimes.jp/main/html/rd/p/000009114.000016756.html",
    "pubDate": "2026-10-22T08:30:01.000Z",
    "firstSeen": "2026-10-22T09:17:56.620Z",
    "image": null,
    "source": "PR TIMES",
-   "sourceId": "gnews-anime",
+   "sourceId": "prtimes",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "press",
    "lang": "ja",
-   "score": 12,
+   "score": 15,
    "categories": [],
    "works": [
     "鉄鍋のジャン!"
@@ -13617,9 +14204,8 @@
    "sources": [
     {
      "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IOFFvMHJNa0hmQ0JGVUJFVDVKRjNFTWNsZlAxTHF6Q2ljUW0xZ21lakY0eE52dC10N0xJeTFGS3N2X3FreENTcllacnlYeDdvS1VUc3FHWDBKc0ZpdExiTUFfbHd1RFVoWVE?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000009114.000016756.html"
     }
    ]
   },
@@ -14034,6 +14620,12 @@
      "name": "埼玉新聞",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uXzRlZW1jWFBuRGxVdWx0TGNJY0Vsd0NTSnRYMmN1aWNlNFhIcXNva3dJd240cTdLVXhzcXdRMVVDWHUzZ1FQUHN4dkhzbFhVeWhlbTZycw?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "下野新聞社",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4VExJTkFjVlRNaWRaMUhrSnZ0MlhJbTBfQnRGb3NMTjhJRGFKTXBTRUtoUlVFd2pZUTdMSGJpMUVMRmNVdnppTlRja2VsdllHYnNYZ1BJeFBSeFE?oc=5",
      "via": "Googleニュース「声優」"
     }
    ]
@@ -14703,6 +15295,13 @@
      "name": "クランクイン！（Yahoo!ニュース）",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04VHZBQ252aWJpcnROUF90YTVYOE80Q3hvcDY1dDlrWU9uNjlYWFRMSV9HUU1fbFVPRmZOcTlHcGh2dkhRanh4NlZPaVBQbFR5NE12NWhzelZKT25xelUwclRCel9zcHNqX0J2aVBCdkJCVEZEWThNeUVDS3dnQzA?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "MOVIE WALKER PRESS（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BU2FBbERILXRyaDNBVy1vbV90T2U5cU5GUlljb2JfNlo1dnVQa3BXNXBaNUJwYjRqSTF6M0JVM3RyNjFlUzBPNlFFMzlMQkZhNlVJUkpkZnpISlhDYkFaRzl6N0p5ZUo2MmxaTHZ3aEZPLVBtT2dPYlhndWZTQXc?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -44360,7 +44959,7 @@
    "firstSeen": "2026-10-19T16:18:02.835Z",
    "image": null,
    "source": "NHK ONE",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -44371,9 +44970,9 @@
    "sources": [
     {
      "name": "NHK ONE",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJbzBwTVQ2SVVQTVA5QjZuVEo0bVhPTEp0NFd5ZlFxalRQaG5ZZWtNSldMVE01dnhVVmw2VlZaTWVYSU85cUt2NXJMYXc5Vmx0MTRlMzdZMjRvMzQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -193219,614 +193818,6 @@
      "name": "にじめん",
      "sourceId": "nijimen",
      "link": "https://nijimen.kusuguru.co.jp/topics/638822"
-    }
-   ]
-  },
-  {
-   "title": "「呪術廻戦」五条悟、夏油傑ら6人のモチーフアイコンがスタンプに！「懐玉・玉折」ver.登場",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/06/103566.html",
-   "pubDate": "2026-10-06T10:15:03.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "呪術廻戦",
-    "懐玉・玉折"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/06/103566.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/313f0682ae214d3b67c63e06aa60565defa2835b?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "M!LKの新曲“ザッツ！超常”が10月26日にリリース。テレビアニメ『超巡！超条先輩』OP曲",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90SWhsZDZzUGxwSmhBNGdIWEpoTzNaaWwtNlJUZURDbVNkajItNkp5WTlMbFd2a2NfVm9QMXZsRVh0VDFFbUhVM2h2WExYblBJX2xPdXQzV3g1RHhIQnkyeHhB?oc=5",
-   "pubDate": "2026-10-06T10:11:20.000Z",
-   "firstSeen": "2026-10-06T12:19:25.569Z",
-   "image": null,
-   "source": "CINRA",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "超巡!超条先輩"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CINRA",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90SWhsZDZzUGxwSmhBNGdIWEpoTzNaaWwtNlJUZURDbVNkajItNkp5WTlMbFd2a2NfVm9QMXZsRVh0VDFFbUhVM2h2WExYblBJX2xPdXQzV3g1RHhIQnkyeHhB?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「夏目友人帳」用心棒・ニャンコ先生が守ってくれるジップアップパーカー",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjdm5ua1F0U0tjWGNsd3Jzb2tBNVFTWS1wSXZDTm1HbTNSWnFSTERZdUc0b1JTblFiYTVyMm5GSDV2S3JmZzlrWmNCWGY?oc=5",
-   "pubDate": "2026-10-06T10:05:00.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 11,
-   "categories": [],
-   "works": [
-    "夏目友人帳"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjdm5ua1F0U0tjWGNsd3Jzb2tBNVFTWS1wSXZDTm1HbTNSWnFSTERZdUc0b1JTblFiYTVyMm5GSDV2S3JmZzlrWmNCWGY?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/c242aa92c71ad13ca2dcfca0bb692aa3ca4436e4?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ドンキから 『ポケモン』のBIG着ぐるみパーカーが登場 コダック、カビゴン、ピカチュウ、ゲンガーに“へんしん”しよう(リアルサウンド)",
-   "summary": "総合ディスカウントストアを展開するドン・キホーテは、全国のドン・キホーテ、アピタにて『ポケットモンスター』のアパレル新商品を10月10日午前9時から発売する。【画像】登場する『ポケモン』のアパレル商品",
-   "link": "https://news.yahoo.co.jp/articles/567bc597b4e053152d0f84a8b4b6314a393e658e?source=rss",
-   "pubDate": "2026-10-06T10:02:57.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "ポケモン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/567bc597b4e053152d0f84a8b4b6314a393e658e?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ドン・キホーテで「ポケットモンスター」アパレルが発売 胸元にポケモンがの刺繍が入ったデザイン(リアルサウンド)",
-   "summary": "TVアニメ『ポケットモンスター』のアパレルアイテムが、全国のドン・キホーテおよびアピタで発売されることが発表された。 登場するのは、胸元にポケモンたちのワンポイント刺繍があしらわれたカーディガン。メン",
-   "link": "https://news.yahoo.co.jp/articles/185fd18e80916d865bc0cb10daf94950e8a7face?source=rss",
-   "pubDate": "2026-10-06T10:01:07.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/185fd18e80916d865bc0cb10daf94950e8a7face?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "M!LKの新曲「ザッツ！超常」配信決定、今夜放送開始「超巡！超条先輩」のOPテーマ(音楽ナタリー)",
-   "summary": "M!LKの新曲「ザッツ！超常」が10月26日に配信リリースされることが決定した。「ザッツ！超常」は、本日10月6日深夜よりカンテレ・フジテレビ系で放送がスタートするテレビアニメ「超巡！超条先輩」のオー",
-   "link": "https://news.yahoo.co.jp/articles/66275894a54d1d07d0f7a9958e58af7f5cdbadce?source=rss",
-   "pubDate": "2026-10-06T10:00:33.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "broadcast",
-    "music"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/66275894a54d1d07d0f7a9958e58af7f5cdbadce?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "NONA REEVESの3人をAIアニメ化、バイク走らせ双子女性ダンサーと出会う(音楽ナタリー)",
-   "summary": "NONA REEVESが8月に配信リリースした楽曲「BAD Beauty!」のミュージックビデオが、明日10月7日16:00にYouTubeにて公開される。【MVカット】真剣な表情で車を走らせるNON",
-   "link": "https://news.yahoo.co.jp/articles/0d2511b8ed8377d8406da95f179b768c047d0f00?source=rss",
-   "pubDate": "2026-10-06T10:00:27.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/0d2511b8ed8377d8406da95f179b768c047d0f00?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "音楽ナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUmVGWmhoanBHa0Y0V1lQeHM2LUEyX0dqamdhRXFTQlNCOUU2SDFCZWFKUXE2RWh5UWNBb0lKZG5HUzdlWmdhRm1sa0lMSTI4azlWSEh6RnNmZG1wVEg1LWdRekd1dFJISnhMV2ZNc1liRXk5djlQOXVfQnIwWk0?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "鈴木このみ、TVアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』OPテーマ「強気MAX宣言」配信開始！",
-   "summary": "シリーズ累計140万部、「小説家になろう」発の大人気悪役令嬢系溺愛ラブコメディ『弱気MAX令嬢...",
-   "link": "https://www.lisani.jp/0000319470/",
-   "pubDate": "2026-10-06T10:00:24.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610061800-yh-005.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "broadcast",
-    "music"
-   ],
-   "works": [
-    "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
-    "強気MAX宣言"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000319470/"
-    }
-   ]
-  },
-  {
-   "title": "津田健次郎も思わず反応！「おじゃる丸」公式・キャラクター人気投票でまさかの1位は…！「推しが本気すぎる」「これは凄い」",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/06/103565.html",
-   "pubDate": "2026-10-06T10:00:03.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "ranking",
-    "cast"
-   ],
-   "works": [
-    "おじゃる丸",
-    "推しが本気すぎる",
-    "これは凄い"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/06/103565.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/bbf488ab691643d93c7bc998c797f41f00a0c1d9?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHUzZNTVQ0dVQxOVAydGhMLUFBcUhwRlJyejlHWnVDUklLMWZZdXVwc01lNFpjcmhTbjQtamJ5cmJielBJSk1VbEtxS2hoVnE1UWVRUXphTG52YUJxOHNjRmxsQVdXXzFkSzVKcUVLWkRLdktyRC10YnFHRHhDS1k?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "しまむら×『ドラクエ』コラボ、いよいよ10月7日から発売！アパレルやカー用品など100種超え、受注生産販売も予定",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/06/188853.html",
-   "pubDate": "2026-10-06T10:00:03.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ドラクエ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/06/188853.html"
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/02a9aa8113edc80d5f0fce34be3212fe2981bb9f?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "M!LK、TVアニメ『超巡！超条先輩』OPテーマ「ザッツ！超常」が10月26日(月)に配信リリース決定！",
-   "summary": "5人組ダンスボーカルグループ・M!LKの「ザッツ！超常」が10月26日（月）0時より配信リリースさ...",
-   "link": "https://www.lisani.jp/0000319545/",
-   "pubDate": "2026-10-06T10:00:00.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610071800-yh-015.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 27,
-   "categories": [
-    "broadcast",
-    "music",
-    "visual"
-   ],
-   "works": [
-    "超巡!超条先輩"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000319545/"
-    },
-    {
-     "name": "Billboard JAPAN",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IZEpOTzF2SE5zY0x4MUxQV1hJaUdvdnAwVWxTNWpBQ3RrNDJXR2JwcEsyVW5zY3U5SUtpcUVYMGx2WEREVTFWekJ2X21mQVROTGZXZ3g3T2RaZzVkWGluRnR3?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "THE FIRST TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43RjdKeWRtdjlrMG1Bem95eFBxa3A5SmpxRUVKTHZxUENvMTZxbXFvT09LNUUwRktWUXJYbTd3NXl5UkRBWnRvLWhYSjFKcUJTdG92RDB6bVI?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "NiEW",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05MHBPS2pTVTFJLVpHYUd2Y1dKdkIwS3VQYjdIOHRQZTF3M1p2M2VXdXJGRFJOTUFVdkMwQXRMZEFqRE0wdUdDQTFidXJoWWVMYVlvRw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "タワーレコード オンライン",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MMjhWeE8tUV81akZOODZ5clgxSTdEa1ZKanRDN2tNMzM3M0ZrVnBocVhXRjdJbEQtZkN4VFNGQ1d1VE5KVUZEM0ZBNmhINjlBUkNWQUd5QjJTZw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "CDJournal.com",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XMWc1aGpBeW1STjJtSnNjSmF2MU5mWElMRGxuaWNfUGwyT1hPdlhIWkh4VGlvNEJRRkVFejNmSFVXZGJGZ0dlSGhpTTEtSDhBaWRxbnluUlN4UQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "音楽業界総合情報サイト",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQRnNZR1NzSnZQUkZfSVZMY0hRWGd1X3FSOUlRRmNobUxMUEZZWU50WnJaUDJiSWswTFJQcW9JRDVpYnY3Uk1SVE1icC13Tk5XZ2c?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/eec02527283acd0a2c94190bb4dc5350d1f3957c?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "ぴあ（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/5e93ffc6531a77231b1ffaa17edc41635ea1be9b?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "ｄメニューニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVlLempRbjhVVWhkRTNyeFVmRnRfT0p2aW9lWXpmdUNEdmF6OTl4eG5relljRW1zTmZoMGRJMnNNWi1xSWN0Q2xZdnFtaUZrRTJQU3QwX0NBazRiRTh4UmotNWRQRFRWd19uNkJMSDM5TS1UOUtZNzlPM1ZfOElBUtIBhgFBVV95cUxPcHk3YVJ4Mnoyb1JTbE11NXFhMVZ3VmtYQkpfWDdQejFPaTlwS3pmTTRxZkpxR0ZOcDlMTkZXQmt3dFpkNzJ4ZXVDMUN0TzBHN2IybTBnZG1GQ0NxbXZ1S2dDTEN1NW1DR0dVUnBiejRoT1dMRmcyTHpCRWxJenE4ZFZWWGFCdw?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UazI0OUw5RkZyU19pa21GVkJfLUZ0UmthcWwxRW95SlZWUWJfajFtV25ReThCTlcwY3VKT0xwdjJUVEdNc29ucTlJc0xGRTB5R05sUnc0ei1QNEcxQ0xWQXRUblhkY0U5d1R2OFh1YThJNWZ2ZnRUejR0bTlSS1E?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    },
-    {
-     "name": "ぴあ（Yahoo!ニュース）",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FM2M2MVp0NTRERUNyQm95VGZnN2M3TjJ5ZEFpQ0FGSUFZcW9PZ2VNQkdhWXBEQy1ETnZiYkZoOVJNSFlxTnRjV1hHUXVUWGV1Q282VHVySDlSaEpYRjlGVFlab3ZKMzZ2WWR0RmdncmJvSGdxdlhadUlJenhoSUU?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    },
-    {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OQ20wdE9SLXlBMUtaRTRnbzIzY2FBbkI2SGtUSUNGejhQaExaMmJPTGlRMGxkcF9VcjJvQmtkUEZVSWszN1NpMGZ0QmlVZEswRG1BMW03aktYQzhrSEFwbXkzaGlVRTZDUmVQQ2N2TGI4TkFBaW9mbl9qQQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    },
-    {
-     "name": "CDJournal（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GZ0lzOFV2RmNXMDFoeFBzYVNWYmNLYWUxVTJxWWo3YmZhWGMxV29FdUxFeDA2eFIyYUdqUGNKcHUwVkJ1YXFobERKTUtVYV83a3AzMUpMaHpteV9uTzdfZE9VVlVHdDhWUTVLRHJLWWxIOVFZRWYtY0VHR3pzUGs?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    },
-    {
-     "name": "vois ヴォイス（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9acGpFeVNCaExOUE8wSXNyWHF1cjBUa0VlbjIzTS1mRTNUSkZTdnZZTEJXeU5PNjJQS05oT2tyZjZjbklHWEhhREZ1U095SXVBQmNNal84Y3p4VVJOT3FEWm9KQmI5ZnNVdVprUUlRaW15QU12T0hNcDJTbG1TUHM?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『氷の城壁』2期2話“停止と進行”。桃香の好意に気づきながらも、はっきり拒絶できない湊。小雪は“友達としての距離感”を意識するあまり湊とすれ違う",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyTlZpeFMtUEREazc2WklSOV9vSVlYdWlrOWdBdE8tdkpjeVJfakIxZDFuMDNKQkpnNHZ2TlI5Rkw3YmlwYTgtTk81U1JTRE9oQWdDVkZIaXI5UQ?oc=5",
-   "pubDate": "2026-10-06T10:00:00.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "氷の城壁"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyTlZpeFMtUEREazc2WklSOV9vSVlYdWlrOWdBdE8tdkpjeVJfakIxZDFuMDNKQkpnNHZ2TlI5Rkw3YmlwYTgtTk81U1JTRE9oQWdDVkZIaXI5UQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "サンリオ×「ワークマン」コラボ第2弾！ ハローキティやクロミのスウェットなど展開(クランクイン！)",
-   "summary": "「ワークマン」は、10月上旬から、サンリオキャラクターズとコラボレーションした限定アイテム第2弾を、全国の店舗で発売する。【写真】ハローキティとクロミの耳付きマフラーも！ 新作アイテム一覧■高機能×大",
-   "link": "https://news.yahoo.co.jp/articles/0557158a8060f025ada6096a1c7fb76d7fa5a19c?source=rss",
-   "pubDate": "2026-10-06T10:00:00.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "クランクイン！（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/0557158a8060f025ada6096a1c7fb76d7fa5a19c?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ハナマルキ、アニメ「鬼滅の刃」とコラボの即席カップ味噌汁",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZV1RnMnRYdnZIS2cyNXh5cGI1RFdmS0E0N2xKNGdZNDl6QkRVMHk5SFdXZTlxZi0zNnVkQ25BOFJpS3lmcndIRWxlemt2c1h4c0pZNXJzM3VWNWFOaG5QdHE0eUNDbjYzUUswRQ?oc=5",
-   "pubDate": "2026-10-06T09:56:06.000Z",
-   "firstSeen": "2026-10-06T22:18:10.251Z",
-   "image": null,
-   "source": "日本経済新聞",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "鬼滅の刃"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "日本経済新聞",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZV1RnMnRYdnZIS2cyNXh5cGI1RFdmS0E0N2xKNGdZNDl6QkRVMHk5SFdXZTlxZi0zNnVkQ25BOFJpS3lmcndIRWxlemt2c1h4c0pZNXJzM3VWNWFOaG5QdHE0eUNDbjYzUUswRQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "高山みなみ、中尾隆聖らの所属事務所が声明 声優の肖像をAIで改編などの迷惑行為に「おやめください」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2kyVko3OUd1aXEzNFVVbWNvQjQ5MWExRGV5VExjcTJIbU1mV1BBOWZkSjVWNVpHVGFBUEQxM25CNnNCY2RtMW9XTmZJb204WVlnUzBjN29CX1FaSDBCN29Eb2trc1E5WmZqQnpWd3hsZXc2MXhuWjBscHNDV2xTOE0wSlNRa1daYS16MzFJOHJ0T0ZKUHc?oc=5",
-   "pubDate": "2026-10-06T09:48:00.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "スポニチ Sponichi Annex",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "スポニチ Sponichi Annex",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2kyVko3OUd1aXEzNFVVbWNvQjQ5MWExRGV5VExjcTJIbU1mV1BBOWZkSjVWNVpHVGFBUEQxM25CNnNCY2RtMW9XTmZJb204WVlnUzBjN29CX1FaSDBCN29Eb2trc1E5WmZqQnpWd3hsZXc2MXhuWjBscHNDV2xTOE0wSlNRa1daYS16MzFJOHJ0T0ZKUHc?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "スポニチアネックス（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6SEZMdDVKYU1HQnp4LW51bURGSXNJTHJhLVpZNjY4V0YxZDNQODFMa0g4TkxNZzRPeHZvVHFXUDgyc1g3XzJrdk4zWG1LSGpwelQxNDJhVnRXa2NpRDBiTDRrQ01uMENaeThZWFNPUWVhY1RMNFV4bUtxTDJaUTA?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "ライブドアニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lSFdUTlVvMzBQdmNCZVFPS2hCQzVfdmxqLURUTG04T3FXcjZwWFFlMmJTOTNKbWdIS3ptclBJNHpJVjU2cHE2a01mbHdXbS1mNnUzZlJoYmptU2h6bVZZ?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "2026年10月6日掲載（ライブドアニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lWVJfZllQTGxmS1ZhTE1mNDVYTnRlbXFFaTkwQmEwNzZuRUpVaDU3NE1ZTGhERGdXRmI2VGptLUFSVGlUWVBaOFlheU1UelhyNGg2b25kRi1nNkpCSWc?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「涼宮ハルヒ」SOS団合同お誕生日会が開催!? 声優陣が集結した様子にファンは大興奮！「なにこれ!? 夢か!?」「またこのメンツが見れるとは感無量」",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/06/103564.html",
-   "pubDate": "2026-10-06T09:45:00.000Z",
-   "firstSeen": "2026-10-06T10:18:48.057Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "涼宮ハルヒ",
-    "またこのメンツが見れるとは感無量"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/06/103564.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11eDVsbVFBZGN6LThvMnBqeTRkVGlDbmZrczR5d0pxM3lJVE9jYkRkMnh3djdRLWhuMm1lM2I1bHd5OXZiakoyTVRoRkNBa3otNFBrb2s3aUE1dFdiZnNPdTY0LTR2T1ZqT1pMU0R0MjlOSk5IRXh0YVhzR2E2RzA?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "ｄメニューニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNXVjLXVjdnRKd21qR1B6bkhfTkp6RTlweUtPMU1CZUREMHBpSTdRend5THU4NjlZVU9jSTZaVWliYXB6NFNGMVQ3TWN6eG5nb19hbGduODN6T0ZrOVhWRC1odnFEcnlKOUFoandxdzlLQnJENGZiSnYyZWh4QnZhYnQxT2x4SnB3RmJfOGtMS1VkYWNrY1NaQUhuWEhpYV9IbWxrYm0wVUR4cTdiSS1LMUs2bWdBTGxiSk44dUdWSmxkTTI5LUhGa0xsbGYtbGZHTVJibkNGRXcyWlJJRC1N0gGPAUFVX3lxTFBNZ2Z2U1BtV2RTNzZYcnNBaldPNzFFYjRhMTZjTG1weUtYdE9zdWtVZUs5NnAyS01mdVRWckQzd1ZBcE5NY0hzVW1hNmVhOXVGSHJTeHNZZjVadHBiOGVQMk1NZHJDcGEwNlRLbENfNFRYQXMtV1BFRUdVcnZwSUhhQnRjQ1IwQWNYRndNVTZZ?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
     }
    ]
   }
