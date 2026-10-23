@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-23T18:18:33.599Z",
+ "generatedAt": "2026-10-23T19:17:31.149Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5842,
+  "exact": 5846,
   "syndicated": 603,
   "similar": 642,
-  "syndicatedTotal": 6560,
-  "syndicatedLeft": 1201
+  "syndicatedTotal": 6561,
+  "syndicatedLeft": 1199
  },
  "calendar": [
   {
@@ -4502,7 +4502,7 @@
    "title": "TBSが11月にアニメイベント開催、ファンの手で「エヴァ」ドミノアート完成を目指す",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyUUE4aXlabDVNSWhncTNNbGhDRUNiclhxT3c4bU5MMHY3RVRNR24xNHBMTWtxamNhNEJuZHI3bW5udGVab2lnNFoxTkE?oc=5",
    "source": "ナタリー",
-   "sources": 2,
+   "sources": 3,
    "categories": [
     "event"
    ],
@@ -8452,8 +8452,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5052,
-   "accepted": 4899
+   "archived": 5055,
+   "accepted": 4901
   },
   {
    "id": "gnews-tvanime",
@@ -8463,8 +8463,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1522,
-   "accepted": 1473
+   "archived": 1524,
+   "accepted": 1475
   },
   {
    "id": "gnews-movie",
@@ -8474,8 +8474,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 858,
-   "accepted": 763
+   "archived": 859,
+   "accepted": 764
   },
   {
    "id": "gnews-seiyu",
@@ -8562,7 +8562,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 28250,
+   "archived": 28258,
    "accepted": 3157
   },
   {
@@ -8573,7 +8573,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27670,
+   "archived": 27687,
    "accepted": 505
   },
   {
@@ -8606,11 +8606,61 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 219,
-   "accepted": 219
+   "archived": 220,
+   "accepted": 220
   }
  ],
  "items": [
+  {
+   "title": "Horror Collector Anime Reveals English Dub Cast, October 24 Debut",
+   "summary": "1st episode stars Brandon Allan Majella, Larry Brantley, Rebecca Danae, more on Saturday",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149",
+   "pubDate": "2026-10-23T19:00:00.000Z",
+   "firstSeen": "2026-10-23T19:16:44.941Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149"
+    }
+   ]
+  },
+  {
+   "title": "Avatar: The Last Airbender Officially Brings Back Zaheer & Jinora for Brand-New Spirit World Story",
+   "summary": "Avatar: The Last Airbender fans can officially look forward to two beloved characters taking center stage in a brand-new adventure.",
+   "link": "https://www.cbr.com/avatar-legends-rpg-spirit-worlds-kickstarter/",
+   "pubDate": "2026-10-23T18:17:59.000Z",
+   "firstSeen": "2026-10-23T19:16:44.941Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/Avatar-Airbending-Master-Tattoos.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/avatar-legends-rpg-spirit-worlds-kickstarter/"
+    }
+   ]
+  },
   {
    "title": "‍‍‍AIアニメ生成 - 無料でAIがアニメーションを生成",
    "summary": "",
@@ -9847,6 +9897,13 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/09cf4bb79d79ae8c4f2b22f88edd809e7327b11f?source=rss",
      "syndicated": true
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83SzByaFM2TUhtNFFJWGR6M2p2dUJVQnhNWkxyaGZsYi1NdXp3cWZHX1NrcndyN0lQbXNiVm9zaGNZcnIxa01hd3VxZHJfeFdmRkJIaDdCTkJmMS1fZ1RTNHIzYkJxLVJqcUs5eXoySmgtVmVSQ0FoLVc2WWNoRUk?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -10984,9 +11041,9 @@
     },
     {
      "name": "ENCOUNT（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UeEhlbEc1S1dYb0JYdGRUTXVLdlpHekJLRm9BREtSZ3RiTWxmZGJTVnYwSXdxN01BVFBWUjEzeU5ndjgzd0RNWngtZEhaWG9iUjZLeEEzUUNpZVlXRG83VXB4REppVUZsbzBQc29mRTlFSktMYW5fVVl4MDg2bUE?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -13558,7 +13615,7 @@
    "firstSeen": "2026-10-23T09:17:55.522Z",
    "image": null,
    "source": "eeo",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -13573,9 +13630,9 @@
    "sources": [
     {
      "name": "eeo",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xN0NDNkp1Y0RrRnI5M2ViTHh3N0lQa1Z2aXYyVHMwUmNPQU9WVXJfVm1sZW9OLUI1M1JpcldhVUNGODE5ajVBbGZsRjhKRHpxTEJISw?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「TVアニメ 放送」"
     },
     {
      "name": "ファミ通",
@@ -14870,6 +14927,33 @@
      "name": "PR TIMES",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XMXBRNlMwS2RJRXdrNl85Mk0yeF96TU1DYUVfcDNLcXVrRVB1emthYUI2ZE40QkpHMkxaZE9JSjktSk1ZQ3E5eklJaTZVMUdGWElZZXo5M3A5MGpUa0MyMDJZTHFTZmt5VVE?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "この秋、赤坂がアニメで熱くなる！ 11月7日（土）スペシャルイベント 「アニメの場」開催決定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBNGJGcWpueFo5SjJWUUhMSjhXRzJhRzllYlBtTFFCdVZ1VEROaUg3SWJ0WkVRUVFjZktOTVZ6YURsMXFPSHY4N2g4N3ZtclMwMndoMzVVdzJ2bWlMZmRRRERzYU41Tzc3cWc?oc=5",
+   "pubDate": "2026-10-23T08:00:01.000Z",
+   "firstSeen": "2026-10-23T19:16:44.941Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBNGJGcWpueFo5SjJWUUhMSjhXRzJhRzllYlBtTFFCdVZ1VEROaUg3SWJ0WkVRUVFjZktOTVZ6YURsMXFPSHY4N2g4N3ZtclMwMndoMzVVdzJ2bWlMZmRRRERzYU41Tzc3cWc?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
@@ -193919,90 +194003,6 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWnZZZm9lQ2lwNnFLSDY3R3BaVDRpZkNhM0RCMXFJRFZtRWR2T05mN1k2ZTdGTjdvd3pnNFZZRkU0OHdPeThJa3FkYlEwMFk5LTc2eEFRMkVRZTBGc3dIZDN3?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "カフェ「とびだす焙煎所」に展示された、声優・竹内良太さんのサイン入り「ロブスタ」パネル",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wLVEtTHJnaTJlSlM1aUw0UXRIeGdGX0stRnBHTVcwMXpqd1ZxZzVQTk1udW5sNUJJQTB4TUEwbzczNHNITHUwUDNJT0pFYkhlS05EdG5uSQ?oc=5",
-   "pubDate": "2026-10-07T14:06:57.000Z",
-   "firstSeen": "2026-10-07T20:18:43.377Z",
-   "image": null,
-   "source": "和歌山経済新聞",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "event"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "和歌山経済新聞",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wLVEtTHJnaTJlSlM1aUw0UXRIeGdGX0stRnBHTVcwMXpqd1ZxZzVQTk1udW5sNUJJQTB4TUEwbzczNHNITHUwUDNJT0pFYkhlS05EdG5uSQ?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "漫画『オーバーロード〈新世界編〉』休載へ 作画担当のMatsuki入院で療養・安静のため(オリコン)",
-   "summary": "カドコミにて連載中の漫画『オーバーロード〈新世界編〉』（原作：丸山くがね、キャラクター原案：so-bin）が、作画担当のMatsukiが入院することから、しばらくの間、休載することが発表された。【画像",
-   "link": "https://news.yahoo.co.jp/articles/2aefcdee298e51367370cadfd9583e957c4c9e0a?source=rss",
-   "pubDate": "2026-10-07T13:56:29.000Z",
-   "firstSeen": "2026-10-07T14:17:46.135Z",
-   "image": null,
-   "source": "オリコン（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "media"
-   ],
-   "works": [
-    "オーバーロード〈新世界編〉"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "オリコン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/2aefcdee298e51367370cadfd9583e957c4c9e0a?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ドラマ「ポリティカルパン」でチョーがタヌキの声、吉田ウーロン太・こたけ正義感も出演(映画ナタリー)",
-   "summary": "石原さとみが主演を務めるフジテレビ系ドラマ「ポリティカルパン」の第1話が、本日10月7日に放送された。このたびアニメ「ONE PIECE」のブルック役で知られる声優のチョーが、“タヌキの声（ナレーショ",
-   "link": "https://news.yahoo.co.jp/articles/ca3c8bc551bb77a2b31f125593b513ae142c5061?source=rss",
-   "pubDate": "2026-10-07T13:54:17.000Z",
-   "firstSeen": "2026-10-07T14:17:46.135Z",
-   "image": null,
-   "source": "映画ナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ca3c8bc551bb77a2b31f125593b513ae142c5061?source=rss",
-     "syndicated": true
     }
    ]
   }
