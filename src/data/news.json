@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-24T18:18:45.675Z",
+ "generatedAt": "2026-10-24T19:18:44.284Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5896,
-  "syndicated": 601,
+  "exact": 5897,
+  "syndicated": 602,
   "similar": 668,
-  "syndicatedTotal": 6625,
+  "syndicatedTotal": 6626,
   "syndicatedLeft": 1209
  },
  "calendar": [
@@ -8361,7 +8361,7 @@
    "error": null,
    "fetched": 100,
    "archived": 5148,
-   "accepted": 4982
+   "accepted": 4981
   },
   {
    "id": "gnews-tvanime",
@@ -8382,8 +8382,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 864,
-   "accepted": 773
+   "archived": 866,
+   "accepted": 775
   },
   {
    "id": "gnews-seiyu",
@@ -8393,8 +8393,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2797,
-   "accepted": 2527
+   "archived": 2798,
+   "accepted": 2528
   },
   {
    "id": "natalie-eiga",
@@ -8492,8 +8492,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 664,
-   "accepted": 664
+   "archived": 663,
+   "accepted": 663
   },
   {
    "id": "mal",
@@ -8519,6 +8519,35 @@
   }
  ],
  "items": [
+  {
+   "title": "中国初のAI全工程制作による劇場用長編アニメ「三星堆：未来往事」が公開、2日間で興行収入50万元突破",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03bTVocTRMdFZacGJzb2xpclJUMlVrZk9teUVDVjhlWDk2aElfcEV5dXpxaTJxMlNXVG8tWXBLYW5mTEZsZGJWQlg5MFVYNmR5UmY3OEYzMkJiRVN6eE9WM1Exd2NoMmdTRGVaSGp4ODdaYU5N?oc=5",
+   "pubDate": "2026-10-24T18:06:00.000Z",
+   "firstSeen": "2026-10-24T19:17:58.547Z",
+   "image": null,
+   "source": "BigGo ファイナンス",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "三星堆:未来往事"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "BigGo ファイナンス",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03bTVocTRMdFZacGJzb2xpclJUMlVrZk9teUVDVjhlWDk2aElfcEV5dXpxaTJxMlNXVG8tWXBLYW5mTEZsZGJWQlg5MFVYNmR5UmY3OEYzMkJiRVN6eE9WM1Exd2NoMmdTRGVaSGp4ODdaYU5N?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
   {
    "title": "Kaiju No. 8 Officially Returns With Final Anime Movie in 2027",
    "summary": "Kaiju No. 8 officially returns in 2027 with its final chapter as a brand-new theatrical movie.",
@@ -11571,6 +11600,13 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFbHNLeF9Udl94SGxicWdNOU9lVXZLcW9zQUJIRHlvclc3M043RmdyQ3daT0ZYX29kcmtfdXNQZmRVdTkwcW5hdnpzeWxDQ2hiYkRGMzlwWU94ZDNhSTBZYjN4bVVJQlNPX2l6VDlRRWF1RHBMT0ktR09sRmFzcTQ?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTajBWX2VINTQ1S2NQakZhOTZyOEhGZlJIX3k0T1F1TTJVazVxRVctbWpKZHE0Z3hodGlrcVFjMjAwX19YMDJTN0Y0VV83ZGVDenIwMHUxMXRjVjlNVTNzOTFxS182TXhfM0tqNklZMWtKT0E2dTlPcHFaTHFQZTg?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -11582,7 +11618,7 @@
    "firstSeen": "2026-10-24T07:18:07.383Z",
    "image": null,
    "source": "Mantan Web",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-movie",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -11595,9 +11631,9 @@
    "sources": [
     {
      "name": "Mantan Web",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95YXFPa1J3Tl82TkZUZnZGNWdiNEhCenU0YjQ4WkFaNE81SG16bmNVZVBtcHo2bnEyQ1ZwaWxIYnNXLUIyczhpTGlxdHlDTjNpcDJIeGpZbWxjOGpUY00zR0pNR0NWT2RNY2w4?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「劇場版 アニメ」"
     },
     {
      "name": "Yahoo!ニュース",
@@ -193963,35 +193999,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/54e0c3029488b049f3002c22fc71f6d6baa5d981?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "日常を感じるヘソ出しスタイル！声優・遠藤璃菜の初写真集『MOMENT』が好評発売中",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tblRoZmxIYzlDWVNMWHVlMmpYYUEwdVVWbVQ1SWkyUmc3WUNYQ1BKbEpfWXFMNkpmelJCODhfR2VJZzYweWc1UjFZUjJIdw?oc=5",
-   "pubDate": "2026-10-08T08:00:42.000Z",
-   "firstSeen": "2026-10-08T08:17:45.191Z",
-   "image": null,
-   "source": "ほんのひきだし",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "MOMENT"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ほんのひきだし",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tblRoZmxIYzlDWVNMWHVlMmpYYUEwdVVWbVQ1SWkyUmc3WUNYQ1BKbEpfWXFMNkpmelJCODhfR2VJZzYweWc1UjFZUjJIdw?oc=5",
-     "via": "Googleニュース「声優」"
     }
    ]
   }
