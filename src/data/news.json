@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-24T19:18:44.284Z",
+ "generatedAt": "2026-10-24T20:18:23.804Z",
  "count": 6000,
  "dedupe": {
   "exact": 5897,
   "syndicated": 602,
-  "similar": 668,
+  "similar": 669,
   "syndicatedTotal": 6626,
-  "syndicatedLeft": 1209
+  "syndicatedLeft": 1208
  },
  "calendar": [
   {
@@ -8371,8 +8371,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1492,
-   "accepted": 1442
+   "archived": 1491,
+   "accepted": 1441
   },
   {
    "id": "gnews-movie",
@@ -8382,8 +8382,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 866,
-   "accepted": 775
+   "archived": 867,
+   "accepted": 776
   },
   {
    "id": "gnews-seiyu",
@@ -8393,8 +8393,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2798,
-   "accepted": 2528
+   "archived": 2796,
+   "accepted": 2526
   },
   {
    "id": "natalie-eiga",
@@ -8404,7 +8404,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 716,
+   "archived": 717,
    "accepted": 126
   },
   {
@@ -8470,7 +8470,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29202,
+   "archived": 29217,
    "accepted": 3233
   },
   {
@@ -8492,8 +8492,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 663,
-   "accepted": 663
+   "archived": 662,
+   "accepted": 662
   },
   {
    "id": "mal",
@@ -8519,6 +8519,30 @@
   }
  ],
  "items": [
+  {
+   "title": "Genshin Impact’s Major November Update Finally Unites All 7 Nations for a Last Stand",
+   "summary": "Genshin Impact's major November update unites all seven nations of Teyvat to confront a world-ending threat for the first time.",
+   "link": "https://www.cbr.com/genshin-impact-november-update-seven-nations-unite/",
+   "pubDate": "2026-10-24T20:00:14.000Z",
+   "firstSeen": "2026-10-24T20:17:53.318Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/key-art-en.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/genshin-impact-november-update-seven-nations-unite/"
+    }
+   ]
+  },
   {
    "title": "中国初のAI全工程制作による劇場用長編アニメ「三星堆：未来往事」が公開、2日間で興行収入50万元突破",
    "summary": "",
@@ -15226,7 +15250,7 @@
    "firstSeen": "2026-10-23T21:17:59.928Z",
    "image": null,
    "source": "上毛新聞電子版",
-   "sourceId": "gnews-seiyu",
+   "sourceId": "gnews-movie",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -15243,9 +15267,9 @@
    "sources": [
     {
      "name": "上毛新聞電子版",
-     "sourceId": "gnews-seiyu",
+     "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53U2U2WFNMTkYzdHFPQXN6V20xbjlyV0hUWVIydlg4TW9XX2RwZnoyckNMZ2w1aFNhdGs0WnpNdGMxUVRnVk1lTXdBTnJISTNna2lpcUVrZjJwQQ?oc=5",
-     "via": "Googleニュース「声優」"
+     "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
   },
@@ -20747,7 +20771,7 @@
    "firstSeen": "2026-10-23T09:17:55.522Z",
    "image": null,
    "source": "eeo",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -20762,9 +20786,9 @@
    "sources": [
     {
      "name": "eeo",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xN0NDNkp1Y0RrRnI5M2ViTHh3N0lQa1Z2aXYyVHMwUmNPQU9WVXJfVm1sZW9OLUI1M1JpcldhVUNGODE5ajVBbGZsRjhKRHpxTEJISw?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "ファミ通",
@@ -193971,33 +193995,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ES0Z6LUt3MVczVVZ1LVF4cjZxRnlyczhTN1kzamJvQzNkZ2o1S29Fb2pHeFNhTVpST3VlX1M3T1RVZV83NVVUbEw1WFR2LUNIdVZvSUlueVh3akV6c21nNDJNMXhwNHd1TTFvTmlmOGtqeXJwMUVtYlE3YVlobEE?oc=5",
      "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "放送50周年「宇宙戦艦ヤマト 全記録展」が北千住・呉に巡回決定 庵野秀明が企画・プロデュース(リアルサウンド)",
-   "summary": "放送50周年を記念した展覧会「庵野秀明 企画・プロデュース／放送50周年記念『宇宙戦艦ヤマト 全記録展』」が、東京・北千住マルイと広島・呉の大和ミュージアムで巡回開催される。【写真】大和ミュージアム外",
-   "link": "https://news.yahoo.co.jp/articles/54e0c3029488b049f3002c22fc71f6d6baa5d981?source=rss",
-   "pubDate": "2026-10-08T08:01:35.000Z",
-   "firstSeen": "2026-10-08T08:17:45.191Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "event"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/54e0c3029488b049f3002c22fc71f6d6baa5d981?source=rss",
      "syndicated": true
     }
    ]
