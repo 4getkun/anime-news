@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-24T16:18:45.205Z",
+ "generatedAt": "2026-10-24T17:18:24.690Z",
  "count": 6000,
  "dedupe": {
   "exact": 5893,
   "syndicated": 600,
-  "similar": 664,
-  "syndicatedTotal": 6626,
+  "similar": 666,
+  "syndicatedTotal": 6625,
   "syndicatedLeft": 1213
  },
  "calendar": [
@@ -8304,8 +8304,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1012,
-   "accepted": 1012
+   "archived": 1013,
+   "accepted": 1013
   },
   {
    "id": "lisani",
@@ -8359,8 +8359,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5147,
-   "accepted": 4982
+   "archived": 5146,
+   "accepted": 4981
   },
   {
    "id": "gnews-tvanime",
@@ -8392,8 +8392,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2790,
-   "accepted": 2519
+   "archived": 2792,
+   "accepted": 2521
   },
   {
    "id": "natalie-eiga",
@@ -8491,8 +8491,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 666,
-   "accepted": 666
+   "archived": 665,
+   "accepted": 665
   },
   {
    "id": "mal",
@@ -17539,7 +17539,8 @@
     "new",
     "cast",
     "movie",
-    "event"
+    "event",
+    "goods"
    ],
    "works": [
     "攻殻機動隊",
@@ -17553,6 +17554,11 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/23/104138.html"
+    },
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TYzJhaURHakFJWEFVdmhZeHlxWENpVVZCRkgzaVVsdFdOSXhZblRhazM2NThGX1ZScVl4Umo2OXM3Y2xjLTU0cmNVUHg?oc=5"
     },
     {
      "name": "電ファミニコゲーマー",
@@ -17618,10 +17624,10 @@
      "via": "Googleニュース「アニメ」"
     },
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TYzJhaURHakFJWEFVdmhZeHlxWENpVVZCRkgzaVVsdFdOSXhZblRhazM2NThGX1ZScVl4Umo2OXM3Y2xjLTU0cmNVUHg?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "entax（エンタックス）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sM2dNOWtEZ2tBWmVWR2hMUUdhS3REdHE0ejRzcGhQSzYzaDk5T2RJb3d3ZWNxQkRhbXRnNzZSOTdWRlhVVnRIMHlIbTRhQWxoTFpvOHA3VmcxRXFjbTUwUER4cmlVb0I2?oc=5",
+     "via": "Googleニュース「声優」"
     },
     {
      "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
