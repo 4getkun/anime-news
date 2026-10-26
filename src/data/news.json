@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-26T00:18:48.987Z",
+ "generatedAt": "2026-10-26T01:14:27.310Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5857,
-  "syndicated": 596,
+  "exact": 5864,
+  "syndicated": 597,
   "similar": 680,
-  "syndicatedTotal": 6601,
-  "syndicatedLeft": 1226
+  "syndicatedTotal": 6605,
+  "syndicatedLeft": 1228
  },
  "calendar": [
   {
@@ -5623,6 +5623,20 @@
    "verb": "release",
    "label": "発売",
    "work": null,
+   "title": "ユニクロから「ハローキティ」新作UTが12月上旬発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189815.html",
+   "source": "インサイド",
+   "sources": 2,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
    "title": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！仲間たちとの心温まるシーンをデザインした全6種",
    "link": "https://www.inside-games.jp/article/2026/10/21/189580.html",
    "source": "インサイド",
@@ -6924,6 +6938,22 @@
    "precision": "day",
    "verb": "broadcast",
    "label": "放送",
+   "work": "BanG Dream! MyGO!!!!! // Ave Mujica",
+   "title": "『BanG Dream! MyGO!!!!! // Ave Mujica』2027年1月8日放送決定！",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUckFCdGhzcFo5Yzd5M1NxZDRXU2szY3pWaTFXejRST1h2cjdPcUpHai0teTR5ZTBteEV0M2RRYUhTdlBOYnJNZ2IzZnRTWFhPSE54UnV1ZUloUnJ1cHZpNEd3dmptMzh3eER3?oc=5",
+   "source": "アニメイトタイムズ",
+   "sources": 1,
+   "categories": [
+    "broadcast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01-08",
+   "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
    "work": "きにおと",
    "title": "『きにおと』1月8日放送開始｜追加声優に津田健次郎、畠中祐ら",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrQ1FKb0JfWXdsNzNHbEhKaVFaZEtZVWc0d2xNbXp3dTU1M0NrZXF1Ymt5MEt4ZndYNjQ3TkR1WXQtUWZvY0lIQ01GWFdYRWpkWGZodTJBNXBleXdpaXo3OTFGazVxUEkxTHdj?oc=5",
@@ -8119,8 +8149,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 955,
-   "accepted": 951
+   "archived": 958,
+   "accepted": 954
   },
   {
    "id": "natalie-comic",
@@ -8174,8 +8204,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 487,
-   "accepted": 235
+   "archived": 486,
+   "accepted": 234
   },
   {
    "id": "gnews-anime",
@@ -8185,8 +8215,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5143,
-   "accepted": 4960
+   "archived": 5150,
+   "accepted": 4967
   },
   {
    "id": "gnews-tvanime",
@@ -8195,9 +8225,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 98,
-   "archived": 1416,
-   "accepted": 1362
+   "fetched": 100,
+   "archived": 1419,
+   "accepted": 1364
   },
   {
    "id": "gnews-movie",
@@ -8207,8 +8237,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 856,
-   "accepted": 763
+   "archived": 854,
+   "accepted": 761
   },
   {
    "id": "gnews-seiyu",
@@ -8219,7 +8249,7 @@
    "error": null,
    "fetched": 100,
    "archived": 2785,
-   "accepted": 2512
+   "accepted": 2510
   },
   {
    "id": "natalie-eiga",
@@ -8229,8 +8259,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 664,
-   "accepted": 116
+   "archived": 663,
+   "accepted": 117
   },
   {
    "id": "inside-games",
@@ -8240,8 +8270,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1520,
-   "accepted": 702
+   "archived": 1518,
+   "accepted": 700
   },
   {
    "id": "4gamer",
@@ -8295,8 +8325,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29710,
-   "accepted": 3266
+   "archived": 29711,
+   "accepted": 3269
   },
   {
    "id": "prtimes",
@@ -8306,7 +8336,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27064,
+   "archived": 27111,
    "accepted": 488
   },
   {
@@ -8339,11 +8369,380 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 223,
-   "accepted": 223
+   "archived": 222,
+   "accepted": 222
   }
  ],
  "items": [
+  {
+   "title": "「傷だらけ聖女より報復をこめて Season2」アニメの配信はどこで見れる？DMM TVなどで見放題",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/26/104199.html",
+   "pubDate": "2026-10-26T01:06:19.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "works": [
+    "傷だらけ聖女より報復をこめて"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/26/104199.html"
+    }
+   ]
+  },
+  {
+   "title": "配信新番組『ワクティのTBS DRAMA channel』始動 初回は『VIVANT』特集 “新庄”竜星涼＆“チョッキー”オーム・タナパックが撮影裏話を語る(TV LIFE web)",
+   "summary": "TBSグループキャラクターのワクティがナビゲーターを務め、ドラマ制作の裏側に迫る配信新番組『ワクティのTBS DRAMA channel』が、10月26日（月）からスタートする。【写真】ワクティをチョ",
+   "link": "https://news.yahoo.co.jp/articles/a00298e8e8071a1044604e5583f0b1fbe1691a8a?source=rss",
+   "pubDate": "2026-10-26T01:01:51.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "TV LIFE web（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new"
+   ],
+   "works": [
+    "ワクティのTBS DRAMA channel",
+    "VIVANT"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TV LIFE web（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/a00298e8e8071a1044604e5583f0b1fbe1691a8a?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「呪術廻戦」完結展「呪術廻戦≡」の秘蔵素材を展示する追加エリア 図録の別冊も(コミックナタリー)",
+   "summary": "芥見下々「呪術廻戦」の展示イベント「『呪術廻戦』完結展」の追加展示エリア「領域之≡（モジュロ）」の詳細と、グッズ情報が公開された。【画像】「領域之≡ 共作術開示」のイメージ ©芥見下々・岩崎優次／集英",
+   "link": "https://news.yahoo.co.jp/articles/35a6e548bd2e01aa8ddd4d2135bbe267dce610b2?source=rss",
+   "pubDate": "2026-10-26T01:00:29.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event",
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/35a6e548bd2e01aa8ddd4d2135bbe267dce610b2?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ユニクロから「ハローキティ」新作UTが12月上旬発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189815.html",
+   "pubDate": "2026-10-26T01:00:03.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189815.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/513524216f5e62f9b00533b7f319a77c6d3b5ea8?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "アニメ制作の舞台裏、スタッフら語る 秋田市で「アニメば２０２６」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5M2YtdGQxSEQwa0pKT05NUDZLcEhsOHdocmRFdERBM1ViSmpDYkpZYkdsel9PUHFlNnlnY1pSRTFkUW13eDJmdGNwcXhZc2RBNlRmUjdvNnkyTGowT2xOMG9B?oc=5",
+   "pubDate": "2026-10-26T01:00:00.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "秋田魁新報電子版",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "秋田魁新報電子版",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5M2YtdGQxSEQwa0pKT05NUDZLcEhsOHdocmRFdERBM1ViSmpDYkpZYkdsel9PUHFlNnlnY1pSRTFkUW13eDJmdGNwcXhZc2RBNlRmUjdvNnkyTGowT2xOMG9B?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "最速は原作10巻、最長は24年待った――この1ヶ月に相次いだ新作アニメ化決定【編集部まとめ】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82RzF2ZVRNanlwclhPYkxhU3VxZUlkQ2tSb0o2bmtsR3JrVGRfaVJIT0tfSnk4dk1iV0JoelVuaHVpRmZBWUE?oc=5",
+   "pubDate": "2026-10-26T01:00:00.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "shiritomo",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 22,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "shiritomo",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82RzF2ZVRNanlwclhPYkxhU3VxZUlkQ2tSb0o2bmtsR3JrVGRfaVJIT0tfSnk4dk1iV0JoelVuaHVpRmZBWUE?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『ストリートファイター』波動拳や昇龍拳をどう実写化？ キャストの猛特訓捉えた特別映像解禁(オリコン)",
+   "summary": "対戦格闘ゲームをハリウッドで実写映画化した『ストリートファイター／ザ・ムービー』（公開中）のメイキング特別映像が解禁された。リュウの「波動拳」「昇龍拳」や、春麗の「スピニングバードキック」など、ゲーム",
+   "link": "https://news.yahoo.co.jp/articles/642b0edd58cfd52ec56f6a94ae78de41d6da6c2a?source=rss",
+   "pubDate": "2026-10-26T01:00:00.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie",
+    "game",
+    "stage"
+   ],
+   "works": [
+    "ストリートファイター"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/642b0edd58cfd52ec56f6a94ae78de41d6da6c2a?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『呪術廻戦』完結展に新たな展示エリア「領域之≡」登場でネーム公開 新作グッズ情報解禁(オリコン)",
+   "summary": "漫画『呪術廻戦』の展覧会「芥見下々『呪術廻戦』完結展」の新情報が発表された。スピンオフ作品『呪術廻戦≡（モジュロ）』の創作過程を徹底解説する追加展示、そして公式図録の＜別冊＞を含む新宿会場から新たに販",
+   "link": "https://news.yahoo.co.jp/articles/f513bbb33507174cbf3523ceca24d957446dba62?source=rss",
+   "pubDate": "2026-10-26T01:00:00.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "event",
+    "goods"
+   ],
+   "works": [
+    "呪術廻戦"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f513bbb33507174cbf3523ceca24d957446dba62?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "アニメ「パンどろぼう」の配信はどこで見れる？見放題のサブスクやNetflix・Amazonを比較",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/26/104198.html",
+   "pubDate": "2026-10-26T00:57:21.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "broadcast"
+   ],
+   "works": [
+    "パンどろぼう"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/26/104198.html"
+    }
+   ]
+  },
+  {
+   "title": "アニメ「PSYREN -サイレン-」の配信はどこで見れる？見放題サブスクまとめ",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/26/104197.html",
+   "pubDate": "2026-10-26T00:50:47.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "works": [
+    "PSYREN -サイレン-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/26/104197.html"
+    }
+   ]
+  },
+  {
+   "title": "鈴木このみ、TVアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』OPテーマ「強気MAX宣言」MV公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BSkt3b191MHZXQ29NRVdHRFVjb1RBUTd0SjZYNjF6ME90SjA4bXZIRFg4ckMybWJEb1VBVEdabnNoSnZSSTRnZTlmWVdMSzDSAVRBVV95cUxQYVhNUExhSGJvVENUVDF1RHpoWEp3WDl5a3Rnay1xM25jdWR6cXNVem9Lel83LVlfMU9uaVpycVpjZ2xqYmVHODV6bklfaTktRlpYX3k?oc=5",
+   "pubDate": "2026-10-26T00:49:06.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "エンタメ特化型情報メディア スパイス",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "music"
+   ],
+   "works": [
+    "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "エンタメ特化型情報メディア スパイス",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BSkt3b191MHZXQ29NRVdHRFVjb1RBUTd0SjZYNjF6ME90SjA4bXZIRFg4ckMybWJEb1VBVEdabnNoSnZSSTRnZTlmWVdMSzDSAVRBVV95cUxQYVhNUExhSGJvVENUVDF1RHpoWEp3WDl5a3Rnay1xM25jdWR6cXNVem9Lel83LVlfMU9uaVpycVpjZ2xqYmVHODV6bklfaTktRlpYX3k?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「うちの弟どもがすみません」アニメの配信はどこで見れる？見放題サブスク・TVer・実写映画との違いまとめ",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/26/104196.html",
+   "pubDate": "2026-10-26T00:46:58.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "movie",
+    "stage"
+   ],
+   "works": [
+    "うちの弟どもがすみません"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/26/104196.html"
+    }
+   ]
+  },
+  {
+   "title": "「追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。」アニメの配信はどこで見れる？見放題サブスク・TVer・放送局まとめ",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/10/26/104195.html",
+   "pubDate": "2026-10-26T00:44:16.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "broadcast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/10/26/104195.html"
+    }
+   ]
+  },
   {
    "title": "日本シリーズ中継が高視聴率 「VIVANT」18.6％に好影響？ ドラマ45分遅れも高数字の背景(スポニチアネックス)",
    "summary": "◇SMBC日本シリーズ2026第2戦 DeNA3―4ソフトバンク（2026年10月25日 横浜） 25日にTBS系で生中継された「SMBC日本シリーズ2026」第2戦、DeNA―ソフトバンク戦の平均世",
@@ -8480,6 +8879,35 @@
    ]
   },
   {
+   "title": "政府が「海外売上20兆円」を目指す日本のアニメ・ゲーム産業。億超え投資家が注目する「国策関連株」3銘柄（SPA!）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZ2t5eDZJWUpQTkxYdGZma29wNEJRVnBfeUhmZG5iaWRyVUlKU3Q1U3NvcTFlN1BiXzhBNjFzV0lSS0h4SG1MY0xUMGNDT1pMRFplZ2hhTTZqS1FLaVQ3SURVaFEzRHdWMUdkR0EwNFdndGFqdThwQXozMFY5Smc?oc=5",
+   "pubDate": "2026-10-25T23:51:03.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "SPA!（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "game",
+    "business"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "SPA!（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZ2t5eDZJWUpQTkxYdGZma29wNEJRVnBfeUhmZG5iaWRyVUlKU3Q1U3NvcTFlN1BiXzhBNjFzV0lSS0h4SG1MY0xUMGNDT1pMRFplZ2hhTTZqS1FLaVQ3SURVaFEzRHdWMUdkR0EwNFdndGFqdThwQXozMFY5Smc?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "これが歳を重ねるということ…有名人の訃報を聞いた時の反応を、年代別に描いた作品に「すげえ共感」の声【漫画】(WEBザテレビジョン)",
    "summary": "コミックの映像化や、小説のコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョン マンガ部」。今回は、一秒さんが描く『最近、訃報を見ると思うこと",
    "link": "https://news.yahoo.co.jp/articles/8e67d19f3233c116d2ea054b1bae5831e3c6359e?source=rss",
@@ -8592,63 +9020,6 @@
    ]
   },
   {
-   "title": "一ノ瀬ワタル演じる“猿桜”、再び土俵入り! Netflixシリーズ「サンクチュアリ -聖域-」シーズン2 制作決定(otocoto)",
-   "summary": "礼儀知らずで荒くれ者の新人力士・猿桜が大相撲界でのし上がろうとする姿を、一ノ瀬ワタル主演で痛快かつ骨太に描き大ヒットした、Netflixシリーズ「サンクチュアリ -聖域-」。このたび本作のシーズン2制",
-   "link": "https://news.yahoo.co.jp/articles/0ac3f01e3c67303a21768be4efd55f1a60713234?source=rss",
-   "pubDate": "2026-10-25T23:00:05.000Z",
-   "firstSeen": "2026-10-25T23:17:53.630Z",
-   "image": null,
-   "source": "otocoto（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "new",
-    "broadcast",
-    "visual",
-    "cast",
-    "stage"
-   ],
-   "works": [
-    "サンクチュアリ -聖域-"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "otocoto（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/0ac3f01e3c67303a21768be4efd55f1a60713234?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Bezzy（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/395c6ac60521304f2af50aaed555d717885d755c?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ab77da583d82854feee73ba37c3b5efc34be967d?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/515ee1eabc9f06d235caeae63b64c1eb9fe7416a?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/bc943fd7a3e2d688eb33dc6f41ad539d81936c97?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "Netflixシリーズ「サンクチュアリ -聖域-」シーズン2制作決定 一ノ瀬ワタル「もう一度、全部を懸けてぶつかっていきます」(vois ヴォイス)",
    "summary": "Netflixシリーズ「サンクチュアリ -聖域-」シーズン2の制作が決定した。併せてキービジュアルが公開された。 本作は、借金・暴力・家庭崩壊…と人生崖っぷちで荒くれ者のヤンキー・小瀬清（演：一ノ瀬ワ",
    "link": "https://news.yahoo.co.jp/articles/86610a02cc119eecdbcb6e67bcee5a4d427aceb7?source=rss",
@@ -8680,6 +9051,68 @@
      "name": "モデルプレス（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/78ffdd473b2fb41a0a9295350376af33958a6b81?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Netflix「サンクチュアリ -聖域-」シーズン2制作決定、一ノ瀬ワタル「楽しみにしときぃや」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XSmhLbThnUC1SdkhRVEZ5UmQ4eHljQ09XMTlRX20wREJkc1NqWlJFRHQ0VWJoTUFLS09SUXN1S0RoRmVrLXAyQ292bw?oc=5",
+   "pubDate": "2026-10-25T23:00:00.000Z",
+   "firstSeen": "2026-10-25T23:17:53.630Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new",
+    "broadcast",
+    "visual",
+    "cast",
+    "stage"
+   ],
+   "works": [
+    "サンクチュアリ -聖域-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XSmhLbThnUC1SdkhRVEZ5UmQ4eHljQ09XMTlRX20wREJkc1NqWlJFRHQ0VWJoTUFLS09SUXN1S0RoRmVrLXAyQ292bw?oc=5"
+    },
+    {
+     "name": "otocoto（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0ac3f01e3c67303a21768be4efd55f1a60713234?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Bezzy（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/395c6ac60521304f2af50aaed555d717885d755c?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ab77da583d82854feee73ba37c3b5efc34be967d?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/515ee1eabc9f06d235caeae63b64c1eb9fe7416a?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/bc943fd7a3e2d688eb33dc6f41ad539d81936c97?source=rss",
      "syndicated": true
     }
    ]
@@ -9305,6 +9738,25 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2VVh5MlQtUEk1WEVxYng4ckdGNnhLbWItdzRWZlo2U1BTdXhQZllPY25QQ3ZEYS1MSXZpaGZfTmo2X3lOSzR2QjN6X3JsQ3dINmhNeDdZOC0yd3QtQnFnV0NlQXp4U05scWxJ?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "GAME Watch",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wMS1HSlBlT1BvendPYV9jUVJFSEN3eFlhR3JWUmhWcTkxQzF2cFlFUGowQXpISmI2MEE0OHc2Q3BmN3JjZWZuSWdPcm1Gc2ZGVVBGN1NtODNXemdjYjFrOWRLdk1KQQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "GAME Watch（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/46e3952f2055a0834b320702e7f3a742b387c71a?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "GAME Watch（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nV1h1NklfNVJOemlqUC1fdl92RWZiZnhlQ3lLZFhvQ2lNWVlDVzBYbVF5VHBOVGRxdGRtQ2MySndUQ2VvdnFYWVNaWEU0S2VadllUcktYTVpVTW1IUVFJN284VWNoWFk2c0VyUWs3YnJmdVo4NVRpVDN1cWc2WE0?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -9720,6 +10172,35 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/b863e7d05d3994ed759acf4f1e2e33c3d3d35936?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『BanG Dream! MyGO!!!!! // Ave Mujica』2027年1月8日放送決定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUckFCdGhzcFo5Yzd5M1NxZDRXU2szY3pWaTFXejRST1h2cjdPcUpHai0teTR5ZTBteEV0M2RRYUhTdlBOYnJNZ2IzZnRTWFhPSE54UnV1ZUloUnJ1cHZpNEd3dmptMzh3eER3?oc=5",
+   "pubDate": "2026-10-25T13:55:00.000Z",
+   "firstSeen": "2026-10-26T01:13:37.793Z",
+   "image": null,
+   "source": "アニメイトタイムズ",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "broadcast"
+   ],
+   "works": [
+    "BanG Dream! MyGO!!!!! // Ave Mujica"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUckFCdGhzcFo5Yzd5M1NxZDRXU2szY3pWaTFXejRST1h2cjdPcUpHai0teTR5ZTBteEV0M2RRYUhTdlBOYnJNZ2IzZnRTWFhPSE54UnV1ZUloUnJ1cHZpNEd3dmptMzh3eER3?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -10719,6 +11200,13 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yV25Ga3BjSE91cy1iZUo1R0c2cXJ3bkt4cHJoN0FuR1BaanJTUmpuTFBhQ0FobXdZSkdyeEt5Zm5EZE1GNF9XQndBeTBQaTRldlE?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oS2dHMnlxVGhmSll1NVBOalRmNTVRd0gxc0Q4LVppM1paZ2RtbkVNSGNXVzBMU1pTcjFUb0FtUy11em1zNmVZVHAwVXRwZjhfSXpRdA?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
     }
    ]
   },
@@ -11864,6 +12352,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/25/104189.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrV0pteEJicUFIY1laSXJVelFEOGhxMHRXeHU4WGNBbGRZU3N6Vld3YVJYUUxHQ0prckFmajJJSndDZmpySGJwUlRCaHVDX3BrTkF3bTE0SG1HMGkwZktrVmRscGdIWGp1UDhCR2tTcW91RUtCS2ZhQjFJNk5MQms?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -11928,7 +12423,7 @@
    "firstSeen": "2026-10-25T13:17:58.353Z",
    "image": null,
    "source": "アニメイトタイムズ",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -11943,9 +12438,9 @@
    "sources": [
     {
      "name": "アニメイトタイムズ",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GbWNTSFpXbUNjTFN5Yk5pcmhKdDljYnFDNkpWRGd5Z0lMd0F2ZkRaZ1JSem5kcDVxakc3a3NjUlZ6QUg3TW1MUGtCT2lfUzJaTEJ4djZTQUlTNnNMUlJ3Ml9zaUtYSWpGZTRF?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -13780,9 +14275,9 @@
     },
     {
      "name": "マグミクス（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QdWtOZXdCaWtPRm5OZm9LZTZTMS1tb01LZG5iSW5pd0l6aDJMOFEyMXo2SkdrZ0FicHJfS21rYy01RG0yRklqU1F3cGdQTkF1ZHhxQy1WSnZNZWdjSElSeG1uNGZSV3ZOdnNJX0FMdUVET3Q5N3dCNktJa2QzcDA?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -87467,7 +87962,7 @@
    ]
   },
   {
-   "title": "こかむも「ぬるめた」TVアニメ化、2027年に放送開始 スタッフ＆ビジュアル公開（コメントあり）",
+   "title": "こかむも「ぬるめた」TVアニメ化、2027年に放送開始 スタッフ＆ビジュアル公開",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53ZmxZVzVFa1Y1UmppdGo0T2hhWUVtQzRrOUh0ZHA5SDlJa1VsaC03LVpSNWRPbzhhZWJsOXRlb05qYU1VM2pnN09HRk8?oc=5",
    "pubDate": "2026-10-18T12:00:00.000Z",
@@ -193039,445 +193534,6 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000015.000138132.html"
-    }
-   ]
-  },
-  {
-   "title": "'Teenage Mercenary' Reveals Main Staff, 2027 Debut",
-   "summary": "The Crunchyroll Showcase at New York Comic Con 2026 revealed the main staff, a teaser visual (pictured), and an announcement promo for the t…",
-   "link": "https://myanimelist.net/news/74803693?_location=rss",
-   "pubDate": "2026-10-09T00:55:03.000Z",
-   "firstSeen": "2026-10-09T01:17:42.647Z",
-   "image": null,
-   "source": "MyAnimeList News",
-   "sourceId": "mal",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "visual",
-    "cast"
-   ],
-   "works": [
-    "Teenage Mercenary"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MyAnimeList News",
-     "sourceId": "mal",
-     "link": "https://myanimelist.net/news/74803693?_location=rss"
-    }
-   ]
-  },
-  {
-   "title": "「ガンダム」シャア専用ズゴックの“腕”がクッションになった！特徴的な爪まで再現、手を入れてアームクッションとしても使用可能",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/188989.html",
-   "pubDate": "2026-10-09T00:55:02.000Z",
-   "firstSeen": "2026-10-09T01:17:42.647Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/188989.html"
-    }
-   ]
-  },
-  {
-   "title": "「LINEマンガ」で独占配信中の大人気ウェブトゥーン作品『再婚承認を要求します』2027年TVアニメ化決定！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vQjZvNjJQSWdxM0l5a2RSRzE2MVktLVVwdkhNSU9OZXNHQVdYRDBUMjdfRGg0U2lvSUZ0cDVaZFItd3BlLWxvVEVaQ2R3dFNoTy1oY1RjWUdVaFA2OUgyWUhlZVg1TDh0Z0F4eldVSmFGNXNsSDFzeTNIQQ?oc=5",
-   "pubDate": "2026-10-09T00:51:30.000Z",
-   "firstSeen": "2026-10-09T01:17:42.647Z",
-   "image": null,
-   "source": "ニコニコニュース",
-   "sourceId": "gnews-tvanime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 26,
-   "categories": [
-    "new"
-   ],
-   "works": [
-    "再婚承認を要求します"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vQjZvNjJQSWdxM0l5a2RSRzE2MVktLVVwdkhNSU9OZXNHQVdYRDBUMjdfRGg0U2lvSUZ0cDVaZFItd3BlLWxvVEVaQ2R3dFNoTy1oY1RjWUdVaFA2OUgyWUhlZVg1TDh0Z0F4eldVSmFGNXNsSDFzeTNIQQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "声優今井文也、新型コロナ罹患 公演延期",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeU9fMjJ4UFlZdmt3UWpSSldudTc3NXhFV0xJSFNvd2NPMmtuMUVGejdIYnQxaTRvYl9LMXNYRV81WEk5cGZENUs1MXhyMjFwTmsxTHlEYmE0eFBkWENFSzQ0cExORFRlN0twTFJacHpHWEtRYUp2RmZnNGtiS21ReTNBY3NUR3ZWb0ZmeENPSjRSaVltM0E?oc=5",
-   "pubDate": "2026-10-09T00:47:00.000Z",
-   "firstSeen": "2026-10-09T01:17:42.647Z",
-   "image": null,
-   "source": "日刊スポーツ",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "日刊スポーツ",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeU9fMjJ4UFlZdmt3UWpSSldudTc3NXhFV0xJSFNvd2NPMmtuMUVGejdIYnQxaTRvYl9LMXNYRV81WEk5cGZENUs1MXhyMjFwTmsxTHlEYmE0eFBkWENFSzQ0cExORFRlN0twTFJacHpHWEtRYUp2RmZnNGtiS21ReTNBY3NUR3ZWb0ZmeENPSjRSaVltM0E?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "ｄメニューニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXVXMkNETlQtTTJXNVFFaGp5SEFjUW5XX21aSkhEWG5uTDM4Xy1yOVNQNi1QN2ZNLUJGcUJUc1prdktzZ3dmV3BOTlpEaXp2a3N4WnlVMjFyTFllNHpzTFN4Y0VFRTN1dENUclg0aFhPamVRWlBQWHpYSzhyako0ZUQ1THZ4d1ZRWjBJYjRZSXNvaGhnOFZrZTVKUHZ5U0nSAaQBQVVfeXFMUDlIc01fdGdlQzB6NFNycTlpYzlMSXBFdWpPbGJzWTR4X1Q0b0tZZjBxYzBfRGo2eVhPRXR1YTB4UXJGenpYWEFZbjVSRHRWSld6c0pkNlNoX1pGQXp3T0VtVUM0QUVpeDVveVE5WE85THBUYjVReHRjd01ZUjc1VUlibTUxUjdoV1lIbjNtTWVlMGZYanlKXzRsUnp0bnFjRmNrWC0?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    },
-    {
-     "name": "日刊スポーツ（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04eE9rdE5uclQ4SGpNcE1TZGprdmotMFFJOVdzRFBjX3JmWFJQV1NyTGF0T2pyc01ua0xkQ19kYzBZTUlwbWZFM1Z4OVk5VFZOQ2NvWEhhcjNqcEFqYUdBVlB6U0lidFFXdUtISkk0VXhLbmJwUTVNalZzMzRlSW8?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "J.C. Staff Animates Teenage Mercenary Webtoon for 2027 Broadcast",
-   "summary": "SAO: Alicization's Manabu Ono helms, writes anime with music by Hiroyuki Sawano",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-08/j.c-staff-animates-teenage-mercenary-webtoon-for-2027-broadcast/.242646",
-   "pubDate": "2026-10-09T00:39:51.000Z",
-   "firstSeen": "2026-10-09T01:17:42.647Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-08/j.c-staff-animates-teenage-mercenary-webtoon-for-2027-broadcast/.242646"
-    }
-   ]
-  },
-  {
-   "title": "Miraculous Officially Reveals 'Dark' New Ladybug & Cat Noir TV Series for Older Audiences",
-   "summary": "Miraculous: Tales of Ladybug & Cat Noir is officially getting the live-action series fans have been waiting for, and it will be darker than…",
-   "link": "https://www.cbr.com/miraculous-ladybug-cat-noir-live-action-tv-series-announce/",
-   "pubDate": "2026-10-09T00:17:11.000Z",
-   "firstSeen": "2026-10-09T00:17:46.539Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/01/miraculous-tales-of-ladybug-cat-noir.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/miraculous-ladybug-cat-noir-live-action-tv-series-announce/"
-    }
-   ]
-  },
-  {
-   "title": "アニメ人気、若年層で一段と浸透－視聴時間増え関連消費にも波及",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamlYbGdNZk15VFd0cWdhdWplRk1HRTJoTlpYSUpWMUEzREs1TFpCc2ttc1pUTW5RalByUUJMdGVQN0VQd3puVVUzeTZpVFlwc0RCbFg4VlhXSWJFaGlZNHEzWTdSZmxxcHVKMXhJbGFtVnE4SFR2WTd3TEFRTHlqZ2hscklqeWloQlRVVEt3?oc=5",
-   "pubDate": "2026-10-09T00:10:00.000Z",
-   "firstSeen": "2026-10-09T00:17:46.539Z",
-   "image": null,
-   "source": "Bloomberg.com",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Bloomberg.com",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamlYbGdNZk15VFd0cWdhdWplRk1HRTJoTlpYSUpWMUEzREs1TFpCc2ttc1pUTW5RalByUUJMdGVQN0VQd3puVVUzeTZpVFlwc0RCbFg4VlhXSWJFaGlZNHEzWTdSZmxxcHVKMXhJbGFtVnE4SFR2WTd3TEFRTHlqZ2hscklqeWloQlRVVEt3?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "TBS NEWS DIG",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qNENfTGJpOWhnQzVPSTNSSWJod0xGTkN0cjdwbEtwZlM5VERMTk5lVnhKQ01tX1BCRS00bXdiNWNqb05STWtNUldacVZBcHE0bkZLYnRHc0FVcnFqSkJMNEpxRE9reGFBWEpndkl1Y2I3UjE2?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "TBS CROSS DIG with Bloomberg（Yahoo!ニュース）",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DczFkSmVwT0xXb1ViSHIzTzNhdmdQRmJlUjVFZG9zU3VpRXB3UnRUR0czWFNzZFFBQjlGUklvUmhaRmRfdnpyUlZJOE1MRXBmMHVxLWJqaDl3aVd1R1NuUGkyTXA5ekU0M3FIRU5qMFdELXkyM3hyYkxrZGVPbHc?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「青春ブタ野郎はバニーガール先輩の夢を見ない」の配信はどこ？TVerの無料配信と見放題サブスクを比較",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/09/103633.html",
-   "pubDate": "2026-10-09T00:09:02.000Z",
-   "firstSeen": "2026-10-09T00:17:46.539Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "青春ブタ野郎はバニーガール先輩の夢を見ない"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/09/103633.html"
-    }
-   ]
-  },
-  {
-   "title": "「青春ブタ野郎はランドセルガールの夢を見ない」の配信はどこ？劇場版を見放題で見れるサブスクを比較",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/09/103632.html",
-   "pubDate": "2026-10-09T00:07:18.000Z",
-   "firstSeen": "2026-10-09T00:17:46.539Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "青春ブタ野郎はランドセルガールの夢を見ない"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/09/103632.html"
-    }
-   ]
-  },
-  {
-   "title": "「ＶＩＶＡＮＴ」“兄弟コンビ”が紅白！二宮和也「全勢力をかけて堺雅人に協力する」…芦田愛菜と３人で司会決定(スポーツ報知)",
-   "summary": "ＮＨＫは９日、女優の芦田愛菜、俳優の堺雅人、俳優の二宮和也が、大みそかの第７７回ＮＨＫ紅白歌合戦（後７時２０分）の司会を務めることを発表した。芦田、堺は初の紅白司会。二宮は２０１７年以来９年ぶりの大役",
-   "link": "https://news.yahoo.co.jp/articles/5b72ddd71b416567d0ef87c4c7d7eb2110e153b8?source=rss",
-   "pubDate": "2026-10-09T00:06:17.000Z",
-   "firstSeen": "2026-10-09T00:17:46.539Z",
-   "image": null,
-   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/5b72ddd71b416567d0ef87c4c7d7eb2110e153b8?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『入学傭兵』TVアニメ化2027年放送決定、ティザー解禁",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PUVE1R20xLVNMNUl1R19PTFVLblREckJLbTFWZWZpNTBTZEtuZjJabDdYMElCTXdjN3Azbkp5SG9HSzlsalE?oc=5",
-   "pubDate": "2026-10-09T00:05:48.000Z",
-   "firstSeen": "2026-10-09T01:17:42.647Z",
-   "image": null,
-   "source": "Koubo",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 26,
-   "categories": [
-    "new",
-    "broadcast",
-    "visual"
-   ],
-   "works": [
-    "入学傭兵"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Koubo",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PUVE1R20xLVNMNUl1R19PTFVLblREckJLbTFWZWZpNTBTZEtuZjJabDdYMElCTXdjN3Azbkp5SG9HSzlsalE?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "「青春ブタ野郎はサンタクロースの夢を見ない」の配信はどこ？TVアニメ2期を見放題で見れるサブスク",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/09/103631.html",
-   "pubDate": "2026-10-09T00:04:57.000Z",
-   "firstSeen": "2026-10-09T00:17:46.539Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 18,
-   "categories": [],
-   "works": [
-    "青春ブタ野郎はサンタクロースの夢を見ない"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/09/103631.html"
-    }
-   ]
-  },
-  {
-   "title": "映画「BADBOYS -THE MOVIE-」の配信はどこで見れる？見放題サブスクまとめ",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/09/103630.html",
-   "pubDate": "2026-10-09T00:00:38.000Z",
-   "firstSeen": "2026-10-09T00:17:46.539Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "BADBOYS -THE MOVIE-"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/09/103630.html"
-    }
-   ]
-  },
-  {
-   "title": "'Kininatteru Hito ga Otoko ja Nakatta' Reveals Additional Cast, Staff, First Promo",
-   "summary": "The Crunchyroll Showcase at New York Comic Con 2026 revealed additional cast, staff, and a promotional video for the television anime adapta…",
-   "link": "https://myanimelist.net/news/74803545?_location=rss",
-   "pubDate": "2026-10-09T00:00:35.000Z",
-   "firstSeen": "2026-10-09T00:17:46.539Z",
-   "image": null,
-   "source": "MyAnimeList News",
-   "sourceId": "mal",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "visual",
-    "cast"
-   ],
-   "works": [
-    "Kininatteru Hito ga Otoko ja Nakatta"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MyAnimeList News",
-     "sourceId": "mal",
-     "link": "https://myanimelist.net/news/74803545?_location=rss"
-    }
-   ]
-  },
-  {
-   "title": "「くまのプーさん」100周年記念一番くじに癒される！ラストワン賞は高級感あるぬいぐるみ、原作イメージのブック型ライトも素敵",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/09/188986.html",
-   "pubDate": "2026-10-09T00:00:04.000Z",
-   "firstSeen": "2026-10-09T00:17:46.539Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/09/188986.html"
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/c5acb25a4198e77c9b732301872db1460cfa88c3?source=rss",
-     "syndicated": true
     }
    ]
   }
