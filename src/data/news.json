@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-26T11:18:37.782Z",
+ "generatedAt": "2026-10-26T12:18:33.833Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5886,
+  "exact": 5887,
   "syndicated": 601,
   "similar": 683,
-  "syndicatedTotal": 6624,
-  "syndicatedLeft": 1242
+  "syndicatedTotal": 6628,
+  "syndicatedLeft": 1245
  },
  "calendar": [
   {
@@ -141,6 +141,24 @@
    "sources": 1,
    "categories": [
     "cast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10",
+   "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": null,
+   "title": "【2026秋アニメ一覧】10月より放送開始の新作＆再放送アニメのあらすじ・キャスト・主題歌など情報まとめ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UUk00UHpEQWVheEhrejZrMU5mTGhlRExMTnR0UEFUdWpBaVliT2xwdUNqZk0zZjNwelk0NVVaUjNsY25SMVlkOXlTdFNwYjY4RjdiXw?oc=5",
+   "source": "eeo",
+   "sources": 1,
+   "categories": [
+    "broadcast",
+    "cast",
+    "music"
    ],
    "platforms": [],
    "spoiler": false
@@ -3882,7 +3900,7 @@
    "title": "10月30日発売！ 声優・七瀬つむぎの初写真集『つむぎ』。上坂すみれさんからの帯コメントが解禁！",
    "link": "https://seigura.com/news/176956/",
    "source": "声優グランプリ",
-   "sources": 6,
+   "sources": 7,
    "categories": [
     "cast"
    ],
@@ -4754,6 +4772,22 @@
    "link": "https://www.inside-games.jp/article/2026/10/26/189836.html",
    "source": "インサイド",
    "sources": 2,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-03",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "ミッフィー",
+   "title": "Maison de FLEUR×『ミッフィー』コラボが再び！ミッフィーとボリスのフリルトートやフェイス型ポーチなど全6型が11月3日発売",
+   "link": "https://nijimen.kusuguru.co.jp/topics/644297",
+   "source": "にじめん",
+   "sources": 1,
    "categories": [
     "goods"
    ],
@@ -6487,23 +6521,6 @@
    "source": "Googleニュース「アニメ」",
    "sources": 1,
    "categories": [
-    "media"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12-23",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "ぼっち・ざ・ろっく!",
-   "title": "『ぼっち・ざ・ろっく！』、『Re:結束バンド』アナログレコード12月23日発売決定＆ライブ無料配信決定！",
-   "link": "https://www.lisani.jp/0000319682/",
-   "source": "リスアニ！",
-   "sources": 1,
-   "categories": [
-    "broadcast",
     "media"
    ],
    "platforms": [],
@@ -8343,8 +8360,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 964,
-   "accepted": 960
+   "archived": 963,
+   "accepted": 959
   },
   {
    "id": "natalie-comic",
@@ -8354,8 +8371,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 913,
-   "accepted": 913
+   "archived": 911,
+   "accepted": 911
   },
   {
    "id": "lisani",
@@ -8398,8 +8415,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 492,
-   "accepted": 231
+   "archived": 493,
+   "accepted": 232
   },
   {
    "id": "gnews-anime",
@@ -8409,8 +8426,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5187,
-   "accepted": 5003
+   "archived": 5185,
+   "accepted": 5001
   },
   {
    "id": "gnews-tvanime",
@@ -8420,8 +8437,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1416,
-   "accepted": 1360
+   "archived": 1418,
+   "accepted": 1362
   },
   {
    "id": "gnews-movie",
@@ -8430,9 +8447,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 861,
-   "accepted": 770
+   "fetched": 98,
+   "archived": 862,
+   "accepted": 769
   },
   {
    "id": "gnews-seiyu",
@@ -8442,8 +8459,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2835,
-   "accepted": 2547
+   "archived": 2836,
+   "accepted": 2549
   },
   {
    "id": "natalie-eiga",
@@ -8453,8 +8470,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 661,
-   "accepted": 116
+   "archived": 663,
+   "accepted": 117
   },
   {
    "id": "inside-games",
@@ -8464,8 +8481,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1566,
-   "accepted": 732
+   "archived": 1570,
+   "accepted": 733
   },
   {
    "id": "4gamer",
@@ -8475,7 +8492,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1170,
+   "archived": 1173,
    "accepted": 82
   },
   {
@@ -8497,7 +8514,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1294,
+   "archived": 1296,
    "accepted": 83
   },
   {
@@ -8520,7 +8537,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29678,
-   "accepted": 3284
+   "accepted": 3286
   },
   {
    "id": "prtimes",
@@ -8530,7 +8547,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27818,
+   "archived": 27840,
    "accepted": 499
   },
   {
@@ -8568,6 +8585,427 @@
   }
  ],
  "items": [
+  {
+   "title": "「めっちゃ可愛いエレンとリヴァイ兵長」「2026年になっても見ることができるとは」劇場版『進撃の巨人』監督による新規画にファン歓喜(ABEMA TIMES)",
+   "summary": "アニメ監督の荒木哲郎氏が自身の公式Xにて、12年ぶりに公開となった「劇場版『進撃の巨人』前編〜紅蓮の弓矢〜」の舞台挨拶を前に特別イラストを公開して大きな話題を呼んでいる。スーツ姿のエレン・イェーガー（",
+   "link": "https://news.yahoo.co.jp/articles/3218cd2417e540c2b818b475626533490ad50ac5?source=rss",
+   "pubDate": "2026-10-26T12:15:32.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "cast",
+    "movie",
+    "stage"
+   ],
+   "works": [
+    "進撃の巨人"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/3218cd2417e540c2b818b475626533490ad50ac5?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "しまむらで「ちいかわ」グッズが11月3日15時よりオンライン販売！寒い季節にピッタリなもこもこルームシューズ全4種(インサイド)",
+   "summary": "しまむらは、「ちいかわ」のグッズをしまむらパーク（オンラインストア）にて11月3日15時より販売します。【画像】もこもこ！しまむらの「ちいかわ」ルームシューズ全4種◆「ちいかわ」のルームシューズが登場",
+   "link": "https://news.yahoo.co.jp/articles/4aed9b0306b426ac143ddd1843d21769fffdbe92?source=rss",
+   "pubDate": "2026-10-26T12:15:03.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "インサイド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/4aed9b0306b426ac143ddd1843d21769fffdbe92?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "キラキラの胎内、そして生まれた瞬間…娘のリアルすぎる胎内記憶に「めちゃくちゃ貴重な話」【出産・体の不思議漫画3選】(WEBザテレビジョン)",
+   "summary": "コミックの映像化や、ドラマのコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョンマンガ部」。【漫画】『胎内記憶』を読む今回は、生命の神秘や、女",
+   "link": "https://news.yahoo.co.jp/articles/f3a0215ca7ec9db95bbaa8c60ca15c9a6636df67?source=rss",
+   "pubDate": "2026-10-26T12:05:00.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "romance"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f3a0215ca7ec9db95bbaa8c60ca15c9a6636df67?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『あんさんぶるスターズ！！』より、乱 凪砂「FLOWERY ERA」が配信開始！",
+   "summary": "大人気ゲームアプリ『あんさんぶるスターズ！！』から、ESアイドルソング Solo -Bright me up!...",
+   "link": "https://www.lisani.jp/0000320919/",
+   "pubDate": "2026-10-26T12:00:32.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610261800-yh-008.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "broadcast",
+    "game"
+   ],
+   "works": [
+    "あんさんぶるスターズ!!",
+    "FLOWERY ERA"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000320919/"
+    }
+   ]
+  },
+  {
+   "title": "M!LKの新曲「ザッツ！超常」の見どころは吉田仁人と塩﨑太智のソロダンスパート(音楽ナタリー)",
+   "summary": "M!LKが本日10月26日に新曲「ザッツ！超常」を配信リリースし、YouTubeにてダンスパフォーマンスムービーを公開した。【動画】「ザッツ！超常」のダンスはこんな感じ「ザッツ！超常」は、テレビアニメ",
+   "link": "https://news.yahoo.co.jp/articles/8522544449fc9c1ec141809180d3e7b5ddd3f34a?source=rss",
+   "pubDate": "2026-10-26T12:00:11.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/8522544449fc9c1ec141809180d3e7b5ddd3f34a?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "シリーズ完結編『デート・ア・ライブF Last Date』2027年3月より劇場上映決定！反転十香が描かれた特報＆ティザービジュアル第2弾が解禁(MOVIE WALKER PRESS)",
+   "summary": "全世界でシリーズ累計900万部を突破するライトノベル「デート・ア・ライブ」。そのシリーズ完結編となるアニメーション『デート・ア・ライブF Last Date』が、2027年3月26日(金)より劇場上映",
+   "link": "https://news.yahoo.co.jp/articles/3bf0aa2ae262857045b4a0b6e91b1cb37e68f330?source=rss",
+   "pubDate": "2026-10-26T12:00:00.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "visual",
+    "movie",
+    "media"
+   ],
+   "works": [
+    "デート・ア・ライブF Last Date"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/3bf0aa2ae262857045b4a0b6e91b1cb37e68f330?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "抜け目がない子翠に猫猫が歓喜！レアな笑顔に「あんな嬉しそうなの初めて見た」アニメ『薬屋のひとりごと』52話(ABEMA TIMES)",
+   "summary": "アニメ『薬屋のひとりごと』第52話が、10月23日に放送された（順次放送中）。子翠（CV：瀬戸麻沙美）が“ある手掛かり”を残していたことに気づき、猫猫（CV：悠木碧）が心底嬉しそうにする一幕に、ネット",
+   "link": "https://news.yahoo.co.jp/articles/18676b741002e8c8e5d28757ccb9366271f16cb6?source=rss",
+   "pubDate": "2026-10-26T11:57:16.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "works": [
+    "薬屋のひとりごと"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/18676b741002e8c8e5d28757ccb9366271f16cb6?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ゴジラ』新作目前、テレビで過去3作品が無料！不朽の名作「初代ゴジラ」と“白黒版”の「ゴジラ-1.0」振り返ろう(オタク総研)",
+   "summary": "ＢＳ日テレは、劇場最新作『ゴジラ-0.0』の公開を記念し、2週連続で「ゴジラ」シリーズの映画を放送する。11月1日（日）夜7時からシリーズの原点である『ゴジラ』（1954）を、11月8日（日）夜6時3",
+   "link": "https://news.yahoo.co.jp/articles/a42942cdce6127580883a7a831474f54a1fc7924?source=rss",
+   "pubDate": "2026-10-26T11:48:00.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "ゴジラ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/a42942cdce6127580883a7a831474f54a1fc7924?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ミステリー作家・綾辻行人氏「“陥落”上等にゃ 笑」ついにヤニねこファミリーに！？『ヤニねこ』単行本帯コメント寄稿で大反響(ABEMA TIMES)",
+   "summary": "『十角館の殺人』などで知られる小説家の綾辻行人氏が自身の公式Xを更新し、漫画『ヤニねこ』の単行本第14巻の帯コメントを寄稿したことを報告して大きな話題を呼んでいる。「講談社・ヤンマガの罠にはまって」コ",
+   "link": "https://news.yahoo.co.jp/articles/ed0fa189a3904a9189cb032d9e62eea12ab64751?source=rss",
+   "pubDate": "2026-10-26T11:45:31.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "media"
+   ],
+   "works": [
+    "ヤニねこ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ed0fa189a3904a9189cb032d9e62eea12ab64751?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "八木勇征、高橋文哉と共に&TEAM・Kの誕生日祝う 3ショット写真も公開「イケメン3人で眼福」「続く仲良しが知れて嬉しい」 実写映画『ブルーロック』で共演(オリコン)",
+   "summary": "ダンス＆ボーカルグループ・FANTASTICSのボーカルで俳優の八木勇征（29）が25日、自身のインスタグラムを更新。21日に誕生日を迎えたグローバルボーイズグループ・&TEAMのK（29）を俳優の高",
+   "link": "https://news.yahoo.co.jp/articles/96f763e6815843cfd955b963ca0cc8a5c1db0efb?source=rss",
+   "pubDate": "2026-10-26T11:45:00.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie",
+    "stage"
+   ],
+   "works": [
+    "ブルーロック"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/96f763e6815843cfd955b963ca0cc8a5c1db0efb?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「鬼滅の刃」無限城の激闘が蘇る！竈門炭治郎、\"戦い痣\"の冨岡義勇、猗窩座フィギュアがプライズ展開",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/10/26/189880.html",
+   "pubDate": "2026-10-26T11:30:03.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/10/26/189880.html"
+    }
+   ]
+  },
+  {
+   "title": "Magic Knight Rayearth ‒ Episodes 1-3",
+   "summary": "E&H production is going full 90s CLAMP, and it looks absolutely luscious.",
+   "link": "https://www.animenewsnetwork.com/review/magic-knight-rayearth/episodes-1-3/.243159",
+   "pubDate": "2026-10-26T11:30:00.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/review/magic-knight-rayearth/episodes-1-3/.243159"
+    }
+   ]
+  },
+  {
+   "title": "Maison de FLEUR×『ミッフィー』コラボが再び！ミッフィーとボリスのフリルトートやフェイス型ポーチなど全6型が11月3日発売",
+   "summary": "ミッフィーとボリスが主役のMaison de FLEURコラボ 今回のコラボで主役を務めるのは、ミッフィーとお友だちのくま・ボリス。Maison de FLEURらしい華やかなフリルバッグに加え、2人の顔をそのまま形にしたポーチやチャームが…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/644297",
+   "pubDate": "2026-10-26T11:27:15.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/5eaffa7861e5414a92ac1702cd27907a.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ミッフィー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/644297"
+    }
+   ]
+  },
+  {
+   "title": "タオルをめぐるやりとりが尊くてキュン…アニメ『アオのハコ』第29話、千夏先輩の“言わんこっちゃない”の顔に「世界一かわいい」と反響（ABEMA TIMES）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FdjFuTlFHWTBCV2ZQdHMxYUM0dEU5Y3BQUl9pdkl6X21PWXhfR3VzWlFXZDRFdlk1cUI3ZGdmbUR4bEVGNExHRUFhNmE5LWVWUXFvenpYLVN1RUVpSzd5NVd1c3g3a1pGNWtTLXJ1Y1FOVjdDR2pjNC1MYXNvNWs?oc=5",
+   "pubDate": "2026-10-26T11:21:19.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "ABEMA TIMES（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "works": [
+    "アオのハコ"
+   ],
+   "spoiler": true,
+   "sources": [
+    {
+     "name": "ABEMA TIMES（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FdjFuTlFHWTBCV2ZQdHMxYUM0dEU5Y3BQUl9pdkl6X21PWXhfR3VzWlFXZDRFdlk1cUI3ZGdmbUR4bEVGNExHRUFhNmE5LWVWUXFvenpYLVN1RUVpSzd5NVd1c3g3a1pGNWtTLXJ1Y1FOVjdDR2pjNC1MYXNvNWs?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "声優・七瀬つむぎ初の写真集『つむぎ』10月30日刊行へ 上坂すみれの帯コメントが到着「……幸せです。」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyMktIN0oxT2tlZ29IdzdqanNJVXpIX1hkY0ZqbDNObDFOTUQwTndfejNwdTd5TGd2M1Zuekk1dlFCT2lBckNtMEgwSEc0cFlfWEVnSXdDRUpYQk82bXBIddIBZkFVX3lxTFBiOEVhODRwSnVZZGpwek1hWW1HamdlSmlPd1BxTjZyQWtScnRIdFFrS0FhRzlKNFlxTl9jRXc5NG9TeWwzSWwtMVJyVVVSVldOeGpSU2xqQVlNR19HR1gyano3Nm9JZw?oc=5",
+   "pubDate": "2026-10-26T11:20:49.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "リアルサウンド",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "つむぎ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyMktIN0oxT2tlZ29IdzdqanNJVXpIX1hkY0ZqbDNObDFOTUQwTndfejNwdTd5TGd2M1Zuekk1dlFCT2lBckNtMEgwSEc0cFlfWEVnSXdDRUpYQk82bXBIddIBZkFVX3lxTFBiOEVhODRwSnVZZGpwek1hWW1HamdlSmlPd1BxTjZyQWtScnRIdFFrS0FhRzlKNFlxTl9jRXc5NG9TeWwzSWwtMVJyVVVSVldOeGpSU2xqQVlNR19HR1gyano3Nm9JZw?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
   {
    "title": "一ノ瀬颯が語る「役者という仕事の面白さ」。『青の花 器の森』での陶芸家役への挑戦で見つめ直した、演じることの醍醐味。インタビュー(映画チャンネル)",
    "summary": "10月26日（月）より放送されるNHKの夜ドラ『青の花 器の森』で、若き陶芸家・真鍋龍生を演じる一ノ瀬颯。ぶっきらぼうながらも真っすぐな青年をどのように演じたのか。役作りへの思いや陶芸に挑戦した撮影秘",
@@ -8762,33 +9200,6 @@
    ]
   },
   {
-   "title": "りりあ。「わたしの幸せな結婚」特別篇オープニング主題歌のMV公開、全編アニメシーン(音楽ナタリー)",
-   "summary": "りりあ。の新曲「幸せで涙が出るのは。」のミュージックビデオがYouTubeで公開された。【動画】「幸せで涙が出るのは。」ミュージックビデオ「幸せで涙が出るのは。」は昨日10月25日に放送・配信がスター",
-   "link": "https://news.yahoo.co.jp/articles/ef57ff38c32e8782ee214caf74277f1a1a597345?source=rss",
-   "pubDate": "2026-10-26T11:00:18.000Z",
-   "firstSeen": "2026-10-26T11:18:00.460Z",
-   "image": null,
-   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "music"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ef57ff38c32e8782ee214caf74277f1a1a597345?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "「キミと僕の最後の戦場、あるいは世界が始まる聖戦」第3期が製作決定 小林裕介、花守ゆみり出演の特番が配信中",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LaWdNVExlV2RHZld0QkQ5NENBYnFxRkdYN01oX3pXNlFpZkwwbzZsNnNCcnFhQVFTdmJkZTh3TVlfTEJpUlRtN244VQ?oc=5",
@@ -8878,10 +9289,43 @@
    ]
   },
   {
+   "title": "りりあ。「わたしの幸せな結婚」特別篇オープニング主題歌のMV公開、全編アニメシーン（動画あり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xd1NTc2l5SzZxTTZDRzlyOXp3cDRpbE5id0dQTHlYMnZIeTFJVjFSb0d4VlJac3hhdkh2ZDJiVWJ5YmgycU5jSWdZZVg?oc=5",
+   "pubDate": "2026-10-26T11:00:00.000Z",
+   "firstSeen": "2026-10-26T11:18:00.460Z",
+   "image": null,
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "music"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xd1NTc2l5SzZxTTZDRzlyOXp3cDRpbE5id0dQTHlYMnZIeTFJVjFSb0d4VlJac3hhdkh2ZDJiVWJ5YmgycU5jSWdZZVg?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ef57ff38c32e8782ee214caf74277f1a1a597345?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "「背筋が寒くなった」アニメ『劇場版 怪獣８号』2027年公開決定、絶望感漂うスーパーティザービジュアル映像に反響続々",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WM1dIeHlaOE9weUxyaTl5eUNtelNXOEtYREFrcnVSSjdERzVOQWpOZVhmQnNwQldtMnhrSFBRM05FenJpamhNanZyc2FuTDN6aFVlRWF1aXBaNUNoZkhpWnZHejUtWDBEemYxQWJuakRzMC1LNjBXdHpLNA?oc=5",
-   "pubDate": "2026-10-26T10:54:29.000Z",
+   "pubDate": "2026-10-26T10:51:16.000Z",
    "firstSeen": "2026-10-26T11:18:00.460Z",
    "image": null,
    "source": "ニコニコニュース",
@@ -8903,6 +9347,13 @@
      "name": "ニコニコニュース",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WM1dIeHlaOE9weUxyaTl5eUNtelNXOEtYREFrcnVSSjdERzVOQWpOZVhmQnNwQldtMnhrSFBRM05FenJpamhNanZyc2FuTDN6aFVlRWF1aXBaNUNoZkhpWnZHejUtWDBEemYxQWJuakRzMC1LNjBXdHpLNA?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91V3hvZDN2VEVZWFNSV1lWRS1jZ3JRSWVnRmg0NTFwbDBvdzJYS1otWjZrLUwwdDZDSXo3YUZ6T2s5YVZXZm1SVUMxb1AtMjNQeFBRUkhMTWpLdFBMQTloUUktc3Y4MnRoUi03THIzM1R1allzQVNycDVaTW0ya0E?oc=5",
      "via": "Googleニュース「劇場版 アニメ」",
      "syndicated": true
     }
@@ -9117,6 +9568,36 @@
      "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/667b0174e9ff2a6cc7171e35003f6baee5cc1523?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "琵琶湖の遊覧船ミシガンでアニメ「二十世紀電氣目録」コラボ（みんなの経済新聞ネットワーク）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZjRnWHdZRkt6ZW5lSWhDMTdRTUZ0ZENhTUlxVWFubDdLUWxTdGszZTh1SEc4WGU5S1F5M0VxcHRHbDJqOHJnUUNpLUw2LVVxUG9vRF94bVlxOWV5UjdMaE5HMThQRURfak1CVVB4UGxEVDFKcTZSdFBoV0ZmR28?oc=5",
+   "pubDate": "2026-10-26T10:05:19.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "みんなの経済新聞ネットワーク（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "二十世紀電氣目録"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "みんなの経済新聞ネットワーク（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZjRnWHdZRkt6ZW5lSWhDMTdRTUZ0ZENhTUlxVWFubDdLUWxTdGszZTh1SEc4WGU5S1F5M0VxcHRHbDJqOHJnUUNpLUw2LVVxUG9vRF94bVlxOWV5UjdMaE5HMThQRURfak1CVVB4UGxEVDFKcTZSdFBoV0ZmR28?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -11339,35 +11820,6 @@
    ]
   },
   {
-   "title": "「鑑定スキル」第3期に宮田俊哉、伊瀬茉莉也、大泊貴揮が出演 新ビジュアル＆PV公開(コミックナタリー)",
-   "summary": "TVアニメ「転生貴族、鑑定スキルで成り上がる 第3期」が、11月1日放送の6話目より新章「フジミヤ家編」に突入。それに合わせ、追加キャスト、キービジュアル第3弾、PV第3弾が公開された。【動画】TVア",
-   "link": "https://news.yahoo.co.jp/articles/c6d86cf6a79e2afcdf2e5ff38ea594ee2863382a?source=rss",
-   "pubDate": "2026-10-26T08:00:11.000Z",
-   "firstSeen": "2026-10-26T08:17:55.383Z",
-   "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "new",
-    "visual",
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/c6d86cf6a79e2afcdf2e5ff38ea594ee2863382a?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "サンリオキャラクターズの色とりどりコラボアパレル登場！ 選ぶのに困るほどのラインナップ♪",
    "summary": "",
    "link": "https://animeanime.jp/article/2026/10/26/104218.html",
@@ -11457,6 +11909,41 @@
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zU3otb01xNUNKdUZ1VzFSWm1sYVd1S2szN3FObWo3QjE1ME5oZDd0M0JLQ3JEN0Z3VUlpeExaSk5aTU9uNngwYV9EQTZNOUQtaWtRTGg2X1NjLWFQeGxJbjIwVVpVQ0REdy0yWUo1cHJKUQ?oc=5",
      "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "「鑑定スキル」第3期に宮田俊哉、伊瀬茉莉也、大泊貴揮が出演 新ビジュアル＆PV公開（コメントあり / 動画あり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03aUxfY2tDSVpvc0JTX3lORXNZeFl4YjJIbENvRG5HLXQyRmZZNWNUa2FvdnZRQ1pWemh0dTI4UHk4RHVsU2RoR1NlSGQ?oc=5",
+   "pubDate": "2026-10-26T08:00:00.000Z",
+   "firstSeen": "2026-10-26T08:17:55.383Z",
+   "image": null,
+   "source": "ナタリー",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 22,
+   "categories": [
+    "new",
+    "visual",
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ナタリー",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03aUxfY2tDSVpvc0JTX3lORXNZeFl4YjJIbENvRG5HLXQyRmZZNWNUa2FvdnZRQ1pWemh0dTI4UHk4RHVsU2RoR1NlSGQ?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c6d86cf6a79e2afcdf2e5ff38ea594ee2863382a?source=rss",
+     "syndicated": true
     }
    ]
   },
@@ -11778,8 +12265,15 @@
     },
     {
      "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-movie",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QMXlwOG5sVENSMFpEbXhiYW9CdlZycmFiY2VLZEpNMU50bU1YRlRKX2JMSV9yZE95UXhMNzlVbWRzUHhiM2s3NU8wRTlxN1E0WmJNb3J6R29LbzdTbEF3WVdUZGYtNE95NXRvYVFQc1VfN0d6NzNLX3EzT0NJUGc?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KekNsRU9IWVFiZEEwOVJ1Tm01SDJJelJURnJ2YUJkSlFyRkVLSFl3Q1dKWjdkb2VGYjZZd2wzZmoxTTdLQ2FuZmh2SmdQTVM2cktQT0UxekRqUDNxanJqMVhkaGg4MGpZWXZIaWRlOVUyazVGeGc?oc=5",
      "via": "Googleニュース「劇場版 アニメ」",
      "syndicated": true
     }
@@ -12629,6 +13123,30 @@
    ]
   },
   {
+   "title": "「ママせか」2週連続で動員1位、「うるわしの宵の月」「メイドインアビス」などが初登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpTUxETTlOMUpIYmFVM2xpaEdmcUV0My1qbkFBb21nX25yd2xfVktXQTAzR1BlSV9tYjh0bDgxbHZLV0h6VC1qbXBYZw?oc=5",
+   "pubDate": "2026-10-26T06:29:00.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpTUxETTlOMUpIYmFVM2xpaEdmcUV0My1qbkFBb21nX25yd2xfVktXQTAzR1BlSV9tYjh0bDgxbHZLV0h6VC1qbXBYZw?oc=5"
+    }
+   ]
+  },
+  {
    "title": "「パンダコパンダ」55周年ティザービジュアル 上野のクリスマスアドベントとコラボ（コメントあり）",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWZEhKa1BjOXF2ZmppLUNzMUxuSkcyVnhTUzNOVkhnWDlRd0NHTzM0WktOLXAzVFZzY3FaYXd0TXZick9HQm8xTzFtUGg?oc=5",
@@ -12856,6 +13374,13 @@
      "name": "オリコン（Yahoo!ニュース）",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IVHVhM1Z1SlVlbmoyQ0xRakZGY19aWVAyRUNpTC11SFMyLXZhOUFHTVpMNFRkNGVqaTFjZ2d1alp1VVBUbEJ0Um1Vbm5zNUgyV0RGSTRmcUNrdVdIQW55djNJczUybjB2aXhkNWhEUUNublZnQndKSC1LWkhGaEU?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "ライブドアニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fWHk5MmZmMlpXc0VYLThsWGV3SkIwY0VvUDdwTk16bjNWSmNYamZZeVVZY3VwajdKYUZrTFJGQUYtcm1rWVpYUkJjS1FJa3l2MDlKdGlPQy1yTVVKUDBj?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -28188,6 +28713,12 @@
      "via": "Googleニュース「劇場版 アニメ」"
     },
     {
+     "name": "アニメハック",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFSkFYT2U3eWZOZ0xLejktOGoyVndIWTgzcy1BRzg2ZlpuaFNqM0FxRFJiRmpfbTNpR0tIT1BoOVVYT2w1ZVloRy1Zaw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
      "name": "映画.com（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15ZV9vcThlbVhFVnFaU1IwVkFCcGxSS0l4R3JYTGowaVVQbXNDS2Z6SmVZNFNESW02bmJMTk16QnRVbGo2dGlacnFmaHNMNWYtV01paFNWVTJBb3pZQlZWbWZaS3pEZ2pqSDhkeVlLVGdLTE9ZaTZvRXZrb05LekU?oc=5",
@@ -40029,6 +40560,35 @@
      "name": "コミックナタリー",
      "sourceId": "natalie-comic",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43bUVaaEVaRW9oSjBFZGRrVHBia0xUOGtXaE9jengwWHRxdFQwVGI0d1BkZEVRVWFiSlFwXzh3QnJzUG9BRTduWURnYV8?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "【2026秋アニメ一覧】10月より放送開始の新作＆再放送アニメのあらすじ・キャスト・主題歌など情報まとめ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UUk00UHpEQWVheEhrejZrMU5mTGhlRExMTnR0UEFUdWpBaVliT2xwdUNqZk0zZjNwelk0NVVaUjNsY25SMVlkOXlTdFNwYjY4RjdiXw?oc=5",
+   "pubDate": "2026-10-23T07:00:00.000Z",
+   "firstSeen": "2026-10-26T12:17:54.782Z",
+   "image": null,
+   "source": "eeo",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "broadcast",
+    "cast",
+    "music"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "eeo",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UUk00UHpEQWVheEhrejZrMU5mTGhlRExMTnR0UEFUdWpBaVliT2xwdUNqZk0zZjNwelk0NVVaUjNsY25SMVlkOXlTdFNwYjY4RjdiXw?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -193140,548 +193700,6 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XX041aWhyNHNIZUJScE1tc3REYTQwbGFPWnNkb2xhQ3lobE5rcWhmNzItRVc2WVZteG9rRC1QZS1NMW9VdEY2Z0RQQllWOXNVTHdfVA?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『TANK CHAIR-戦車椅子-』第2話のあらすじ公開！ 静は髙無に凪の狙撃を依頼し…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lWVVUbkQ0OUlTQUJQM05QMS0yZUZPU05OU0VQLTN5bWpFR1M1R1ZhVmNPdUhUYXBaNFVrbURQMGJVZzdhV0x4Ym9Gd0hUQmtTOHg0Sw?oc=5",
-   "pubDate": "2026-10-09T09:04:34.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "TANK CHAIR-戦車椅子-"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lWVVUbkQ0OUlTQUJQM05QMS0yZUZPU05OU0VQLTN5bWpFR1M1R1ZhVmNPdUhUYXBaNFVrbURQMGJVZzdhV0x4Ym9Gd0hUQmtTOHg0Sw?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『凶乱令嬢ニア・リストン』第2話のあらすじ公開！ ニアとシャロはマジックビジョンで宣伝番組を撮影することになるが…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44WmNVeGNpbmdTR0FXMVZaTm03WVRSeXA2cllHWS1mcmQ4Z2pfaG5MMWFVcGRoejV1OXU2R04wY056dFJNY3NPeW1PZDIzOU5zVXFNdg?oc=5",
-   "pubDate": "2026-10-09T09:04:33.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "凶乱令嬢ニア・リストン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44WmNVeGNpbmdTR0FXMVZaTm03WVRSeXA2cllHWS1mcmQ4Z2pfaG5MMWFVcGRoejV1OXU2R04wY056dFJNY3NPeW1PZDIzOU5zVXFNdg?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『BLEACH 千年血戦篇-禍進譚-』最終回直前一挙上映＆トークイベント開催決定！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yMFZnOG5Hb2wyNjNBR29LaEowZ0h1bTJrVjcxRmVsYUJUc0o3dXZrUmJMSFZtOENQWHQtcFM5NmVkeXRVWC0tMTUtLU0yalIwZDl2MGg0ZndZUFk?oc=5",
-   "pubDate": "2026-10-09T09:03:06.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "Aniplex",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "movie",
-    "event"
-   ],
-   "works": [
-    "BLEACH 千年血戦篇-禍進譚-"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Aniplex",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yMFZnOG5Hb2wyNjNBR29LaEowZ0h1bTJrVjcxRmVsYUJUc0o3dXZrUmJMSFZtOENQWHQtcFM5NmVkeXRVWC0tMTUtLU0yalIwZDl2MGg0ZndZUFk?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "『装甲騎兵ボトムズ』スコープドッグなど機体デザイン公開 アッシュ登場の新場面写真も(リアルサウンド)",
-   "summary": "11月20日に全国公開される『装甲騎兵ボトムズ 灰色の魔女（ヘクセ）』より、「スコープドッグ」をはじめとしたメカの詳細情報と新規場面写真が公開された。【写真】『装甲騎兵ボトムズ』機体デザイン（5枚）",
-   "link": "https://news.yahoo.co.jp/articles/fba44083ce56814fde49b5c245a9bbf40c779525?source=rss",
-   "pubDate": "2026-10-09T09:03:00.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "装甲騎兵ボトムズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/fba44083ce56814fde49b5c245a9bbf40c779525?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "映画『装甲騎兵ボトムズ 灰色の魔女』新規場面写真＆スコープドッグデザイン解禁(ぴあ)",
-   "summary": "11月20日(金)に公開される映画『装甲騎兵ボトムズ 灰色の魔女（ヘクセ）』の新規場面写真が解禁された。【全ての画像】『装甲騎兵ボトムズ 灰色の魔女』の場面写真ほか本作は、『GHOST IN THE",
-   "link": "https://news.yahoo.co.jp/articles/2d21e1c79b82abddef85d3d04373ee3252be1a07?source=rss",
-   "pubDate": "2026-10-09T09:02:32.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "ぴあ（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "装甲騎兵ボトムズ 灰色の魔女"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ぴあ（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/2d21e1c79b82abddef85d3d04373ee3252be1a07?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『凶乱令嬢ニア・リストン』第2話先行カット ニアがマフィアに立ち向かう(リアルサウンド)",
-   "summary": "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』の第2話「王都での仕事」の先行カットが公開された。【写真】『凶乱令嬢ニア・リストン』最新カット（6枚） 本作は、南野",
-   "link": "https://news.yahoo.co.jp/articles/f397684b11f9b595b8466b2854126d51d63c7a51?source=rss",
-   "pubDate": "2026-10-09T09:02:18.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "凶乱令嬢ニア・リストン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/f397684b11f9b595b8466b2854126d51d63c7a51?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "リアルサウンド（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tOVFhQXRSZm9Vb29VWDJXb1lScVNLeG5aNkhOQXhCbjFrME5aYTFvLTN2UWcxb2c4V1lBbGJPdVJCMUlzVjJkbjdLTVNvR3F5TUVkRnEzcGN6NUdGQzNqQ1NJSXRQTUtsZUJiczBZY2lhNF9KV3Iyczl2Vml4WUU?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『異世界魔王と召喚少女の奴隷魔術』第3期のティザービジュアルが公開！ シェラ＆レムがウェディングドレスを着たビジュアルに",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Y0J2XzJvVy1YNXk3b1M0M1ZmdEZvVlFoWV9PeDBMYTl1UnVnX0lrMzkteGp1Z1ZhZVpzbHd1aEtSNVBtbFlBRkhMRGNnR25oRjY0dA?oc=5",
-   "pubDate": "2026-10-09T09:02:06.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new",
-    "visual"
-   ],
-   "works": [
-    "異世界魔王と召喚少女の奴隷魔術",
-    "異世界魔王と召喚少女の奴隷魔術ULT"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Y0J2XzJvVy1YNXk3b1M0M1ZmdEZvVlFoWV9PeDBMYTl1UnVnX0lrMzkteGp1Z1ZhZVpzbHd1aEtSNVBtbFlBRkhMRGNnR25oRjY0dA?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "エンタメ特化型情報メディア スパイス",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iU3BaSGZKVnE1VGhkQVRTN3lnTC1WMHZSNmRGcERCbkp3RjhUcVJ6c1FPZVhLUzBUTU1JTWtiTEs3TFh2S2tCWFZ0d0wtUEXSAVRBVV95cUxON0tfYzRDak5MY3lGSzZJZjgtbW5nZVV0WXdBbi01SzRYSDlUQXExYWtxbkNHaEJVN1F4Yk5wbVN1QzYtNkJTYW83ZEZwcnVuV3FTbHc?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "イム・シワン×ソル・イナが初共演 Prime Original『罪深いあなた』キービジュアル＆本予告(リアルサウンド)",
-   "summary": "10月19日よりPrime Videoにて独占配信されるPrime Originalドラマ『罪深いあなた』のキービジュアルと場面写真、日本版本予告が公開された。【写真】『罪深いあなた』ドキドキの場面写",
-   "link": "https://news.yahoo.co.jp/articles/6165971a413b5abc12976cd7afb3e26c4d7b2c70?source=rss",
-   "pubDate": "2026-10-09T09:01:49.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "broadcast",
-    "visual"
-   ],
-   "works": [
-    "罪深いあなた"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/6165971a413b5abc12976cd7afb3e26c4d7b2c70?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『TANK CHAIR-戦車椅子-』第2話あらすじ&先行カット解禁！メイキング映像 Vol.1 監督対談公開！ - V-storage",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtT0lfOXZTZEF3b0l2ZE1UY2dTaG1rV2t0WllndnJkQWRwS2FfUE4wZmJWN1BpbEJxZjRkOHlkd1hiOENJWEdobFFmZkVTM1BvcE1QdFhLMA?oc=5",
-   "pubDate": "2026-10-09T09:01:47.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "Googleニュース「アニメ」",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "TANK CHAIR-戦車椅子-"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「アニメ」",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtT0lfOXZTZEF3b0l2ZE1UY2dTaG1rV2t0WllndnJkQWRwS2FfUE4wZmJWN1BpbEJxZjRkOHlkd1hiOENJWEdobFFmZkVTM1BvcE1QdFhLMA?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "男装したソル・イナがイム・シワンを守る、韓国ドラマ「罪深いあなた」予告解禁(映画ナタリー)",
-   "summary": "イム・シワン、ソル・イナ共演のPrime Originalドラマ「罪深いあなた」が、10月19日よりPrime Video（プライムビデオ）にて独占配信。このたびキービジュアル、場面写真、予告編が解禁",
-   "link": "https://news.yahoo.co.jp/articles/dc678ea2340ca5b3a1be01cdb84f6bb7371eef88?source=rss",
-   "pubDate": "2026-10-09T09:01:27.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "映画ナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "broadcast",
-    "visual"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/dc678ea2340ca5b3a1be01cdb84f6bb7371eef88?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『ドラゴンボール超 ビルス』初回放送をより楽しもう！これまでの公開情報を総まとめ！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUakY5Y0VPaWVMYTJYN1VHb0lleWxIWUh2RlN6a0xrQ1JoVDVMZ3FqcGJaNG82eDkzcGZFWHV6cTBScXpqYkRRMXJZNEd2ZEJobVJGSkFiZlM1LUI2OTJV?oc=5",
-   "pubDate": "2026-10-09T09:01:05.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "ドラゴンボールオフィシャルサイト",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "ドラゴンボール超 ビルス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ドラゴンボールオフィシャルサイト",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUakY5Y0VPaWVMYTJYN1VHb0lleWxIWUh2RlN6a0xrQ1JoVDVMZ3FqcGJaNG82eDkzcGZFWHV6cTBScXpqYkRRMXJZNEd2ZEJobVJGSkFiZlM1LUI2OTJV?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "昭和のアニメ・特撮ソング秘蔵カバー音源を集めた 2枚組コンピレーションCDが発売 珠玉の収録曲50曲、ジャケットほか全貌公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43bVJReExaSjltc2hLUHFSX0hqTUxHYlRmTGx3RFlnTlF0SHRITXVYcDQ2YVA3STJnUHl3cTduVnY1a0FrYTduMUFqSGJJcmVlUldOZ3QzMXk?oc=5",
-   "pubDate": "2026-10-09T09:00:56.000Z",
-   "firstSeen": "2026-10-09T23:18:24.800Z",
-   "image": null,
-   "source": "KING RECORDS TODAY",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "KING RECORDS TODAY",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43bVJReExaSjltc2hLUHFSX0hqTUxHYlRmTGx3RFlnTlF0SHRITXVYcDQ2YVA3STJnUHl3cTduVnY1a0FrYTduMUFqSGJJcmVlUldOZ3QzMXk?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "駄犬デビュー作『モンスターの肉を食っていたら王位に就いた件』 WHITE FOX制作にて2027年TVアニメ化決定、ティザービジュアル解禁",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84OWZKYlpEc09QRzFXNlN0dkJucjVzWU1LOEgtTVY0UEFqb21HTWpzUzYzNTNvdTRoUk9LVXRSZlNXbVVqRzU5S0U4NEw4eGVsVUZTejBXUk8?oc=5",
-   "pubDate": "2026-10-09T09:00:51.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "KING RECORDS TODAY",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "new",
-    "visual"
-   ],
-   "works": [
-    "モンスターの肉を食っていたら王位に就いた件"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "KING RECORDS TODAY",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84OWZKYlpEc09QRzFXNlN0dkJucjVzWU1LOEgtTVY0UEFqb21HTWpzUzYzNTNvdTRoUk9LVXRSZlNXbVVqRzU5S0U4NEw4eGVsVUZTejBXUk8?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "『ぼっち・ざ・ろっく！』、『Re:結束バンド』アナログレコード12月23日発売決定＆ライブ無料配信決定！",
-   "summary": "芳文社・『まんがタイムきららMAX』にて連載中の、はまじあきによる人気4コマ漫画『ぼっち・ざ...",
-   "link": "https://www.lisani.jp/0000319682/",
-   "pubDate": "2026-10-09T09:00:49.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610091800-yh-018.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "broadcast",
-    "media"
-   ],
-   "works": [
-    "ぼっち・ざ・ろっく!",
-    "Re:結束バンド"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000319682/"
-    }
-   ]
-  },
-  {
-   "title": "新アニメ『とある暗部の少女共棲』“とあるシリーズ”初心者が押さえておきたい要点をチェック(ふたまん＋)",
-   "summary": "10月9日より放送開始される新アニメ『とある暗部の少女共棲（アイテム）』。本作は『とある魔術の禁書目録』『とある科学の超電磁砲』に連なる「とあるシリーズ」のスピンオフ作品で、作中に登場する組織「アイテ",
-   "link": "https://news.yahoo.co.jp/articles/b67454c0478ebfcd87b032b601c4ed39e97062f1?source=rss",
-   "pubDate": "2026-10-09T09:00:36.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "ふたまん＋（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [
-    "とある暗部の少女共棲"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ふたまん＋（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/b67454c0478ebfcd87b032b601c4ed39e97062f1?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "ふたまん＋（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54Q1d2S1puMkppN0RRX3VodGJsbF81VFFjcmtBZ3drMVNvNHg5SlVpZFFGUGE1N0Y1VlF1aTNMc0VkR2NEQVBfMTZ0UGpfRldqMVo3bzlnSVJWdmNPUFU0dm5YMEFJWkI0NExOMFg3aFY2X3lvd21vb293Ujd3bTg?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『グラブル』サンダルフォンとシナモロールのペアが良すぎる。「サンリオ」とのコラボイラストが初公開",
-   "summary": "ナルメア×マイメロディ ハローキティ×フィルキス ポムポムプリン×ラジエル ポチャッコ×ネハン タキシードサム×ラモラック けろけろけろっぴ×オクタヴィア コロコロクリリン×シス",
-   "link": "https://news.denfaminicogamer.jp/news/2610092x",
-   "pubDate": "2026-10-09T09:00:18.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/01-8-1024x576.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "グラブル"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610092x"
-    }
-   ]
-  },
-  {
-   "title": "「装甲騎兵ボトムズ 灰色の魔女」主人公アッシュの“スコープドッグ”ほかメカ情報が明らかに！",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/09/103656.html",
-   "pubDate": "2026-10-09T09:00:09.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "装甲騎兵ボトムズ 灰色の魔女"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/09/103656.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/5e83ac5a1d227a77dfd85a22ddff8f864d062e28?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96N3BvcHZ5R2FZUU5FYkthRU9PeUtpeWlQRWt4Tlp4MmFBc252eHBoX3RQS0ZDWmx5NGdUd0F5ZXZweG12N1hmTG5VRVlRQlIwbVhQWTNYWnpFTnRBWWpPQUQ3WHlYdUhWNUVhWGhDZTNvZjBERGNYY1Jua1VRX1U?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "石橋陽彩＆永瀬アンナの声に「もう大丈夫と思えた」 映画『どこよりも遠い場所にいる君へ』和田純一監督×へちまが語る制作秘話",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/09/103655.html",
-   "pubDate": "2026-10-09T09:00:03.000Z",
-   "firstSeen": "2026-10-09T09:09:08.399Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "どこよりも遠い場所にいる君へ",
-    "もう大丈夫と思えた"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/09/103655.html"
     }
    ]
   }
