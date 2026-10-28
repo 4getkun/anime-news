@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-28T21:18:47.122Z",
+ "generatedAt": "2026-10-28T22:18:37.243Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5928,
+  "exact": 5924,
   "syndicated": 601,
-  "similar": 696,
-  "syndicatedTotal": 6607,
-  "syndicatedLeft": 1188
+  "similar": 697,
+  "syndicatedTotal": 6600,
+  "syndicatedLeft": 1191
  },
  "calendar": [
   {
@@ -2689,24 +2689,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-10-23",
-   "precision": "day",
-   "verb": "movie",
-   "label": "公開",
-   "work": "BOSS/ボス",
-   "title": "モナキ＆純烈・酒井一圭の新たな魅力が炸裂!?韓国で大ヒットの『BOSS／ボス』吹替版予告が完成(MOVIE WALKER PRESS)",
-   "link": "https://news.yahoo.co.jp/articles/d19a62d8e1f92cd44402b2ebba98270c001be7b8?source=rss",
-   "source": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "visual",
-    "cast",
-    "movie"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-10-24",
    "precision": "day",
    "verb": "release",
@@ -3824,6 +3806,24 @@
    "sources": 2,
    "categories": [
     "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-29",
+   "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": null,
+   "title": "本日10月29日（木）放送開始の2026秋ドラマ(映画ナタリー)",
+   "link": "https://news.yahoo.co.jp/articles/6e92d7bfa52c692e7e8e3daf5ac86488d54a7db3?source=rss",
+   "source": "映画ナタリー（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [
+    "broadcast",
+    "visual",
+    "movie"
    ],
    "platforms": [],
    "spoiler": false
@@ -6502,22 +6502,6 @@
   {
    "date": "2026-12",
    "precision": "month",
-   "verb": "movie",
-   "label": "公開",
-   "work": "羊の皮を着たケモノ",
-   "title": "鈴木伸之×超特急・柏木悠が共演するBL映画「羊の皮を着たケモノ」12月に劇場公開",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42Q1ZPUnlvNnRiVkRobHFQRjk4Nld3S2M1b1VlU3VQbWJoM19CSE9TYjNmbUF2UllBN1Y0X2c3elNwckZsbXotQnQ1TQ?oc=5",
-   "source": "映画ナタリー",
-   "sources": 2,
-   "categories": [
-    "movie"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12",
-   "precision": "month",
    "verb": "event",
    "label": "開催",
    "work": "着せ恋",
@@ -7668,23 +7652,6 @@
    "source": "リスアニ！",
    "sources": 1,
    "categories": [
-    "music"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-01",
-   "precision": "month",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": "描くなるうえは",
-   "title": "2027年1月より放送開始！TVアニメ『描くなるうえは』OPテーマが、shallm「キミイロヒラリ」に決定！",
-   "link": "https://www.lisani.jp/0000319794/",
-   "source": "リスアニ！",
-   "sources": 1,
-   "categories": [
-    "broadcast",
     "music"
    ],
    "platforms": [],
@@ -9033,8 +9000,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5321,
-   "accepted": 5103
+   "archived": 5320,
+   "accepted": 5102
   },
   {
    "id": "gnews-tvanime",
@@ -9044,8 +9011,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1394,
-   "accepted": 1334
+   "archived": 1393,
+   "accepted": 1333
   },
   {
    "id": "gnews-movie",
@@ -9055,8 +9022,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 848,
-   "accepted": 748
+   "archived": 849,
+   "accepted": 749
   },
   {
    "id": "gnews-seiyu",
@@ -9066,8 +9033,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2844,
-   "accepted": 2567
+   "archived": 2843,
+   "accepted": 2566
   },
   {
    "id": "natalie-eiga",
@@ -9110,8 +9077,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1301,
-   "accepted": 312
+   "archived": 1300,
+   "accepted": 311
   },
   {
    "id": "gamespark",
@@ -9143,8 +9110,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29770,
-   "accepted": 3278
+   "archived": 29746,
+   "accepted": 3277
   },
   {
    "id": "prtimes",
@@ -9154,7 +9121,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29282,
+   "archived": 29283,
    "accepted": 521
   },
   {
@@ -9165,8 +9132,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 668,
-   "accepted": 668
+   "archived": 667,
+   "accepted": 667
   },
   {
    "id": "mal",
@@ -9192,6 +9159,178 @@
   }
  ],
  "items": [
+  {
+   "title": "FXアニメ『くるみちゃん』究極の選択「ロング？ショート？」第5話、友人が利益出しているのを見て…【先行カット】(オタク総研)",
+   "summary": "KADOKAWA「コミックフラッパー」で連載中の「FX戦士くるみちゃん」（原作：でむにゃん、作画：炭酸だいすき）のアニメ化について、本日10月29日（木）より放送・配信開始される第5話「ロング？ショー",
+   "link": "https://news.yahoo.co.jp/articles/3a3f9d02b0292eeb11cd9664ba7f5958895c286a?source=rss",
+   "pubDate": "2026-10-28T22:08:00.000Z",
+   "firstSeen": "2026-10-28T22:17:55.892Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new",
+    "broadcast",
+    "media"
+   ],
+   "works": [
+    "くるみちゃん"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/3a3f9d02b0292eeb11cd9664ba7f5958895c286a?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "奈緒、『コロニー／群体』で日本語吹き替え初挑戦 梶裕貴、早見沙織、江口拓也らも参加(リアルサウンド)",
+   "summary": "2027年1月1日に公開されるヨン・サンホ監督最新作『コロニー／群体』の日本語吹替版声優として、奈緒、梶裕貴、早見沙織、江口拓也、七海ひろき、関智一、落合福嗣、水島裕の参加が決定。あわせて特別インタビ",
+   "link": "https://news.yahoo.co.jp/articles/e08b87bc5373f4e8753bfa187e12a48d83705c00?source=rss",
+   "pubDate": "2026-10-28T22:02:13.000Z",
+   "firstSeen": "2026-10-28T22:17:55.892Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "コロニー/群体"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e08b87bc5373f4e8753bfa187e12a48d83705c00?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "本日10月29日（木）放送開始の2026秋ドラマ(映画ナタリー)",
+   "summary": "本日10月29日（木）に放送がスタートする新作ドラマの情報をまとめました。映画ナタリーでは「2026秋ドラマまとめ」を公開中。【画像】ドラマトリップ「私がひとりで生きてくなんて」キービジュアル ©「私",
+   "link": "https://news.yahoo.co.jp/articles/6e92d7bfa52c692e7e8e3daf5ac86488d54a7db3?source=rss",
+   "pubDate": "2026-10-28T22:00:11.000Z",
+   "firstSeen": "2026-10-28T22:17:55.892Z",
+   "image": null,
+   "source": "映画ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "broadcast",
+    "visual",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6e92d7bfa52c692e7e8e3daf5ac86488d54a7db3?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "奈緒 日本語吹き替え初挑戦「幸せな試練をいただけた」 ヨン・サンホ監督の新作ゾンビ映画に出演(スポーツ報知)",
+   "summary": "女優の奈緒が来年１月１日公開の韓国映画「コロニー／群体」（ヨン・サンホ監督）の日本版声優を務めることが２８日、発表された。【写真】奈緒「人生で１番短いとです」最強過ぎショット 韓国で４週末連続Ｎｏ．１",
+   "link": "https://news.yahoo.co.jp/articles/43fbec631b8653755cc9af1606d6fd4669fa7aa1?source=rss",
+   "pubDate": "2026-10-28T22:00:07.000Z",
+   "firstSeen": "2026-10-28T22:17:55.892Z",
+   "image": null,
+   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/43fbec631b8653755cc9af1606d6fd4669fa7aa1?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "奈緒、「コロニー 群体」で日本語吹き替えに初挑戦！ 豪華声優陣も発表＆場面写真8点一挙公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83RERYTnVqYlI3Zm9UeWs3NXF4T3VpdV9DdmRPaEpyMm1OdEFNbEUyRWpJdU1rWXV4R0oyQk5lNWJaaVJBY1pGZQ?oc=5",
+   "pubDate": "2026-10-28T22:00:00.000Z",
+   "firstSeen": "2026-10-28T22:17:55.892Z",
+   "image": null,
+   "source": "映画.com",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83RERYTnVqYlI3Zm9UeWs3NXF4T3VpdV9DdmRPaEpyMm1OdEFNbEUyRWpJdU1rWXV4R0oyQk5lNWJaaVJBY1pGZQ?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "The Full-Time Wife Escapist's Tsunami Umino Launches New Manga in December",
+   "summary": "Umino to launch series of previous 1-shot Omiai Tantei Katabiranotsuji Nagi",
+   "link": "https://www.animenewsnetwork.com/news/2026-10-28/the-full-time-wife-escapist-tsunami-umino-launches-new-manga-in-december/.243280",
+   "pubDate": "2026-10-28T22:00:00.000Z",
+   "firstSeen": "2026-10-28T22:17:55.892Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-10-28/the-full-time-wife-escapist-tsunami-umino-launches-new-manga-in-december/.243280"
+    }
+   ]
+  },
   {
    "title": "劇場版「チェンソーマン レゼ篇」より「レゼ」プライズフィギュアが順次展開！デンジと夜の学校デートを楽しむ姿で立体化",
    "summary": "",
@@ -9438,6 +9577,40 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-10-28/reiko-shimizu-himitsu-season-0-spinoff-manga-enters-final-arc/.243284"
+    }
+   ]
+  },
+  {
+   "title": "生田斗真 初のディズニー声優に 米国でのオーディションを経て獲得した役「ビリーと魔法のはじまり」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wVlpYaG54ek5famJ1WVBMVGFYVU02SFVwY2toUnlUbmlpZXd5VlB2ZkhmWDRfT1hGc25FQ3VTMGtQT2kzdTAwYzlGUzZscXJrT0FHUUM3V3JSajdIcEE2Z1pPX0RlM3hvSlE?oc=5",
+   "pubDate": "2026-10-28T20:00:00.000Z",
+   "firstSeen": "2026-10-28T22:17:55.892Z",
+   "image": null,
+   "source": "デイリースポーツ",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "デイリースポーツ",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wVlpYaG54ek5famJ1WVBMVGFYVU02SFVwY2toUnlUbmlpZXd5VlB2ZkhmWDRfT1hGc25FQ3VTMGtQT2kzdTAwYzlGUzZscXJrT0FHUUM3V3JSajdIcEE2Z1pPX0RlM3hvSlE?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "デイリースポーツ（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12NUp0WmdSSnRYVUxBUkE0a1drSUI2WXhnSWs5dXY4M1p3dDNjUEE5S28tUWQ2M0lxdFpIWTlHNGRJcUJVTXZQMmdyUXpXWVFWRllnYVQ0ZTVxNGhwU1dpVEIwNG9LcHhlXzhfOGNPTHpxRGRWa29vdm1JQUFNR0E?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
     }
    ]
   },
@@ -10110,6 +10283,33 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/6a28b9ee9e089fe8219b583c120079f08d2dce02?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "生田高校 韓国の生徒招き交流 ゲームやアニメ話題に",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yLS0zTGxLZ1g0R2N0dkxRTDJQRkstZ0x1QUt5MHBFaEEyWVlIeWYwU00xWHU1cVhsMHRndzBpdDMzNFh2dF85QmNOLU1HLW5RaUl6SFFuVVRRT3FMMF85NHhkcU4?oc=5",
+   "pubDate": "2026-10-28T15:00:00.000Z",
+   "firstSeen": "2026-10-28T22:17:55.892Z",
+   "image": null,
+   "source": "タウンニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "タウンニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yLS0zTGxLZ1g0R2N0dkxRTDJQRkstZ0x1QUt5MHBFaEEyWVlIeWYwU00xWHU1cVhsMHRndzBpdDMzNFh2dF85QmNOLU1HLW5RaUl6SFFuVVRRT3FMMF85NHhkcU4?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -12604,6 +12804,12 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bd3k4cEU5akUtV3VyRHpHdkxpTGhKdHNZNGJYQW5UeTQybENPcFdUZUpMZnpLX0ZQTmhmYVUxSDBQa05qRlJ2XzlXcw?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
+     "name": "エンタメ特化型情報メディア スパイス",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WdVUxb2pYdG5jSklqUXJTZnJpZ1BFY3B2RzJfMzZ1czZGSlNQbzR4b3l0dmpEbnluellvblNJM1FhSFhQNDdjckQzYjVrbmPSAVRBVV95cUxPUGVTZVRqaU1zMUN2ZzQxeU5jUFZGX2V0X0JBLVlqRUxIckpjYzM0ZU50T0FuYTQ5VUpMVWJlNmFKM1ExbnBobGQtSmFTLW53TzVhS18?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -12760,6 +12966,12 @@
      "name": "eeo",
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xejc2R2VETTV4X3Z1YWtIOWlZWlJjSklza0ljbVZGYVgtbnlMRWpMQ1VmQmpxR0FjeEd2S0NMWjM4TFNVcXVtWXVvbHpEa0QxNUZrTw?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "エンタメ特化型情報メディア スパイス",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0N0h0MjM1QjhFQTA4c2FGb2IweDBYY0pLdlJpaFJGQ2djRjlQdXhmOWFDdGlYRktLVVhXOVJERE9nV3NOcEMzbnhtRUFMVmvSAVRBVV95cUxPUkw4SGVWRHkxLUpxNk1PRDJWZHJfc2xLUlRDSWdyd1VVU0JTb3NscENNSmtZQWdGZWdFRFdQdnJGQl9yMDdXWUFTMmF3dGlUb2hKU18?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
     },
     {
@@ -193018,279 +193230,6 @@
      "name": "リスアニ！",
      "sourceId": "lisani",
      "link": "https://www.lisani.jp/0000319688/"
-    }
-   ]
-  },
-  {
-   "title": "「原因は自分にある。」小泉光咲＆吉澤要人にインタビュー！ 秋アニメ『彼方から』主題歌の魅力やアニメファンにおすすめの“ゲンジブ楽曲”を直撃",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/12/103727.html",
-   "pubDate": "2026-10-12T09:00:03.000Z",
-   "firstSeen": "2026-10-12T09:17:32.306Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "music",
-    "new",
-    "cast",
-    "media"
-   ],
-   "works": [
-    "彼方から"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/12/103727.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/21f89116f836a22837cd219d3f25ed3bf75bd69b?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV3lScC01T2QxZnFrWkVkbUxQaXVnRWtYczhzNFJ3NWJ1NUZ2cGk1OEVxZ2NabEZ4b0hfdmdpRFFSMk1RZ0pwYU0zZVE0VW1HT2tpRkVVa0lhQ05NUGotQzJhbUpRVWF5QVJXY0ZySVRBLXowMFdtNFU5cHd3Q00?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "2027年1月より放送開始！TVアニメ『描くなるうえは』OPテーマが、shallm「キミイロヒラリ」に決定！",
-   "summary": "202７年1月より放送開始するTVアニメ『描くなるうえは』。この度、本作を彩るオープニング主題...",
-   "link": "https://www.lisani.jp/0000319794/",
-   "pubDate": "2026-10-12T09:00:03.000Z",
-   "firstSeen": "2026-10-12T09:17:32.306Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610121800-yh-001.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 26,
-   "categories": [
-    "broadcast",
-    "music"
-   ],
-   "works": [
-    "描くなるうえは",
-    "キミイロヒラリ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000319794/"
-    }
-   ]
-  },
-  {
-   "title": "アニメ「ベジタブ郎といれたがりちくわ」公開します！ - 天才てれびくんgrowからのお知らせ - 天才てれびくんgrow",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2MGlyWXRTaXFNT0otWFpnQnFlMENta0pobzdKeV9DTjNWdjdYa2Z1ZFl5cHUyMF9MQzhEaXBCbnJVckdpUWZGMGJjcWNVTUM5b0VIbEg2dDVZLU8tTGk5YS1taFNyVk12MkhfNVczYWoxdHhkR25V?oc=5",
-   "pubDate": "2026-10-12T09:00:01.000Z",
-   "firstSeen": "2026-10-12T09:17:32.306Z",
-   "image": null,
-   "source": "NHK",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "ベジタブ郎といれたがりちくわ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "NHK",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2MGlyWXRTaXFNT0otWFpnQnFlMENta0pobzdKeV9DTjNWdjdYa2Z1ZFl5cHUyMF9MQzhEaXBCbnJVckdpUWZGMGJjcWNVTUM5b0VIbEg2dDVZLU8tTGk5YS1taFNyVk12MkhfNVczYWoxdHhkR25V?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "拍手で応援！「ユーフォ」上映イベント、ボックスティッシュ付きなので号泣OK",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBibEl6RjJ0NFBYbUtqWlo5SHhKM0Y4QmR0YlFuY05waTY5WFZIT2VERTRFQjJmbXdnMzIwOEhSaE9iVzZfSzZZenVkbGE?oc=5",
-   "pubDate": "2026-10-12T09:00:00.000Z",
-   "firstSeen": "2026-10-12T09:17:32.306Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "movie",
-    "event"
-   ],
-   "works": [
-    "ユーフォ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBibEl6RjJ0NFBYbUtqWlo5SHhKM0Y4QmR0YlFuY05waTY5WFZIT2VERTRFQjJmbXdnMzIwOEhSaE9iVzZfSzZZenVkbGE?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/cff676177644ada272ec7d96d2f5d475e119cb7a?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "人口1万人の町に1日で3800人が大挙 駅名も「岩美駅」→「岩鳶駅」に変更…人気アニメ「Free!」のロケ参考地がコラボイベント開催 限定グッズには長い行列が 鳥取・岩美町 | BSSニュース | BSS山陰放送 (1ページ)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ha05pLTlvTVhoRW45dXZLZjN0eWtPckRKRF9LMkVlaDN6LWNfWE9qVThzUzBHT1NuNnhxOUxRTVhOdDEwdmp0MXNvazFYXzd0YXlyT29FZXE3MHAtYVM4cVNIOHZkOTg?oc=5",
-   "pubDate": "2026-10-12T09:00:00.000Z",
-   "firstSeen": "2026-10-12T09:17:32.306Z",
-   "image": null,
-   "source": "TBS NEWS DIG",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "event",
-    "goods"
-   ],
-   "works": [
-    "Free!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "TBS NEWS DIG",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ha05pLTlvTVhoRW45dXZLZjN0eWtPckRKRF9LMkVlaDN6LWNfWE9qVThzUzBHT1NuNnhxOUxRTVhOdDEwdmp0MXNvazFYXzd0YXlyT29FZXE3MHAtYVM4cVNIOHZkOTg?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "BSS山陰放送（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sMXk5b2VmVm9OakhKWmZRV2pNS3VOOFg3VzBlQVItYU0xTmhzeDkzbkpqejg0UmZ4anBQMWRybUF2YURMdjE4bU9yUEJsTDludVRON0NaQzVxSWs5QUl5djNFSW54NnhPbGJmLU1hbDVxbmdZLTFiTUlLRGRiazg?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "全部、嘘──それでも。BL映画「羊の皮を着たケモノ」ポスタービジュアル公開（コメントあり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XVUF2OGt6MHp2Z01aYnVfZEhVYU1oenlZQkNQSzN1Snpqc1paa3VndlhNVmF1WXhzck5BY2ZEN3N5Q2pTa3lBRnhZX1Q?oc=5",
-   "pubDate": "2026-10-12T09:00:00.000Z",
-   "firstSeen": "2026-10-12T09:17:32.306Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "movie",
-    "stage"
-   ],
-   "works": [
-    "羊の皮を着たケモノ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XVUF2OGt6MHp2Z01aYnVfZEhVYU1oenlZQkNQSzN1Snpqc1paa3VndlhNVmF1WXhzck5BY2ZEN3N5Q2pTa3lBRnhZX1Q?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/20eeef6aaa3df0e774e747c99f0c2bb82089f56b?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "鈴木伸之×超特急・柏木悠が共演するBL映画「羊の皮を着たケモノ」12月に劇場公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42Q1ZPUnlvNnRiVkRobHFQRjk4Nld3S2M1b1VlU3VQbWJoM19CSE9TYjNmbUF2UllBN1Y0X2c3elNwckZsbXotQnQ1TQ?oc=5",
-   "pubDate": "2026-10-12T09:00:00.000Z",
-   "firstSeen": "2026-10-12T09:17:32.306Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "羊の皮を着たケモノ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42Q1ZPUnlvNnRiVkRobHFQRjk4Nld3S2M1b1VlU3VQbWJoM19CSE9TYjNmbUF2UllBN1Y0X2c3elNwckZsbXotQnQ1TQ?oc=5"
-    },
-    {
-     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/44606d0a34abf0be54df8f8e168f272dc510706c?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "モナキ＆純烈・酒井一圭の新たな魅力が炸裂!?韓国で大ヒットの『BOSS／ボス』吹替版予告が完成(MOVIE WALKER PRESS)",
-   "summary": "韓国映画界の実力派俳優3人が全力でコメディに挑み、韓国国内で244万人を動員する大ヒットを記録した『BOSS／ボス』(10月23日公開)。このたび本作で初めて吹替え声優を担当した男性歌謡コーラスグルー",
-   "link": "https://news.yahoo.co.jp/articles/d19a62d8e1f92cd44402b2ebba98270c001be7b8?source=rss",
-   "pubDate": "2026-10-12T09:00:00.000Z",
-   "firstSeen": "2026-10-12T09:17:32.306Z",
-   "image": null,
-   "source": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "visual",
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "BOSS/ボス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/d19a62d8e1f92cd44402b2ebba98270c001be7b8?source=rss",
-     "syndicated": true
     }
    ]
   }
