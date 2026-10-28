@@ -1,0 +1,1721 @@
+/* Tailwind はリセット(preflight)だけを使う。ユーティリティクラスはこのサイトでは使っておらず、
+   読み込むとソース中の単語から不要なクラスまで生成されて CSS が膨らむ */
+@layer theme, base, components, utilities;
+@import "tailwindcss/preflight.css" layer(base);
+/* 日本語の改行(scripts/linebreak。ビルド後に文節区切りを入れる。設定は linebreak.config.mjs) */
+@import "../../scripts/linebreak/linebreak.css";
+
+/*
+ * デザインの軸: 「マンガのコマ」と「番組表」。
+ *  - ヒーローは集中線とスクリーントーンで描いた1コマ(ここだけ派手にする)
+ *  - ニュース一覧は番組表のように、左に時刻・右に見出しを並べたタイムライン
+ *  - 色はインク(藍)と紙、アクセントは「ON AIR」ランプのピンクと蛍光ペンの黄だけ
+ */
+
+:root {
+  color-scheme: light;
+  --paper: #f2f3f7;
+  --paper-raised: #ffffff;
+  --ink: #15172b;
+  --muted: #595d76;
+  --faint: #62667f;
+  --line: #dadde7;
+  --tone: #c5c9d8;
+  --onair: #e8195a;
+  --onair-soft: rgb(232 25 90 / 10%);
+  --marker: #ffe14a;
+  --on-marker: #15172b;
+  --focus: #3b5bff;
+
+  --font-display: "Dela Gothic One Sub", system-ui, sans-serif;
+  /* 本文は各端末の標準書体。名前を並べると無いフォントを1文字ごとに探して最初のレイアウトが重くなる
+     (fourgetkun-hub の AGENTS.md「速さ」参照) */
+  --font-body: system-ui, sans-serif;
+  /* 薄いピンクの地に置く文字用(--onair のままだとコントラストが足りない) */
+  --onair-text: #c4104a;
+
+  --radius-s: 6px;
+  --radius-m: 14px;
+  --header-h: 60px;
+  --toolbar-h: 64px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --paper: #10122a;
+    --paper-raised: #181b36;
+    --ink: #eef0fa;
+    --muted: #a3a8c6;
+    --faint: #8a8fb0;
+    --onair-text: #ff6d9a;
+    --line: #272b4a;
+    --tone: #2b3052;
+    --onair: #ff4d85;
+    --onair-soft: rgb(255 77 133 / 14%);
+    --marker: #ffd83a;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #10122a;
+  --paper-raised: #181b36;
+  --ink: #eef0fa;
+  --muted: #a3a8c6;
+  --faint: #8a8fb0;
+  --onair-text: #ff6d9a;
+  --line: #272b4a;
+  --tone: #2b3052;
+  --onair: #ff4d85;
+  --onair-soft: rgb(255 77 133 / 14%);
+  --marker: #ffd83a;
+}
+
+@view-transition {
+  navigation: auto;
+}
+
+@layer base {
+  html {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-body);
+    -webkit-text-size-adjust: 100%;
+    scroll-padding-top: calc(var(--header-h) + var(--toolbar-h) + 12px);
+  }
+  body {
+    background: var(--paper);
+    min-height: 100dvh;
+    line-height: 1.7;
+    font-size: 15px;
+  }
+  a {
+    color: inherit;
+  }
+  :focus-visible {
+    outline: 3px solid var(--focus);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  ::selection {
+    background: var(--marker);
+    color: var(--on-marker);
+  }
+}
+
+.wrap {
+  width: min(1240px, 100% - 32px);
+  margin-inline: auto;
+}
+
+/* ---------------------------------------------------------------- header */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  height: var(--header-h);
+  background: color-mix(in oklab, var(--paper) 86%, transparent);
+  backdrop-filter: blur(14px) saturate(1.4);
+  border-bottom: 1px solid transparent;
+  /* スクロールし始めたら下線を出す(scroll-driven animation。未対応ブラウザは線なしのまま) */
+  animation: header-line linear both;
+  animation-timeline: scroll();
+  animation-range: 0 80px;
+}
+@keyframes header-line {
+  to {
+    border-bottom-color: var(--line);
+  }
+}
+.site-header .wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.logo {
+  font-family: var(--font-display);
+  font-size: 19px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  white-space: nowrap;
+}
+/* ファビコンと同じマーク(フキダシ＋ON AIRランプ) */
+.logo-mark {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+}
+.site-nav {
+  margin-left: auto;
+  display: flex;
+  gap: 4px;
+  font-size: 14px;
+  font-weight: 700;
+}
+.site-nav a {
+  white-space: nowrap;
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 999px;
+  color: var(--muted);
+}
+.site-nav a[aria-current="page"] {
+  color: var(--ink);
+  background: var(--paper-raised);
+  box-shadow: inset 0 0 0 1px var(--line);
+}
+.icon-btn {
+  display: inline-grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--paper-raised);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+/* ------------------------------------------------------------------ hero */
+.hero {
+  position: relative;
+  overflow: clip;
+  /* ヒーローはライト/ダークどちらでも同じ「夜のコマ」にする */
+  --hero-ink: #15172b;
+  --hero-paper: #f2f3f7;
+  background: var(--hero-ink);
+  color: var(--hero-paper);
+  isolation: isolate;
+}
+/* スクリーントーン(網点)。インクの上に紙色のドットを薄く敷く */
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-image: radial-gradient(color-mix(in oklab, var(--hero-paper) 16%, transparent) 1.2px, transparent 1.6px);
+  background-size: 7px 7px;
+  mask-image: radial-gradient(ellipse at 70% 45%, transparent 18%, #000 75%);
+}
+.speedlines {
+  /* 左上を 0 に固定する。以前は inset:-10%(ヒーローの高さの割合)で、見出し書体が届いて
+     ヒーローの高さが少し変わるたびに位置がずれ、Lighthouse の CLS が 0.22 になっていた */
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  color: var(--hero-paper);
+  opacity: 0.9;
+  animation: speed-in 900ms cubic-bezier(0.2, 0.7, 0.1, 1) both;
+}
+@keyframes speed-in {
+  from {
+    transform: scale(1.25);
+    opacity: 0;
+  }
+}
+.hero-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 32px;
+  align-items: center;
+  min-height: clamp(360px, 52vh, 520px);
+  padding-block: 48px 40px;
+}
+.hero-lede {
+  font-size: 15px;
+  color: color-mix(in oklab, var(--hero-paper) 78%, transparent);
+  max-width: 40em;
+  margin: 0 0 22px;
+}
+.hero-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  /* 1行9文字が必ず収まる大きさにして、<br> の2行のまま折り返させない。見出し書体が後から
+     届いても行数が変わらないので、下のテロップがずれない(以前は CLS 0.057) */
+  font-size: clamp(30px, 8.6vw, 96px);
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+  margin: 0 0 20px;
+  white-space: nowrap;
+}
+/* 見出しを押すとトップ(絞り込みなし)に戻る。見た目は見出しのまま変えない */
+.hero-home {
+  color: inherit;
+  text-decoration: none;
+}
+.hero-home:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 4px;
+}
+/* 最新ニュースを「フキダシ」に入れて見せる */
+.hero-bubble {
+  position: relative;
+  display: block;
+  max-width: 560px;
+  padding: 18px 22px;
+  background: var(--hero-paper);
+  color: #15172b;
+  border-radius: 22px;
+  text-decoration: none;
+  box-shadow: 6px 6px 0 var(--onair);
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+.hero-bubble::after {
+  content: "";
+  position: absolute;
+  left: 38px;
+  bottom: -14px;
+  border: 14px solid transparent;
+  border-top-color: var(--hero-paper);
+  border-bottom: 0;
+}
+.hero-bubble:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 8px 8px 0 var(--onair);
+}
+.hero-bubble-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #c4104a;
+  margin-bottom: 4px;
+}
+.hero-bubble-title {
+  display: block;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 1.55;
+}
+/* 縦書きの作品名ランキング。日本語の縦組みそのものを見せ場にする */
+/* PC: 本棚は見出しの1行目(「アニメのニュース、」)より下から始める。見出しは折り返さず右へ伸びるので、
+   縦の中央そろえだと1行目の端が本棚に重なる。見出しの文字の大きさ×1.3 だけ下げる */
+@media (min-width: 961px) {
+  .hero-inner > nav {
+    align-self: start;
+    margin-top: calc(clamp(30px, 8.6vw, 96px) * 1.3);
+  }
+}
+.hero-works {
+  writing-mode: vertical-rl;
+  display: flex;
+  /* 縦書きでは block 方向が横(右→左)になるので、column で横に並べる */
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-block-size: 640px;
+  max-inline-size: 400px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.hero-works li {
+  /* 作品名は毎時変わるので、文字を絞った見出し書体ではなく本文の書体(太字)にする */
+  font-family: var(--font-body);
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 1.1;
+  border: 2px solid color-mix(in oklab, var(--hero-paper) 70%, transparent);
+  border-radius: 10px;
+  background: color-mix(in oklab, var(--hero-ink) 60%, transparent);
+  max-inline-size: 360px;
+  overflow: hidden;
+}
+.hero-works li:first-child {
+  background: var(--marker);
+  color: #15172b;
+  border-color: var(--marker);
+}
+.hero-works a {
+  /* 本1冊ぶん全体を押せるように、余白はリンクの側に持たせる */
+  padding: 12px 8px;
+  color: inherit;
+  text-decoration: none;
+  overflow: hidden;
+  /* 長い作品名は2行(縦書きなので2列)にして、背表紙の太い本にする。それでも入らなければ「…」。
+     折り返しは空白(「転生したらスライムだった件 クレイマンREVENGE」なら件の後)を優先し、
+     空白が無ければどこででも折る */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+/* テロップ(ニュース速報の帯) */
+.ticker {
+  --gap: 48px;
+  display: flex;
+  overflow: hidden;
+  border-top: 2px solid var(--onair);
+  background: color-mix(in oklab, #000 30%, var(--hero-ink));
+  font-size: 14px;
+  font-weight: 700;
+}
+.ticker-label {
+  flex: none;
+  padding: 10px 16px;
+  line-height: 22px;
+  background: var(--onair);
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  z-index: 1;
+}
+.ticker-track {
+  display: flex;
+  gap: var(--gap);
+  padding: 10px var(--gap);
+  white-space: nowrap;
+  animation: ticker 80s linear infinite;
+}
+.ticker:hover .ticker-track,
+.ticker:focus-within .ticker-track {
+  animation-play-state: paused;
+}
+.ticker-track a {
+  text-decoration: none;
+  color: var(--hero-paper);
+}
+.ticker-track a:hover {
+  text-decoration: underline;
+}
+@keyframes ticker {
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+/* ----------------------------------------------------------- toolbar */
+.toolbar {
+  position: sticky;
+  top: var(--header-h);
+  z-index: 30;
+  background: color-mix(in oklab, var(--paper) 90%, transparent);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--line);
+}
+.toolbar .wrap {
+  min-height: var(--toolbar-h);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding-block: 10px;
+}
+.search {
+  flex: 1 1 280px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 14px;
+  border-radius: 999px;
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+}
+.search {
+  position: relative;
+}
+.search-label {
+  display: flex;
+  cursor: text;
+}
+.search:focus-within {
+  border-color: var(--ink);
+}
+.search input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 15px;
+  outline: none;
+}
+.search input::placeholder {
+  color: var(--faint);
+}
+.segmented {
+  display: inline-flex;
+  padding: 3px;
+  border-radius: 999px;
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+}
+.segmented button {
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 7px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.segmented button[aria-pressed="true"] {
+  background: var(--ink);
+  color: var(--paper);
+}
+/* .btn より後で効くよう、詳細度を上げておく(.btn の display に負けてPCでも出ていた) */
+.toolbar .filter-open {
+  display: none;
+}
+
+/* ------------------------------------------------------- page layout */
+.layout {
+  display: grid;
+  grid-template-columns: 300px minmax(0, 1fr);
+  gap: 40px;
+  padding-block: 28px 80px;
+  align-items: start;
+}
+/* PC: 一覧の最初の見出しの下線と、左の絞り込みパネルの上端をそろえる
+   (見出しの上の余白 10px + 文字の行 30px + 下の余白 8px = 48px だけパネルを下げる) */
+@media (min-width: 961px) {
+  .panel {
+    margin-top: 48px;
+  }
+}
+
+/* --------------------------------------------------------- filter panel */
+.panel {
+  position: sticky;
+  /* 画面より高いときの位置は feed.ts の updatePanelTop が --panel-top で決める(中でスクロールさせない) */
+  top: var(--panel-top, calc(var(--header-h) + var(--toolbar-h) + 16px));
+  padding-right: 6px;
+}
+.panel-head {
+  display: none;
+}
+.panel section {
+  padding-block: 16px;
+  border-bottom: 1px solid var(--line);
+}
+.panel section:first-of-type {
+  padding-top: 0;
+}
+.panel h2 {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--muted);
+  margin: 0 0 10px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+.panel h2 button {
+  border: 0;
+  background: none;
+  color: var(--faint);
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.panel p.hint {
+  font-size: 12px;
+  color: var(--faint);
+  margin: 6px 0 0;
+  line-height: 1.6;
+}
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 32px;
+  padding: 4px 11px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--paper-raised);
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.chip .count {
+  font-size: 11px;
+  color: var(--faint);
+  font-variant-numeric: tabular-nums;
+}
+.chip[aria-pressed="true"] {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+.chip[aria-pressed="true"] .count {
+  color: color-mix(in oklab, var(--paper) 70%, transparent);
+}
+.chip.is-empty {
+  opacity: 0.45;
+}
+.toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 6px 0;
+  font-size: 14px;
+  cursor: pointer;
+}
+.toggle small {
+  display: block;
+  color: var(--faint);
+  font-size: 12px;
+}
+.toggle input {
+  appearance: none;
+  flex: none;
+  width: 40px;
+  height: 24px;
+  border-radius: 999px;
+  background: var(--tone);
+  position: relative;
+  cursor: pointer;
+  transition: background 150ms ease;
+}
+.toggle input::after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #fff;
+  transition: transform 150ms ease;
+}
+.toggle input:checked {
+  background: var(--onair);
+}
+.toggle input:checked::after {
+  transform: translateX(16px);
+}
+.source-list {
+  display: grid;
+  gap: 2px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 13px;
+}
+.source-list label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+  cursor: pointer;
+}
+.source-list input {
+  accent-color: var(--onair);
+  width: 16px;
+  height: 16px;
+}
+.source-list .count {
+  margin-left: auto;
+  color: var(--faint);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+.kind-mark {
+  flex: none;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+}
+.kind-specialist {
+  background: var(--onair);
+}
+.kind-general {
+  background: #3b82c4;
+}
+.kind-aggregator {
+  background: #8e7bd6;
+}
+.kind-press {
+  background: #c09a2b;
+}
+.word-form {
+  display: flex;
+  gap: 6px;
+}
+.word-form input {
+  flex: 1;
+  min-width: 0;
+  height: 36px;
+  padding: 0 10px;
+  border-radius: var(--radius-s);
+  border: 1px solid var(--line);
+  background: var(--paper-raised);
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+}
+.word-form button {
+  height: 36px;
+  padding: 0 12px;
+  border-radius: var(--radius-s);
+  border: 0;
+  background: var(--ink);
+  color: var(--paper);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.word-list {
+  margin-top: 8px;
+}
+.word-list .chip::after {
+  content: "×";
+  color: var(--faint);
+}
+
+/* ---------------------------------------------------------------- feed */
+.feed-count {
+  margin: 0 0 0 auto;
+  /* 見出しの行(30px)より高くならないようにする(下線の位置がずれるため) */
+  align-self: flex-end;
+  height: 30px;
+  line-height: 30px;
+  display: flex;
+  gap: 14px;
+  font-size: 13px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.feed-count strong {
+  color: var(--ink);
+  font-size: 15px;
+  font-variant-numeric: tabular-nums;
+}
+.active-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+.active-filters:empty {
+  display: none;
+}
+.active-filters .chip {
+  min-height: 28px;
+  font-size: 12px;
+  background: var(--onair-soft);
+  border-color: transparent;
+}
+.active-filters .chip::after {
+  content: "×";
+  color: var(--muted);
+}
+.work-banner {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  padding: 16px 18px;
+  margin: 12px 0 4px;
+  border-radius: var(--radius-m);
+  background: var(--ink);
+  color: var(--paper);
+}
+.work-banner h2 {
+  /* ボタン類はバナーの右に寄せる */
+  margin-right: auto !important;
+  /* 作品名は毎時変わるので、文字を絞った見出し書体ではなく本文の書体(太字)にする */
+  font-family: var(--font-body);
+  font-weight: 800;
+  font-size: 22px;
+  margin: 0;
+  line-height: 1.3;
+}
+/* 作品の絞り込みの解除は、バナーの中でいちばん目立つボタンにする(オンエアの赤の塗り) */
+.work-clear {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 40px;
+  padding: 0 16px;
+  /* 白い文字との差が足りるよう、テーマに関係なく濃いめの赤にする */
+  border: 2px solid #c4104a;
+  border-radius: 999px;
+  background: #c4104a;
+  color: #fff;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 2px 0 #7d0a2f;
+}
+.work-clear:hover {
+  filter: brightness(1.08);
+}
+.work-clear:active {
+  translate: 0 2px;
+  box-shadow: none;
+}
+.work-clear:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+.day {
+  margin-top: 26px;
+}
+.day:first-child {
+  margin-top: 0;
+}
+.day-head {
+  position: sticky;
+  top: calc(var(--header-h) + var(--toolbar-h));
+  z-index: 5;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 10px 0 8px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--ink);
+}
+/* 絞り込みのツールバーが無いページ(タイトルページ)では、見出しをヘッダーのすぐ下に貼りつける */
+.work-page .day-head {
+  top: var(--header-h);
+}
+.day-head h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 0;
+}
+.day-head span {
+  font-size: 12px;
+  color: var(--faint);
+}
+.item {
+  container-type: inline-size;
+  border-bottom: 1px solid var(--line);
+}
+.item-grid {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr) auto;
+  gap: 4px 16px;
+  padding: 16px 0;
+}
+/* サムネイルの無い記事は右の列を作らない(空の列の分だけ本文とハッシュタグが右端に届かなくなるため) */
+/* 狭い画面では時刻の列の右に、本文 → サムネイル → タグ の順に縦に並ぶ */
+.item-grid > .item-tags {
+  grid-column: 2;
+}
+@container (min-width: 521px) {
+  .item-grid:not(:has(.item-thumb)) {
+    grid-template-columns: 52px minmax(0, 1fr);
+  }
+  /* タグと「同じ話題」はサムネイルの下まで伸ばし、どの記事でも右端をそろえる */
+  .item-grid > .item-tags {
+    grid-column: 2 / -1;
+  }
+}
+.item-time {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  padding-top: 2px;
+}
+.item-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 10px;
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 3px;
+}
+.item-meta .src {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 700;
+}
+.item-meta .more-src {
+  color: var(--onair-text);
+  font-weight: 700;
+}
+.item-meta .lang {
+  font-size: 11px;
+  padding: 0 6px;
+  border-radius: 4px;
+  border: 1px solid var(--line);
+}
+.item h3 {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 700;
+  text-wrap: pretty;
+}
+.item h3 a {
+  text-decoration: none;
+}
+.item h3 a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+.item.is-read h3 a {
+  color: var(--muted);
+  font-weight: 400;
+}
+.item.is-followed .item-grid {
+  box-shadow: inset 3px 0 0 var(--marker);
+  padding-left: 10px;
+  margin-left: -10px;
+}
+.item-summary {
+  margin: 4px 0 0;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.item-tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+}
+.tag {
+  border: 0;
+  background: none;
+  padding: 0;
+  font: inherit;
+  font-size: 12px;
+  color: var(--muted);
+  cursor: pointer;
+}
+.tag:hover {
+  color: var(--ink);
+  text-decoration: underline;
+}
+/* 話題のハッシュタグ: 記事の右端にそろえ、押せる札の形にする(押すとその話題で絞り込む) */
+.item-cats {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-left: auto;
+}
+.item-tags .tag.tag-cat {
+  min-height: 30px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--muted);
+}
+.item-tags .tag.tag-cat:hover {
+  border-color: var(--ink);
+  color: var(--ink);
+  text-decoration: none;
+}
+.tag-work {
+  font-weight: 700;
+  color: var(--ink);
+  background: linear-gradient(transparent 60%, color-mix(in oklab, var(--marker) 70%, transparent) 60%);
+}
+.item-extra {
+  font-size: 12px;
+  color: var(--faint);
+}
+.item-extra a {
+  color: var(--muted);
+}
+.item-extra.repost,
+.item-extra.repost a {
+  color: var(--faint);
+}
+.item-thumb {
+  width: 132px;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 10px;
+  background: var(--tone);
+  grid-row: 1;
+  grid-column: 3;
+}
+@container (max-width: 520px) {
+  .item-grid {
+    grid-template-columns: 44px minmax(0, 1fr);
+  }
+  .item-thumb {
+    grid-column: 2;
+    grid-row: auto;
+    width: 100%;
+    max-width: 320px;
+    margin-top: 8px;
+  }
+}
+/* ネタバレぼかし */
+.spoiler-guard .item-title,
+.spoiler-guard .item-summary,
+.spoiler-guard .item-thumb {
+  filter: blur(7px);
+  user-select: none;
+}
+.spoiler-reveal {
+  display: none;
+}
+.spoiler-guard .spoiler-reveal {
+  display: inline-flex;
+  margin-top: 6px;
+  border: 1px dashed var(--onair);
+  color: var(--onair-text);
+  background: var(--onair-soft);
+  border-radius: 999px;
+  padding: 3px 12px;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.feed-more {
+  display: flex;
+  justify-content: center;
+  padding: 28px 0;
+}
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 22px;
+  border-radius: 999px;
+  border: 1px solid var(--ink);
+  background: var(--paper-raised);
+  color: var(--ink);
+  font: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  text-decoration: none;
+}
+.btn-solid {
+  background: var(--ink);
+  color: var(--paper);
+}
+.empty {
+  padding: 48px 0;
+  text-align: center;
+  color: var(--muted);
+}
+.empty p {
+  margin: 0 0 16px;
+}
+
+/* ----------------------------------------------------------------- prose */
+.prose {
+  max-width: 44em;
+  padding-block: 48px 96px;
+}
+.prose h1 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: clamp(32px, 5vw, 52px);
+  line-height: 1.15;
+  margin: 0 0 20px;
+}
+.prose h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 24px;
+  margin: 48px 0 12px;
+}
+.prose h3 {
+  font-size: 16px;
+  margin: 24px 0 6px;
+}
+.prose p,
+.prose li {
+  color: var(--muted);
+}
+.prose strong {
+  color: var(--ink);
+}
+.prose code {
+  font-size: 0.9em;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+}
+.pipeline {
+  list-style: none;
+  counter-reset: step;
+  padding: 0;
+  margin: 20px 0;
+  display: grid;
+  gap: 10px;
+}
+.pipeline li {
+  counter-increment: step;
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  gap: 12px;
+  padding: 14px 16px;
+  border-radius: var(--radius-m);
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+}
+.pipeline li::before {
+  content: counter(step);
+  font-family: var(--font-display);
+  font-size: 22px;
+  color: var(--onair-text);
+  line-height: 1.2;
+}
+.pipeline b {
+  display: block;
+  color: var(--ink);
+}
+.table-scroll {
+  overflow-x: auto;
+  margin: 16px 0;
+}
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+.prose th,
+.prose td {
+  text-align: left;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+}
+.prose td.num,
+.prose th.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.prose th {
+  color: var(--ink);
+  font-size: 12px;
+}
+.status-ng {
+  color: var(--onair-text);
+  font-weight: 700;
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding-block: 28px 40px;
+  font-size: 12px;
+  color: var(--faint);
+}
+.site-footer .wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  justify-content: space-between;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ------------------------------------------------------------- mobile */
+@media (max-width: 960px) {
+  .layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+  }
+  .toolbar .filter-open {
+    display: inline-flex;
+  }
+  /* 絞り込みパネルは下から出てくるシートにする */
+  .panel {
+    overflow: auto;
+    overscroll-behavior: contain;
+    position: fixed;
+    inset: auto 0 0 0;
+    top: auto;
+    z-index: 60;
+    max-height: 82dvh;
+    padding: 0 16px 24px;
+    background: var(--paper);
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 -12px 40px rgb(0 0 0 / 25%);
+    transform: translateY(105%);
+    visibility: hidden;
+    transition: transform 260ms cubic-bezier(0.2, 0.8, 0.2, 1), visibility 0s linear 260ms;
+  }
+  .panel.is-open {
+    transform: none;
+    visibility: visible;
+    transition: transform 260ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+  .panel-head {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 0;
+    background: var(--paper);
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 12px;
+  }
+  .panel-head h2 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0;
+    color: var(--ink);
+  }
+  .scrim {
+    position: fixed;
+    inset: 0;
+    z-index: 55;
+    background: rgb(10 12 30 / 45%);
+  }
+  .hero-inner {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  /* スマホでは作品名を横1列(はみ出た分は横スクロール)にして、高さを固定する。
+     折り返すと、見出し書体が届いて文字幅が変わったときに行数が変わり、下のテロップがずれる */
+  .hero-works {
+    writing-mode: horizontal-tb;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    max-block-size: none;
+    max-inline-size: none;
+    height: 40px;
+  }
+  .hero-works li {
+    flex: none;
+    font-size: 15px;
+    line-height: 20px;
+    height: 36px;
+  }
+  .hero-works a {
+    /* スマホでは横並びの札なので1行に戻す */
+    display: block;
+    padding: 6px 10px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .hero-works li:nth-child(n + 7) {
+    display: none;
+  }
+  .site-nav a {
+    padding: 6px 8px;
+  }
+}
+@media (max-width: 560px) {
+  .segmented button {
+    padding: 7px 9px;
+  }
+  .logo-text-long {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+  .ticker-track {
+    overflow-x: auto;
+  }
+}
+
+/* ------------------------------------------------ 前回から新着 */
+.new-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 7px;
+  border-radius: 999px;
+  background: var(--onair);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 18px;
+}
+.item.is-new .item-time {
+  color: var(--onair-text);
+}
+.toolbar .new-only {
+  height: 44px;
+  border-color: var(--onair);
+  color: var(--onair-text);
+}
+.toolbar .new-only[aria-pressed="true"] {
+  background: var(--onair);
+  color: #fff;
+}
+.toolbar .new-only[hidden] {
+  display: none;
+}
+
+/* ------------------------------------------------ 作品ページ・作品一覧 */
+.work-page,
+.work-index,
+.cal-page {
+  padding-block: 36px 88px;
+  max-width: 900px;
+}
+.crumbs {
+  margin: 0 0 6px;
+  font-size: 13px;
+  color: var(--muted);
+}
+.work-title {
+  /* 作品名は毎時変わるので、文字を絞った見出し書体ではなく本文の書体(太字)にする */
+  font-family: var(--font-body);
+  font-weight: 800;
+  font-size: clamp(28px, 5vw, 46px);
+  line-height: 1.2;
+  margin: 0 0 8px;
+}
+.work-meta {
+  color: var(--muted);
+  font-size: 14px;
+  margin: 0 0 18px;
+}
+.work-actions {
+  margin: 0 0 12px;
+}
+.work-schedule {
+  margin: 24px 0 8px;
+  padding: 16px 18px;
+  border-radius: var(--radius-m);
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+}
+.work-schedule h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 18px;
+  margin: 0 0 6px;
+}
+.work-schedule ul {
+  margin: 0;
+  padding-left: 1.2em;
+  font-size: 14px;
+}
+.work-schedule a {
+  color: var(--muted);
+}
+.work-search {
+  max-width: 420px;
+  margin-bottom: 16px;
+}
+.work-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  columns: 2 280px;
+  column-gap: 32px;
+}
+.work-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--line);
+  break-inside: avoid;
+  font-size: 14px;
+}
+.work-list a {
+  text-decoration: none;
+  font-weight: 700;
+}
+.work-list a:hover {
+  text-decoration: underline;
+}
+.work-list .count {
+  flex: none;
+  color: var(--faint);
+  font-size: 12px;
+}
+a.tag-work {
+  text-decoration: none;
+}
+
+/* ------------------------------------------------ 予定(カレンダー)。番組表のように日ごとに並べる */
+.cal-filter {
+  margin-bottom: 8px;
+}
+.cal-month-head {
+  position: sticky;
+  top: var(--header-h);
+  z-index: 5;
+  margin: 28px 0 0;
+  padding: 10px 0 8px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--ink);
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 22px;
+}
+.cal-day {
+  display: grid;
+  grid-template-columns: 128px minmax(0, 1fr);
+  gap: 4px 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+.cal-day.is-today .cal-day-head {
+  color: var(--onair-text);
+}
+.cal-day-head {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 700;
+}
+.cal-today {
+  /* 日付の横だと列の幅に収まらず途中で折り返すので、日付の下に置く */
+  display: block;
+  width: fit-content;
+  margin-top: 4px;
+  white-space: nowrap;
+  font-size: 11px;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--onair);
+  color: #fff;
+}
+.cal-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+}
+.cal-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 10px;
+  font-size: 14px;
+}
+.cal-verb {
+  flex: none;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 1px 8px;
+  border-radius: 4px;
+  background: var(--ink);
+  color: var(--paper);
+}
+.cal-verb-broadcast,
+.cal-verb-stream {
+  background: var(--onair);
+  color: #fff;
+}
+.cal-verb-movie {
+  background: #3b82c4;
+  color: #fff;
+}
+.cal-work {
+  font-weight: 700;
+  text-decoration: none;
+  background: linear-gradient(transparent 60%, color-mix(in oklab, var(--marker) 70%, transparent) 60%);
+}
+.cal-title {
+  flex-basis: 100%;
+  font-size: 12px;
+  color: var(--muted);
+}
+@media (max-width: 640px) {
+  .cal-day {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+@media (max-width: 560px) {
+  .site-nav .nav-wide {
+    display: none;
+  }
+}
+
+/* ------------------------------------------------ 速さ(Lighthouse)
+ * 画面外の記事は描画を後回しにする(最初のレイアウトの負荷が大きく下がる)。
+ * contain-intrinsic-size は記事1件のおおよその高さ。大きくずれるとスクロール中にページの長さが変わる */
+.item {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 150px;
+}
+/* ハブが足す「fourgetkun 工房」へのリンクは opacity:.8 が直書きされていて、薄い文字色だと
+   コントラストが足りない。このサイトの中では不透明にして本文の色にする */
+.fk-hub {
+  opacity: 1 !important;
+  color: var(--muted);
+}
+/* 記事のタイトル名・話題のタグは押せるボタンなので、指で押しやすい高さ(24px 以上)を取る */
+.item-tags .tag,
+.item-tags .plat {
+  min-height: 24px;
+  display: inline-flex;
+  align-items: center;
+  padding-block: 2px;
+}
+
+/* ------------------------------------------------ 絞り込みパネルの折りたたみ(媒体・ミュート・言語) */
+.fold-head {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  cursor: pointer;
+  list-style: none;
+}
+.fold-head::-webkit-details-marker {
+  display: none;
+}
+.fold-head::before {
+  content: "▸";
+  color: var(--faint);
+  font-size: 11px;
+  transition: rotate 150ms ease;
+}
+.fold[open] > .fold-head::before {
+  rotate: 90deg;
+}
+.panel .fold-head h2 {
+  margin: 0;
+}
+.fold-note {
+  margin-left: auto;
+  font-size: 12px;
+  color: var(--onair-text);
+  font-weight: 700;
+}
+.fold[open] > .fold-head {
+  margin-bottom: 10px;
+}
+.fold-actions {
+  margin: 0 0 6px;
+  text-align: right;
+}
+.fold-actions button {
+  border: 0;
+  background: none;
+  color: var(--faint);
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/* ------------------------------------------------ RSS の一覧(しくみページ) */
+.prose .feed-list {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0 24px;
+  border-top: 1px solid var(--line);
+}
+.prose .feed-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 16px;
+  margin: 0;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+.feed-name {
+  flex: 1 1 12em;
+  font-weight: 700;
+}
+.feed-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.feed-btn {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-s);
+  background: var(--paper);
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.feed-btn:hover {
+  border-color: var(--ink);
+}
+.feed-btn:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+/* ------------------------------------------------ 検索窓の候補(src/scripts/suggest.ts) */
+.suggest {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  z-index: 40;
+  max-height: min(60vh, 420px);
+  overflow-y: auto;
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: 0 12px 32px rgb(0 0 0 / 22%);
+}
+.suggest[hidden] {
+  display: none;
+}
+.suggest-head {
+  padding: 6px 10px 4px;
+  font-size: 12px;
+  color: var(--faint);
+}
+.suggest-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 40px;
+  padding: 6px 10px;
+  border-radius: calc(16px - 6px);
+  color: var(--ink);
+  cursor: pointer;
+}
+.suggest-item[aria-selected="true"] {
+  background: var(--onair-soft);
+}
+.suggest-kind {
+  flex: none;
+  font-family: inherit;
+  font-size: 11px;
+  line-height: 18px;
+  padding: 0 6px;
+  border-radius: 4px;
+  background: var(--ink);
+  color: var(--paper);
+}
+.suggest-kind-cat,
+.suggest-kind-plat {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--line);
+}
+.suggest-label {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 700;
+}
+.suggest-count {
+  flex: none;
+  font-size: 12px;
+  color: var(--faint);
+}
+
+/* しくみページの末尾の小さな注記 */
+.prose .fine-print {
+  margin-top: 40px;
+  font-size: 12px;
+  color: var(--faint);
+}
+
+/* ------------------------------------------------ ヘッダーの検索欄(「しくみ」とテーマ切り替えの間) */
+.header-search {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  width: 210px;
+  height: 36px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper-raised);
+  color: var(--muted);
+}
+.header-search:focus-within {
+  border-color: var(--ink);
+}
+.header-search input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  outline: none;
+}
+.header-search input::placeholder {
+  color: var(--faint);
+}
+/* 狭い画面ではヘッダーに入らないので出さない(トップは一覧の上の検索欄を使う) */
+@media (max-width: 900px) {
+  .header-search {
+    display: none;
+  }
+}
+
+/* ヘッダーが狭いとき(スマホ): ロゴ・メニュー・テーマ切り替えが1行に入りきらず、ロゴの文字がメニューに
+   重なり、切り替えボタンが縮んでいた。ロゴとボタンは縮めず、440px 以下ではロゴのマークだけにする */
+.logo,
+#theme-toggle {
+  flex: none;
+}
+@media (max-width: 440px) {
+  .logo > span {
+    display: none;
+  }
+}
+
+
+/* English build: prevent narrow Japanese heading treatments from clipping translated UI. */
+:root { --font-display: system-ui, sans-serif; }
+.site-nav, .segmented, .chips { flex-wrap: wrap; }
+.logo { white-space: normal; }

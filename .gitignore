@@ -23,3 +23,8 @@ npm-debug.log*
 
 # エディタ拡張などが作る一時ファイル(このサイトとは無関係)
 .tanstack/
+
+# Keep additive English-only sources out of the Japanese Tailwind scan.
+/locales/en/
+/scripts/build-english.mjs
+/.locale-en-*/

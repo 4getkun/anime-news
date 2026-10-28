@@ -1,0 +1,29 @@
+{
+  "name": "All Anime News",
+  "short_name": "Anime News",
+  "description": "An anime RSS reader with grouped coverage and customizable filters. Japanese articles remain in Japanese.",
+  "lang": "en",
+  "start_url": "/anime-news/en/",
+  "scope": "/anime-news/en/",
+  "display": "standalone",
+  "background_color": "#15172B",
+  "theme_color": "#15172B",
+  "icons": [
+    {
+      "src": "/anime-news/en/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/anime-news/en/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/anime-news/en/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "id": "/anime-news/en/"
+}
