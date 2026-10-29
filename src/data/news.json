@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-29T16:10:52.457Z",
+ "generatedAt": "2026-10-29T16:18:35.083Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5861,
+  "exact": 5864,
   "syndicated": 595,
   "similar": 699,
   "syndicatedTotal": 6520,
@@ -3528,6 +3528,22 @@
   {
    "date": "2026-10-29",
    "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "ダンジョン飯",
+   "title": "【TVアニメ「ダンジョン飯」×カラオケまねきねこ】コラボキャンペーン2026年10月29日13:00より開催！和モダン風の描き下ろしイラストを使用したオリジナルグッズやコラボドリンクが登場！",
+   "link": "https://prtimes.jp/main/html/rd/p/000000109.000178734.html",
+   "source": "PR TIMES",
+   "sources": 2,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-29",
+   "precision": "day",
    "verb": "stream",
    "label": "配信",
    "work": null,
@@ -3554,22 +3570,6 @@
    "sources": 1,
    "categories": [
     "media"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-29",
-   "precision": "day",
-   "verb": "event",
-   "label": "開催",
-   "work": "ダンジョン飯",
-   "title": "【TVアニメ「ダンジョン飯」×カラオケまねきねこ】コラボキャンペーン2026年10月29日13:00より開催！和モダン風の描き下ろしイラストを使用したオリジナルグッズやコラボドリンクが登場！",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yMERONWpvcjY5NVFoa1VmWWtRM1JKRjBDeE1IM21vUzh1XzhUQm1HMG92Z2luU1RBQVpVeTVSSkVEal9hUEt2eTBRa3lHX2ZPbDZJWnhOa1NSV0otTHc1a3M1WXF3THh2OFJZ?oc=5",
-   "source": "時事ドットコム",
-   "sources": 1,
-   "categories": [
-    "goods"
    ],
    "platforms": [],
    "spoiler": false
@@ -4905,7 +4905,7 @@
    "title": "ショートアニメ『全力回避フラグちゃん!』7周年。11月2日に記念動画を公開",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vbHoxV0w3UTZGUmxkVUZoQ0oyLVgtMUpDVF9XamhTNndGN0ZudHhpU1R6Q0NLTHg2ZGpxT0FDN2pFdXBrRkdSLUwwdjdYSUNEZWUtajFJY2ZDc0QxYUVBV1hWYjFfQXV4WUVIN1Q4bkFFdw?oc=5",
    "source": "インサイド",
-   "sources": 2,
+   "sources": 3,
    "categories": [],
    "platforms": [],
    "spoiler": false
@@ -9140,8 +9140,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5333,
-   "accepted": 5111
+   "archived": 5335,
+   "accepted": 5113
   },
   {
    "id": "gnews-tvanime",
@@ -9261,8 +9261,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29177,
-   "accepted": 521
+   "archived": 29225,
+   "accepted": 522
   },
   {
    "id": "ann",
@@ -14044,6 +14044,12 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYWdRMm44ZlZwS0wzaTVUazVyWHNpUTNrTnAwMjU4RWF2SGVaeFMtY1h2cDBuSDFrbDBCZUIxdDJVMG8yOVBndGp5aE1OU1ozc1A3emRaLXNoOWFFa25uTEFyQU5lS3NjUHc?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "時事ドットコム",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93bkgyby1mdUY4OWExczBQUV9NZkdta3dtVV9BNmFOWHJVT3NPdnNudVNRZW15eE9aZDNEdFEwQml4S1haSE4wSlZJVjU5bWdUTzlrRTNPbDlwXy1qY0xYdEVCZ0FlVnNoU2xF?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -14782,6 +14788,12 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NQi12RDNhSmNkQl9LZGQ0enNJX19KdzVRNlgyaFpaaE84UFR1UWpjem9CVzNaQ3d6b1JYZzJ6YWhSRnJ6WFduRVFYMnk3NU1xNkREZ1lBUVFDeW1la1otSXlTdmNhcThrNTBDRmt5N2RfQkJFRGV1NlJ1NA?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SYjRNcU9vazNtUFJ0R2E1M3JPS1h3ZVEwVE9jcXJzQXZhSGxrOVhnM202TmFkSXBRYm1EMVpYMTZwT3VRWFhHcGxIbEdhUTh5QTNRdjYtWlBPRC10cUZFMWdoRXE3aWlKdmc?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -15025,35 +15037,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZRmxFODFQbWh2MHdTckt2ZkxLbUNnOFE3WldLTG5oR1JWLWpjdHlRaWoydjl6X3pxWU9NNU4zbVpRdTdEMENWcmZaOHdVbV9XTFVrQkxhUlhWRUdlTXVz?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "【TVアニメ「ダンジョン飯」×カラオケまねきねこ】コラボキャンペーン2026年10月29日13:00より開催！和モダン風の描き下ろしイラストを使用したオリジナルグッズやコラボドリンクが登場！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yMERONWpvcjY5NVFoa1VmWWtRM1JKRjBDeE1IM21vUzh1XzhUQm1HMG92Z2luU1RBQVpVeTVSSkVEal9hUEt2eTBRa3lHX2ZPbDZJWnhOa1NSV0otTHc1a3M1WXF3THh2OFJZ?oc=5",
-   "pubDate": "2026-10-29T05:16:00.000Z",
-   "firstSeen": "2026-10-29T06:17:56.599Z",
-   "image": null,
-   "source": "時事ドットコム",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ダンジョン飯"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yMERONWpvcjY5NVFoa1VmWWtRM1JKRjBDeE1IM21vUzh1XzhUQm1HMG92Z2luU1RBQVpVeTVSSkVEal9hUEt2eTBRa3lHX2ZPbDZJWnhOa1NSV0otTHc1a3M1WXF3THh2OFJZ?oc=5",
-     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -15955,6 +15938,40 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/c5ac4236dea1c7790703ebcfa72ecb3121f63b5d?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【TVアニメ「ダンジョン飯」×カラオケまねきねこ】コラボキャンペーン2026年10月29日13:00より開催！和モダン風の描き下ろしイラストを使用したオリジナルグッズやコラボドリンクが登場！",
+   "summary": "「カラオケまねきねこ」を全国725店舗（2026年9月末時点）展開する株式会社コシダカ（東京本社：東京都渋谷区、代表取締役社長：腰高 博）は大人気TVアニメ「ダンジョン飯」とのコラボキャンペーンを2026年10月29...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000109.000178734.html",
+   "pubDate": "2026-10-29T04:00:00.000Z",
+   "firstSeen": "2026-10-29T06:17:56.599Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ダンジョン飯"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000109.000178734.html"
+    },
+    {
+     "name": "時事ドットコム",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yMERONWpvcjY5NVFoa1VmWWtRM1JKRjBDeE1IM21vUzh1XzhUQm1HMG92Z2luU1RBQVpVeTVSSkVEal9hUEt2eTBRa3lHX2ZPbDZJWnhOa1NSV0otTHc1a3M1WXF3THh2OFJZ?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
