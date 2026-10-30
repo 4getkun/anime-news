@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-30T19:18:44.776Z",
+ "generatedAt": "2026-10-30T20:18:36.818Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5865,
-  "syndicated": 597,
+  "exact": 5850,
+  "syndicated": 594,
   "similar": 700,
-  "syndicatedTotal": 6527,
-  "syndicatedLeft": 1183
+  "syndicatedTotal": 6507,
+  "syndicatedLeft": 1182
  },
  "calendar": [
   {
@@ -9282,8 +9282,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5439,
-   "accepted": 5217
+   "archived": 5428,
+   "accepted": 5206
   },
   {
    "id": "gnews-tvanime",
@@ -9293,8 +9293,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1348,
-   "accepted": 1289
+   "archived": 1339,
+   "accepted": 1280
   },
   {
    "id": "gnews-movie",
@@ -9303,9 +9303,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 99,
-   "archived": 823,
-   "accepted": 727
+   "fetched": 100,
+   "archived": 824,
+   "accepted": 728
   },
   {
    "id": "gnews-seiyu",
@@ -9315,7 +9315,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2716,
+   "archived": 2715,
    "accepted": 2472
   },
   {
@@ -9392,8 +9392,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29776,
-   "accepted": 3262
+   "archived": 29784,
+   "accepted": 3254
   },
   {
    "id": "prtimes",
@@ -9403,8 +9403,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29116,
-   "accepted": 541
+   "archived": 29084,
+   "accepted": 542
   },
   {
    "id": "ann",
@@ -9414,8 +9414,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 675,
-   "accepted": 675
+   "archived": 674,
+   "accepted": 674
   },
   {
    "id": "mal",
@@ -9436,11 +9436,117 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 221,
-   "accepted": 221
+   "archived": 222,
+   "accepted": 222
   }
  ],
  "items": [
+  {
+   "title": "TVアニメ『僕は友達が少ない』より、渡辺義弘氏描き下ろしイラストを使用したグッズが、ビックカメラグループ一部店舗にて開催中！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000000367.000066407.html",
+   "pubDate": "2026-10-30T20:10:02.000Z",
+   "firstSeen": "2026-10-30T20:17:55.664Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "僕は友達が少ない"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000367.000066407.html"
+    }
+   ]
+  },
+  {
+   "title": "「極道上司に愛されたら」シーズン2制作決定、戸塚祥太＆紺野彩夏が引き続きW主演(コミックナタリー)",
+   "summary": "真霜ナオ・＠R原作によるドラマ「極道上司に愛されたら」のシーズン2が12月17日よりMBSほかにて放送されることが決定。小田切蓮役の戸塚祥太（A.B.C-Z）、菅原真琴役の紺野彩夏がシーズン1に引き続",
+   "link": "https://news.yahoo.co.jp/articles/e1b7f421d7c2a33c93463915788ee403e8622594?source=rss",
+   "pubDate": "2026-10-30T20:00:11.000Z",
+   "firstSeen": "2026-10-30T20:17:55.664Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e1b7f421d7c2a33c93463915788ee403e8622594?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "アニメ市場、初４兆円超 競争激化、収益還元に課題 海外事業拡大へ前のめり｜四国新聞WEB朝刊",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoMFN5cUdKWHdFVW9GeXpySTJNbWc5cTh1RlloelR6bmotYXNWZzBWUzQwTVd1LW5XR0JCNDdGdzkwNGE2QUp2SjJTZkhoZk9vWDEwWlJDSXVwbG5qTlIxcFZRNS1YeFdQRUM5eC0wUHJiUU9mWHo00gF8QVVfeXFMTk9yRU5WTjZ2eTNKQ3VkSWRreko2VVhSY0RfZHZ2X01zN3F6bnZNQm5pY0ktcGlVa21iMF90bVRrWUJjNzFITDI0R0k2R2JhQ3h4VElJT0gzQ05wWGtyRHdDU0Y3MWpMenlWd29Pb3dwdkZ5OEVRdjhQejdWcw?oc=5",
+   "pubDate": "2026-10-30T19:51:12.000Z",
+   "firstSeen": "2026-10-30T20:17:55.664Z",
+   "image": null,
+   "source": "四国新聞",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "四国新聞",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoMFN5cUdKWHdFVW9GeXpySTJNbWc5cTh1RlloelR6bmotYXNWZzBWUzQwTVd1LW5XR0JCNDdGdzkwNGE2QUp2SjJTZkhoZk9vWDEwWlJDSXVwbG5qTlIxcFZRNS1YeFdQRUM5eC0wUHJiUU9mWHo00gF8QVVfeXFMTk9yRU5WTjZ2eTNKQ3VkSWRreko2VVhSY0RfZHZ2X01zN3F6bnZNQm5pY0ktcGlVa21iMF90bVRrWUJjNzFITDI0R0k2R2JhQ3h4VElJT0gzQ05wWGtyRHdDU0Y3MWpMenlWd29Pb3dwdkZ5OEVRdjhQejdWcw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "Star Wars Director Says the Jedi Order 'Indeed Created Darth Vader'",
+   "summary": "The director of one of the hottest Star Wars titles explains why he believes the Jedi were ultimately responsible for creating Darth Vader.",
+   "link": "https://www.cbr.com/star-wars-darth-vader-jedi-order-create/",
+   "pubDate": "2026-10-30T19:40:12.000Z",
+   "firstSeen": "2026-10-30T20:17:55.664Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/darth-vader-from-obi-wan-kenobi.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/star-wars-darth-vader-jedi-order-create/"
+    }
+   ]
+  },
   {
    "title": "アニメ市場が初の４兆円超 ２０２５年速報値、１０年で２倍以上に拡大 海外売り上げがけん引",
    "summary": "",
@@ -10426,6 +10532,31 @@
    ]
   },
   {
+   "title": "橋の上に設置されたアニメのマンホール",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwQklxNUQ0UU5ndVk0Z0xtbmxxZkR3ZjBzNVVCV3hZblBreDdZMjVnRi1SWFI0ZUctYzJVX1BKZFkzdGlRazU0S2tUakVZQzVXLTFveW54cw?oc=5",
+   "pubDate": "2026-10-30T14:46:40.000Z",
+   "firstSeen": "2026-10-30T20:17:55.664Z",
+   "image": null,
+   "source": "秩父経済新聞",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "秩父経済新聞",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwQklxNUQ0UU5ndVk0Z0xtbmxxZkR3ZjBzNVVCV3hZblBreDdZMjVnRi1SWFI0ZUctYzJVX1BKZFkzdGlRazU0S2tUakVZQzVXLTFveW54cw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
    "title": "戸田恵子 日本ならではのライブシネマに誇り持つ「唯一自慢できるところでもある」(スポーツ報知)",
    "summary": "声優の戸田恵子が３０日、都内で開幕した「第３３回キネコ国際映画祭」のオープニングセレモニーに登場した。【写真】アジア大会で国歌を独唱 アジア最大級の子ども国際映画祭で、戸田はゼネラルディレクターを務め",
    "link": "https://news.yahoo.co.jp/articles/79ce81342d660d3fe9b8ffc46cc08374df8e563f?source=rss",
@@ -10662,6 +10793,33 @@
      "name": "MyAnimeList News",
      "sourceId": "mal",
      "link": "https://myanimelist.net/news/74885701?_location=rss"
+    }
+   ]
+  },
+  {
+   "title": "アニメ「あの花」の聖地として知られる",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CU2tPbk1XemtyUzM2TXk3R2hGdkZJbFFXSkxsbTdpdmN0alZaTk11V2RxbmNtY21PUXI5ajBuY1I3aWg0elpYNTVZUnJMeXVORWpNc2lUWQ?oc=5",
+   "pubDate": "2026-10-30T14:06:39.000Z",
+   "firstSeen": "2026-10-30T20:17:55.664Z",
+   "image": null,
+   "source": "秩父経済新聞",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "あの花"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "秩父経済新聞",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CU2tPbk1XemtyUzM2TXk3R2hGdkZJbFFXSkxsbTdpdmN0alZaTk11V2RxbmNtY21PUXI5ajBuY1I3aWg0elpYNTVZUnJMeXVORWpNc2lUWQ?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -14590,35 +14748,6 @@
    ]
   },
   {
-   "title": "『恐怖コレクター』追加声優に山下大輝、井口裕香、鬼頭明里",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLOXNuN0Q0M2JtQzZCWHVGbExQTHFPNDhtUDZXbUdjeUpmekxzZkoyZGk0Ql9XTGl0M1VSZU9QSnEwUXdvSTAwanZMU0hoSVdwME5SUEpQdFFFVTN1OUl0ZkdlQmRIUFBUOGhF?oc=5",
-   "pubDate": "2026-10-30T08:30:00.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "アニメイトタイムズ",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "恐怖コレクター"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメイトタイムズ",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLOXNuN0Q0M2JtQzZCWHVGbExQTHFPNDhtUDZXbUdjeUpmekxzZkoyZGk0Ql9XTGl0M1VSZU9QSnEwUXdvSTAwanZMU0hoSVdwME5SUEpQdFFFVTN1OUl0ZkdlQmRIUFBUOGhF?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
    "title": "『ご注文はうさぎですか？』アニメ12年目で初スマホゲーム化 基本無料でenish開発、ゆるキャンなど歴任（オタク総研）",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9samZYSUhuR045cjVjWmdyallmRTNmYkVpRVFfM1c3TVlKbjVxZUVKaEYzbTBYV2hFZElhVVB2aFFFdzRQcUlRNGI5ME01VzlhZmVPWElEZFFiUm8yeEZ3WU1ON0ZiajhSLW9WWlVGQVN0bmktU2c5Q19YTWxRVU0?oc=5",
@@ -14947,24 +15076,37 @@
    ]
   },
   {
-   "title": "「恐怖コレクター」第4話以降のゲストキャラ役に山下大輝、井口裕香、鬼頭明里(コミックナタリー)",
-   "summary": "TVアニメ「恐怖コレクター」第4～6話のゲストキャラクターとそのキャストが発表された。第4話に登場する高校生・戸川翔太役を山下大輝、第5話に登場する中学生・梨麻役を井口裕香、第6話に登場する高校生・上",
-   "link": "https://news.yahoo.co.jp/articles/09a741a333234f0993b899dae3e7507d5965e158?source=rss",
-   "pubDate": "2026-10-30T08:07:11.000Z",
+   "title": "「恐怖コレクター」第4話以降のゲストキャラ役に山下大輝、井口裕香、鬼頭明里（コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HT1ZTN2I2ZzdLVm1jV21EVHBkUXJUVW1QU215Skg3YmRuNHRBUzBaUmhqaDVWTjRCdTQ1WVcxVUY2bFpZc0tuY1VzMno?oc=5",
+   "pubDate": "2026-10-30T08:07:00.000Z",
    "firstSeen": "2026-10-30T08:17:57.443Z",
    "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
    "lang": "ja",
-   "score": 10,
+   "score": 12,
    "categories": [
     "cast"
    ],
-   "works": [],
+   "works": [
+    "恐怖コレクター"
+   ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HT1ZTN2I2ZzdLVm1jV21EVHBkUXJUVW1QU215Skg3YmRuNHRBUzBaUmhqaDVWTjRCdTQ1WVcxVUY2bFpZc0tuY1VzMno?oc=5"
+    },
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLOXNuN0Q0M2JtQzZCWHVGbExQTHFPNDhtUDZXbUdjeUpmekxzZkoyZGk0Ql9XTGl0M1VSZU9QSnEwUXdvSTAwanZMU0hoSVdwME5SUEpQdFFFVTN1OUl0ZkdlQmRIUFBUOGhF?oc=5",
+     "via": "Googleニュース「声優」"
+    },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -15430,7 +15572,7 @@
    "firstSeen": "2026-10-30T08:17:57.443Z",
    "image": null,
    "source": "Mantan Web",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -15443,9 +15585,9 @@
    "sources": [
     {
      "name": "Mantan Web",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xeTlPek5La2l2emRES0JDdC1HZTNPdU05S1ljN0NEcEo2VmxzVVpkc0lIcEh6M2FHclJiUXdzY2RzQ1lIbHk1R2x1cTgxdDRUR2o1akcwSFBHR0lxeTV5VjhtYVRheEV6cmtr?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「声優」"
     },
     {
      "name": "MANTANWEB（Yahoo!ニュース）",
@@ -16042,7 +16184,7 @@
    "title": "オリコンニュース：安元洋貴＆榎木淳弥、ハロウィン仮装は“ひろきえのき” 激痛足ツボに「鈴木ぃぃぃ！」［声優と夜あそび］",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2V1R3V2RCTzg1bTZoUjF5UUp4eEtwVmhyd1IyU3lhUGM5aVFUckdZMDB1bG95Q2dsRU5ZSWtqQ2R2RWY5ZF9GVk5iWkVxN29uOGU0SWI2eWtwTlNjbVV3LTR4MnpHdTV1?oc=5",
-   "pubDate": "2026-10-30T07:29:38.000Z",
+   "pubDate": "2026-10-30T07:29:00.000Z",
    "firstSeen": "2026-10-30T09:17:56.758Z",
    "image": null,
    "source": "毎日新聞",
@@ -16061,6 +16203,12 @@
      "name": "毎日新聞",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2V1R3V2RCTzg1bTZoUjF5UUp4eEtwVmhyd1IyU3lhUGM5aVFUckdZMDB1bG95Q2dsRU5ZSWtqQ2R2RWY5ZF9GVk5iWkVxN29uOGU0SWI2eWtwTlNjbVV3LTR4MnpHdTV1?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "オリコンニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoS29JNzU0dEpMYVJ0czJYTVp2ZHZWaGRZaGxzdGdWRmlLdlNGWEpuaXE0Mld2RVBCajZUaHA4N0QyQlFYRWxBVXd2bFRBRk0?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
@@ -17710,6 +17858,12 @@
      "name": "日本海新聞",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yVUVud3ZKMVU3RTZxUk1XakNGR1hSTER5SUQwSEFjTjg3T2RIenNsWElwa3E2WUtUdGxESE5UcnVsNE9OU1JOUm5CdmN3eWxF?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "琉球新報デジタル",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LbTBMdUdkMzF5c0lyNFFaUndIcHdvMEg2NzlFYWc4WmN3S05xNG40bXljWS1uWlZ2RVZGaVdEcmVvcUlhTjBHdkIxMFJQU25SdldrZXk0RGx4bXJVQjNvNTZ3?oc=5",
      "via": "Googleニュース「アニメ」"
     },
     {
@@ -24270,7 +24424,7 @@
    ]
   },
   {
-   "title": "アニメ「薬屋のひとりごと」羅半とは？声優や年齢、能力、初登場は何話？羅漢・猫猫との関係も紹介",
+   "title": "アニメ「薬屋のひとりごと」羅半とは？声優や年齢、能力、初登場は何話？猫猫との関係も紹介 | アニメニュース | アニメフリークス",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQjZfY2hQeWFWcmVQYzNSbll0ZnQxblNfalllQVNWeTdrVy1HSVdEd0Zic2tQZVhLZm9lendoWFNuMEFfSGxlU3g5MFhJaG9vZXZCcQ?oc=5",
    "pubDate": "2026-10-29T15:07:00.000Z",
@@ -192575,161 +192729,6 @@
      "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/76a18cceba65b4622ff9f8ce53ee10e58661fbc2?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "震度7の大地震の避難中にうさぎを保護した青年…動物連れの避難所のリアルに「泣いた」【動物教訓ドラマ漫画3選】(WEBザテレビジョン)",
-   "summary": "コミックの映像化や、ドラマのコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョンマンガ部」。【漫画】『地震にあくび』を読む今回は、命を預かるこ",
-   "link": "https://news.yahoo.co.jp/articles/ed7902891c6bba6e0ae65dfddaee7f72170ccb4a?source=rss",
-   "pubDate": "2026-10-14T12:05:00.000Z",
-   "firstSeen": "2026-10-14T12:17:32.889Z",
-   "image": null,
-   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 5,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ed7902891c6bba6e0ae65dfddaee7f72170ccb4a?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "映画『魔法使いの夜』と劇場版『魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』のコラボが決定！",
-   "summary": "鹿目まどかと蒼崎青子が“魔法”をめぐって言葉を交わすコラボ映像が公開。新宿バルト9での大型バナー掲出や、「マチ★アソビ」でのコラボチラシ配布も",
-   "link": "https://news.denfaminicogamer.jp/news/2610143a",
-   "pubDate": "2026-10-14T12:01:10.000Z",
-   "firstSeen": "2026-10-14T12:17:32.889Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/maxresdefault-24-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "movie",
-    "goods"
-   ],
-   "works": [
-    "魔法使いの夜",
-    "魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610143a"
-    },
-    {
-     "name": "Aniplex",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BckQyT1hUTzZKV1dPRGNibVN6Ynl4ZXhmZEFXY2NBLWtHdXR3dnRLQk9peXlTZThJM3otSGRuM1hLY2M4R0xMZXl3R0FqOVhOOFE?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "夏の思い出を大好きなファンと共に過ごしたツアー“ClariS 15th Thanks Tour ～一夏灯祭～”終幕！初日・東京Kanadevia Hall公演から見えた第3章ClariSのその先――",
-   "summary": "夏の夜を彩る祭囃子、風鈴の音、そして無数の笑顔――。ClariSがデビュー15周年の感謝を届けるた...",
-   "link": "https://www.lisani.jp/0000319930/",
-   "pubDate": "2026-10-14T12:00:32.000Z",
-   "firstSeen": "2026-10-14T12:17:32.889Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610142100-ak-001.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000319930/"
-    }
-   ]
-  },
-  {
-   "title": "「Dr.STONE」新作アニメ「TERRAFORMING」製作決定 本編完結後の続編エピソード : ニュース",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92bW9hUUNuOUpKWXNQc3EyVmw1VS1TOUVvaTlFV2NWZG40eEZOaGtGQnUyM1IxQWZmMTZxVi1CV1NzY3g4TnJaVmpQSQ?oc=5",
-   "pubDate": "2026-10-14T12:00:00.000Z",
-   "firstSeen": "2026-10-14T12:17:32.889Z",
-   "image": null,
-   "source": "アニメハック",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new"
-   ],
-   "works": [
-    "TERRAFORMING"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメハック",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92bW9hUUNuOUpKWXNQc3EyVmw1VS1TOUVvaTlFV2NWZG40eEZOaGtGQnUyM1IxQWZmMTZxVi1CV1NzY3g4TnJaVmpQSQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "初声優おヨネの難点は“さしすせそ”の滑舌「めちゃくちゃ苦労した」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHdWczVmlKZVd3M2xTMV9INDN6XzhVSXF1blBUYmNVZkFCeGJZaTdTeFBvX3VFaFFiM0JxMzVCdTZYdk45cUdSd3BhbnREbHpSZWZJaUtMZDdkQ1BxWFpmSmhwRHpDQkJaam5jaXN1WDNGN2NTOHc00gF_QVVfeXFMTmN6MHFHZVAtTDFwUk1KcktwREVYbk9tSGUyaUdEU29VS3NsakNYTlg3ZEFzNHlhVXpUSmxBWkljMmMwRTZXXzJzb1pUZVBFd08zcU9paTYtenlVSF80M2VlLV80UGNGQTVuOXpfX0hJeXltS3Z5VFhTNWtCRUlnaw?oc=5",
-   "pubDate": "2026-10-14T11:57:13.000Z",
-   "firstSeen": "2026-10-14T12:17:32.889Z",
-   "image": null,
-   "source": "日刊スポーツ",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "日刊スポーツ",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHdWczVmlKZVd3M2xTMV9INDN6XzhVSXF1blBUYmNVZkFCeGJZaTdTeFBvX3VFaFFiM0JxMzVCdTZYdk45cUdSd3BhbnREbHpSZWZJaUtMZDdkQ1BxWFpmSmhwRHpDQkJaam5jaXN1WDNGN2NTOHc00gF_QVVfeXFMTmN6MHFHZVAtTDFwUk1KcktwREVYbk9tSGUyaUdEU29VS3NsakNYTlg3ZEFzNHlhVXpUSmxBWkljMmMwRTZXXzJzb1pUZVBFd08zcU9paTYtenlVSF80M2VlLV80UGNGQTVuOXpfX0hJeXltS3Z5VFhTNWtCRUlnaw?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "日刊スポーツ（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ff358018fa51632699bc90873e10ca221e8852ea?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "日刊スポーツ（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4QXJjN21LMTBxTi1YY2luS082SHJ2MHIyQ01Mam12U2hDT042MXhxRnpxWGRBNlUwMlc1WXBBYUdUeUwtdUpPQlUxUjNBdDNONlphRFI1aUkwc3V0dVBCamJHRi1ERXlTYkE5OFVWMkhZXzAwSFZVdW9sY19KZGc?oc=5",
-     "via": "Googleニュース「声優」",
      "syndicated": true
     }
    ]
