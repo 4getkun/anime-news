@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-31T13:19:39.552Z",
+ "generatedAt": "2026-10-31T14:18:24.510Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5798,
-  "syndicated": 599,
-  "similar": 692,
-  "syndicatedTotal": 6471,
+  "exact": 5790,
+  "syndicated": 598,
+  "similar": 693,
+  "syndicatedTotal": 6466,
   "syndicatedLeft": 1189
  },
  "calendar": [
@@ -5334,6 +5334,22 @@
    "precision": "day",
    "verb": "broadcast",
    "label": "放送",
+   "work": "ビストロボイス",
+   "title": "山寺宏一MC『ビストロボイス』に銀河万丈、立木文彦が登場 2人が声優・ナレーターでどう声を使い分けているかを科学的に分析(TV LIFE web)",
+   "link": "https://news.yahoo.co.jp/articles/9a92bc1a0bc0ef9168dac195ba52ec48306f13ca?source=rss",
+   "source": "TV LIFE web（Yahoo!ニュース エンタメ）",
+   "sources": 2,
+   "categories": [
+    "cast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-07",
+   "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
    "work": "THE FROGMAN SHOW EVOLUTION",
    "title": "TSK×DLEのコラボアニメ第2弾！『THE FROGMAN SHOW EVOLUTION』が11月7日（土）から放送開始！",
    "link": "https://prtimes.jp/main/html/rd/p/000000173.000086416.html",
@@ -8578,22 +8594,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-03-19",
-   "precision": "day",
-   "verb": "movie",
-   "label": "公開",
-   "work": null,
-   "title": "ピクサー最新作「水の都のネロ」2027年3月19日公開決定 主人公の黒猫＆新キャラクターの鳩が写る場面写真も公開(WEBザテレビジョン)",
-   "link": "https://news.yahoo.co.jp/articles/927b43e7c6ad966db623e17a482b2dc1edd1db7e?source=rss",
-   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "movie"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2027-03-24",
    "precision": "day",
    "verb": "release",
@@ -8714,6 +8714,23 @@
   {
    "date": "2027-04",
    "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": null,
+   "title": "「ロメリア戦記」第2クールは来年4月放送開始 下野紘がエンディング主題歌",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlQUg3MlZ6RmFwR3pZcmQ1ZjVLTl84a05oNUxHY2Q3dnREM191ZVdaMWg1S2RKa1N5dHh5YjJ6RThzRjlYV3dyOUhJbmY?oc=5",
+   "source": "ナタリー",
+   "sources": 3,
+   "categories": [
+    "broadcast",
+    "music"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-04",
+   "precision": "month",
    "verb": "event",
    "label": "開催",
    "work": "モンハン",
@@ -8724,23 +8741,6 @@
    "categories": [
     "game",
     "event"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-04",
-   "precision": "month",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": null,
-   "title": "「ロメリア戦記」第2クールは来年4月放送開始 下野紘がエンディング主題歌(コミックナタリー)",
-   "link": "https://news.yahoo.co.jp/articles/12ca0226563f0aa3108c8f83450f41f33848e417?source=rss",
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sources": 2,
-   "categories": [
-    "broadcast",
-    "music"
    ],
    "platforms": [],
    "spoiler": false
@@ -9099,8 +9099,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 888,
-   "accepted": 888
+   "archived": 887,
+   "accepted": 887
   },
   {
    "id": "lisani",
@@ -9118,9 +9118,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 47,
    "accepted": 46
   },
@@ -9129,9 +9129,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 0,
    "accepted": 0
   },
@@ -9154,8 +9154,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5383,
-   "accepted": 5158
+   "archived": 5379,
+   "accepted": 5154
   },
   {
    "id": "gnews-tvanime",
@@ -9176,8 +9176,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 817,
-   "accepted": 721
+   "archived": 818,
+   "accepted": 722
   },
   {
    "id": "gnews-seiyu",
@@ -9187,8 +9187,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2660,
-   "accepted": 2416
+   "archived": 2661,
+   "accepted": 2417
   },
   {
    "id": "natalie-eiga",
@@ -9198,7 +9198,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 639,
+   "archived": 640,
    "accepted": 119
   },
   {
@@ -9220,7 +9220,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1239,
+   "archived": 1238,
    "accepted": 94
   },
   {
@@ -9264,8 +9264,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29739,
-   "accepted": 3274
+   "archived": 29732,
+   "accepted": 3271
   },
   {
    "id": "prtimes",
@@ -9275,8 +9275,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28044,
-   "accepted": 540
+   "archived": 27978,
+   "accepted": 538
   },
   {
    "id": "ann",
@@ -9308,11 +9308,151 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 220,
-   "accepted": 220
+   "archived": 221,
+   "accepted": 221
   }
  ],
  "items": [
+  {
+   "title": "Evangelion Officially Gives Rei and Asuka Striking New Designs for Major November 24 Launch",
+   "summary": "New images for both Rei and Asuka have been revealed to celebrate the upcoming opening of a new permanent Neon Genesis Evangelion retail sto…",
+   "link": "https://www.cbr.com/evangelion-store-new-location-date-rei-asuka-designs/",
+   "pubDate": "2026-10-31T14:00:11.000Z",
+   "firstSeen": "2026-10-31T14:17:54.949Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/rei-and-asuka-from-the-90s-evangelion-anime-with-their-mechs.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/evangelion-store-new-location-date-rei-asuka-designs/"
+    }
+   ]
+  },
+  {
+   "title": "米津玄師、ツアー【GHOST】グッズはファッションからキャラクターアイテムまで充実(Billboard JAPAN)",
+   "summary": "米津玄師が、2026年11月より開催されるツアー【米津玄師 2026 TOUR / GHOST】のグッズビジュアルを公開した。 今回のツアーグッズも、米津玄師が描き下ろしたツアーキービジュアルを使用。",
+   "link": "https://news.yahoo.co.jp/articles/55534a291897424dbd4afaf006bf59c1b08c3208?source=rss",
+   "pubDate": "2026-10-31T13:50:02.000Z",
+   "firstSeen": "2026-10-31T14:17:54.949Z",
+   "image": null,
+   "source": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "visual",
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/55534a291897424dbd4afaf006bf59c1b08c3208?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ブラッシュアップライフ」水野格監督 初の漫画原作を担当 ランキング1位の好スタート(スポニチアネックス)",
+   "summary": "日本テレビ「ブラッシュアップライフ」や「ホットスポット」などで監督を務めた水野格（いたる）氏が、初めて漫画の原作を務めた。27日からヤンマガWebで「東京地下―トーキョー・アンダー・ザ・グラオウンド」",
+   "link": "https://news.yahoo.co.jp/articles/670d15c70e5f56ed0451640235bd04f0a24411c2?source=rss",
+   "pubDate": "2026-10-31T13:31:23.000Z",
+   "firstSeen": "2026-10-31T14:17:54.949Z",
+   "image": null,
+   "source": "スポニチアネックス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "ranking"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スポニチアネックス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/670d15c70e5f56ed0451640235bd04f0a24411c2?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 6",
+   "summary": "With episode six, the last pillar of patriarchy is erected and now the two best bros in all of anime can begin tearing the oppressive struct…",
+   "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-6/.243386",
+   "pubDate": "2026-10-31T13:30:00.000Z",
+   "firstSeen": "2026-10-31T14:17:54.949Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-6/.243386"
+    }
+   ]
+  },
+  {
+   "title": "山寺宏一MC『ビストロボイス』に銀河万丈、立木文彦が登場 2人が声優・ナレーターでどう声を使い分けているかを科学的に分析(TV LIFE web)",
+   "summary": "11月7日（土）放送の『ビストロボイス』（Eテレ 午後9時～9時29分）は、ゲストに銀河万丈、立木文彦が登場する。【写真】「3匹のこぶた」を朗読する山寺宏一、銀河万丈、立木文彦 この番組は、七色の声を",
+   "link": "https://news.yahoo.co.jp/articles/9a92bc1a0bc0ef9168dac195ba52ec48306f13ca?source=rss",
+   "pubDate": "2026-10-31T13:25:46.000Z",
+   "firstSeen": "2026-10-31T14:17:54.949Z",
+   "image": null,
+   "source": "TV LIFE web（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "ビストロボイス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TV LIFE web（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/9a92bc1a0bc0ef9168dac195ba52ec48306f13ca?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdzFCaUU5WkJEN0VUVnNmejdHRkhZNmQ3N1ItdDJZVW9rUklqcHBGaW9VaTRFOUdNMmpPWEVFTzI0UHJSeHJqWkxmbkloeDY0YVhVb01LRlcyWVdwYWNKVURMR19xcEdWVmdPaWFvMTVLbTJVRU1xNEVsLURuYTg?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "【ディズニープラス】2026年11月配信作品：『再婚承認を要求します』、実写版『モアナと伝説の海』、幾田りらの旅ドキュメンタリーなど(オリコン)",
    "summary": "ディズニー公式動画配信サービス「Disney+（ディズニープラス）」の11月の注目作品を紹介する。実写版『モアナと伝説の海』や、幾田りらの音楽の原点をたどるドキュメンタリー、韓国ドラマ『再婚承認を要求",
@@ -9396,6 +9536,32 @@
      "name": "映画.com（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/aa494e0546bc0611c6e7f03bfcd6d29225cdb3e7?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "日本アニメを楽しみながら、戦争を想起させるシンボルには反対する中国の若者たち―中国メディア",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMW9FTnJMd09oaGpPSzBkN09Qb1ZoQl8wVllydkc3djljZ3pNZFRpT2VSLU4xYkt1THlFX1NLRk5QMU1rdzhpV3pRZjRmNEN3cFFwbjVNYTYxWlIySWtKVmxwRHZOeWFvNUx0VkpQZmJtYzVkcWhjSXNqOHFydTVTdnNiOVl1eWJZZVHSAY8BQVVfeXFMTkl6QjZBWUVDd212bmNMS0JXX1dES2oxMVJpUmdmTHQ2cFlWTXNPVV9JWFAwQ3FxMXd0cnlXTTJvUG1HV2JxblIzU2hYaERFTy1ZSUhrcWxoc0hMYlFXVllhUW1Wcm9jT255TzVoMjRlMHBqY2d0VlBqZ2tubVZHdGVnWmZOMF9hR0Rib2gxTUU?oc=5",
+   "pubDate": "2026-10-31T13:00:00.000Z",
+   "firstSeen": "2026-10-31T14:17:54.949Z",
+   "image": null,
+   "source": "ｄメニューニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ｄメニューニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMW9FTnJMd09oaGpPSzBkN09Qb1ZoQl8wVllydkc3djljZ3pNZFRpT2VSLU4xYkt1THlFX1NLRk5QMU1rdzhpV3pRZjRmNEN3cFFwbjVNYTYxWlIySWtKVmxwRHZOeWFvNUx0VkpQZmJtYzVkcWhjSXNqOHFydTVTdnNiOVl1eWJZZVHSAY8BQVVfeXFMTkl6QjZBWUVDd212bmNMS0JXX1dES2oxMVJpUmdmTHQ2cFlWTXNPVV9JWFAwQ3FxMXd0cnlXTTJvUG1HV2JxblIzU2hYaERFTy1ZSUhrcWxoc0hMYlFXVllhUW1Wcm9jT255TzVoMjRlMHBqY2d0VlBqZ2tubVZHdGVnWmZOMF9hR0Rib2gxTUU?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -9542,16 +9708,16 @@
    ]
   },
   {
-   "title": "「ロメリア戦記」第2クールは来年4月放送開始 下野紘がエンディング主題歌(コミックナタリー)",
-   "summary": "TVアニメ「ロメリア戦記」第2クールが、2027年4月に放送されることが発表された。エンディング主題歌は下野紘が担当する。【画像】下野紘（他1件）有山リョウの小説を原作とするTVアニメ「ロメリア戦記」",
-   "link": "https://news.yahoo.co.jp/articles/12ca0226563f0aa3108c8f83450f41f33848e417?source=rss",
-   "pubDate": "2026-10-31T12:30:11.000Z",
+   "title": "「ロメリア戦記」第2クールは来年4月放送開始 下野紘がエンディング主題歌",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlQUg3MlZ6RmFwR3pZcmQ1ZjVLTl84a05oNUxHY2Q3dnREM191ZVdaMWg1S2RKa1N5dHh5YjJ6RThzRjlYV3dyOUhJbmY?oc=5",
+   "pubDate": "2026-10-31T12:30:00.000Z",
    "firstSeen": "2026-10-31T13:18:51.608Z",
    "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "ナタリー",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
    "lang": "ja",
    "score": 21,
    "categories": [
@@ -9561,6 +9727,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "ナタリー",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlQUg3MlZ6RmFwR3pZcmQ1ZjVLTl84a05oNUxHY2Q3dnREM191ZVdaMWg1S2RKa1N5dHh5YjJ6RThzRjlYV3dyOUhJbmY?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -9626,6 +9798,12 @@
      "name": "オリコンニュース",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NQTd2UUExRFFoZTVveldDeGtKSTFKLUppX1V5ZmtXaDFmV0dKcmJiN21nbXNFQ3lOd1ZkeVZWWDQ0X1B3ZnUxMk95R25VUXM?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "福井新聞社",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjQ0hFc0hBZGlXbEFDOWUwNGh2bTNORW94WVhhWWhteTJVblV6VWtKbXdZUnBFWXI2b0Y3MUx6YzQxZ09jMmI1S1lWeGtlTGkwcFdOOWpBNFplRzNDVXc?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
@@ -9790,16 +9968,16 @@
    ]
   },
   {
-   "title": "声優・下野紘、アーティスト活動再開を発表 2027年に新作発売＆アニメ主題歌担当(ENCOUNT)",
-   "summary": "声優の下野紘が31日、アーティスト活動を再開することを発表した。2027年5月12日に2ndミニアルバムを発売するほか、TVアニメ『ロメリア戦記』第IIクールのオープニング（OP）主題歌を担当すること",
-   "link": "https://news.yahoo.co.jp/articles/ee9a80402c0810db286f54726c1329d86c5c8066?source=rss",
+   "title": "声優・下野紘、アーティスト活動再開を発表 2027年に新作発売＆アニメ主題歌担当",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yVTJoeVdxcGVxNW9vQVBHbEVmWUdmbkNlLXpXSzdrMnpFbTF5ZnQ2VmxOSk9KNkhSNkRCdFBScWUtV0RZMjAwVnpqS1NFa0lz?oc=5",
    "pubDate": "2026-10-31T12:00:00.000Z",
    "firstSeen": "2026-10-31T12:18:51.974Z",
    "image": null,
-   "source": "ENCOUNT（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "ENCOUNT",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
    "lang": "ja",
    "score": 18,
    "categories": [
@@ -9809,6 +9987,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "ENCOUNT",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yVTJoeVdxcGVxNW9vQVBHbEVmWUdmbkNlLXpXSzdrMnpFbTF5ZnQ2VmxOSk9KNkhSNkRCdFBScWUtV0RZMjAwVnpqS1NFa0lz?oc=5",
+     "via": "Googleニュース「声優」"
+    },
     {
      "name": "ENCOUNT（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -10597,6 +10781,12 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcGpkWUNoUVZxSkFndlV1MHgyMHd0ZFNWY2hjWUY2NXViOUVpdlhnQ0JLaTdHeVQyOU5ldHBsckRMdDE2WnF2Z0doeFYxQXZtaGFXNGRMekxyN0VyV3ZYVGphNExnbWNLRk0xSw?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "Gamer",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44U2E1NEd6Y2MtU3ZjcWYtQlNWMUF5dG9GdU14U2NmRFVfeEtyZ0ptTTN2OUFXdE5heV9ZZlNzR3c0cDlJaFpqd1I4MW5kSllSbjBSMQ?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -10715,6 +10905,35 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnOWZGVV9EV0JEOHROT2dvQkcyeDI0NmpwN0k3MElPWWROeEd3UVd3SHdZTkljTGcxN0dFbnd5U0JqbHdDbDFSNnJPdU1NUWwzWDVqdkdHV3lMYXl5M2Zabk9PWDFMMXRLZXZGeTFyTlhwbEdvMEFHd3VabjNNRlk?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『魔法騎士レイアース』光たちは“伝説の泉”に到着するが… 第5話あらすじ＆場面カット公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EcERibkEyOEhKYWFKWHVZWjRQZUt4S09mSDFHcFpkbWY4NndxWHA3OUhjSFg2ZFlHWWtPN3puSWF3V3JTcEh0cHlBUV9NeFE?oc=5",
+   "pubDate": "2026-10-31T09:06:31.000Z",
+   "firstSeen": "2026-10-31T11:18:51.165Z",
+   "image": null,
+   "source": "オリコンニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "魔法騎士レイアース"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコンニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EcERibkEyOEhKYWFKWHVZWjRQZUt4S09mSDFHcFpkbWY4NndxWHA3OUhjSFg2ZFlHWWtPN3puSWF3V3JTcEh0cHlBUV9NeFE?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -10927,9 +11146,9 @@
      "via": "Googleニュース「TVアニメ 放送」"
     },
     {
-     "name": "オリコンニュース",
+     "name": "アニメイトタイムズ",
      "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EcERibkEyOEhKYWFKWHVZWjRQZUt4S09mSDFHcFpkbWY4NndxWHA3OUhjSFg2ZFlHWWtPN3puSWF3V3JTcEh0cHlBUV9NeFE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiUmItZjZVTW90UE0xcUJqamlWeW0yVVRNQ2VtcFJOcGNaVVRIU0c3cDhsVmtrdEZabmRENUJGUmRwUkQtOHAyUXdPTjdRUW1JaTUxN1BRdzdVUUxkQXEzd01QWmJiaGR6UGFF?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
@@ -14398,6 +14617,12 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/10/31/104359.html"
+    },
+    {
+     "name": "超！アニメディア",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZOWRyUlRqQjNfVDJnUWhtMW1FdDM2N3BhbHFwTGZwXzFod0o5Z1pTY1ZxU0FGTzRjWjdONjRIYm11Y1JLX2tQSTBjdHhYX0pMX3k1UlF3TVNYNjBacjg0cWZtNA?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     },
     {
      "name": "アニメ！アニメ！（Yahoo!ニュース）",
@@ -37594,6 +37819,33 @@
    ]
   },
   {
+   "title": "声優と夜あそび 木【浪川大輔×下野紘】#21",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sTVRKYmZIcFlHeVFyaDZ6Tmw2RF8tUVhVVnZDVU8wZlVXMk5McW11M3hpelRFTFh4RDZhUklydVZLZkpPVU8yV0NuanhMNlRTYVNkZUxyQTNVWF84Yk1JbVU3c1FPZmJu?oc=5",
+   "pubDate": "2026-10-29T07:00:00.000Z",
+   "firstSeen": "2026-10-31T14:17:54.949Z",
+   "image": null,
+   "source": "ABEMA",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sTVRKYmZIcFlHeVFyaDZ6Tmw2RF8tUVhVVnZDVU8wZlVXMk5McW11M3hpelRFTFh4RDZhUklydVZLZkpPVU8yV0NuanhMNlRTYVNkZUxyQTNVWF84Yk1JbVU3c1FPZmJu?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
    "title": "アニメ『このすば』10周年記念のオーディオドラマ企画＜秋編＞前編が公開中！ 秋のイベントがテーマのストーリーが展開",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jd2VsUUxHZ1cyTGMyUmNQeUZkRHZDbDdUYy05TEswaGU4Zl9ESi1mbHJDankyTXhMY09OTjM0a0FGQVUyY0FzTnVGSV8wZml4aFRBMw?oc=5",
@@ -40794,27 +41046,26 @@
    "pubDate": "2026-10-29T02:00:00.000Z",
    "firstSeen": "2026-10-29T02:17:53.016Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-tvanime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 8,
    "categories": [
     "new",
     "visual"
    ],
    "works": [
-    "ヴァンガード",
-    "ベールリフト",
-    "ごみぎゃ"
+    "ベールリフト"
    ],
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HQm9uU0dqSXUtOWtHYTJ2ZkpxNGV1Z01pYVV5LTNKRlNUZmF4Vi1JdXNldkZndlpUQkk2LURRT0Rjckh1QXRkUDkzY3A?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HQm9uU0dqSXUtOWtHYTJ2ZkpxNGV1Z01pYVV5LTNKRlNUZmF4Vi1JdXNldkZndlpUQkk2LURRT0Rjckh1QXRkUDkzY3A?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -185909,6 +186160,30 @@
    ]
   },
   {
+   "title": "This Week in Anime - Going to Another World",
+   "summary": "Thanks to the Power of the Internet, a columnist says farewell...but not before doing one last isekai seasonal roundup!",
+   "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-29/.243322",
+   "pubDate": "2026-10-15T14:00:00.000Z",
+   "firstSeen": "2026-10-15T14:17:58.180Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-29/.243322"
+    }
+   ]
+  },
+  {
    "title": "アニメ「ロメリア戦記」の配信はどこ？見放題で見れるサブスクと無料で見る方法",
    "summary": "",
    "link": "https://animeanime.jp/article/2026/10/15/103845.html",
@@ -192237,288 +192512,6 @@
      "name": "クランクイン！（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/575872fe380f022bca7c425fca76c63b4d3789de?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ピクサー最新作『水の都のネロ』日本公開日が決定、来年3月19日 新たな場面写真も解禁(ENCOUNT)",
-   "summary": "ディズニー＆ピクサーによるアニメーション映画『水の都のネロ』が、2027年3月19日に日本公開されることが15日、発表された。あわせて、主人公の黒猫・ネロと新キャラクターの鳩を捉えた場面写真も解禁され",
-   "link": "https://news.yahoo.co.jp/articles/62f9867cbcb2257e7ff4f87f6bf8c8e99b913ab7?source=rss",
-   "pubDate": "2026-10-15T07:00:00.000Z",
-   "firstSeen": "2026-10-15T07:17:56.932Z",
-   "image": null,
-   "source": "ENCOUNT（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "水の都のネロ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ENCOUNT（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/62f9867cbcb2257e7ff4f87f6bf8c8e99b913ab7?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ピクサー最新作「水の都のネロ」2027年3月19日公開決定 主人公の黒猫＆新キャラクターの鳩が写る場面写真も公開(WEBザテレビジョン)",
-   "summary": "ディズニー＆ピクサーの最新作となる映画「水の都のネロ」の日本公開日が2027年3月19日(金)に決定。あわせて新キャラクターの姿を捉えた場面写真が公開された。【動画】黒猫・ネロが部屋の灯りに夢中になる",
-   "link": "https://news.yahoo.co.jp/articles/927b43e7c6ad966db623e17a482b2dc1edd1db7e?source=rss",
-   "pubDate": "2026-10-15T07:00:00.000Z",
-   "firstSeen": "2026-10-15T07:17:56.932Z",
-   "image": null,
-   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/927b43e7c6ad966db623e17a482b2dc1edd1db7e?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ化で話題沸騰！シリーズ累計135万部突破！『タヌキとキツネ ゆるっと 2』2026年10月15日(木)発売！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBMDB1VFFLaFVhRGZWbkhQa0xhUFFmSXN6a1llMjFTV3FDZVR2UXg5cmJJelpzMkkzeXNNcVpvU2NTZw?oc=5",
-   "pubDate": "2026-10-15T07:00:00.000Z",
-   "firstSeen": "2026-10-15T08:17:55.126Z",
-   "image": null,
-   "source": "PR EDGE",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "new"
-   ],
-   "works": [
-    "タヌキとキツネ ゆるっと 2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR EDGE",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBMDB1VFFLaFVhRGZWbkhQa0xhUFFmSXN6a1llMjFTV3FDZVR2UXg5cmJJelpzMkkzeXNNcVpvU2NTZw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aDZWTTFRTXY4OW1NSGN0YWtnUjA1SGVfMHlkMWZoaDBzdkdUZTR6bXRYeVQ0U2YzeTlQMjZ4V05oYk9xT0lxTFBJUkJ5OVl6MGpvcXQtUXBualdwbnZGbWZoVmVKZHNzQnc?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    },
-    {
-     "name": "インサイド",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtQVNOdi16b1phUzdJVEk4TERkcEMzbUl3RHhleUxveUlXdUZMQ1I0N000YUFlbXpKOGpYcUY1bHpVTkctem9mbjIxYTVLQlZzY1FZNHNESjR2RHB4S3lreWg1RXBnT0xMLUR6SThtV0NfQQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "NEWS｜『劇場版「暗殺教室」みんなの時間』2026年3月20日（金）全国公開 - ansatsu-anime.com",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zVTJKRVFwcnVJZkVUUnVEUnlJX3BQWDhDZl85NDhoUHZmOGh5Y19WeGNhNXN1aWpVTG14bGk1Qm9iVVJqSGxaME9hcUNnb1owZGFYUnlRanpCUFVNeERHNXBfaHc3WHM?oc=5",
-   "pubDate": "2026-10-15T07:00:00.000Z",
-   "firstSeen": "2026-10-17T12:17:55.780Z",
-   "image": null,
-   "source": "Googleニュース「劇場版 アニメ」",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "「暗殺教室」みんなの時間",
-    "暗殺教室"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「劇場版 アニメ」",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zVTJKRVFwcnVJZkVUUnVEUnlJX3BQWDhDZl85NDhoUHZmOGh5Y19WeGNhNXN1aWpVTG14bGk1Qm9iVVJqSGxaME9hcUNnb1owZGFYUnlRanpCUFVNeERHNXBfaHc3WHM?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "声優と夜あそび 木【浪川大輔×下野紘】#20 音響監督 三間雅文がゲスト！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ITHM3SlVjR2NZby1nN2czRHZzX2ViRURwZU9mREQybGJCMVZ1eG0tMmxlOF9vM1RpVk8wbzVZM0pnY2U1TERfTG1aU0FnVDRQQklPZlg5blRDWDJFb2lzeHBrdkhiX1Mw?oc=5",
-   "pubDate": "2026-10-15T07:00:00.000Z",
-   "firstSeen": "2026-10-18T05:17:56.757Z",
-   "image": null,
-   "source": "ABEMA",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ABEMA",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ITHM3SlVjR2NZby1nN2czRHZzX2ViRURwZU9mREQybGJCMVZ1eG0tMmxlOF9vM1RpVk8wbzVZM0pnY2U1TERfTG1aU0FnVDRQQklPZlg5blRDWDJFb2lzeHBrdkhiX1Mw?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『桃源暗鬼』第2期は10月2日より分割2クールで放送開始！ 主題歌が聴けるPVや追加キャストなども解禁に!!",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QMFdmb1VTY0hBVFEzRFNnX1VPYllRODNZS2hMMklScEgwaVY4TElQNTNDZWxFSWpfUUVUTnBTUXlhejZyZmtlakJKcDVRUnRHQXcyLQ?oc=5",
-   "pubDate": "2026-10-15T07:00:00.000Z",
-   "firstSeen": "2026-10-25T11:17:58.057Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 38,
-   "categories": [
-    "new",
-    "broadcast",
-    "visual",
-    "cast",
-    "music"
-   ],
-   "works": [
-    "桃源暗鬼"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QMFdmb1VTY0hBVFEzRFNnX1VPYllRODNZS2hMMklScEgwaVY4TElQNTNDZWxFSWpfUUVUTnBTUXlhejZyZmtlakJKcDVRUnRHQXcyLQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "「セブンナイツ Re:BIRTH」×アニメ「鬼滅の刃」コラボ第2弾として冨岡義勇、胡蝶しのぶが登場！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hS1FSY1NlVzE2c3J6UUJkek1objBEcWE0S0VGRVJocFV6ZDlFbThhU2hNRVJUcmotT1JTNUJUOUtjb0hDcVFyQWQ1dE44YTl1eTZJYw?oc=5",
-   "pubDate": "2026-10-15T06:56:00.000Z",
-   "firstSeen": "2026-10-15T07:17:56.932Z",
-   "image": null,
-   "source": "Gamer",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "鬼滅の刃"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gamer",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hS1FSY1NlVzE2c3J6UUJkek1objBEcWE0S0VGRVJocFV6ZDlFbThhU2hNRVJUcmotT1JTNUJUOUtjb0hDcVFyQWQ1dE44YTl1eTZJYw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『ドラゴンボール超 ビルス』孫悟空役・野沢雅⼦＆破壊神ビルス役・⼭寺宏⼀によるオフィシャルインタビューが公開！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EYVhwaGFtNUhDRkc3M2ZXY0JUWERLODFaMnpkUFBoN2NfaGJGWE4ybTI0VlNZUEVJODJDQkhrcjQtU0RKb01yWTVkME54TXRWcUd0bg?oc=5",
-   "pubDate": "2026-10-15T06:53:28.000Z",
-   "firstSeen": "2026-10-15T07:17:56.932Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "ドラゴンボール超 ビルス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EYVhwaGFtNUhDRkc3M2ZXY0JUWERLODFaMnpkUFBoN2NfaGJGWE4ybTI0VlNZUEVJODJDQkhrcjQtU0RKb01yWTVkME54TXRWcUd0bg?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "声優・伊達さゆり、ルームミスト作る 性別を問わず使える商品誕生で原料から選ぶ 2枚目",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52QXllSngwVG41SUotMmlidHZxVEduTVlMSDQxbjI0eElkdkx6c1M0WHZUOVM4QWVrTGdNd3BmeGlUbm1GSUl3S1cwaFpQYmQ5V3AxZ0xUdHhwYjI4b2lMdU4wOTI?oc=5",
-   "pubDate": "2026-10-15T06:53:00.000Z",
-   "firstSeen": "2026-10-15T07:17:56.932Z",
-   "image": null,
-   "source": "オリコンニュース",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "オリコンニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52QXllSngwVG41SUotMmlidHZxVEduTVlMSDQxbjI0eElkdkx6c1M0WHZUOVM4QWVrTGdNd3BmeGlUbm1GSUl3S1cwaFpQYmQ5V3AxZ0xUdHhwYjI4b2lMdU4wOTI?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "山陽新聞",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41MjJvc1ZDdXJ2Q1ZtWE1DaFA0VUVkT0JmVURRa0dTVjRabmZxeWRQc05DUnUyemRLUm9ESldpMzFXamlTSnFyWG1xTjBOTkhCaFE?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "オリコン（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YNGhVZ2xwc0pMWDI0c3d3bDlsc0NLNXExaFJSMXlvckhZbVRSbmUxcDdjVnBKZ0FGbWVrOE9yU2t0UlVPelhWOHhSczdHWl9pcm16U1JGVUlqdXAxUkFPUkZBUGpkQmFqSDQ3MDloaDMxbmZCTTFvcUY4Vmg4YnM?oc=5",
-     "via": "Googleニュース「声優」",
      "syndicated": true
     }
    ]
