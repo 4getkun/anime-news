@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-01T15:14:01.300Z",
+ "generatedAt": "2026-11-01T15:18:42.366Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5734,
+  "exact": 5735,
   "syndicated": 586,
   "similar": 671,
-  "syndicatedTotal": 6398,
+  "syndicatedTotal": 6399,
   "syndicatedLeft": 1173
  },
  "calendar": [
@@ -9044,8 +9044,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 848,
-   "accepted": 848
+   "archived": 850,
+   "accepted": 850
   },
   {
    "id": "lisani",
@@ -9099,8 +9099,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5345,
-   "accepted": 5113
+   "archived": 5343,
+   "accepted": 5111
   },
   {
    "id": "gnews-tvanime",
@@ -9110,8 +9110,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1246,
-   "accepted": 1182
+   "archived": 1245,
+   "accepted": 1181
   },
   {
    "id": "gnews-movie",
@@ -9120,9 +9120,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 805,
-   "accepted": 715
+   "fetched": 99,
+   "archived": 806,
+   "accepted": 716
   },
   {
    "id": "gnews-seiyu",
@@ -9132,8 +9132,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2604,
-   "accepted": 2359
+   "archived": 2605,
+   "accepted": 2360
   },
   {
    "id": "natalie-eiga",
@@ -9187,7 +9187,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1273,
+   "archived": 1272,
    "accepted": 90
   },
   {
@@ -9209,7 +9209,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29653,
+   "archived": 29649,
    "accepted": 3240
   },
   {
@@ -9220,7 +9220,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26835,
+   "archived": 26839,
    "accepted": 513
   },
   {
@@ -9231,8 +9231,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 658,
-   "accepted": 658
+   "archived": 657,
+   "accepted": 657
   },
   {
    "id": "mal",
@@ -10246,6 +10246,13 @@
      "name": "スポニチアネックス（Yahoo!ニュース）",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85d1VPS1RHbnJJdTRBZzNOamFhQWI2czBHU0ItTldtSUw4VENaWmZZc1FtREZobHV1LTlkQVNvc053UXJqNHc4cVluODFqTTZiQ1RYNjRWYzc2TXV4TUNrN3VZYnVhNXFHbFhuZ05fZ1Y0STZNbjJXcHFUT2JzTDg?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "2026年11月1日掲載（ライブドアニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yeVFjUmpoTFRmUHpCc2xRNUtSUHRkZzN4QV9OSzBNQlV5cXZEcm1BeTN5LVVVRlhRYWV0VG85X3NuYnRldXcyZllCY3VMY2h5SzYzRGthdVN3b2ZVMlE?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -14623,16 +14630,16 @@
    ]
   },
   {
-   "title": "「シバつき物件」27年夏にTVアニメ化 百瀬氷役は中林新夏、地縛霊の柴犬・むう役は田村睦心",
+   "title": "「シバつき物件」2027年夏にTVアニメ化 中林新夏が百瀬氷役、田村睦心がむう役（コメントあり / 動画あり）",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsdnZQbmNuZE1wcFFybEdxWk5MMnN4ekpBRE1lR0ZtSmd3ZE5ObXllN3lKUklfdzNKOFVwekRpdVhCcm85TEs0Xw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsekg5dFE1X0tJZzdITVJlbkgzZGs2a2Jkc3pvS0Fwd0FkVEdEdHJGdlFDcTdvWHROcmxuUXdMRDNUM2JfR3Y1MVNqOFc?oc=5",
    "pubDate": "2026-11-01T02:01:00.000Z",
    "firstSeen": "2026-11-01T02:17:57.379Z",
    "image": null,
-   "source": "映画.com",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
    "score": 29,
    "categories": [
@@ -14641,19 +14648,20 @@
     "cast",
     "media"
    ],
-   "works": [],
+   "works": [
+    "シバつき物件"
+   ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsekg5dFE1X0tJZzdITVJlbkgzZGs2a2Jkc3pvS0Fwd0FkVEdEdHJGdlFDcTdvWHROcmxuUXdMRDNUM2JfR3Y1MVNqOFc?oc=5"
+    },
     {
      "name": "映画.com",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsdnZQbmNuZE1wcFFybEdxWk5MMnN4ekpBRE1lR0ZtSmd3ZE5ObXllN3lKUklfdzNKOFVwekRpdVhCcm85TEs0Xw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsekg5dFE1X0tJZzdITVJlbkgzZGs2a2Jkc3pvS0Fwd0FkVEdEdHJGdlFDcTdvWHROcmxuUXdMRDNUM2JfR3Y1MVNqOFc?oc=5",
      "via": "Googleニュース「アニメ」"
     },
     {
@@ -23994,24 +24002,25 @@
    "pubDate": "2026-10-30T23:00:00.000Z",
    "firstSeen": "2026-10-30T23:17:55.196Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "goods",
     "game"
    ],
-   "works": [],
+   "works": [
+    "転生重騎士"
+   ],
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OdXR2SHVzemJSaXVGaVNpS3REdDVRZzVIdENpSTBvWVRyZW1WcGtudnVmbGRFX19oNkZxMy1DVllXVmtJdi1PTzY4X0k?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OdXR2SHVzemJSaXVGaVNpS3REdDVRZzVIdENpSTBvWVRyZW1WcGtudnVmbGRFX19oNkZxMy1DVllXVmtJdi1PTzY4X0k?oc=5"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -72357,7 +72366,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 8,
    "categories": [],
    "works": [
     "転生重騎士"
