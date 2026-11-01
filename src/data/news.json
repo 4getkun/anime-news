@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-01T19:18:42.508Z",
+ "generatedAt": "2026-11-01T20:18:51.742Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5746,
+  "exact": 5748,
   "syndicated": 587,
   "similar": 671,
-  "syndicatedTotal": 6410,
+  "syndicatedTotal": 6412,
   "syndicatedLeft": 1171
  },
  "calendar": [
@@ -9045,8 +9045,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 851,
-   "accepted": 851
+   "archived": 849,
+   "accepted": 849
   },
   {
    "id": "lisani",
@@ -9100,8 +9100,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5349,
-   "accepted": 5116
+   "archived": 5352,
+   "accepted": 5119
   },
   {
    "id": "gnews-tvanime",
@@ -9133,8 +9133,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2611,
-   "accepted": 2367
+   "archived": 2612,
+   "accepted": 2368
   },
   {
    "id": "natalie-eiga",
@@ -9210,8 +9210,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29682,
-   "accepted": 3241
+   "archived": 29660,
+   "accepted": 3242
   },
   {
    "id": "prtimes",
@@ -9221,8 +9221,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26719,
-   "accepted": 511
+   "archived": 26692,
+   "accepted": 510
   },
   {
    "id": "ann",
@@ -9232,8 +9232,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 653,
-   "accepted": 653
+   "archived": 652,
+   "accepted": 652
   },
   {
    "id": "mal",
@@ -9254,11 +9254,42 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 221,
-   "accepted": 221
+   "archived": 220,
+   "accepted": 220
   }
  ],
  "items": [
+  {
+   "title": "佐野史郎「『VIVANT』福澤監督は『ずっと－』セカンドAD」小泉八雲朗読のしらべ／連載３(日刊スポーツ)",
+   "summary": "俳優佐野史郎（71）が、ロックバンドBOW WOW／VOW WOWのギタリスト山本恭司（70）とのユニットで2007年（平19）から続ける朗読公演「小泉八雲朗読のしらべ『思ひ出の記～セツが語ったヘルン",
+   "link": "https://news.yahoo.co.jp/articles/d2c6b3e58b3723378306f73d69f2bbbf2aa80781?source=rss",
+   "pubDate": "2026-11-01T20:00:04.000Z",
+   "firstSeen": "2026-11-01T20:18:04.386Z",
+   "image": null,
+   "source": "日刊スポーツ（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "media"
+   ],
+   "works": [
+    "VIVANT",
+    "ずっと-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "日刊スポーツ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d2c6b3e58b3723378306f73d69f2bbbf2aa80781?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "米津玄師「わたしが死んだときには是非この曲をかけて踊って」 劇場版「虎に翼」主題歌に手応え 主演の伊藤沙莉も「愛にあふれた最高の曲」と絶賛(中日スポーツ)",
    "summary": "シンガー・ソングライターの米津玄師（35）が、劇場版「虎に翼」（梛川善郎監督、来年1月15日公開）の主題歌「こんにちはごきげんよう！」とオープニングテーマを手掛けたことが1日、分かった。◆『虎に翼』聖",
@@ -12299,7 +12330,7 @@
    "firstSeen": "2026-11-01T08:17:56.751Z",
    "image": null,
    "source": "ナタリー",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -12315,14 +12346,21 @@
    "sources": [
     {
      "name": "ナタリー",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96R2NrMTBldWEySWh3VXY4a2dpeUFmUkFQR0pGYVR1ZkRKbVZDaHRLLVNfaDgyOUNpMURiNnloNG5mUFhGaXE2dnJFU0s?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/8d0af866e0ad7771b5bbd1561096eaa4676df1ef?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NR0QyanBnNWRhbm5LZnJvM3NlSGVKamFQUXdPU25vRDZHOXBRODIxd1FYRExzTWtQQU9pU3ljUzJjQk5tU0ZFTWFmNlRjeXl2R25JX2oyYjdCY3BWQ24ycGZaOU1YWVVNZTAtTEplZ2xzUDExZndrSFJkQk8tb3c?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -13073,9 +13111,9 @@
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-movie",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HdjZnRHBMYXZLemQ4MWgyUVdfSGtXQ2llQWdMX3F5T2JQcVJXc0hXaW1kTmdfS1hiM0cwUF9tenY0d2dwY2lKNDRJQTBuRkMyS2Y0OVhzalo0SkFsYzNUdzZwVEdBYWNuaTJneVRLTGk0ZWZ6dG1pR3E4aVJjUUk?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -13903,24 +13941,23 @@
    "pubDate": "2026-11-01T03:30:00.000Z",
    "firstSeen": "2026-11-01T04:17:58.432Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
    "score": 8,
    "categories": [
     "movie"
    ],
-   "works": [
-    "メイドインアビス"
-   ],
+   "works": [],
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Dek0xOURqMGRDQ0ViZ1c3YXN4eU5WazEycHFSd0E3OFBnSWZPYlVJMWZMeFd1cVhWOHg2QkdDUmxJMXVRcy12WWVQOFE?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Dek0xOURqMGRDQ0ViZ1c3YXN4eU5WazEycHFSd0E3OFBnSWZPYlVJMWZMeFd1cVhWOHg2QkdDUmxJMXVRcy12WWVQOFE?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース）",
@@ -23689,6 +23726,33 @@
    ]
   },
   {
+   "title": "クロミ初主演の劇場アニメが制作決定！ 2027年に全国公開予定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tclBVTXFkRi1xZ2N4ZldUaVoxandEVFYwbTRVWG1zQVJWZWwyZ1dmbmVFNk5IeEo5bzBseWtsbEdDaVU2b0VPc0p1RjZ3ZldF?oc=5",
+   "pubDate": "2026-10-31T00:46:28.000Z",
+   "firstSeen": "2026-11-01T20:18:04.386Z",
+   "image": null,
+   "source": "玩具人 TOY PEOPLE",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "玩具人 TOY PEOPLE",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tclBVTXFkRi1xZ2N4ZldUaVoxandEVFYwbTRVWG1zQVJWZWwyZ1dmbmVFNk5IeEo5bzBseWtsbEdDaVU2b0VPc0p1RjZ3ZldF?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
    "title": "アニメ市場 初の4兆円突破 15.8％増加 海外市場が全体をけん引",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LRVJOaFBlU3p2Z3padUVqLUJkdkRwd2JkZGpEWnJjaHdpUVhrMFZ5X3Z4Y2g1akRocEMtM2NqcE9DVlg4dXBMTDNXcm5peVE?oc=5",
@@ -24394,25 +24458,24 @@
    "pubDate": "2026-10-30T23:00:00.000Z",
    "firstSeen": "2026-10-30T23:17:55.196Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
-   "score": 16,
+   "score": 12,
    "categories": [
     "goods",
     "game"
    ],
-   "works": [
-    "転生重騎士"
-   ],
+   "works": [],
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OdXR2SHVzemJSaXVGaVNpS3REdDVRZzVIdENpSTBvWVRyZW1WcGtudnVmbGRFX19oNkZxMy1DVllXVmtJdi1PTzY4X0k?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OdXR2SHVzemJSaXVGaVNpS3REdDVRZzVIdENpSTBvWVRyZW1WcGtudnVmbGRFX19oNkZxMy1DVllXVmtJdi1PTzY4X0k?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -72786,7 +72849,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 8,
+   "score": 4,
    "categories": [],
    "works": [
     "転生重騎士"
@@ -192813,62 +192876,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KQ1JvaFE4RVdvOEw0N1NQTjV3b0RIYUVscmw3bE5DMlA5dzNlTG8ycGVOY3B6RDA0RU1pZmQ3OFQyaEFVbTBGdkFnTnBTeGQyalJKb2FOLS1MTzY2UUFGbE1MVUdmSUtDU2diRXE3UmY5dw?oc=5",
      "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "茨城県×アニメ『薬屋のひとりごと』、10月17日(土)からコラボメニューと第2弾オリジナルグッズ販売開始",
-   "summary": "茨城県では、観光ブランドコンセプト「IBARAKI is Blossoming（いま、いばらきが咲いている）」のもと、アニメ『薬屋のひとりごと』とのコラボレーションによる観光プロモーションを展開しています。 2026年10月...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000022.000165784.html",
-   "pubDate": "2026-10-16T01:00:00.000Z",
-   "firstSeen": "2026-10-16T02:18:53.667Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000022.000165784.html"
-    }
-   ]
-  },
-  {
-   "title": "昭和を代表する名作ヒーローアニメ２作品がABEMAに初登場！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vdlRXNkl5dFFqRzhmU3FWSVRkRDctRERFZDI2dXZrQXh6WFlxTjBGT0lhMkh1M05kNmRqWlBoVXpqaU40bS04Yzg5M0tzQTFmbldzeDJpR2gxX0tGekVId1lYZ1ZOUm5SeFpoRVpB?oc=5",
-   "pubDate": "2026-10-16T00:58:00.000Z",
-   "firstSeen": "2026-10-16T07:13:22.382Z",
-   "image": null,
-   "source": "au Webポータル",
-   "sourceId": "gnews-tvanime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "au Webポータル",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vdlRXNkl5dFFqRzhmU3FWSVRkRDctRERFZDI2dXZrQXh6WFlxTjBGT0lhMkh1M05kNmRqWlBoVXpqaU40bS04Yzg5M0tzQTFmbldzeDJpR2gxX0tGekVId1lYZ1ZOUm5SeFpoRVpB?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
     }
    ]
   }
