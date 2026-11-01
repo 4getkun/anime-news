@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-01T17:18:44.724Z",
+ "generatedAt": "2026-11-01T18:19:39.823Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5743,
+  "exact": 5746,
   "syndicated": 587,
   "similar": 671,
-  "syndicatedTotal": 6404,
+  "syndicatedTotal": 6406,
   "syndicatedLeft": 1168
  },
  "calendar": [
@@ -9042,8 +9042,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 850,
-   "accepted": 850
+   "archived": 849,
+   "accepted": 849
   },
   {
    "id": "lisani",
@@ -9061,9 +9061,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 44,
    "accepted": 43
   },
@@ -9072,9 +9072,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 0,
    "accepted": 0
   },
@@ -9097,8 +9097,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5348,
-   "accepted": 5115
+   "archived": 5349,
+   "accepted": 5116
   },
   {
    "id": "gnews-tvanime",
@@ -9119,8 +9119,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 808,
-   "accepted": 717
+   "archived": 807,
+   "accepted": 716
   },
   {
    "id": "gnews-seiyu",
@@ -9131,7 +9131,7 @@
    "error": null,
    "fetched": 100,
    "archived": 2611,
-   "accepted": 2366
+   "accepted": 2367
   },
   {
    "id": "natalie-eiga",
@@ -9141,8 +9141,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 631,
-   "accepted": 118
+   "archived": 632,
+   "accepted": 119
   },
   {
    "id": "inside-games",
@@ -9218,7 +9218,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26772,
+   "archived": 26747,
    "accepted": 511
   },
   {
@@ -9229,8 +9229,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 655,
-   "accepted": 655
+   "archived": 654,
+   "accepted": 654
   },
   {
    "id": "mal",
@@ -9251,8 +9251,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 221,
-   "accepted": 221
+   "archived": 220,
+   "accepted": 220
   }
  ],
  "items": [
@@ -24218,25 +24218,24 @@
    "pubDate": "2026-10-30T23:00:00.000Z",
    "firstSeen": "2026-10-30T23:17:55.196Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
-   "score": 16,
+   "score": 12,
    "categories": [
     "goods",
     "game"
    ],
-   "works": [
-    "転生重騎士"
-   ],
+   "works": [],
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OdXR2SHVzemJSaXVGaVNpS3REdDVRZzVIdENpSTBvWVRyZW1WcGtudnVmbGRFX19oNkZxMy1DVllXVmtJdi1PTzY4X0k?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OdXR2SHVzemJSaXVGaVNpS3REdDVRZzVIdENpSTBvWVRyZW1WcGtudnVmbGRFX19oNkZxMy1DVllXVmtJdi1PTzY4X0k?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -24260,10 +24259,10 @@
    "pubDate": "2026-10-30T23:00:00.000Z",
    "firstSeen": "2026-10-30T23:17:55.196Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-movie",
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "general",
    "lang": "ja",
    "score": 5,
    "categories": [
@@ -24274,10 +24273,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5cFpNT2ZabjJIUnRKdGtVa3JVc2hxaXcxSlpEbzhsVFB4N0RCSmxfWlVSWng1TUdJX2w4VGFyMmVNNmpqdEJmdFlBQQ?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5cFpNT2ZabjJIUnRKdGtVa3JVc2hxaXcxSlpEbzhsVFB4N0RCSmxfWlVSWng1TUdJX2w4VGFyMmVNNmpqdEJmdFlBQQ?oc=5"
     },
     {
      "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
@@ -72584,7 +72582,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 8,
+   "score": 4,
    "categories": [],
    "works": [
     "転生重騎士"
