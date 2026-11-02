@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-02T02:18:22.062Z",
+ "generatedAt": "2026-11-02T03:19:37.020Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5725,
-  "syndicated": 587,
-  "similar": 673,
-  "syndicatedTotal": 6389,
-  "syndicatedLeft": 1178
+  "exact": 5727,
+  "syndicated": 588,
+  "similar": 672,
+  "syndicatedTotal": 6396,
+  "syndicatedLeft": 1183
  },
  "calendar": [
   {
@@ -502,23 +502,6 @@
    "sources": 1,
    "categories": [
     "goods"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-20",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "2027年TVアニメ化決定！「モンスターの肉を食っていたら王位に就いた件 7」をはじめGCN文庫新刊2作品、10月20日発売！",
-   "link": "https://prtimes.jp/main/html/rd/p/000002842.000048095.html",
-   "source": "PR TIMES",
-   "sources": 1,
-   "categories": [
-    "new",
-    "media"
    ],
    "platforms": [],
    "spoiler": false
@@ -3805,6 +3788,22 @@
    "precision": "month",
    "verb": "release",
    "label": "発売",
+   "work": "サクラ大戦",
+   "title": "『サクラ大戦』30周年を祝うオーケストラコンサート開催へ。横山智佐さん、日髙のり子さん、小林沙苗さん、陶山章央さん、菅沼久義さんら歴代キャストが集結",
+   "link": "https://news.denfaminicogamer.jp/news/261102m",
+   "source": "電ファミニコゲーマー",
+   "sources": 1,
+   "categories": [
+    "cast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11",
+   "precision": "month",
+   "verb": "release",
+   "label": "発売",
    "work": null,
    "title": "“ゆる使徒”の破壊力がすごい…！「エヴァ」が可愛くい、ぷっくり立体シール「うるちゅるPOP SEAL」として11月中旬発売",
    "link": "https://www.inside-games.jp/article/2026/11/01/190169.html",
@@ -4590,22 +4589,6 @@
    "categories": [
     "goods",
     "event"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-04",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "新テニスの王子様",
-   "title": "【予約受付中】アニメ『新テニスの王子様』より、幸村精市が表紙を奪う！ anan 2518号スペシャルエディションは11/4（水）発売",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94MlhQSzlHQXUyUVh4RVQyZnMyX2dCM3g4MV9CcXdnckdneTIyTUFVY25FU2JWYTBnZ3JoMVg0RF85QVI2amJHWG9hMGxhbHVRZWRJOHBn?oc=5",
-   "source": "anan",
-   "sources": 2,
-   "categories": [
-    "goods"
    ],
    "platforms": [],
    "spoiler": false
@@ -5961,7 +5944,7 @@
    "title": "人気声優・俳優の津田健次郎さんが初めて絵本翻訳を担当！世界44言語で読まれるシリーズ累計600万部超の絵本『ふきげんなラクダ』11月24日（火）発売決定。 | 株式会社トゥーヴァージンズのプレスリリース",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRE9sNkJnRExLUW9PLTYxNzNscnk4Y0cyR3l6ZExDY2p6NTRBSDQ1eUdWZl9mRy1LM3hib0J1UzJ1aVJyTWM2cmt1SGp4aWwwWUdNS1oxYWV4SUc2dHFHbzVYNWJSUDU1Z3c?oc=5",
    "source": "PR TIMES",
-   "sources": 2,
+   "sources": 4,
    "categories": [
     "cast"
    ],
@@ -6339,22 +6322,6 @@
    "source": "インサイド",
    "sources": 2,
    "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-12",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": "SAKAMOTO DAYS",
-   "title": "TVアニメ『SAKAMOTO DAYS』Vintage Styleの新規描き起こしグッズ6種が12月下旬発売、予約受付中",
-   "link": "https://nijimen.kusuguru.co.jp/topics/640416",
-   "source": "にじめん",
-   "sources": 2,
-   "categories": [
-    "goods"
-   ],
    "platforms": [],
    "spoiler": false
   },
@@ -9098,8 +9065,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 941,
-   "accepted": 937
+   "archived": 938,
+   "accepted": 934
   },
   {
    "id": "natalie-comic",
@@ -9128,9 +9095,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 44,
    "accepted": 43
   },
@@ -9139,9 +9106,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 0,
    "accepted": 0
   },
@@ -9153,7 +9120,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 630,
+   "archived": 631,
    "accepted": 290
   },
   {
@@ -9164,8 +9131,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5342,
-   "accepted": 5108
+   "archived": 5339,
+   "accepted": 5107
   },
   {
    "id": "gnews-tvanime",
@@ -9175,8 +9142,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1242,
-   "accepted": 1178
+   "archived": 1237,
+   "accepted": 1175
   },
   {
    "id": "gnews-movie",
@@ -9186,8 +9153,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 808,
-   "accepted": 717
+   "archived": 811,
+   "accepted": 719
   },
   {
    "id": "gnews-seiyu",
@@ -9197,8 +9164,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2605,
-   "accepted": 2359
+   "archived": 2612,
+   "accepted": 2365
   },
   {
    "id": "natalie-eiga",
@@ -9208,8 +9175,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 635,
-   "accepted": 119
+   "archived": 636,
+   "accepted": 120
   },
   {
    "id": "inside-games",
@@ -9219,8 +9186,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1526,
-   "accepted": 709
+   "archived": 1529,
+   "accepted": 711
   },
   {
    "id": "4gamer",
@@ -9230,8 +9197,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1195,
-   "accepted": 91
+   "archived": 1198,
+   "accepted": 92
   },
   {
    "id": "denfaminico",
@@ -9241,8 +9208,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1220,
-   "accepted": 297
+   "archived": 1221,
+   "accepted": 295
   },
   {
    "id": "gamespark",
@@ -9252,7 +9219,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1268,
+   "archived": 1269,
    "accepted": 90
   },
   {
@@ -9263,7 +9230,7 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 111,
+   "archived": 112,
    "accepted": 5
   },
   {
@@ -9275,7 +9242,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29605,
-   "accepted": 3240
+   "accepted": 3245
   },
   {
    "id": "prtimes",
@@ -9285,8 +9252,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26783,
-   "accepted": 508
+   "archived": 26827,
+   "accepted": 509
   },
   {
    "id": "ann",
@@ -9307,8 +9274,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 97,
-   "accepted": 97
+   "archived": 96,
+   "accepted": 96
   },
   {
    "id": "cbr-anime",
@@ -9318,11 +9285,771 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 220,
-   "accepted": 220
+   "archived": 221,
+   "accepted": 221
   }
  ],
  "items": [
+  {
+   "title": "『スイートプリキュア♪』15周年記念 スペシャルYouTube番組の制作決定 書き下ろしオーディオドラマ公開へ(オリコン)",
+   "summary": "アニメ『スイートプリキュア♪』15周年を記念した、スペシャルYouTube番組の制作が決定した。プリキュアキャスト、境宗久監督、OP・EDアーティストが集結し、作品の思い出を振り返る。【画像】懐かしい",
+   "link": "https://news.yahoo.co.jp/articles/719cb25a1361b7cc5eb51129880476316838df74?source=rss",
+   "pubDate": "2026-11-02T03:12:57.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "new",
+    "cast"
+   ],
+   "works": [
+    "スイートプリキュア♪"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/719cb25a1361b7cc5eb51129880476316838df74?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "堀田真由「ghost／夜の果て」アフレコに奮闘「もっとクールに！ダークに！」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tZ2oySXlYQUVqOVJvSEdfb2plSXhCdm1CeEFMdVVRQm9HVHpFdG8zU191X3Nra0NKQWwxM285TmJyWnMwSzNFeEVpQQ?oc=5",
+   "pubDate": "2026-11-02T03:06:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "movie",
+    "music"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tZ2oySXlYQUVqOVJvSEdfb2plSXhCdm1CeEFMdVVRQm9HVHpFdG8zU191X3Nra0NKQWwxM285TmJyWnMwSzNFeEVpQQ?oc=5"
+    },
+    {
+     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/42022eaf48e5c961b1267bef7f044eb27e8f6336?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「バリバリ伝説」バイクブームを駆け抜けた名作を日常に！グラフィックTシャツが登場",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/02/104408.html",
+   "pubDate": "2026-11-02T03:05:03.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [
+    "バリバリ伝説"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/02/104408.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/1a78cb07e95ed8b9f4b4b0b45ea0b6c7f21f094c?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ブラッククローバー』第6話 あらすじ＆先行カット公開！(アニメージュプラス)",
+   "summary": "2026年10月3日（土）23時からテレ東系列ほかにて放送開始となるTVアニメ『ブラッククローバー』2nd Season。第6話の先行場面カット&あらすじが公開された。【関連画像】第6話先行場面カット",
+   "link": "https://news.yahoo.co.jp/articles/e5bdb116d1c0c44de1fd86779594b682a51c3337?source=rss",
+   "pubDate": "2026-11-02T03:05:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 11,
+   "categories": [
+    "broadcast",
+    "visual"
+   ],
+   "works": [
+    "ブラッククローバー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e5bdb116d1c0c44de1fd86779594b682a51c3337?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "2027年夏 放送予定『鵺の陰陽師』 「ジャンプフェスタ2027」ステージにメインキャスト３名が登壇！ TVアニメ最新情報を公開予定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxSjk5VUtXa2Fab3NNQ3BUUWFCOEtlRlBmU01Bal91MmVKYnowTzlqSUNiNmkxTXBDNEN1Ul9vNXJHWmlo?oc=5",
+   "pubDate": "2026-11-02T03:04:49.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "株式会社ディー・エヌ・エー | DeNA",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "cast",
+    "event"
+   ],
+   "works": [
+    "鵺の陰陽師"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "株式会社ディー・エヌ・エー | DeNA",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxSjk5VUtXa2Fab3NNQ3BUUWFCOEtlRlBmU01Bal91MmVKYnowTzlqSUNiNmkxTXBDNEN1Ul9vNXJHWmlo?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "東映アニメーション×ボルテージが贈る大型協業タイトル！ ボルテージのコンシューマ向けブランド「AmuLit」最新作『枷檻累々―うら黄泉照らす鬼灯夜―』2027年発売決定！～イラストレーターにカズキヨネ氏を起用～ | プレスリリース",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xUzNkaGpUczQ1YXVwSktqMGJrVy1nY2xuZldqTzNuRFlYVFhzYmhGZ3JzeUxHSFFlcHJzaWtlNWVlaDVyQnI3TWZmY0p1UXlQQ1ZCVmZNTEtFZEFQdDVQcHpOek5ubkxmSHdvYkVCLXdqTzNwZVRR?oc=5",
+   "pubDate": "2026-11-02T03:02:55.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "東映アニメーション",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [],
+   "works": [
+    "枷檻累々―うら黄泉照らす鬼灯夜―"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "東映アニメーション",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xUzNkaGpUczQ1YXVwSktqMGJrVy1nY2xuZldqTzNuRFlYVFhzYmhGZ3JzeUxHSFFlcHJzaWtlNWVlaDVyQnI3TWZmY0p1UXlQQ1ZCVmZNTEtFZEFQdDVQcHpOek5ubkxmSHdvYkVCLXdqTzNwZVRR?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "米津玄師、劇場版「虎に翼」の主題歌を担当「自分の葬式でも流せる曲を、と志しながら作りました」最新予告も解禁(WEBザテレビジョン)",
+   "summary": "伊藤沙莉がヒロインを務めた連続テレビ小説「虎に翼」(2024年、NHK総合ほか)の劇場版が2027年1月15日(金)に公開される。この度、劇場版「虎に翼」の主題歌が、米津玄師の書き下ろし楽曲「こんにち",
+   "link": "https://news.yahoo.co.jp/articles/e7a1e73250e20b508c78b0bf23e1863859198591?source=rss",
+   "pubDate": "2026-11-02T03:02:04.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "visual",
+    "movie",
+    "music"
+   ],
+   "works": [
+    "虎に翼"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e7a1e73250e20b508c78b0bf23e1863859198591?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「さよなら銀河鉄道999」4K版の上映劇場が発表に、新宿では35mmフィルム上映も(映画ナタリー)",
+   "summary": "松本零士のマンガを原作とする劇場版アニメ「さよなら銀河鉄道999 アンドロメダ終着駅」の劇場公開45周年を記念した4Kリマスター版のリバイバル上映が、12月18日より2週間限定で全国77館にて開催され",
+   "link": "https://news.yahoo.co.jp/articles/e8de71da3c59d447db7052853b8d4b15de231dd4?source=rss",
+   "pubDate": "2026-11-02T03:00:59.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "映画ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e8de71da3c59d447db7052853b8d4b15de231dd4?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Major Anime Streaming Giant Faces $12.85 Million Scandal as 7 Head to Trial",
+   "summary": "Seven alleged HiAnime operators face trial on copyright infringement and money-laundering charges tied to $12.85 million in cryptocurrency.",
+   "link": "https://www.cbr.com/hianime-operators-12-million-piracy-trial/",
+   "pubDate": "2026-11-02T03:00:21.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/09/japan-has-already-officially-crowned-its-top-anime-series-of-fall-202-6-2.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "broadcast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/hianime-operators-12-million-piracy-trial/"
+    }
+   ]
+  },
+  {
+   "title": "両面楽しめる「ちいかわ」 超BIGクッションがプライズ展開！勉強をがんばるちいかわ、ラーメンを食べる”拉麺最高”の全2種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/02/190229.html",
+   "pubDate": "2026-11-02T03:00:03.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/02/190229.html"
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ『魔法の姉妹ルルットリリィ』の新規オリジナルグッズが11月6日（金）より「Aniqueショップ」にて販売決定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfZ09nNXVucGNpZDJDWWV0M1c3SHZFam9kT0dIUFl6OXVJZzBxVzNrRGQyV3JuYTJrOTAwSldpbEpPVXdRaHM1OHZxbTdaTWJwSE5ZWWtqeU9fSVc4SFB3c1B1ZndxdGRZYXc?oc=5",
+   "pubDate": "2026-11-02T03:00:02.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "魔法の姉妹ルルットリリィ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfZ09nNXVucGNpZDJDWWV0M1c3SHZFam9kT0dIUFl6OXVJZzBxVzNrRGQyV3JuYTJrOTAwSldpbEpPVXdRaHM1OHZxbTdaTWJwSE5ZWWtqeU9fSVc4SFB3c1B1ZndxdGRZYXc?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "SFアニメ映画『さよなら銀河鉄道999 アンドロメダ終着駅』4Kリマスター版、少年の自立と永遠の別れ",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoZ1ZPVW43VHI5MldSUENCcWVwZ1ZjM0FLNkhDX3ZoakVGdVlscnVHOGt2MXhVUGU2LVFsUWdkRG5MWmY5SHVFb3c2dlBtd3g1bWE4?oc=5",
+   "pubDate": "2026-11-02T03:00:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "ファッションプレス",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "さよなら銀河鉄道999 アンドロメダ終着駅"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ファッションプレス",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoZ1ZPVW43VHI5MldSUENCcWVwZ1ZjM0FLNkhDX3ZoakVGdVlscnVHOGt2MXhVUGU2LVFsUWdkRG5MWmY5SHVFb3c2dlBtd3g1bWE4?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『てつりょー！』5話“気まずいままは、いやだから。”。無口なうさとなかなかなじめないみさき。なんな中、うさが鉄道旅行プランを立てくれ2人で週末活動をすることになり",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uRks1OWNnNlY4NlNpcEVnOTNZYThfTVZVa2wxczNDUnd5YWp6cUhnQXdGdWI3M2lYRU42ZGFxajlFNzZBbEkyV3J6Z0NHYW5sR3dJczdFZWVEQQ?oc=5",
+   "pubDate": "2026-11-02T03:00:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "てつりょー!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uRks1OWNnNlY4NlNpcEVnOTNZYThfTVZVa2wxczNDUnd5YWp6cUhnQXdGdWI3M2lYRU42ZGFxajlFNzZBbEkyV3J6Z0NHYW5sR3dJczdFZWVEQQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「映画のまち調布 シネマフェスティバル」恒例の市民投票1位は「爆弾」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85bDh4MTdVYktVVnhmSm1vZUpyaG4ySHVtV2ZZVDJ1elI4RXRzcVViQlhYV0ktYWVxeXNvR1VhNEZ3WE53T3hmQl85QQ?oc=5",
+   "pubDate": "2026-11-02T03:00:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie",
+    "event"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85bDh4MTdVYktVVnhmSm1vZUpyaG4ySHVtV2ZZVDJ1elI4RXRzcVViQlhYV0ktYWVxeXNvR1VhNEZ3WE53T3hmQl85QQ?oc=5"
+    },
+    {
+     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/11b24cf398cee2bbe65bfab3350905342489efb3?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "イラストレーターにカズキヨネ氏を起用した完全新作乙女ゲーム「枷檻累々―うら黄泉照らす鬼灯夜―」，2027年に発売決定",
+   "summary": "ボルテージは本日，Switch用ソフト「枷檻累々―うら黄泉照らす鬼灯夜―」を2027年に発売すると発表した。本作は，コンシューマ向けゲームブランド「AmuLit（アミュリット）」の最新作で，東映アニメーションとの協業で制作する完全新作乙女ゲームだ。",
+   "link": "https://www.4gamer.net/games/054/G105426/20261029045/",
+   "pubDate": "2026-11-02T03:00:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "game"
+   ],
+   "works": [
+    "枷檻累々―うら黄泉照らす鬼灯夜―"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/054/G105426/20261029045/"
+    }
+   ]
+  },
+  {
+   "title": "マンガ『封神演義』の新作ゲーム『封神演義 逆命承天』新主人公・桃辰役のキャストが12月19日に発表へ。太公望役の小野賢章さんをゲストに迎え、「ジャンプフェスタ2027」にてスペシャルステージを開催",
+   "summary": "11月2日、株式会社集英社ゲームズは、12月19日に「ジャンプフェスタ2027」にて、『封神演義 逆命承天』のスペシャルステージを開催することを発表した。 同ステージでは、太公望役を務める小野賢章さんを迎え、ゲームの最新情報が初公開される。また、藤崎竜氏が描き下ろした新主人公・桃…",
+   "link": "https://news.denfaminicogamer.jp/news/261102l",
+   "pubDate": "2026-11-02T02:51:45.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-3-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "cast",
+    "event",
+    "game"
+   ],
+   "works": [
+    "封神演義",
+    "封神演義 逆命承天"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261102l"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『ドラゴンボール超 ビルス』第4話場面カット公開 超サイヤ人ゴッドの秘密に迫る（リアルサウンド）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fejFzRVNZTDBkXzZMX29jXy14MVRaRm5LR2VIVWNELUZSV25UYjdzSUQ4OWU2a0Jzc2FHUEFra2phd04zR0IzZXh1bXV3UzRvVDhabWRDSm1iRXQ5cFRZYlc0VU16R09jRE1sVWdZY2M0bkM3VTUzZTdCU0NFR1k?oc=5",
+   "pubDate": "2026-11-02T02:49:27.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "ドラゴンボール超 ビルス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fejFzRVNZTDBkXzZMX29jXy14MVRaRm5LR2VIVWNELUZSV25UYjdzSUQ4OWU2a0Jzc2FHUEFra2phd04zR0IzZXh1bXV3UzRvVDhabWRDSm1iRXQ5cFRZYlc0VU16R09jRE1sVWdZY2M0bkM3VTUzZTdCU0NFR1k?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "スマホRPG「天空のアムネジア」で声優「田所あずさ」さんの 直筆サイン色紙が当たるキャンペーンを11月15日まで開催！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50OWxvRGxRTWRsM1ZxcnJySE93WFA1QjJpN3Q4OWdHNGVHUENnbXpkNGhsZ2h5dDVDV3NfNHFzbGxEdU5Sdk03aF91Z1ZkVGRUT0doWHdFaW9rcm0xX19oSW1CbXkzZjFXelhGUE5Dc3RIU2FzbndLU3Fycw?oc=5",
+   "pubDate": "2026-11-02T02:48:20.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "ニコニコニュース",
+   "sourceId": "gnews-seiyu",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50OWxvRGxRTWRsM1ZxcnJySE93WFA1QjJpN3Q4OWdHNGVHUENnbXpkNGhsZ2h5dDVDV3NfNHFzbGxEdU5Sdk03aF91Z1ZkVGRUT0doWHdFaW9rcm0xX19oSW1CbXkzZjFXelhGUE5Dc3RIU2FzbndLU3Fycw?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "東映アニメとボルテージ、完全新作乙女ゲーム『枷檻累々―うら黄泉照らす鬼灯夜―』をNintendo Switch用ソフトとして2027年に発売決定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5aXzJqdGxtNzFPcE5LNzVERDVSZ05mSWVfbEJ5bzNoaUUxYVZjUVVGV1l2UENqVXdKOVB6THB6Y1laXzhk?oc=5",
+   "pubDate": "2026-11-02T02:44:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "gamebiz【ゲームビズ】",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "game"
+   ],
+   "works": [
+    "枷檻累々―うら黄泉照らす鬼灯夜―"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "gamebiz【ゲームビズ】",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5aXzJqdGxtNzFPcE5LNzVERDVSZ05mSWVfbEJ5bzNoaUUxYVZjUVVGV1l2UENqVXdKOVB6THB6Y1laXzhk?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "人気声優「嫌な気持ちにさせた方はごめんなさい」プロフィル欄から担当キャラ名削除の事情説明（日刊スポーツ）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhMVZ1YjB0bVB6cmpzeGRLb2Q2YV9XVXpBRi03ZHMySk5ieUZ0QkNfMWZRYnBKR1Z6NG5jLURpTHlPQ28wS3NXanpucTFBNmhHbmh6M3hKOGowR25iRTZGWFU2RkRFUElKNnRvXzZJWGhtOEdvZzhVRDJFOUM3dzA?oc=5",
+   "pubDate": "2026-11-02T02:41:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "日刊スポーツ（Yahoo!ニュース）",
+   "sourceId": "gnews-seiyu",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "日刊スポーツ（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhMVZ1YjB0bVB6cmpzeGRLb2Q2YV9XVXpBRi03ZHMySk5ieUZ0QkNfMWZRYnBKR1Z6NG5jLURpTHlPQ28wS3NXanpucTFBNmhHbmh6M3hKOGowR25iRTZGWFU2RkRFUElKNnRvXzZJWGhtOEdvZzhVRDJFOUM3dzA?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "ｄメニューニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmZFZlVsQ0p1VGRoaDZnd05yMFNmX0VqUUdFN3lTVzlTdDVUa2M2cFJqektNNmNBUWN6X3RtOHlsTzR1MTlfYUs2VFN6U0VFc1ZWZ2ppYmlWRjhESGE3X3FvSFUwMUprNlFPREQxLXk2Y3ZRSFp3aXVJMWhJTlFZZEVmcGl4RHc2ZDZKenNpUVNQRDY2NFRsdHF6QXRwTXpSeFctOHFDanVBeUs2dmZFQ0J30gGkAUFVX3lxTE9xWkVHWDRJd0dtclhjRUx4OGlCR1R5TmhtSEhKNHVoS2pvZ3Vjemw5bG1BMV9TZ3lOblg1dXVVYkc5THFLWVBSbEM0aEt6OUZtNzVVTXVvbVdZVEtwalZEeGlZR1dFUDBUS09iLUdqM1ZsOVJDdTFBajUtLWpHWFlWTzNjY2tUZGpSTzlIV0hfaUgweTgxWlp2Z1M5bG9Sbk5td3gw?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "いまや「不朽の名作」も初めは賛否両論？ 時を経て”伝説”へ昇華した傑作アニメたち（マグミクス）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtYzRkMTdPRW1wOGV6S0Rjcl95SGtDSUlUQVpSYXdWb1YzSzVhZzJadzVWcEotamVxVi13US1YY3UxSEdLWDB3NG91T3pZc2szNmxhZk5LN2phcEp6cFo1M1FUeVlpaDJSSjEyQkQ0dEI2ZGlUa0RsREpyN0FDZUE?oc=5",
+   "pubDate": "2026-11-02T02:40:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "マグミクス（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "マグミクス（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtYzRkMTdPRW1wOGV6S0Rjcl95SGtDSUlUQVpSYXdWb1YzSzVhZzJadzVWcEotamVxVi13US1YY3UxSEdLWDB3NG91T3pZc2szNmxhZk5LN2phcEp6cFo1M1FUeVlpaDJSSjEyQkQ0dEI2ZGlUa0RsREpyN0FDZUE?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "サンリオの大人気キャラクター“クロミ”、劇場アニメーション映画化決定！「アタイのかつやく、 たのしみに待っていてくれよな」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5WX1lSNVBqcDgzcExYV0RKUWIxdGRpYTVXVEc1NWVuXzJGZDk4S18zQzNuSHl2Q0k1THpNTGZaUFVYcUF1MVpqV0hn?oc=5",
+   "pubDate": "2026-11-02T02:37:05.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5WX1lSNVBqcDgzcExYV0RKUWIxdGRpYTVXVEc1NWVuXzJGZDk4S18zQzNuSHl2Q0k1THpNTGZaUFVYcUF1MVpqV0hn?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『サクラ大戦』30周年を祝うオーケストラコンサート開催へ。横山智佐さん、日髙のり子さん、小林沙苗さん、陶山章央さん、菅沼久義さんら歴代キャストが集結",
+   "summary": "歴代シリーズの作曲家・田中公平氏が音楽総合監修を務める珠玉のコンサート。チケットは11月から順次発売を予定",
+   "link": "https://news.denfaminicogamer.jp/news/261102m",
+   "pubDate": "2026-11-02T02:35:39.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HV6W25baUAAgKRn-1024x461.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "サクラ大戦"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261102m"
+    }
+   ]
+  },
+  {
+   "title": "アニメレビュー]幻想水滸伝 4話レビュー [2026年秋アニメ][衛楠ぷろど][エクスプロード]",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zM2VQTE5tUU56aFhSc0VXYjlMYS11REVMSnFuMEVSMG4tYjE4Ql9MS3phbEZ4LURUN0VicFA2aU9qa3UtSkdqSG5zS3RaNlFJQUJOcmRJaUx3anRf?oc=5",
+   "pubDate": "2026-11-02T02:32:38.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "YouTube",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "YouTube",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zM2VQTE5tUU56aFhSc0VXYjlMYS11REVMSnFuMEVSMG4tYjE4Ql9MS3phbEZ4LURUN0VicFA2aU9qa3UtSkdqSG5zS3RaNlFJQUJOcmRJaUx3anRf?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「カリスマ」TVアニメ、立花慎之介ら追加出演！ティザーPVが公開＆ショートアニメの放送も",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/02/104407.html",
+   "pubDate": "2026-11-02T02:30:03.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "visual",
+    "cast"
+   ],
+   "works": [
+    "カリスマ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/02/104407.html"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4VUV3SGpnb29jSUpnWE1sMU1KNURiOEU1X043dElXU0RNa1R0clkwZ2lvd3hxRWM5a3ZPVG5Yal84VEs5T3hfYm51MlVBOVFCZkFodllaZktHb2pscWhZd29rVHY?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ガシャポン『ドラクエ』カプセリウムが再販！草原や海辺などフィールド、モンスターとのエンカウントをそのまま立体化した全3種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/02/190226.html",
+   "pubDate": "2026-11-02T02:30:03.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ドラクエ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/02/190226.html"
+    }
+   ]
+  },
   {
    "title": "代々木アニメーション学院「青二プロダクション」と業務提携開始 ラジオ企画など発表(オリコン)",
    "summary": "代々木アニメーション学院は2日、声優事務所「青二プロダクション」との業務提携を開始した。在学生が毎週参加する新企画として、ラジオ番組『零士とこすこのヤンヤン大放送』を本日2日28時30分よりスタート。",
@@ -9346,6 +10073,13 @@
      "name": "オリコン（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/92c17da408abd1ddba1a60627eef337d79c8b7e9?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "オリコン（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hdUs2M2k4ZktNQmc4bWk4VldlVlVoQzlnMmQyS2RVcVJieWRkSVF3ekRJRElOVmFGdmhWdVJBOVhZblNjMzdwUXJ5TE1PaDM3eW0xVUlqazBZQ3ljalZuQmxYNnBaLVRaNFlMSDRtSGZSdmRrTVh3cFVHUGFjSlU?oc=5",
+     "via": "Googleニュース「声優」",
      "syndicated": true
     }
    ]
@@ -9466,6 +10200,36 @@
      "name": "Googleニュース「アニメ」",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82dkxjemNZbzd2V1h1VlVCQ1J5amtGRVpGNXExd0ROZ0NxallYanl1T3BjQnFHRnJhQWIzd19oMEZqUHVJQl9ROTNoZy0?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『＜物語＞シリーズ』とVTuberユニット「秘密結社holoX」のコラボ体験型展示「X物語 -バツモノガタリ-」の開催が決定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Kek5MdGJzbW9BTDVJTDEzVjdyaHY4MXMtRGJuZ0YxZktsYlN3TWdrTHNrZ29iMWVqQ1ZJMFZiQnBGanZqYXIyMGRFY0h4eEFIQ3JESThLeHpuSDU4dS1v?oc=5",
+   "pubDate": "2026-11-02T02:02:11.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "千葉テレビ放送株式会社",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event",
+    "goods"
+   ],
+   "works": [
+    "<物語>シリーズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "千葉テレビ放送株式会社",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Kek5MdGJzbW9BTDVJTDEzVjdyaHY4MXMtRGJuZ0YxZktsYlN3TWdrTHNrZ29iMWVqQ1ZJMFZiQnBGanZqYXIyMGRFY0h4eEFIQ3JESThLeHpuSDU4dS1v?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -9676,6 +10440,31 @@
    ]
   },
   {
+   "title": "【競泳】五輪銀の35歳鈴木聡美、ヘソ出しで人気アニメキャラに変身「ウィッグ重たすぎて…」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTJWZTZGQlYwRnNNeUlicGlNUHZWNG9mV0xIMUJsX3VQOEtNMGlzbXViX1Y4dHJYVDBjWW5iR09ROVg1SlFKLXRiaHhjNUxNLThQN2szSUlBYkI0M2c1N01wMFdOUWZ4QUEtajdpbmlMTFczNnhSRDEtTFpfM1hIci01OXVZaWtFSXhJeg?oc=5",
+   "pubDate": "2026-11-02T02:00:00.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "日刊スポーツ",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "日刊スポーツ",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTJWZTZGQlYwRnNNeUlicGlNUHZWNG9mV0xIMUJsX3VQOEtNMGlzbXViX1Y4dHJYVDBjWW5iR09ROVg1SlFKLXRiaHhjNUxNLThQN2szSUlBYkI0M2c1N01wMFdOUWZ4QUEtajdpbmlMTFczNnhSRDEtTFpfM1hIci01OXVZaWtFSXhJeg?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
    "title": "『ドラゴンボール超 ビルス』第4話「サイヤ人の神」あらすじ&場面カット公開!ビルスが探し求める「超サイヤ人ゴッド」とは?",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2NmxCelZ3blJDeFNTWU9DTGFtS25aa2lrdTR2Q1ZJem5HSzYwcnpfM1J6TVp3R1hKMklWQUFpN05teElrRGFGRFp0LXpCVXlWS01EcDczNWY4QjFj?oc=5",
@@ -9789,6 +10578,34 @@
    ]
   },
   {
+   "title": "『BLACK LAGOON』の山中虎鉄 描き下ろし ランジェリーver. BIGタペストリーなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+   "summary": "株式会社アルマビアンカはオリジナルグッズを展開する通販サイト、「AMNIBUS」にて『BLACK LAGOON』の商品18種の受注を開始いたします。 株式会社アルマビアンカ（本社：東京都中野区、代表取締役：坂井智成）...",
+   "link": "https://prtimes.jp/main/html/rd/p/000009757.000016064.html",
+   "pubDate": "2026-11-02T01:30:45.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "BLACK LAGOON"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000009757.000016064.html"
+    }
+   ]
+  },
+  {
    "title": "“俺の家族を侮辱するな”「鬼滅の刃」魘夢の“お眠りィィ”に炭治郎が激怒！「泣いたなあ」「竈門家を知らないからこうなる」伊之助も爆裂覚醒☆ 無限列車編 再放送第四話【ネタバレあり反応まとめ】",
    "summary": "",
    "link": "https://animeanime.jp/article/2026/11/02/104404.html",
@@ -9875,6 +10692,34 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5QmpUc3EzQUtaU29WZ29aR3VQMlF1cFFnSG13NDUzaUV6bW9Xa2RfWWRzZU5RSV8yc2VXZV9IWE9CdnZMWUVZXzlXZUd4RjZ6THgwY0RROXYxN3licm9scjZodGNpRkJNcUNaVDhKM1JONGpOZVlET2xB?oc=5",
      "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『ななついろ★ドロップス』のトレーディング 秋姫 すももオンリー 缶バッジ、BIGアクリルスタンドの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
+   "summary": "株式会社アルマビアンカはオリジナルグッズを展開する通販サイト、「AMNIBUS」にて『ななついろ★ドロップス』の商品2種の受注を開始いたします。 株式会社アルマビアンカ（本社：東京都中野区、代表取締役：坂...",
+   "link": "https://prtimes.jp/main/html/rd/p/000009760.000016064.html",
+   "pubDate": "2026-11-02T01:21:42.000Z",
+   "firstSeen": "2026-11-02T03:18:52.328Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ななついろ★ドロップス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000009760.000016064.html"
     }
    ]
   },
@@ -10105,41 +10950,13 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/1be42a2bf0d18729645674ef011fa02ce8c35472?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "人気声優・俳優の津田健次郎さんが初めて絵本翻訳を担当！世界44言語で読まれるシリーズ累計600万部超の絵本『ふきげんなラクダ』11月24日（火）発売決定。 | 株式会社トゥーヴァージンズのプレスリリース",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRE9sNkJnRExLUW9PLTYxNzNscnk4Y0cyR3l6ZExDY2p6NTRBSDQ1eUdWZl9mRy1LM3hib0J1UzJ1aVJyTWM2cmt1SGp4aWwwWUdNS1oxYWV4SUc2dHFHbzVYNWJSUDU1Z3c?oc=5",
-   "pubDate": "2026-11-02T01:00:02.000Z",
-   "firstSeen": "2026-11-02T01:17:56.221Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "ふきげんなラクダ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRE9sNkJnRExLUW9PLTYxNzNscnk4Y0cyR3l6ZExDY2p6NTRBSDQ1eUdWZl9mRy1LM3hib0J1UzJ1aVJyTWM2cmt1SGp4aWwwWUdNS1oxYWV4SUc2dHFHbzVYNWJSUDU1Z3c?oc=5",
-     "via": "Googleニュース「声優」"
     },
     {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GQ2RHQmgySERQZmxKRHE3Z2JlYkNEMWVDbV9vM2E4Q3FjeXpXUmRvTzlRY2p4WUk3U3hGQjFOWDhHREM0Q0dodW1yOTFRS2JCUUJCaVQ0QVlqelFlTlotbTFUc0FRSDg0S25Z?oc=5",
-     "via": "Googleニュース「声優」"
+     "name": "Game Spark（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yMHlaS2hCOXU2MW5rbllfQ3A2RHM5bmYzUGJhRjNUdUZsY2Rra2JiYUd6LUFXVDl3N1ZrVXNuRVh6UF9KYmtFOVo5QzdqLVJ3c3Nvc3Bua1RNb0V6akt2dHl0NUFqbEczcTBsdnVrblNFUTVrY3EzWHphenpTN0E?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -10167,6 +10984,54 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WTnkwOGFPbEF0Yml3WjBzcHAwYVVtWjRHd29kWmpaZnNzQUxQX1czVVBlZEg1Tm1yQjhCdEpKakVGdWlNTUE?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "人気声優・俳優の津田健次郎さんが初めて絵本翻訳を担当！世界44言語で読まれるシリーズ累計600万部超の絵本『ふきげんなラクダ』11月24日（火）発売決定。 | 株式会社トゥーヴァージンズのプレスリリース",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRE9sNkJnRExLUW9PLTYxNzNscnk4Y0cyR3l6ZExDY2p6NTRBSDQ1eUdWZl9mRy1LM3hib0J1UzJ1aVJyTWM2cmt1SGp4aWwwWUdNS1oxYWV4SUc2dHFHbzVYNWJSUDU1Z3c?oc=5",
+   "pubDate": "2026-11-02T01:00:00.000Z",
+   "firstSeen": "2026-11-02T01:17:56.221Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "ふきげんなラクダ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRE9sNkJnRExLUW9PLTYxNzNscnk4Y0cyR3l6ZExDY2p6NTRBSDQ1eUdWZl9mRy1LM3hib0J1UzJ1aVJyTWM2cmt1SGp4aWwwWUdNS1oxYWV4SUc2dHFHbzVYNWJSUDU1Z3c?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "時事ドットコム",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GQ2RHQmgySERQZmxKRHE3Z2JlYkNEMWVDbV9vM2E4Q3FjeXpXUmRvTzlRY2p4WUk3U3hGQjFOWDhHREM0Q0dodW1yOTFRS2JCUUJCaVQ0QVlqelFlTlotbTFUc0FRSDg0S25Z?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "Mantan Web",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04TWpQV2lYYnVJRmU4QVE2SU1ybXlMQnlxQV8zUmlvam1UaDViRFcyV1JyTFFQd0FLNXFMUEotM3gybmdZc1JNeXZSZzE1YWZESzczc29JRk1BMjJvc0JJaF9ob3JxRHZsTGpmLWsxOGdNRlFtemc?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WNndRUDNuaGk0Sk5BMDV2ejdkMG14QlJIemNkc1IyQ0F5elBxQ2FOT3EtWGVLRjA4bUFnenMtYjB1c00yb3FNR2wzemJXZ1NwaGZDa3JmWnNGUmozUTJNWW9oZzByc1BmWUoyTlZpUXFpQQ?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
     }
    ]
   },
@@ -10261,6 +11126,11 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/02/190217.html"
+    },
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/02/174379.html"
     }
    ]
   },
@@ -12651,6 +13521,13 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/b9c64686ec9a567735070b6d552755f474547430?source=rss",
      "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pcktNU1R0N2RKNlRTTHNsaC1STDY0XzluRlhiX1JXTmtiTUluTW1nMDkyNWJ2ZHlzcXRZR3UtZFQwQjVDZHotMzYwNW1Yb0dBQ25vbEptSnhtYmFmcUkxZ3hCQ1dFemNCN1o2UGxYcFgxU1p2dzZleVVWalhPb2M?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -14381,7 +15258,7 @@
    "firstSeen": "2026-11-01T09:17:59.141Z",
    "image": null,
    "source": "NHK",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -14394,9 +15271,9 @@
    "sources": [
     {
      "name": "NHK",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04bmd0Sk9VZWpfZVVDQURnc0R2eHZUcjJZVk1qcmVLQmZYOW5LRHFJdUx0YlROS3BEbUNkWjhVOGM0Vy0wc0ZFNEl2dENHOWdqeGZvNmdnbHE0U0pqeVkzZmI4OE5LalM4MWVVU1Y0bnAtSTd4MS1j?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -192058,924 +192935,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/43b381de386f760dda77e7b47efac977ceb763b8?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Gundam's New 2027 Mecha Debuts Bandai's Most Advanced Gunpla Technology Yet",
-   "summary": "Bandai has officially unveiled the next High Grade Gunpla model kit for 2027, and it debuts the most cutting-edge tech that fans have seen t…",
-   "link": "https://www.cbr.com/gundam-zero-high-grade-gunpla-release-details/",
-   "pubDate": "2026-10-16T03:05:13.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/bandai-namco-filmworks-xarx-zero-teaser-visual-1.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/gundam-zero-high-grade-gunpla-release-details/"
-    }
-   ]
-  },
-  {
-   "title": "“ラスボス”キャラといえば？ 2位「マリオ」クッパ＆「ドラクエ」ゾーマ＆「文スト」フョードル…抑えた1位はあの鬼キャラ！＜26年版＞",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/16/103863.html",
-   "pubDate": "2026-10-16T03:05:03.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "ranking"
-   ],
-   "works": [
-    "マリオ",
-    "ドラクエ",
-    "文スト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/16/103863.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/1c883b28dca6b38a39340e831c0defb9e845ce9e?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lMnBMdTUwV1BqWU9NcXVVVXdEQzRXcVZCc0w4MVFranE1ckwzUUVpTE5OWXoweUFBV3VPZXo4Q1NRbXRDQlpqalg2bGhVWm5PVXNqU2E3OENUYTFpM1Nlekk5cXh1SFg0MFRuenZ3XzUwMDVvWTF6V3hobU1xMXM?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "今秋アニメ化『しろたん』のおせちが発売決定！ 24品を詰め込んだ1人前おせちも用意",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpQXpNaHRfM3U1eV9xVXRlcDBZR29FRDk3WWZNcW45TzhKOGoxU3lKRzh1N0RsVzhMTEJlVTNHdThJLTU4X0dEdGFWQkt3b050QVV3Yk5vT2k?oc=5",
-   "pubDate": "2026-10-16T03:05:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "クランクイン！",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new",
-    "goods"
-   ],
-   "works": [
-    "しろたん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpQXpNaHRfM3U1eV9xVXRlcDBZR29FRDk3WWZNcW45TzhKOGoxU3lKRzh1N0RsVzhMTEJlVTNHdThJLTU4X0dEdGFWQkt3b050QVV3Yk5vT2k?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/6e9cb90e3cf331753dab42856daa7c40b234f7e8?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『天は赤い河のほとり』第16話 あらすじ＆先行カット公開！(アニメージュプラス)",
-   "summary": "日本テレビAnichU枠・BS日テレにて放送中、各配信サービスにて配信中の『天は赤い河のほとり』。第16話のあらすじと先行カットが公開された。【関連画像】第16話先行カットをすべてチェック！（写真7点",
-   "link": "https://news.yahoo.co.jp/articles/75f5841d33d9583157907f3a3c1360710ef622d0?source=rss",
-   "pubDate": "2026-10-16T03:05:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "アニメージュプラス（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "天は赤い河のほとり"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/75f5841d33d9583157907f3a3c1360710ef622d0?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『薬屋のひとりごと』悠木碧＆大塚剛央が語る、第3期で深まる“意外な人間関係” 壬氏が馬閃に振り回される？【インタビュー後編】(オリコン)",
-   "summary": "テレビアニメ『薬屋のひとりごと』第3期の第3話となる第51話が、きょう16日に日本テレビ系“FRIDAY ANIME NIGHT（フラアニ）”枠（毎週金曜 後11：00）にて放送される。オリコンニュー",
-   "link": "https://news.yahoo.co.jp/articles/519314c28fbf4040fba5049dc91c825168a54649?source=rss",
-   "pubDate": "2026-10-16T03:05:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "オリコン（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "new"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "オリコン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/519314c28fbf4040fba5049dc91c825168a54649?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "MIXI、『モンスト』でTVアニメ「黄泉のツガイ」とのコラボイベントを10月16日正午より期間限定で開催",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5XQklXM0djb3pjVS1TbHFMUzdvTlAzNm9hMFFwZjdZRkRKNFp0ZkdhUGhmM3gxMEdwRHNONEdzd1RLcG8x?oc=5",
-   "pubDate": "2026-10-16T03:03:19.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "gamebiz【ゲームビズ】",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "event",
-    "goods"
-   ],
-   "works": [
-    "モンスト",
-    "黄泉のツガイ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "gamebiz【ゲームビズ】",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5XQklXM0djb3pjVS1TbHFMUzdvTlAzNm9hMFFwZjdZRkRKNFp0ZkdhUGhmM3gxMEdwRHNONEdzd1RLcG8x?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『薬屋のひとりごと』とのコラボカフェ第3弾の開催が決定！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02dElRMUptcWkydzEzcXRkbWFrY25KbUM0RXdDNUNpckVwQk9PSGVUd0Y5OUI1WlJlNG0xS09FWTI3MUpSdjZ5VDlBYVR0X215T19ZUmh3S1c2aklJR3NoYy13TE50a1ZhQVlyODAtU2hBTkdW?oc=5",
-   "pubDate": "2026-10-16T03:02:43.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "公式スイーツパラダイス",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "event",
-    "goods"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "公式スイーツパラダイス",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02dElRMUptcWkydzEzcXRkbWFrY25KbUM0RXdDNUNpckVwQk9PSGVUd0Y5OUI1WlJlNG0xS09FWTI3MUpSdjZ5VDlBYVR0X215T19ZUmh3S1c2aklJR3NoYy13TE50a1ZhQVlyODAtU2hBTkdW?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『ワンパンマン』 ニューヨーク・コミコン2026 ガロウ役・緑川光が登壇！ 最新情報が発表されたパネルのオフィシャルレポートが到着！ - V-storage",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51OXYyUFF3Ykp6UThTS0FNZk5KR0h1Q0FLY0xEWXBhWDZndl9OaXd3QTY3aXRTLTBPRXpJcml4eGZpVWZIcmUwX0tvTE5Zb0U?oc=5",
-   "pubDate": "2026-10-16T03:01:50.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "Googleニュース「アニメ」",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "ワンパンマン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「アニメ」",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51OXYyUFF3Ykp6UThTS0FNZk5KR0h1Q0FLY0xEWXBhWDZndl9OaXd3QTY3aXRTLTBPRXpJcml4eGZpVWZIcmUwX0tvTE5Zb0U?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "【予約受付中】アニメ『新テニスの王子様』より、幸村精市が表紙を奪う！ anan 2518号スペシャルエディションは11/4（水）発売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94MlhQSzlHQXUyUVh4RVQyZnMyX2dCM3g4MV9CcXdnckdneTIyTUFVY25FU2JWYTBnZ3JoMVg0RF85QVI2amJHWG9hMGxhbHVRZWRJOHBn?oc=5",
-   "pubDate": "2026-10-16T03:00:59.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "anan",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "新テニスの王子様"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "anan",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94MlhQSzlHQXUyUVh4RVQyZnMyX2dCM3g4MV9CcXdnckdneTIyTUFVY25FU2JWYTBnZ3JoMVg0RF85QVI2amJHWG9hMGxhbHVRZWRJOHBn?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "青春ブタ野郎：「楽園追放 心のレゾナンス」 ガブリエルがバニーガールに オマージュビジュアル公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OSy0zdDRMRFF1U3E3dzAxRW9jemd2TlhWTW1WeUFRSk1TRkg4QVo2QVV1S0tEMWo4cHR3ODA0SWpmRHRCQndSNUdadjNtUG9RdURNLUFZMlpvSS13QVdESFVzWGJFd3J6TUNJ?oc=5",
-   "pubDate": "2026-10-16T03:00:32.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "MANTANWEB",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MANTANWEB",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OSy0zdDRMRFF1U3E3dzAxRW9jemd2TlhWTW1WeUFRSk1TRkg4QVo2QVV1S0tEMWo4cHR3ODA0SWpmRHRCQndSNUdadjNtUG9RdURNLUFZMlpvSS13QVdESFVzWGJFd3J6TUNJ?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    },
-    {
-     "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XQlRsN2dYd0pfOFExY0d0MzFjNmJzSVRkNWhfR2xsUEowVXNEN3RKT3RLUDIxNEtJLXdxNDk5VmhXVGs3a3ROV25aM3FhR0hiMmUwYjhoU0VyWVVUZk5lNUFWNEZQYUMzdTFaeldPRG1OanpmZGVScFczMFFPbGM?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『NARUTO-ナルト- 疾風伝』×「カラオケまねきねこ」コラボ開催！「騎士」テーマの描き下ろしグッズも",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GWlM0cV93M3hnY2EtRmlCSWdTcHNwOFVCcDExR0lxSGdnaXNJZlFaRkNnY213WkFSYU9JTkllM1F1dmxteTZ4aW9CUUo2VkJiRVZrdQ?oc=5",
-   "pubDate": "2026-10-16T03:00:12.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "NARUTO-ナルト- 疾風伝"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GWlM0cV93M3hnY2EtRmlCSWdTcHNwOFVCcDExR0lxSGdnaXNJZlFaRkNnY213WkFSYU9JTkllM1F1dmxteTZ4aW9CUUo2VkJiRVZrdQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「新テニスの王子様」“神の子”幸村精市がソロ表紙&バックカバーに柳蓮二、白石蔵ノ介、遠山金太郎も！「anan」11月4日発売",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/16/103862.html",
-   "pubDate": "2026-10-16T03:00:04.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "新テニスの王子様",
-    "anan"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/16/103862.html"
-    }
-   ]
-  },
-  {
-   "title": "『ドラクエ』モンスターたちをスイーツで再現！スライムのパフェ、ももんじゃのケーキなど全6種のフィギュアが遊び心たっぷり",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/16/189354.html",
-   "pubDate": "2026-10-16T03:00:03.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ドラクエ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/16/189354.html"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『サンダー3』初のオンラインくじが「くじプラ」に登場！場面写を使用した「スモール3」や「Rebellion」の限定オリジナルグッズが登場！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwdGl4Qkk3WlpUQ2dQR2lRdTRmakhhU3JENlFzREF1TlU2c2JiQ1VSQkt3TkJlSElWRkFRRHlqS1FnUnhjR0VUcGdta0RSeWRUbkZUY2swOWlGM2s0WUM3Yk5wbUlaaEhBOVE?oc=5",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "サンダー3"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwdGl4Qkk3WlpUQ2dQR2lRdTRmakhhU3JENlFzREF1TlU2c2JiQ1VSQkt3TkJlSElWRkFRRHlqS1FnUnhjR0VUcGdta0RSeWRUbkZUY2swOWlGM2s0WUM3Yk5wbUlaaEhBOVE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『えぶりでいホスト』の新商品がシンクイノベーション株式会社より発売されます！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UX0V5SXVvcVo3dVJDVVM0bWV1QW5lV1R5MWdra0x0N3A3akRiaFpONDVxMjB0X3dIeEh4SkdjQ21jd3lNdlR1MHd3OVUyS3AxM1NNN1ZGZnhETU4xSDZBbzBJaGtZWVBGTlE?oc=5",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "えぶりでいホスト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UX0V5SXVvcVo3dVJDVVM0bWV1QW5lV1R5MWdra0x0N3A3akRiaFpONDVxMjB0X3dIeEh4SkdjQ21jd3lNdlR1MHd3OVUyS3AxM1NNN1ZGZnhETU4xSDZBbzBJaGtZWVBGTlE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「アニメ『僕のヒーローアカデミア』×梅田スカイビル 空中庭園展望台」が開催決定！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BQ29rX0kyejhMQm10ejI0SUg3aDRZSG9ob3NuZGxPNDJFYXlsN2RabUFQX3dSSGNDUXBCZlJkdFc5RE5yREdlVVlnMzJ2TGZNQllsTG50WkNEaWozTGkxTVBRc0JlVFBidHc?oc=5",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "僕のヒーローアカデミア"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BQ29rX0kyejhMQm10ejI0SUg3aDRZSG9ob3NuZGxPNDJFYXlsN2RabUFQX3dSSGNDUXBCZlJkdFc5RE5yREdlVVlnMzJ2TGZNQllsTG50WkNEaWozTGkxTVBRc0JlVFBidHc?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "クレアウェブ",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwbFRLak1xWFZqdXBDTVFIVHN4eW5KaVgyQ1FnSkZ3OGV4eDlqVGtYOE9MeEJhbDBrclpRc0dtTm9OODNXY3BfZ0NCalc1WFNlTW5qLTNWVUNCbHgzQnE1dDZTNzQ0WWtsRFRlYXRtQmtKdw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『ウィッチウォッチ』より【GIRLS STYLE LOOKBOOK】をテーマにした新規描き下ろしグッズが10月23日（金）より「Aniqueショップ」にて販売決定！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIdkxsZEtyMXc5MTdEb0VIeUVXMlNsWWdVaG1yZlZJZHRiWXVIVjhXWFZUNmRGMUxNS3l5RDdiS1daT2NxM3YyZWJUYV85c3pCXy12ZHhYaWI5Mm0tS0dGbncxajdUTUhDdVE?oc=5",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ウィッチウォッチ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIdkxsZEtyMXc5MTdEb0VIeUVXMlNsWWdVaG1yZlZJZHRiWXVIVjhXWFZUNmRGMUxNS3l5RDdiS1daT2NxM3YyZWJUYV85c3pCXy12ZHhYaWI5Mm0tS0dGbncxajdUTUhDdVE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『瑠璃の宝石』 オンラインくじ「くじコレ」にて販売開始！",
-   "summary": "株式会社エディア（本社:東京都千代田区、代表取締役社長:賀島 義成）の子会社、株式会社ティームエンタテインメント（本社 :東京都千代田区、代表取締役社長 :賀島 義成 以下 :ティームエンタテインメント）は、...",
-   "link": "https://prtimes.jp/main/html/rd/p/000001199.000021592.html",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "瑠璃の宝石"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000001199.000021592.html"
-    },
-    {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wZzhxczkydVhsVkJ5QTh0d3NvY1E4XzEtT0lBczBhOTBXYThKalJTOXN0Y1g1YnVRUE4xNk9kelZhbkRrZTBEcERjbENDS3dNcWtUaFkxRXNHbUIyd1ZyZmQya2lmdUwySVF3?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『SAKAMOTO DAYS』Vintage Styleの新規描き起こしグッズ6種が12月下旬発売、予約受付中",
-   "summary": "今回のテーマは「Vintage Style」。坂本太郎、朝倉シン、南雲、神々廻、大佛、勢羽夏生の6人が、ちびキャラverで新規描き起こしイラストになりました。公式絵では、茶色やカーキを中心にした落ち着いた服装で、カップやドリンクを手にした姿…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/640416",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/564f06fa58414d29a0bf7b3a7c086969.jpg",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "SAKAMOTO DAYS"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/640416"
-    },
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000001198.000021592.html"
-    }
-   ]
-  },
-  {
-   "title": "TVスペシャルアニメ「五等分の花嫁∽」 中野二乃のプラスチックモデル2026年10月16日予約開始！豊富なオプションパーツで劇中の姿を再現！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54X25BRnJET2RyWFlBcy1YdTM4QWh4aFBBc09Mc2VlZTFDZFk4RHhSbkxSaklIemtJRThEUTBMMnQ1U2hNZlJXeVhrdF9GR21qQXBWcmI1VGotLVZzTGgtTDN1cThsZUw2aHc?oc=5",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "五等分の花嫁∽"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54X25BRnJET2RyWFlBcy1YdTM4QWh4aFBBc09Mc2VlZTFDZFk4RHhSbkxSaklIemtJRThEUTBMMnQ1U2hNZlJXeVhrdF9GR21qQXBWcmI1VGotLVZzTGgtTDN1cThsZUw2aHc?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "KADOKAWAオフィシャルサイト",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HYUowX29md0pVc2gtNWhqZWE2X2VSVzlmZUFqRGJCbUJwS2ZvQk44Tjg3ZHNoZE1SZ0FKaUJ5RnV4dXRlRHp1WFhWRm53amkxaVE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "オリコンニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLQmkzamZrQ3ZQYXNTUnBtNTN4Q1R0SkNLdk9JZWkxRVdMa3F3c196c1JRQXVNT25YN0p4WmlfM0cxUXh0czlVUmpGbHVEa0I4dlJHSF9YeXQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "KADOKAWAグループ ポータルサイト",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWZLUENfbVFXOTVpM2VxZGY2Y2pBYTE1WWtCb2d4SFpuZnFNTlR1eUVjMGUwc3JSVHRnWjBLd0tuT01CclJYNDNWYmR5YjF5VTVFNEdjWExUT1NNLWU1Zmo3MnliSGpFYUZzbW91QUw4Z1dXWVJKczloM0pOeXg2VDM3ZS0?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "電撃の新文芸『奴隷からの期待と評価のせいで搾取できないのだが』TVアニメ化決定！ 最新５巻は本日10月16日発売！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4waXdaZWVpc3J1bm1RanBmRlhGSjJvOHlPeE5ycnZ6QTNrbDZyamcxWnJjOHNhcHg4cTlKZGE0dEU2XzBWTW9lZFhRYm9pX3gtMjd6c3dPZ2hDcnI5VTAtOUx3UTlqcUUwNHc?oc=5",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "new"
-   ],
-   "works": [
-    "奴隷からの期待と評価のせいで搾取できないのだが"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4waXdaZWVpc3J1bm1RanBmRlhGSjJvOHlPeE5ycnZ6QTNrbDZyamcxWnJjOHNhcHg4cTlKZGE0dEU2XzBWTW9lZFhRYm9pX3gtMjd6c3dPZ2hDcnI5VTAtOUx3UTlqcUUwNHc?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "スタイリッシュなバンド姿に！「TVアニメ『ダイヤのA actⅡ -Second Season-』K2Cくじ」が発売決定！〜描き下ろしイラストを使用した限定景品が多数登場〜",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yaUtrT2xacjZaUEpuTW05SWFlZTRDMG91azNPbmg0UWU5TU9PZDVWNGc2MWNwQ2tsWlNlekF4NTVHdFpqNFRYRW9SZU9aTlQ3TkZfNU5qZndhRkFfVE1waVE3OVJ5VmVCcEE?oc=5",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T04:17:57.909Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ダイヤのA actⅡ -Second Season-"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yaUtrT2xacjZaUEpuTW05SWFlZTRDMG91azNPbmg0UWU5TU9PZDVWNGc2MWNwQ2tsWlNlekF4NTVHdFpqNFRYRW9SZU9aTlQ3TkZfNU5qZndhRkFfVE1waVE3OVJ5VmVCcEE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "システムサービスよりTVアニメ「魔法騎士レイアース」のプライズが 2026年10月より連続登場！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1SkJmUzFlQ2FrSHIteDBRU2hNU3FnWUdadF9GWlVrdkczYUwxNWtyblhJeTdNcUlYUmE2R1RjVkJtVi1uR2x6ZWNHRnFlQUtQcGh1ajRELTlOUnA5X2xsQmVtdThNZW1kUEE?oc=5",
-   "pubDate": "2026-10-16T03:00:02.000Z",
-   "firstSeen": "2026-10-16T08:17:55.380Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "魔法騎士レイアース"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1SkJmUzFlQ2FrSHIteDBRU2hNU3FnWUdadF9GWlVrdkczYUwxNWtyblhJeTdNcUlYUmE2R1RjVkJtVi1uR2x6ZWNHRnFlQUtQcGh1ajRELTlOUnA5X2xsQmVtdThNZW1kUEE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「うるわしの宵の月」道枝駿佑＆安斉星来がイラストを再現 入プレはフィルム風しおり",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GUTVlTjVRVzJvMVRaWlFfOWg2R2VlaHBreVMzaFh5bmo1ZVYxd2s5WWxMeDRtWkRzZXdZa214VUpKdnVfejRpUXJKLW8?oc=5",
-   "pubDate": "2026-10-16T03:00:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "movie",
-    "stage"
-   ],
-   "works": [
-    "うるわしの宵の月"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GUTVlTjVRVzJvMVRaWlFfOWg2R2VlaHBreVMzaFh5bmo1ZVYxd2s5WWxMeDRtWkRzZXdZa214VUpKdnVfejRpUXJKLW8?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/f663f6bd99172c928ba41aa312f206e1b35f2abd?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「青春ブタ野郎」×「楽園追放」桜島麻衣の位置にガブリエルが立つビジュアル",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPRWN1VF9kVzhnSWFlWDNSRjVMUmk3SmluSkJaTE9xQnd5VkVKSl9wdzlGaWRoOXdUeUpUeXVURkZxY1VTM1hGc0xHSEE?oc=5",
-   "pubDate": "2026-10-16T03:00:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "青春ブタ野郎",
-    "楽園追放"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPRWN1VF9kVzhnSWFlWDNSRjVMUmk3SmluSkJaTE9xQnd5VkVKSl9wdzlGaWRoOXdUeUpUeXVURkZxY1VTM1hGc0xHSEE?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "「新テニスの王子様」幸村精市がanan表紙にソロで登場、“神の子”の威厳漂わせる",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZelJ6VllVYWY1bUVQSm1xVk15NmVXZEJFc2gxWXNhNnlObXFMMG5oVmRBT3U0enZVXzJmRUtzd1dGNDA2VWFaOEpqc3k?oc=5",
-   "pubDate": "2026-10-16T03:00:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [],
-   "works": [
-    "新テニスの王子様"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZelJ6VllVYWY1bUVQSm1xVk15NmVXZEJFc2gxWXNhNnlObXFMMG5oVmRBT3U0enZVXzJmRUtzd1dGNDA2VWFaOEpqc3k?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/1d6efee64f372060ef8a361c72c4fa8d23f891c9?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『名探偵プリキュア！』と『おジャ魔女どれみ』がコラボ！ 10.25は魔女見習いに仮装するハロウィン回",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KVG1hRFUwYm9ZZm5yM3BUYmRRVEE1ZndveFNzeERKNDRsTUQyVUFCUEhqbHFBc21XS3AzOG1MVlZvZ3RaaW42Qjd5MHAzYjA?oc=5",
-   "pubDate": "2026-10-16T03:00:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "クランクイン！",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "名探偵プリキュア!",
-    "おジャ魔女どれみ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KVG1hRFUwYm9ZZm5yM3BUYmRRVEE1ZndveFNzeERKNDRsTUQyVUFCUEhqbHFBc21XS3AzOG1MVlZvZ3RaaW42Qjd5MHAzYjA?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "クランクイン！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjb3dFdF9ia2QzcjJCTlJGeDRuc0dRTUFCZHpWUjYwSGZqMENsYl9LNk1pME1PVGF5WWtOYi1DcXhsNWx1dHRZMDAwYzRHWGFNSjJJQ2tpMFJGbUtkeENzLVpqV2F2ZUd5dXVWeTVwMVdlbkFnMGZnTEI2TlEtY3c?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「アニメがもっと楽しくなる！」オリジナル番組「今日もアニメで飯がうまいっ!!」5杯目を10月15日（木）に公開しました！ 今回は放送20周年を迎えた「涼宮ハルヒの憂鬱」でご飯をいただきます！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000789.000005738.html",
-   "pubDate": "2026-10-16T03:00:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000789.000005738.html"
-    }
-   ]
-  },
-  {
-   "title": "MAO＞アニメBD特典に高橋留美子描き下ろしイラスト 4コママンガ「おとやくん」も（MANTANWEB）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yRHlWZWNITDh5RXRXajlzdXlaMW4wRjRDSXZOcHNNTzFYblhLVGlMSkJCcmJ5U0Y3c1E0WVVLSE0yVmwtUVlEaWMyWWZabmstTXBLaWxnaDhyNE9IWFh4R3FvcTR2aGgwMTB3SW5ObHBpS014dkJ1OHBlRkQ1azQ?oc=5",
-   "pubDate": "2026-10-16T03:00:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "MANTANWEB（Yahoo!ニュース）",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "おとやくん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yRHlWZWNITDh5RXRXajlzdXlaMW4wRjRDSXZOcHNNTzFYblhLVGlMSkJCcmJ5U0Y3c1E0WVVLSE0yVmwtUVlEaWMyWWZabmstTXBLaWxnaDhyNE9IWFh4R3FvcTR2aGgwMTB3SW5ObHBpS014dkJ1OHBlRkQ1azQ?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "2027年TVアニメ化決定！「モンスターの肉を食っていたら王位に就いた件 7」をはじめGCN文庫新刊2作品、10月20日発売！",
-   "summary": "マイクロマガジン社（東京都中央区）は、GCN文庫にて以下の作品を2026年10月20日に発売いたします。 刊行タイトル一覧 『モンスターの肉を食っていたら王位に就いた件 ７』 『淫紋の魔導王 ２』",
-   "link": "https://prtimes.jp/main/html/rd/p/000002842.000048095.html",
-   "pubDate": "2026-10-16T03:00:00.000Z",
-   "firstSeen": "2026-10-16T03:17:57.326Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "new",
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000002842.000048095.html"
     }
    ]
   }
