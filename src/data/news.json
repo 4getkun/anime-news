@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-05T20:18:43.166Z",
+ "generatedAt": "2026-11-05T21:18:47.329Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5738,
+  "exact": 5739,
   "syndicated": 574,
-  "similar": 694,
-  "syndicatedTotal": 6444,
-  "syndicatedLeft": 1182
+  "similar": 696,
+  "syndicatedTotal": 6443,
+  "syndicatedLeft": 1183
  },
  "calendar": [
   {
@@ -1130,22 +1130,6 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
-   "work": "リラックマ",
-   "title": "アニメ「リラックマ」×ローソン！アワワネコ姿のお守り風アクキー＆ぷっくるシールが10月27日発売",
-   "link": "https://nijimen.kusuguru.co.jp/topics/641418",
-   "source": "にじめん",
-   "sources": 2,
-   "categories": [
-    "goods"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10-27",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
    "work": null,
    "title": "「チェンソーマン」×「クロックス」コラボが本日発売！デンジやポチタをフィーチャーした全4モデルが登場(GAME Watch)",
    "link": "https://news.yahoo.co.jp/articles/e656a7698773a9a4ce031c0856eabaff7ce901b0?source=rss",
@@ -1215,6 +1199,22 @@
    "sources": 1,
    "categories": [
     "cast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-10-27",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "リラックマ",
+   "title": "アニメ「リラックマ」×ローソン！アワワネコ姿のお守り風アクキー＆ぷっくるシールが10月27日発売",
+   "link": "https://nijimen.kusuguru.co.jp/topics/641418",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
+    "goods"
    ],
    "platforms": [],
    "spoiler": false
@@ -5114,6 +5114,23 @@
   {
    "date": "2026-11-11",
    "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "Apex Legends",
+   "title": "『Apex Legends』×『ゴジラ』コラボが11月11日開幕、放射熱線を放つ限定武器や歴代怪獣スキン10種が登場",
+   "link": "http://www.gamespark.jp/article/2026/11/06/174543.html",
+   "source": "Game*Spark",
+   "sources": 2,
+   "categories": [
+    "goods",
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-11",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "魔法使いの夜",
@@ -5495,10 +5512,10 @@
    "verb": "stream",
    "label": "配信",
    "work": "27歳の青春",
-   "title": "ハゴロモ、声優・近藤玲奈さんの写真集『27歳の青春』の電子版を11月16日より配信",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9yelFpcWJTampGeXgwRnI5ckh2SUwybFZTMUNncEhiMzR0OGE3MjVFaVV3cEpocEcydVJ0UXJuN0ltZ0lC?oc=5",
-   "source": "gamebiz【ゲームビズ】",
-   "sources": 2,
+   "title": "声優・近藤玲奈、最初で最後の写真集『27歳の青春』が電子版に！ 宮古島で撮影した全128ページを収録",
+   "link": "https://prtimes.jp/main/html/rd/p/000000236.000116565.html",
+   "source": "PR TIMES",
+   "sources": 5,
    "categories": [
     "cast"
    ],
@@ -8834,13 +8851,31 @@
    "precision": "month",
    "verb": "broadcast",
    "label": "放送",
-   "work": "僕の心のヤバイやつ",
-   "title": "『僕の心のヤバイやつ』第3期、2027年4月より放送 “恋人同士”の市川×山田のティザーPVも(リアルサウンド)",
-   "link": "https://news.yahoo.co.jp/articles/36fbc9f9f52229733dfb17d0204f19291194ba39?source=rss",
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "work": "エレキシード",
+   "title": "韓国発の漫画原作「エレキシード」27年4月放送開始 10月23日に日本版コミックスが発売(映画.com)",
+   "link": "https://news.yahoo.co.jp/articles/a3721ed442ede481f93ab9a3684f24488f163725?source=rss",
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
    "sources": 4,
    "categories": [
+    "broadcast",
+    "media"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-04",
+   "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "僕の心のヤバイやつ",
+   "title": "TVアニメ『僕の心のヤバイやつ』2027年4月より第3期放送開始！ティザービジュアル＆PV解禁",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BODIwZFNlcXJCUjBkS2FIdC1rUnhkdkg4MUc0eG9NbnozTDVrRGVGN1pQQUJYbEp0SVQyWlVXUmdmVWthYTl2YXJRbVdlYmvSAVRBVV95cUxPSkxaRy1KcjBRSDJUZS1YWElQUWo5XzRyVjVMMlNidXdCcEIxcTMwVTFYWktkQUsxNjNsR0VQN3ZJNTh0cDMxdEdZellVTmV5LXRJLXQ?oc=5",
+   "source": "エンタメ特化型情報メディア スパイス",
+   "sources": 3,
+   "categories": [
     "new",
+    "broadcast",
     "visual"
    ],
    "platforms": [],
@@ -8851,14 +8886,15 @@
    "precision": "month",
    "verb": "broadcast",
    "label": "放送",
-   "work": "エレキシード",
-   "title": "韓国発の漫画原作「エレキシード」27年4月放送開始 10月23日に日本版コミックスが発売(映画.com)",
-   "link": "https://news.yahoo.co.jp/articles/a3721ed442ede481f93ab9a3684f24488f163725?source=rss",
-   "source": "映画.com（Yahoo!ニュース エンタメ）",
-   "sources": 4,
+   "work": "僕ヤバ",
+   "title": "アニメ『僕ヤバ』第3期は2027年4月より放送開始。市川と山田の新たな関係性を予感させるティザービジュアルとPVが公開",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xUUFNd0FVeS1FMTFKQTFoUWZlWDZkMWhvYjUteEQ1b2lRcHpyN1I4ekJuTzY5NHk2Ri1ucmlhR2M3OExUdmVGUkdLbHBFR3IxN3hlYzVnSQ?oc=5",
+   "source": "ファミ通",
+   "sources": 3,
    "categories": [
+    "new",
     "broadcast",
-    "media"
+    "visual"
    ],
    "platforms": [],
    "spoiler": false
@@ -8964,24 +9000,6 @@
     "visual",
     "event",
     "movie"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-04",
-   "precision": "month",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": "僕ヤバ",
-   "title": "アニメ『僕ヤバ』第3期は2027年4月より放送開始。市川と山田の新たな関係性を予感させるティザービジュアルとPVが公開",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xUUFNd0FVeS1FMTFKQTFoUWZlWDZkMWhvYjUteEQ1b2lRcHpyN1I4ekJuTzY5NHk2Ri1ucmlhR2M3OExUdmVGUkdLbHBFR3IxN3hlYzVnSQ?oc=5",
-   "source": "ファミ通",
-   "sources": 1,
-   "categories": [
-    "new",
-    "broadcast",
-    "visual"
    ],
    "platforms": [],
    "spoiler": false
@@ -9457,8 +9475,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5448,
-   "accepted": 5176
+   "archived": 5450,
+   "accepted": 5178
   },
   {
    "id": "gnews-tvanime",
@@ -9468,8 +9486,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1181,
-   "accepted": 1120
+   "archived": 1179,
+   "accepted": 1118
   },
   {
    "id": "gnews-movie",
@@ -9478,7 +9496,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 90,
+   "fetched": 89,
    "archived": 850,
    "accepted": 750
   },
@@ -9491,7 +9509,7 @@
    "error": null,
    "fetched": 100,
    "archived": 2677,
-   "accepted": 2429
+   "accepted": 2428
   },
   {
    "id": "natalie-eiga",
@@ -9534,7 +9552,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1256,
+   "archived": 1257,
    "accepted": 296
   },
   {
@@ -9545,8 +9563,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1283,
-   "accepted": 101
+   "archived": 1284,
+   "accepted": 102
   },
   {
    "id": "otakuma",
@@ -9578,8 +9596,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28558,
-   "accepted": 535
+   "archived": 28617,
+   "accepted": 538
   },
   {
    "id": "ann",
@@ -9616,6 +9634,175 @@
   }
  ],
  "items": [
+  {
+   "title": "TVアニメ「シュタインズ・ゲート」15周年を記念した新商品が発売決定！",
+   "summary": "株式会社トキオ・ゲッツ（本社：東京都新宿区、代表取締役：小笠原 亨 以下「当社」）は、今年でTVアニメ15周年を迎える「シュタインズ・ゲート」の新規描き起こしイラストを使用した新商品を発売いたします。 ...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000186.000007390.html",
+   "pubDate": "2026-11-05T21:10:02.000Z",
+   "firstSeen": "2026-11-05T21:17:59.656Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "works": [
+    "シュタインズ・ゲート"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000186.000007390.html"
+    }
+   ]
+  },
+  {
+   "title": "『魔女の宅急便』―宮崎駿が “フェミニズム的視点” で繊細に描いた思春期の少女の成長と新しい女性像",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJcVpqVVRQek94eFBGTWRLVnV3QlhrNnctMW51bXMtZzNnVHNRblFVVnRwRkVCcmNsQXRYS3M2TGh4ckRtUXVUckEwTk5DenNIV1dVVg?oc=5",
+   "pubDate": "2026-11-05T21:00:00.000Z",
+   "firstSeen": "2026-11-05T21:17:59.656Z",
+   "image": null,
+   "source": "Nippon.com",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "魔女の宅急便"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Nippon.com",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJcVpqVVRQek94eFBGTWRLVnV3QlhrNnctMW51bXMtZzNnVHNRblFVVnRwRkVCcmNsQXRYS3M2TGh4ckRtUXVUckEwTk5DenNIV1dVVg?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「本物と並ぶと思ってたより似てる！」レイザーラモンRG、『VIVANT』チンギス役俳優とのソックリ投稿にネット衝撃(クランクイン！)",
+   "summary": "お笑い芸人・レイザーラモンRGが、2日までに自身のInstagramを更新。ドラマ『VIVANT』（TBS系）のチンギス役で知られるバルサラハガバ・バトボルドとの2ショットを披露し、ファンを湧かせた。",
+   "link": "https://news.yahoo.co.jp/articles/d791a33704be52e4d3712e6e9b7d78d0fb9a4c6a?source=rss",
+   "pubDate": "2026-11-05T21:00:00.000Z",
+   "firstSeen": "2026-11-05T21:17:59.656Z",
+   "image": null,
+   "source": "クランクイン！（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "VIVANT"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d791a33704be52e4d3712e6e9b7d78d0fb9a4c6a?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Nintendo Switch 2 Sells Over 26 Million Units",
+   "summary": "Mario Kart World, Donkey Kong Bananza, Pokémon Legends: Z-A, Pokémon Pokopia top Switch 2 sales",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-05/nintendo-switch-2-sells-over-26-million-units/.243567",
+   "pubDate": "2026-11-05T21:00:00.000Z",
+   "firstSeen": "2026-11-05T21:17:59.656Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-05/nintendo-switch-2-sells-over-26-million-units/.243567"
+    }
+   ]
+  },
+  {
+   "title": "『Apex Legends』×『ゴジラ』コラボが11月11日開幕、放射熱線を放つ限定武器や歴代怪獣スキン10種が登場",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/06/174543.html",
+   "pubDate": "2026-11-05T20:58:26.000Z",
+   "firstSeen": "2026-11-05T21:17:59.656Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods",
+    "event"
+   ],
+   "works": [
+    "Apex Legends",
+    "ゴジラ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/06/174543.html"
+    },
+    {
+     "name": "Game Spark（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/64daea85a69df94f6e94d6f8db8379701f795896?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Bridgerton Meets Game of Thrones in New Disney+ Fantasy Epic Based on 2.97 Billion-View Hit",
+   "summary": "There has never been a better time than now for fans to revisit the breakout hit that inspired Disney's latest romance streaming sensation.",
+   "link": "https://www.cbr.com/remarried-empress-webtoon-new-spinoff-release/",
+   "pubDate": "2026-11-05T20:19:28.000Z",
+   "firstSeen": "2026-11-05T21:17:59.656Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/the-remarried-empress-header.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "broadcast",
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/remarried-empress-webtoon-new-spinoff-release/"
+    }
+   ]
+  },
   {
    "title": "映画『リバイアサン』櫻井海音、作間龍斗、正源司陽子ら新キャスト36名一挙解禁(ぴあ)",
    "summary": "2027年2月11日(木・祝)に公開される映画『リバイアサン』の新キャスト36名が一挙解禁され、併せて最新映像が公開された。【動画】『リバイアサン』38名の生徒たち本作は、黒井白による同名サバイバルス",
@@ -10631,14 +10818,15 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 14,
+   "score": 22,
    "categories": [
     "new",
     "broadcast",
     "visual"
    ],
    "works": [
-    "僕ヤバ"
+    "僕ヤバ",
+    "僕の心のヤバイやつ"
    ],
    "spoiler": false,
    "sources": [
@@ -10647,6 +10835,18 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xUUFNd0FVeS1FMTFKQTFoUWZlWDZkMWhvYjUteEQ1b2lRcHpyN1I4ekJuTzY5NHk2Ri1ucmlhR2M3OExUdmVGUkdLbHBFR3IxN3hlYzVnSQ?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CVEtFQVpYTzJWNFBoTEZtWjRZUGhwSGE0VGJGMXIxZ2VMZXA3eFdMYkJTY2RHYnhtMG0xZ0VjUUNqOGJwYTEwc0Y2ZG03SE9nZTlkX051VQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "PASH! PLUS",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzcEdNRUlmTExOYXlZREE3cVBTR2JCVVdFdi1pSndZVGEtUG05eDBVOF9zOEItS3RwM3FwZG41VzhaOWFzU3RKZHF4TmdRUQ?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -10682,36 +10882,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/f0a4324ed7f657a0a17eba50723f4da031904328?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『僕の心のヤバイやつ』3期2027年4月放送決定。市川と山田の新たな関係を予感させるティザービジュアル＆PVに胸がドキドキ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CVEtFQVpYTzJWNFBoTEZtWjRZUGhwSGE0VGJGMXIxZ2VMZXA3eFdMYkJTY2RHYnhtMG0xZ0VjUUNqOGJwYTEwc0Y2ZG03SE9nZTlkX051VQ?oc=5",
-   "pubDate": "2026-11-05T15:00:00.000Z",
-   "firstSeen": "2026-11-05T15:17:54.365Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "broadcast",
-    "visual"
-   ],
-   "works": [
-    "僕の心のヤバイやつ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CVEtFQVpYTzJWNFBoTEZtWjRZUGhwSGE0VGJGMXIxZ2VMZXA3eFdMYkJTY2RHYnhtMG0xZ0VjUUNqOGJwYTEwc0Y2ZG03SE9nZTlkX051VQ?oc=5",
-     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -10908,6 +11078,31 @@
      "name": "Mantan Web",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYVWQwc3V3Z0VuMndLajU4eDg5OWdqMjUyOWpUbXVRRkMxVlZuMGpYWm5EaDk5NTBFazNJZmp6VEQzRklyaVY1dlhqcmxNZ0gySGZDdTBET0gyOUJ2V2xLcHRjMFlMOUtsZjFV?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "遥香先生はアニメのことも、同期のことも、ひよこのことも大好きです♡♡♡",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iRmlYSmxjekEyLUh6b1ZUM1NrWlFCZWpkWkl2dE8wM0ZLUkFfdkM0M2drRHdPUERreHV4c2txVmRSRm95Tl9sbFNtWTZRZlh4c2hhN1ozSQ?oc=5",
+   "pubDate": "2026-11-05T14:36:12.000Z",
+   "firstSeen": "2026-11-05T21:17:59.656Z",
+   "image": null,
+   "source": "TOKYO FM",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TOKYO FM",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iRmlYSmxjekEyLUh6b1ZUM1NrWlFCZWpkWkl2dE8wM0ZLUkFfdkM0M2drRHdPUERreHV4c2txVmRSRm95Tl9sbFNtWTZRZlh4c2hhN1ozSQ?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
@@ -15082,7 +15277,7 @@
    "firstSeen": "2026-11-05T09:17:57.840Z",
    "image": null,
    "source": "ナタリー",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -15097,9 +15292,9 @@
    "sources": [
     {
      "name": "ナタリー",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FYWNNWkRxcmF3U0Jia1A2TGhoNERkcnRub2xnc184YWZfcDhIRUVnLUNNSEppNHlBbXV3cm5PVzRQX0UxVUR3U1A0UEg?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -19511,15 +19706,15 @@
   },
   {
    "title": "声優・近藤玲奈、最初で最後の写真集『27歳の青春』が電子版に！ 宮古島で撮影した全128ページを収録",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWWhsWXVGYkFBWDd6Ql8wNVJINVNyWDhjSWFCSUY0RjN6MVppUWtHQmJyNjMzblR2THA3bTBZTlp5ME9tanl5ZlJsRVBFZ3ByMm1MOU95Z3ZRZERRTFJOSEVpQnRTX1M5VHc?oc=5",
+   "summary": "株式会社ハゴロモ（代表取締役・橘壮太郎）は、声優・近藤玲奈の写真集『27歳の青春』の電子版を、2026年11月16日より配信いたします。電子版には、2026年10月3日（土）に発売した紙版と同じ内容を収録。全編を宮...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000236.000116565.html",
    "pubDate": "2026-11-05T03:01:20.000Z",
    "firstSeen": "2026-11-05T03:17:55.607Z",
    "image": null,
    "source": "PR TIMES",
-   "sourceId": "gnews-seiyu",
+   "sourceId": "prtimes",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "press",
    "lang": "ja",
    "score": 8,
    "categories": [
@@ -19532,9 +19727,8 @@
    "sources": [
     {
      "name": "PR TIMES",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWWhsWXVGYkFBWDd6Ql8wNVJINVNyWDhjSWFCSUY0RjN6MVppUWtHQmJyNjMzblR2THA3bTBZTlp5ME9tanl5ZlJsRVBFZ3ByMm1MOU95Z3ZRZERRTFJOSEVpQnRTX1M5VHc?oc=5",
-     "via": "Googleニュース「声優」"
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000236.000116565.html"
     },
     {
      "name": "Excite エキサイト",
@@ -19613,15 +19807,15 @@
   },
   {
    "title": "TVアニメ『氷の城壁』の新商品が発売決定！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFYllrc0U0SjNlR3BSZ0pHNHZsUGJnLWEtSmpKN3NrTFYyZjZjS1FPaEVHb1pYeXpSbHRrTEdYUnRvckxkZ0FhYU1fYmVGU1o2ejFkeFlNaS03NFU5SkZnU0xGSVJ6TEJsT2c?oc=5",
+   "summary": "株式会社トキオ・ゲッツ（本社：東京都新宿区、代表取締役：小笠原 亨 以下「当社」）は、TVアニメ『氷の城壁』のアニメ場面写などを使用した新商品を発売いたします。 先行予約期間は【2026年11月5日（木）12...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000182.000007390.html",
    "pubDate": "2026-11-05T03:00:02.000Z",
    "firstSeen": "2026-11-05T03:17:55.607Z",
    "image": null,
    "source": "PR TIMES",
-   "sourceId": "gnews-anime",
+   "sourceId": "prtimes",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "press",
    "lang": "ja",
    "score": 16,
    "categories": [],
@@ -19632,9 +19826,8 @@
    "sources": [
     {
      "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFYllrc0U0SjNlR3BSZ0pHNHZsUGJnLWEtSmpKN3NrTFYyZjZjS1FPaEVHb1pYeXpSbHRrTEdYUnRvckxkZ0FhYU1fYmVGU1o2ejFkeFlNaS03NFU5SkZnU0xGSVJ6TEJsT2c?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000182.000007390.html"
     },
     {
      "name": "オリコンニュース",
@@ -192653,169 +192846,6 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yZlBkbThjOVJKdk1pYS02T0tWcHUyamdKbnJsSEVKcVRKUkl0NFZJdmNBam1RNXhCLUF4T0tTVnNBU0dvNE1hVXR3RVhtRE5PRUFLTDEtMkZZUQ?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「暁のヨナ」 あらすじ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tY3B4SmZoMElObmE5ZVpOczNvczE0UVZZMV8zNjA3VjYwRExSaGJFYjRKOEZadWFFd29fVTYtRHpCZjZQOXkwdWhpMmdjbHVCcjNYeA?oc=5",
-   "pubDate": "2026-10-20T09:00:00.000Z",
-   "firstSeen": "2026-10-20T12:17:55.525Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "暁のヨナ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tY3B4SmZoMElObmE5ZVpOczNvczE0UVZZMV8zNjA3VjYwRExSaGJFYjRKOEZadWFFd29fVTYtRHpCZjZQOXkwdWhpMmdjbHVCcjNYeA?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "劇場版「虎に翼」ノベライズが発売決定、吉川トリコが書き下ろし 吉田恵里香が監修",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EckgyVWN4UDRIeERIOHlQbDZYT2ViVDlHVnQxc25sdWdxdm1hYjZtVEhBcE54NUU0aGF5clpUOEM5bzVXMGlnVWl1QQ?oc=5",
-   "pubDate": "2026-10-20T09:00:00.000Z",
-   "firstSeen": "2026-10-20T15:17:58.081Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "虎に翼"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EckgyVWN4UDRIeERIOHlQbDZYT2ViVDlHVnQxc25sdWdxdm1hYjZtVEhBcE54NUU0aGF5clpUOEM5bzVXMGlnVWl1QQ?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "先行発売していたTVアニメ『魔法少女にあこがれて』の新作グッズが、10月16日より通販サイト「eeo Store online」にてお取り扱い開始！ - eeo Media（イーオメディア）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13R1lxNUpGRlF4ZHd0U2pjSzdnZUNET0lWdlU0Z0d3dWR0QXE0ZEwtcG1pSE9jTlVHTVk2VWhvMUdzZXFjdjUwbE1TMU5qdUpBRVpzMA?oc=5",
-   "pubDate": "2026-10-20T08:51:10.000Z",
-   "firstSeen": "2026-10-20T09:17:55.195Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "魔法少女にあこがれて"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13R1lxNUpGRlF4ZHd0U2pjSzdnZUNET0lWdlU0Z0d3dWR0QXE0ZEwtcG1pSE9jTlVHTVk2VWhvMUdzZXFjdjUwbE1TMU5qdUpBRVpzMA?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『紫禁・御猫房』第6話のあらすじ公開！ ソウビは、苦戦を強いられながらもウビョウを追い詰めるが…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRDFHR1ZJdWVoemVOOHpId1NCUzI3TzQydG5IZS1YWGFNRTJGR3ZZaERuNFE5UF9RbF9iZW80endUZWQtamdmNVNocEV3ZVZWSFZ1RA?oc=5",
-   "pubDate": "2026-10-20T08:51:10.000Z",
-   "firstSeen": "2026-10-20T09:17:55.195Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "紫禁・御猫房"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRDFHR1ZJdWVoemVOOHpId1NCUzI3TzQydG5IZS1YWGFNRTJGR3ZZaERuNFE5UF9RbF9iZW80endUZWQtamdmNVNocEV3ZVZWSFZ1RA?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "ローソンでアニメ「リラックマ」のグッズを10月27日に新発売 リラックマたちのぷっくるシールなどを販売",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MNUdHa08zMmIxYktNbk04RHl3MjVCYTRhTnRNeGhPNW5YSnFtRWh6bnJiV3RvMDdwUEhLYkNjVXU4djJ6WHl6S2x5UTFFdFg1dGdBQU10V3k5RXJ3MnU4LUZWU0FkZw?oc=5",
-   "pubDate": "2026-10-20T08:50:33.000Z",
-   "firstSeen": "2026-10-20T09:17:55.195Z",
-   "image": null,
-   "source": "GAME Watch",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "リラックマ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MNUdHa08zMmIxYktNbk04RHl3MjVCYTRhTnRNeGhPNW5YSnFtRWh6bnJiV3RvMDdwUEhLYkNjVXU4djJ6WHl6S2x5UTFFdFg1dGdBQU10V3k5RXJ3MnU4LUZWU0FkZw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "祝！ 石田彰さんお誕生日「演じた中で一番好きなキャラクターは？」〆切は10月27日",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/20/104018.html",
-   "pubDate": "2026-10-20T08:50:02.000Z",
-   "firstSeen": "2026-10-20T09:17:55.195Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/20/104018.html"
     }
    ]
   }
