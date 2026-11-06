@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-06T06:18:47.858Z",
+ "generatedAt": "2026-11-06T07:18:25.729Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5735,
-  "syndicated": 575,
-  "similar": 691,
-  "syndicatedTotal": 6447,
-  "syndicatedLeft": 1185
+  "exact": 5728,
+  "syndicated": 574,
+  "similar": 689,
+  "syndicatedTotal": 6444,
+  "syndicatedLeft": 1189
  },
  "calendar": [
   {
@@ -4236,6 +4236,20 @@
   {
    "date": "2026-11-06",
    "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "薬屋のひとりごと",
+   "title": "本日放送の『薬屋のひとりごと』放送時間変更へ 壬氏の“頬の傷”激変のワケも判明か？",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xeGswRGxKd0JFc1ZiNjNPVDBYYkowanZ2UXg2UkFqWEZnTFVJR1JCWldSa0FCc09lbEM3MFFFbkw2QXNsRW1PTGt2QkNGRDByUUx2YkxMTzFjZHgyRlBzRndQWDFtbkwxSU5aM29R?oc=5",
+   "source": "au Webポータル",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-06",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": null,
@@ -4549,6 +4563,20 @@
     "broadcast",
     "goods"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-07",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": null,
+   "title": "「ガンダムエース25周年記念」アニメイト全国フェア＆巡回オンリーショップが明日11月7日（土）～開催！ サイン会・安彦良和「機動戦士ガンダム THE ORIGIN」ほか有償特典付き全巻セット一挙公開",
+   "link": "https://prtimes.jp/main/html/rd/p/000020542.000007006.html",
+   "source": "PR TIMES",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -6365,11 +6393,16 @@
    "verb": "broadcast",
    "label": "放送",
    "work": "スピリットサークル",
-   "title": "TVアニメ『スピリットサークル』12月放送スタート 水上悟志が描く壮大な輪廻転生ファンタジー - 1ページ目 - アニメ - ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iTWN1dkk3NXhSektiNk5pOTZhRk9oS0JEeHpDT3BWS2VqRnBEX1gtLXE1SkQ0LU83MXRkalY4a3d0NGhJVnphZlE0WDM1Zk0?oc=5",
-   "source": "クランクイン！",
-   "sources": 14,
-   "categories": [],
+   "title": "「スピリットサークル」TVアニメ化&12月より放送！4月に逝去・佐藤竜雄監督、最後の監督作品に 水上悟志が描く輪廻転生ファンタジー",
+   "link": "https://animeanime.jp/article/2026/11/06/104532.html",
+   "source": "アニメ！アニメ！",
+   "sources": 16,
+   "categories": [
+    "new",
+    "cast",
+    "obituary",
+    "visual"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -8372,20 +8405,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-02",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "「ドラゴンボール 超戦士シールウエハース超 破壊の衝動」が2027年2月に発売決定！ シリーズ第18弾ではエンボス箔押しが超豪華なウルトラゴッドレア極が登場♪",
-   "link": "https://animeanime.jp/article/2026/10/21/104033.html",
-   "source": "アニメ！アニメ！",
-   "sources": 1,
-   "categories": [],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2027-02-03",
    "precision": "day",
    "verb": "release",
@@ -9406,8 +9425,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 942,
-   "accepted": 937
+   "archived": 936,
+   "accepted": 931
   },
   {
    "id": "natalie-comic",
@@ -9461,8 +9480,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 732,
-   "accepted": 324
+   "archived": 733,
+   "accepted": 323
   },
   {
    "id": "gnews-anime",
@@ -9472,8 +9491,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5425,
-   "accepted": 5144
+   "archived": 5418,
+   "accepted": 5138
   },
   {
    "id": "gnews-tvanime",
@@ -9483,7 +9502,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1178,
+   "archived": 1177,
    "accepted": 1118
   },
   {
@@ -9493,9 +9512,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 83,
-   "archived": 851,
-   "accepted": 754
+   "fetched": 82,
+   "archived": 848,
+   "accepted": 751
   },
   {
    "id": "gnews-seiyu",
@@ -9505,8 +9524,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2692,
-   "accepted": 2444
+   "archived": 2688,
+   "accepted": 2439
   },
   {
    "id": "natalie-eiga",
@@ -9516,7 +9535,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 752,
+   "archived": 753,
    "accepted": 145
   },
   {
@@ -9538,8 +9557,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1246,
-   "accepted": 100
+   "archived": 1248,
+   "accepted": 101
   },
   {
    "id": "denfaminico",
@@ -9549,8 +9568,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1260,
-   "accepted": 301
+   "archived": 1254,
+   "accepted": 297
   },
   {
    "id": "gamespark",
@@ -9560,7 +9579,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1282,
+   "archived": 1283,
    "accepted": 105
   },
   {
@@ -9583,7 +9602,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29623,
-   "accepted": 3303
+   "accepted": 3305
   },
   {
    "id": "prtimes",
@@ -9593,7 +9612,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28485,
+   "archived": 28512,
    "accepted": 537
   },
   {
@@ -9615,8 +9634,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 92,
-   "accepted": 92
+   "archived": 91,
+   "accepted": 91
   },
   {
    "id": "cbr-anime",
@@ -9631,6 +9650,457 @@
   }
  ],
  "items": [
+  {
+   "title": "「北斗の拳」原哲夫先生が『ポケカ』のマキシを描く！新パック収録の「千手の残像拳！」なSARイラストが迫力満点(インサイド)",
+   "summary": "株式会社ポケモンは、『ポケモンカードゲーム MEGA』の新拡張パック「ハドウシーカー」に収録される、原哲夫先生が描き下ろした「マキシの熱血」のSARを公開しました。【画像】原哲夫先生が描くマキシ！過去",
+   "link": "https://news.yahoo.co.jp/articles/35bae2d591194d215570509f2d4ec4cd3b4147e6?source=rss",
+   "pubDate": "2026-11-06T07:15:03.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "インサイド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "game"
+   ],
+   "works": [
+    "ポケカ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/35bae2d591194d215570509f2d4ec4cd3b4147e6?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「Dr.STONE」コラボでAI技術を活用した非許諾動画を誤配信―「ピザーラ」運営会社が謝罪(アニメ！アニメ！)",
+   "summary": "TVアニメ『Dr.STONE』とのコラボレーションに関する広告配信について、宅配ピザ「PIZZALA（ピザーラ）」を運営するフォーシーズが謝罪した。2026年11月6日、公式サイトや公式X（旧Twit",
+   "link": "https://news.yahoo.co.jp/articles/cd149e725f9b5b2db2999193e6c0e70afc81901a?source=rss",
+   "pubDate": "2026-11-06T07:15:03.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "goods",
+    "trouble"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/cd149e725f9b5b2db2999193e6c0e70afc81901a?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ジェニー、NETFLIXアニメ『リリスとシンデレラのおとぎの王国』のOSTに参加 「ご一緒できて幸せ」(朝鮮日報日本語版)",
+   "summary": "【NEWSIS】K-POPを代表する女性アイドルグループBLACKPINKのメンバー、ジェニーが動画配信サービス「NETFLIX」アニメーション映画『リリスとシンデレラのおとぎの王国』のオリジナル・サ",
+   "link": "https://news.yahoo.co.jp/articles/a7efa12812b60394cafe25a3330ab8870baaf2ba?source=rss",
+   "pubDate": "2026-11-06T07:02:18.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "朝鮮日報日本語版（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "broadcast",
+    "movie"
+   ],
+   "works": [
+    "リリスとシンデレラのおとぎの王国"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "朝鮮日報日本語版（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/a7efa12812b60394cafe25a3330ab8870baaf2ba?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「傷口と包帯」杉田智和のナレーション入りPV公開、盆子原康＆高梨謙吾の出演も決定(コミックナタリー)",
+   "summary": "七井海星原作によるTVアニメ「傷口と包帯」の新たなキャスト情報と、キービジュアル、本PVが公開された。【動画】杉田智和のナレーション入りPV新たに発表されたキャストは3人。切谷の部下・瓦森正太役を盆子",
+   "link": "https://news.yahoo.co.jp/articles/984633e336fb434070f8f4bad102c278c3c73934?source=rss",
+   "pubDate": "2026-11-06T07:00:11.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 19,
+   "categories": [
+    "visual",
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/984633e336fb434070f8f4bad102c278c3c73934?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「スピリットサークル」TVアニメ化&12月より放送！4月に逝去・佐藤竜雄監督、最後の監督作品に 水上悟志が描く輪廻転生ファンタジー",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/06/104532.html",
+   "pubDate": "2026-11-06T07:00:03.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "new",
+    "cast",
+    "obituary",
+    "visual"
+   ],
+   "works": [
+    "スピリットサークル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/06/104532.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/bab130402fbe9befc9f0ee83b8405f3993beb48f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ウマ娘 シングレ」カサマツトレセン学園の食堂での思い出が立体化！山盛りご飯を頬張る「かんたんオグリ」フィギュアが予約受付開始",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/06/190457.html",
+   "pubDate": "2026-11-06T07:00:03.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/06/190457.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/773438f3e746eb7ed6003b0439e23b0de03efb63?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "文学に挫折した少年が俳句少女と出会う、青春ボーイミーツガール「青麦と時鳥」1巻",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mUEJCYjBKWTg0bUpvNnBjVlFhMWhJLXRmRnFLYXhpOW5UcHhYOWRiWHhFUXVaU1c1c19CUlFyLWl1Z2syVEg3eDlQV0w?oc=5",
+   "pubDate": "2026-11-06T06:41:00.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "青麦と時鳥"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mUEJCYjBKWTg0bUpvNnBjVlFhMWhJLXRmRnFLYXhpOW5UcHhYOWRiWHhFUXVaU1c1c19CUlFyLWl1Z2syVEg3eDlQV0w?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "『スティール・ボール・ラン ジョジョの奇妙な冒険』×コンビニエンスウェアが初コラボ！ジョニィ＆ジャイロのラインソックスや鉄球型タオルインポーチが11月6日予約開始",
+   "summary": "『スティール・ボール・ラン』×コンビニエンスウェア コラボアイテム コンビニエンスウェアが日本のアニメとコラボするのは、今回が初めて。その最初の作品が「ジョジョ」です。 ラインアップは靴下、ハンカチ、ポーチと、どれも普段から持ち歩きやすいア…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/650257",
+   "pubDate": "2026-11-06T06:36:48.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/c373c0a117e74c3780db413a35d0e930.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "スティール・ボール・ラン ジョジョの奇妙な冒険"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/650257"
+    }
+   ]
+  },
+  {
+   "title": "小さなクリーチャーが，大陸まで食べ尽くす存在に成長する。「たまごっち」に着想を得た育成要素と「塊魂」風のゲームプレイを融合させた「In Full Bloom」が発売中",
+   "summary": "obleakgamesが手掛けるPC向け新作「InFullBloom」がSteamで発売中だ。本作は，「たまごっち」に着想を得た育成要素と「塊魂」風のゲームプレイを融合させた作品となっている。プレイヤーは小さなクリーチャーに餌を与え，やがて大陸まで食べ尽くす存在へと成長させていく…",
+   "link": "https://www.4gamer.net/games/056/G105608/20261106020/",
+   "pubDate": "2026-11-06T06:35:15.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/056/G105608/20261106020/"
+    }
+   ]
+  },
+  {
+   "title": "「ホリミヤ」ショップ、連載終了後に描かれたイラストのアクリル色紙が新登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TcTZPeV9OQ1lsMGpPazNGUEl3eEloaldPdVRDM1lhaVNEeDVIYU03VmJQTmVlWVVRUmxzV25sQUNDbV92MDRiVVJQMzI?oc=5",
+   "pubDate": "2026-11-06T06:35:00.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [
+    "ホリミヤ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TcTZPeV9OQ1lsMGpPazNGUEl3eEloaldPdVRDM1lhaVNEeDVIYU03VmJQTmVlWVVRUmxzV25sQUNDbV92MDRiVVJQMzI?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "まるで本物のロリポップゼリー！「サンリオキャラクターズ」クリアカラーがポイントのチャームに、「ハローキティ」「マイメロディ」など全7種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/06/190456.html",
+   "pubDate": "2026-11-06T06:30:02.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/06/190456.html"
+    }
+   ]
+  },
+  {
+   "title": "【11月8日(日)25時05分～放送！】TVアニメ『人付き合いが苦手な未亡人の雪女さんと呪いの指輪』第5話 あらすじ・先行カット公開！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpTWl1WFl2dkdrSGtpVTZRQk55Q3pMdno0SnpDeUFveXoySl8tNkFlYVU0RUdzZ21acjMzXzA3eTBMYnFvZTdzdUlVbkFYNTBQSHlFQkZSbXJlWWdqd0E?oc=5",
+   "pubDate": "2026-11-06T06:23:03.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "チャリティニュース",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [],
+   "works": [
+    "人付き合いが苦手な未亡人の雪女さんと呪いの指輪"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "チャリティニュース",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpTWl1WFl2dkdrSGtpVTZRQk55Q3pMdno0SnpDeUFveXoySl8tNkFlYVU0RUdzZ21acjMzXzA3eTBMYnFvZTdzdUlVbkFYNTBQSHlFQkZSbXJlWWdqd0E?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
+   "title": "本日放送の『薬屋のひとりごと』放送時間変更へ 壬氏の“頬の傷”激変のワケも判明か？",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xeGswRGxKd0JFc1ZiNjNPVDBYYkowanZ2UXg2UkFqWEZnTFVJR1JCWldSa0FCc09lbEM3MFFFbkw2QXNsRW1PTGt2QkNGRDByUUx2YkxMTzFjZHgyRlBzRndQWDFtbkwxSU5aM29R?oc=5",
+   "pubDate": "2026-11-06T06:20:00.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "au Webポータル",
+   "sourceId": "gnews-tvanime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "薬屋のひとりごと"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xeGswRGxKd0JFc1ZiNjNPVDBYYkowanZ2UXg2UkFqWEZnTFVJR1JCWldSa0FCc09lbEM3MFFFbkw2QXNsRW1PTGt2QkNGRDByUUx2YkxMTzFjZHgyRlBzRndQWDFtbkwxSU5aM29R?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ガンダムエース25周年記念」アニメイト全国フェア＆巡回オンリーショップが明日11月7日（土）～開催！ サイン会・安彦良和「機動戦士ガンダム THE ORIGIN」ほか有償特典付き全巻セット一挙公開",
+   "summary": "このたび、株式会社KADOKAWA（本社：東京都千代田区、取締役 代表執行役社長 CEO：夏野剛）では2026年11月7日（土）から、雑誌「ガンダムエース」の創刊25周年を記念した「ガンダムエース25周年記念フェア」を...",
+   "link": "https://prtimes.jp/main/html/rd/p/000020542.000007006.html",
+   "pubDate": "2026-11-06T06:15:28.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000020542.000007006.html"
+    }
+   ]
+  },
+  {
+   "title": "「灰宮先輩」制服からストリートまで、いろんな姿の先輩収めた小冊子付き特装版",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10YmJHZlRaakJLRHBuM2FxcU5yeUotQ1hzRWMwTWE3bHlVUHhQMGZLTWowNHVHR2JjcWNyMUhFakt5NEZQLTEwekg2Rlk?oc=5",
+   "pubDate": "2026-11-06T06:15:00.000Z",
+   "firstSeen": "2026-11-06T06:18:02.628Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "灰宮先輩"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10YmJHZlRaakJLRHBuM2FxcU5yeUotQ1hzRWMwTWE3bHlVUHhQMGZLTWowNHVHR2JjcWNyMUhFakt5NEZQLTEwekg2Rlk?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0517227ffe5ec370f8c22f75eaa5960a0e5c18d8?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "He Does a Body Good Webtoon Gets AnimeFesta Anime in January 2027",
+   "summary": "Atsushi Hizashi, Ion Momoyama, Towa Miyako, Milk Amai star in anime",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-06/he-does-a-body-good-webtoon-gets-animefesta-anime-in-january-2027/.243585",
+   "pubDate": "2026-11-06T06:13:06.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-06/he-does-a-body-good-webtoon-gets-animefesta-anime-in-january-2027/.243585"
+    }
+   ]
+  },
   {
    "title": "道枝駿佑×出口夏希『リバイアサン』生徒役36名発表。櫻井海音、作間龍斗、正源司陽子、UTAら(CINRA)",
    "summary": "2027年2月11日公開の映画『リバイアサン』の新キャストが発表された。原作は、AC Mediaより2022年に刊行された黒井白のサバイバルスリラー『リバイアサン』。難破した宇宙船に取り残された38名",
@@ -9751,6 +10221,32 @@
    ]
   },
   {
+   "title": "Booty Royale: Never Go Down Without a Fight! Manga Gets TV Anime in January",
+   "summary": "Hisako Tōjō, Nao Shiraki, Natsumi Murakami, Hikaru Iida star in risque martial arts anime",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-06/booty-royale-never-go-down-without-a-fight-manga-gets-tv-anime-in-january/.243584",
+   "pubDate": "2026-11-06T05:41:13.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 12,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-06/booty-royale-never-go-down-without-a-fight-manga-gets-tv-anime-in-january/.243584"
+    }
+   ]
+  },
+  {
    "title": "Vシネクスト公開記念！「劇場版 仮面ライダーカブト」からコーカサス、ヘラクス、ケタロスが立体化",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/11/06/190453.html",
@@ -9777,7 +10273,7 @@
    ]
   },
   {
-   "title": "アニメ『終わりのセラフ』『血界戦線』『双星の陰陽師』がABEMAで全話無料配信。放送終了後も1週間、無料視聴できる",
+   "title": "『シュガーソングとビターステップ』がEDテーマでおなじみ、アニメ『血界戦線』などジャンプスクエア作品のアニメ化3タイトルがABEMAで全話無料配信",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DY1p4Q2pzN1FJVmxpdmZ0c3F5OWJsWDhTS0xLTHIzVnhmXzk1WkRpZ0NKNjBaWXFDd2Nrd1ZKdVA1bjIwWjRWOXRZWXFxWVVfTkJ1OXRnSQ?oc=5",
    "pubDate": "2026-11-06T05:40:00.000Z",
@@ -9788,14 +10284,15 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 20,
    "categories": [
-    "broadcast"
+    "new",
+    "broadcast",
+    "music"
    ],
    "works": [
-    "終わりのセラフ",
-    "血界戦線",
-    "双星の陰陽師"
+    "シュガーソングとビターステップ",
+    "血界戦線"
    ],
    "spoiler": false,
    "sources": [
@@ -9804,6 +10301,30 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DY1p4Q2pzN1FJVmxpdmZ0c3F5OWJsWDhTS0xLTHIzVnhmXzk1WkRpZ0NKNjBaWXFDd2Nrd1ZKdVA1bjIwWjRWOXRZWXFxWVVfTkJ1OXRnSQ?oc=5",
      "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "幸せを掴むまで暗躍する、死に戻り皇女のやり直しファンタジー1巻",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02c2dxSWk5QVJRZG1hX0dRZ0hVWEIzS3gyNklTeTFyaDQ1eG85dVlVYWdWdmFzSzRTUGo4YUpPdUx2TmZiTDRmVmIyVXo?oc=5",
+   "pubDate": "2026-11-06T05:33:00.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02c2dxSWk5QVJRZG1hX0dRZ0hVWEIzS3gyNklTeTFyaDQ1eG85dVlVYWdWdmFzSzRTUGo4YUpPdUx2TmZiTDRmVmIyVXo?oc=5"
     }
    ]
   },
@@ -10750,6 +11271,33 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/261106o"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『千恋＊万花』原作原画“こぶいち氏”の描き下ろしお祝いイラストとゆずソフトからのお祝いコメントを公開。公式X開設＆プレゼントキャンペーン実施",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lcUNyN3E1ODU3YVZfSXBBU014bkVHbS1qYURNbEJ0LXp6blQyT0oxSnFqNE1mUE5Ic3prSzR5OUFPLU1idURBWjJhQnZ5TnRGb1BHUHFoOXdadw?oc=5",
+   "pubDate": "2026-11-06T03:53:00.000Z",
+   "firstSeen": "2026-11-06T07:17:53.253Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "works": [
+    "千恋*万花"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lcUNyN3E1ODU3YVZfSXBBU014bkVHbS1qYURNbEJ0LXp6blQyT0oxSnFqNE1mUE5Ic3prSzR5OUFPLU1idURBWjJhQnZ5TnRGb1BHUHFoOXdadw?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -12023,6 +12571,12 @@
      "name": "佐賀新聞",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qUnh0MXh4cW9xM2xwanlVWnptdEFJNUk1TkRVaDlFXzctR1ZIS3d6OTAwb0sxWHNZOUNVVmpGSE9pZkJXM1RsYVk2amVyTlVHUXktbVR3?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "朝日新聞",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vSGhFcklqTndIUVl5bDQ2dWNXXzJCeTZsaWpKM1ZWUC1RWWczVTNXcVJnOXduTHFNVDBBM0xBTzJoZC1TeGNaVTUzRmFCeFZyTUV0N0d3eURyajRT?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
@@ -16320,7 +16874,7 @@
    "firstSeen": "2026-11-05T20:18:06.895Z",
    "image": null,
    "source": "Mantan Web",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -16334,9 +16888,9 @@
    "sources": [
     {
      "name": "Mantan Web",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYVWQwc3V3Z0VuMndLajU4eDg5OWdqMjUyOWpUbXVRRkMxVlZuMGpYWm5EaDk5NTBFazNJZmp6VEQzRklyaVY1dlhqcmxNZ0gySGZDdTBET0gyOUJ2V2xLcHRjMFlMOUtsZjFV?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -16682,7 +17236,7 @@
    "syndicated": true,
    "kind": "general",
    "lang": "ja",
-   "score": 11,
+   "score": 15,
    "categories": [
     "new",
     "broadcast",
@@ -19165,7 +19719,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "new",
     "cast"
@@ -20058,7 +20612,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 20,
+   "score": 24,
    "categories": [
     "new"
    ],
@@ -20141,7 +20695,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 36,
+   "score": 40,
    "categories": [
     "new",
     "visual",
@@ -20263,7 +20817,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 14,
+   "score": 18,
    "categories": [
     "broadcast",
     "cast",
@@ -20409,7 +20963,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 18,
+   "score": 22,
    "categories": [
     "new",
     "cast",
@@ -20628,7 +21182,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "broadcast",
     "visual"
@@ -20658,7 +21212,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 20,
+   "score": 24,
    "categories": [
     "new",
     "cast",
@@ -20754,7 +21308,7 @@
    "syndicated": false,
    "kind": "general",
    "lang": "ja",
-   "score": 18,
+   "score": 22,
    "categories": [
     "broadcast",
     "cast",
@@ -20784,7 +21338,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 22,
+   "score": 26,
    "categories": [
     "new",
     "cast"
@@ -20813,7 +21367,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 18,
+   "score": 22,
    "categories": [
     "new",
     "visual",
@@ -20844,7 +21398,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [],
    "works": [
     "スピリットサークル"
@@ -21001,7 +21555,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 24,
+   "score": 28,
    "categories": [
     "new",
     "cast",
@@ -192091,568 +192645,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82Z2ZGOVg2ZGhrbVM1bG44LUNaRGhZRVJ6clpHRk0zNUVlTGxLZFREX0NLa0k4TkU0TEM0WUVsRzBiUk5qOHc3YlJVd1dBeWxETENuVzdMUi1jS1pjMUtHbGdOX2l4dlpabExOcDE2UWVvYVp4NkE0VXYyMWd4Y1E?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「ドラゴンボール 超戦士シールウエハース超 破壊の衝動」が2027年2月に発売決定！ シリーズ第18弾ではエンボス箔押しが超豪華なウルトラゴッドレア極が登場♪",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/21/104033.html",
-   "pubDate": "2026-10-21T02:45:02.000Z",
-   "firstSeen": "2026-10-21T03:17:56.509Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/21/104033.html"
-    }
-   ]
-  },
-  {
-   "title": "ゲーム『サイバーパンク2077』、アニメ『エッジランナーズ2』との連動アップデート発表 - KAI-YOU",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fM215bGpCSW1iWDRTbE5Vb1dqMVY5RHhldzdKT0E2MWttMGpHR1d6by1RZkV2cnJFX1ZoWXg5Yk5KcUJMTnFIaw?oc=5",
-   "pubDate": "2026-10-21T02:34:00.000Z",
-   "firstSeen": "2026-10-21T03:17:56.509Z",
-   "image": null,
-   "source": "Googleニュース「アニメ」",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "game"
-   ],
-   "works": [
-    "サイバーパンク2077",
-    "エッジランナーズ2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「アニメ」",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fM215bGpCSW1iWDRTbE5Vb1dqMVY5RHhldzdKT0E2MWttMGpHR1d6by1RZkV2cnJFX1ZoWXg5Yk5KcUJMTnFIaw?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "「たまごっち」まめっち＆みみっち達がクリアなチャームにイン♪パッケージ風チャーム登場",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/21/104032.html",
-   "pubDate": "2026-10-21T02:30:03.000Z",
-   "firstSeen": "2026-10-21T03:17:56.509Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "たまごっち"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/21/104032.html"
-    }
-   ]
-  },
-  {
-   "title": "『進撃の巨人』声優の土田大さん、心不全で死去…54歳",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFlFNmFPd3ZWSF8wWHdaVGZ5VXRBd2ZVMll4dS1aWng2aFNPSGZQRVNlNUhCQzNJdEQtWEsyTlZsNVBneVVjTGtvYjVSeVh5MjBlaFRYRGpMZ1M2aDJZS2t1aHdjekVnTmlwUjJOWmxlQUZoc2Z0TGo3V1ZOcERzREl2Z1A1Mms?oc=5",
-   "pubDate": "2026-10-21T02:24:00.000Z",
-   "firstSeen": "2026-10-21T03:17:56.509Z",
-   "image": null,
-   "source": "조선일보",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast",
-    "obituary"
-   ],
-   "works": [
-    "進撃の巨人"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "조선일보",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFlFNmFPd3ZWSF8wWHdaVGZ5VXRBd2ZVMll4dS1aWng2aFNPSGZQRVNlNUhCQzNJdEQtWEsyTlZsNVBneVVjTGtvYjVSeVh5MjBlaFRYRGpMZ1M2aDJZS2t1aHdjekVnTmlwUjJOWmxlQUZoc2Z0TGo3V1ZOcERzREl2Z1A1Mms?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ「リラックマ」ローソン限定グッズが登場！ お守り風キーホルダー＆ぷっくるシールがかわいい♪",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/21/104031.html",
-   "pubDate": "2026-10-21T02:15:03.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "リラックマ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/21/104031.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/67e357fc9dec082d301cd74e564e9ad365fd7f7d?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JelhDUG9yTHBsRzVncmQ3alY3S2JfaTZQcFUwN2NGZW56R1g2NXE3aUw2OE4tNTNSVGE2M0NZLXl6WmlmVVUwY0NsdkxVTjAtVG93RGVkamk5bXZDMU1zampxT1VJVW13a2kxeHVOZXNybk9EcXZiQUZjTENoTzQ?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "五十嵐ハル、ゲーム『デッドアカウント～二つの蒼い炎～』公式テーマソング「無垢」10/21デジタルリリース(Billboard JAPAN)",
-   "summary": "五十嵐ハルが、ゲーム『デッドアカウント～二つの蒼い炎～』の公式テーマソングとして書き下ろした新曲「無垢」を10月21日にデジタルリリースした。その他の画像 五十嵐ハルは2026年にTVアニメ『デッドア",
-   "link": "https://news.yahoo.co.jp/articles/2aaef067ec998d8a39de0c21686772f07a4d82db?source=rss",
-   "pubDate": "2026-10-21T02:00:08.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": null,
-   "source": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "game"
-   ],
-   "works": [
-    "デッドアカウント~二つの蒼い炎~"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/2aaef067ec998d8a39de0c21686772f07a4d82db?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『とある暗部の少女共棲』第3話“華野超美（ごにんめ）”。口座凍結で資金繰りが危うくなったアイテム。そんな折、華野超美が麦野たちの前に現れ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5d1RGNkNaekhzSVJKZFFCQUFuTUlEc2xQdVBvUDFpR29FMm9pVVZkVHNaMFJ4eS14UHBHSzdHNGI2TlBfVnVUSk0wYVVXb3pscDQ4bnk4T3BGUQ?oc=5",
-   "pubDate": "2026-10-21T02:00:00.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "とある暗部の少女共棲"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5d1RGNkNaekhzSVJKZFFCQUFuTUlEc2xQdVBvUDFpR29FMm9pVVZkVHNaMFJ4eS14UHBHSzdHNGI2TlBfVnVUSk0wYVVXb3pscDQ4bnk4T3BGUQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「おかやま桃アニメ祭」「ニジゲンノモリ」ブース販売ラインナップ公開！人気コンテンツのオリジナルグッズが「ももアニ」に大集合！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12TjJlbjZHWjlWWFJaVnlObmZGSXJHUmRYcGR2QlhGaVVjYlpVUUFVYmdPdGpYMjhNTGRWMFJNbUwyVmw0NGlybkxpNXlkSTZz?oc=5",
-   "pubDate": "2026-10-21T02:00:00.000Z",
-   "firstSeen": "2026-10-21T05:18:00.928Z",
-   "image": null,
-   "source": "www.nnn.co.jp",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "www.nnn.co.jp",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12TjJlbjZHWjlWWFJaVnlObmZGSXJHUmRYcGR2QlhGaVVjYlpVUUFVYmdPdGpYMjhNTGRWMFJNbUwyVmw0NGlybkxpNXlkSTZz?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "アットプレス",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyc1I2Nm5TOEhzOW5kZUN1QnJTdm9HSmE1eGhSY19ia0RCSmtuMFo5M2piZjhEaThwUmc5OXE4TmNVVm82a2d5UG8tTG1PcXc?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "神戸新聞",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnNWEweXRJWEF6bFpNWU8yZExCN0hlcExmMW1rX1lka2pkcWNmaksteEZjQ2JKcnk1c0t6VndlUEVFNDFrT0V1UWhaS19XSWtWUXJnVy1NR18yUFFMVU1tWlM4aGlXZGowZnVyNmlrdTBoZw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdXZfZXQyMFFjMzRVZE1ZUUlqdGVvYWtVb1BTaHVLb21OeFBfR2V4YW91WXhCdGktRl9qVjdvelFydkd4SlZzMDJxc3htQ25IQXdjaS1CcEVyeGItTWY1R3VtdElfV1RaYnc?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "ニジゲンノモリが岡山のおかやま桃アニメ祭に出店",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JQUwzTlN4VW9vQUNNNlNPX3JhWGQ4b1VtdnF2azJ4dW5SblVkZDVvWlpTc29hU0tOV1laelhUWngySkRMYndiLUxRVm45MlRKWWZSZDhhRU9ZQQ?oc=5",
-   "pubDate": "2026-10-21T02:00:00.000Z",
-   "firstSeen": "2026-10-22T02:18:20.548Z",
-   "image": null,
-   "source": "wowKorea",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "wowKorea",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JQUwzTlN4VW9vQUNNNlNPX3JhWGQ4b1VtdnF2azJ4dW5SblVkZDVvWlpTc29hU0tOV1laelhUWngySkRMYndiLUxRVm45MlRKWWZSZDhhRU9ZQQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「70年代風ロボットアニメ ゲッP-X」，Steam/PS5/Switch/PS4向けダウンロード版初セールで30％オフ。11月4日まで",
-   "summary": "BlissBrainは本日，「70年代風ロボットアニメゲッP-X」のダウンロード版を30％オフで販売する初セールを開始した。対象はPC（Steam）/PS5/Switch/PS4版で，期間は2026年11月4日まで。パッケージ版とXBOXSeriesX|S/PC（Microsof…",
-   "link": "https://www.4gamer.net/games/986/G098670/20261021001/",
-   "pubDate": "2026-10-21T01:52:07.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/986/G098670/20261021001/"
-    }
-   ]
-  },
-  {
-   "title": "「ダンジョン飯」レッドドラゴンパーカーver.オンラインくじが10月27日12時から販売！描き起こしミニキャラのクッション・Tシャツ・アクスタなど全5賞",
-   "summary": "レッドドラゴンパーカーを着たミニキャラが主役のオンラインくじ 賞品の主役は、ライオス、マルシル、チルチャック、センシ、イヅツミの5人です。レッドドラゴンをモチーフにしたパーカーを着た、描き起こしのミニキャライラストがデザインされています。5…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/641285",
-   "pubDate": "2026-10-21T01:45:25.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/bc14e9d16d474292b64127ae65fb2ba1.png",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/641285"
-    }
-   ]
-  },
-  {
-   "title": "しまむらで「ミッフィー」グッズがオンライン販売！「ミッフィー」「ボリス」らの腹巻、腹巻付きパンツ合計4種",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/21/189582.html",
-   "pubDate": "2026-10-21T01:45:03.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/21/189582.html"
-    }
-   ]
-  },
-  {
-   "title": "1st-Ever U.S. One Piece Store to Open in Los Angeles on November 6",
-   "summary": "Was the legendary One Piece always in the City of Angels?",
-   "link": "https://www.animenewsnetwork.com/interest/2026-10-20/1st-ever-u.s-one-piece-store-to-open-in-los-angeles-on-november-6/.243022",
-   "pubDate": "2026-10-21T01:40:00.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/interest/2026-10-20/1st-ever-u.s-one-piece-store-to-open-in-los-angeles-on-november-6/.243022"
-    }
-   ]
-  },
-  {
-   "title": "『少女☆歌劇 レヴュースタァライト』のトレーディング Aure Glass 第2弾 アクリルスタンドなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
-   "summary": "株式会社アルマビアンカはオリジナルグッズを展開する通販サイト、「AMNIBUS」にて『少女☆歌劇 レヴュースタァライト』の商品6種の受注を開始いたします。 株式会社アルマビアンカ（本社：東京都中野区、代表取...",
-   "link": "https://prtimes.jp/main/html/rd/p/000009718.000016064.html",
-   "pubDate": "2026-10-21T01:38:51.000Z",
-   "firstSeen": "2026-10-21T03:17:56.509Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "少女☆歌劇 レヴュースタァライト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000009718.000016064.html"
-    }
-   ]
-  },
-  {
-   "title": "『ラブライブ！サンシャイン!!』の描き下ろし ギャル制服ver. トレーディングアクリルカードなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
-   "summary": "株式会社アルマビアンカはオリジナルグッズを展開する通販サイト、「AMNIBUS」にて『ラブライブ！サンシャイン!!』の商品14種の受注を開始いたします。 株式会社アルマビアンカ（本社：東京都中野区、代表取締...",
-   "link": "https://prtimes.jp/main/html/rd/p/000009716.000016064.html",
-   "pubDate": "2026-10-21T01:36:10.000Z",
-   "firstSeen": "2026-10-21T03:17:56.509Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ラブライブ!サンシャイン!!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000009716.000016064.html"
-    }
-   ]
-  },
-  {
-   "title": "劇場アニメ『ひゃくえむ。』POPUPが渋谷で本日スタート！描き下ろし6選手のグッズ・展示・特典と来場条件",
-   "summary": "レース前の集中を描いた、描き下ろし6選手 ビジュアルの主役は、レース本番を控えて集中を高めるスプリンター6名です。トガシ、小宮、財津、海棠、樺木、森川の新規描き下ろしイラストが登場します。走り出す直前の張りつめた空気をまとった6人が並ぶので…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/641266",
-   "pubDate": "2026-10-21T01:36:00.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/196c5b84ce0b4521ae170f6e7a7a65de.jpg",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "event",
-    "goods"
-   ],
-   "works": [
-    "ひゃくえむ。"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/641266"
-    }
-   ]
-  },
-  {
-   "title": "アニメ「アイドルマスター ミリオンライブ！」よりフィギュア「伊吹 翼-The Animation-」が10月22日に予約開始",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15VWZtaDJ4QmtpaGRaS0F2dEg1cERBWG94NlpnZkxzREtTTVVYYXJNOF92a1hOdF9KLVYyLVJkQkRzV1ViYjUwWXJwbGpIZEtMQ3VidE1qd3RQci01SzNzeHQ3RGg2WFU?oc=5",
-   "pubDate": "2026-10-21T01:35:17.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": null,
-   "source": "hobby Watch",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "アイドルマスター ミリオンライブ!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "hobby Watch",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15VWZtaDJ4QmtpaGRaS0F2dEg1cERBWG94NlpnZkxzREtTTVVYYXJNOF92a1hOdF9KLVYyLVJkQkRzV1ViYjUwWXJwbGpIZEtMQ3VidE1qd3RQci01SzNzeHQ3RGg2WFU?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "スガ シカオ、話題の都市伝説・Jホラーアニメ『恐怖コレクター』EDテーマ「迷路」配信スタート！",
-   "summary": "10月10日（土）23時45分から放送が開始されたNHK総合テレビアニメ『恐怖コレクター』（全12話...",
-   "link": "https://www.lisani.jp/0000320486/",
-   "pubDate": "2026-10-21T01:35:00.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610211800-yh-003.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "恐怖コレクター",
-    "迷路"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000320486/"
-    },
-    {
-     "name": "Billboard JAPAN",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MUlNjemJYRzZ1LWtoeEt4M3NpNHh4Q0gwR0tiUEtoWm12SE9QUy1MVjdSZEtzanU0UVd1X080UWRfcVFEN3dSTEdSVHNpVHVCYm5SdmNzeVdRYXBWSW9FcnJB?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwVnk0dXVEcmtpdDNnSjJpd1JsLWMwMDIwSWNnX2dIdGJpdmdoRkVYTHVfQnpDTW9ubjJ4a2Y1N2l2N2pBMDhXNFR4WHp3WDFLYmtKMFczZEVucFIteTZkTlY4ZUMxTi1WS0JHbngydG9saFlzS3RZWVNfUTBqTVE?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ「ハイキュー!!」のちょこんと！ぬいぐるみマスコットの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
-   "summary": "株式会社アルマビアンカはオリジナルグッズを展開する通販サイト、「AMNIBUS」にてアニメ「ハイキュー!!」の商品の受注を開始いたします。 株式会社アルマビアンカ（本社：東京都中野区、代表取締役：坂井智成...",
-   "link": "https://prtimes.jp/main/html/rd/p/000009719.000016064.html",
-   "pubDate": "2026-10-21T01:33:32.000Z",
-   "firstSeen": "2026-10-21T02:17:58.549Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ハイキュー!!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000009719.000016064.html"
     }
    ]
   }
