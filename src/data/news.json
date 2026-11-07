@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-07T12:18:37.103Z",
+ "generatedAt": "2026-11-07T13:18:32.452Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5691,
-  "syndicated": 565,
-  "similar": 692,
-  "syndicatedTotal": 6443,
-  "syndicatedLeft": 1211
+  "exact": 5689,
+  "syndicated": 568,
+  "similar": 694,
+  "syndicatedTotal": 6438,
+  "syndicatedLeft": 1207
  },
  "calendar": [
   {
@@ -4837,6 +4837,22 @@
    "verb": "release",
    "label": "発売",
    "work": null,
+   "title": "しまむらで「たまごっち」グッズが11月13日発売！まめっち＆くちぱっちのアパレル、メラミン食器など豊富なデザイン",
+   "link": "https://www.inside-games.jp/article/2026/11/07/190522.html",
+   "source": "インサイド",
+   "sources": 2,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-13",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
    "title": "「ちいかわ」たちが舞妓さんや芸妓さんに扮する！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日発売、同日9時30分よりオンライン販売も",
    "link": "https://www.inside-games.jp/article/2026/11/05/190395.html",
    "source": "インサイド",
@@ -4859,22 +4875,6 @@
    "sources": 2,
    "categories": [
     "movie"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-13",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": null,
-   "title": "しまむらで「たまごっち」グッズが11月13日発売！まめっち＆くちぱっちのアパレル、メラミン食器など豊富なデザイン(インサイド)",
-   "link": "https://news.yahoo.co.jp/articles/70adf5b9d0ba5844a5847b46414d572cfb4f5265?source=rss",
-   "source": "インサイド（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "goods"
    ],
    "platforms": [],
    "spoiler": false
@@ -7680,7 +7680,7 @@
    "title": "TVアニメ『らんま1/2』3期6話のあらすじ公開！ あかねは乱馬に手作りクッキーを食べさせようと勝負を挑むが…",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBa0pYa24zZ0hZeXhiVVhEbzFVaGdBeUxTdGZZTG5hY2k5ZEJyRGRpM2JqV2RvTTlNdERObXhKOFJHeEc5VUZoX1NMazkzTmhmaUNGTg?oc=5",
    "source": "eeo",
-   "sources": 3,
+   "sources": 2,
    "categories": [],
    "platforms": [],
    "spoiler": false
@@ -8804,6 +8804,25 @@
   {
    "date": "2027-04",
    "precision": "month",
+   "verb": "event",
+   "label": "開催",
+   "work": "鬼灯の冷徹",
+   "title": "『鬼灯の冷徹』15周年記念原画展の新作グッズ＆購入特典が公開！2027年4月には大阪・なんばマルイでの開催も決定",
+   "link": "https://nijimen.kusuguru.co.jp/topics/651046",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
+    "visual",
+    "event",
+    "goods",
+    "media"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-04",
+   "precision": "month",
    "verb": "broadcast",
    "label": "放送",
    "work": null,
@@ -9286,8 +9305,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 843,
-   "accepted": 842
+   "archived": 842,
+   "accepted": 841
   },
   {
    "id": "lisani",
@@ -9330,8 +9349,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 770,
-   "accepted": 333
+   "archived": 773,
+   "accepted": 334
   },
   {
    "id": "gnews-anime",
@@ -9341,8 +9360,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5398,
-   "accepted": 5116
+   "archived": 5399,
+   "accepted": 5118
   },
   {
    "id": "gnews-tvanime",
@@ -9352,8 +9371,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1183,
-   "accepted": 1122
+   "archived": 1182,
+   "accepted": 1121
   },
   {
    "id": "gnews-movie",
@@ -9362,9 +9381,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 95,
-   "archived": 853,
-   "accepted": 752
+   "fetched": 96,
+   "archived": 854,
+   "accepted": 753
   },
   {
    "id": "gnews-seiyu",
@@ -9385,8 +9404,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 776,
-   "accepted": 153
+   "archived": 779,
+   "accepted": 155
   },
   {
    "id": "inside-games",
@@ -9396,8 +9415,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1548,
-   "accepted": 719
+   "archived": 1550,
+   "accepted": 720
   },
   {
    "id": "4gamer",
@@ -9429,7 +9448,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1253,
+   "archived": 1250,
    "accepted": 94
   },
   {
@@ -9451,8 +9470,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29539,
-   "accepted": 3310
+   "archived": 29526,
+   "accepted": 3307
   },
   {
    "id": "prtimes",
@@ -9462,8 +9481,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27913,
-   "accepted": 532
+   "archived": 27880,
+   "accepted": 531
   },
   {
    "id": "ann",
@@ -9501,15 +9520,130 @@
  ],
  "items": [
   {
-   "title": "しまむらで「たまごっち」グッズが11月13日発売！まめっち＆くちぱっちのアパレル、メラミン食器など豊富なデザイン(インサイド)",
-   "summary": "全国のしまむら店舗にて、「たまごっち」のグッズが11月13日より発売されます。同日15時よりしまむらパーク（オンラインストア）では受注生産販売されます。【画像】しまむらの「たまごっち」グッズ一覧！◆「",
-   "link": "https://news.yahoo.co.jp/articles/70adf5b9d0ba5844a5847b46414d572cfb4f5265?source=rss",
+   "title": "松本人志の新コンテンツ「ピクチャログ」配信開始は11月25日に決定 キービジュアルも公開(日刊スポーツ)",
+   "summary": "お笑いコンビ、ダウンタウンのコンテンツを有料配信する「DOWNTOWN＋（ダウンタウンプラス）」は7日、松本人志（63）が手掛ける、「Netflix」と同時配信の新コンテンツ「ピクチャログ－ESCAP",
+   "link": "https://news.yahoo.co.jp/articles/e9b8acaa57107908e4d3a012c56aa40a275deefe?source=rss",
+   "pubDate": "2026-11-07T13:14:13.000Z",
+   "firstSeen": "2026-11-07T13:17:56.073Z",
+   "image": null,
+   "source": "日刊スポーツ（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "broadcast",
+    "visual"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "日刊スポーツ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e9b8acaa57107908e4d3a012c56aa40a275deefe?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『鬼灯の冷徹』15周年記念原画展の新作グッズ＆購入特典が公開！2027年4月には大阪・なんばマルイでの開催も決定",
+   "summary": "描き下ろし＆原作イラストを使った新作グッズが登場 本展は、生原画の展示や連載の歴史を体感できるコーナーなどを楽しめるイベントです。会場で販売される新作グッズには、キービジュアルに使用されている江口先生の描き下ろしイラストに加え、コミックスの…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/651046",
+   "pubDate": "2026-11-07T13:11:06.000Z",
+   "firstSeen": "2026-11-07T13:17:56.073Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/16845d3705e649259685366ebc7ab333.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "visual",
+    "event",
+    "goods",
+    "media"
+   ],
+   "works": [
+    "鬼灯の冷徹"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/651046"
+    }
+   ]
+  },
+  {
+   "title": "『アルカナ・ファミリア 幽霊船の魔術師』Switch/Steam移植決定！ 2027年発売予定、アッシュ（声優：岡本信彦）やヨシュア（声優：うえだゆうじ）が登場",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acEJHdU9jbUx3ZHZ1ZzVib3lHX09STElLVjJORTNoZHNDUEVNSDNUWm1ZaGlkQ18wTS02WWhkM1BwV1FHcVF4TjdUVi02MjUxRER5Zl80bFF3dw?oc=5",
+   "pubDate": "2026-11-07T12:57:00.000Z",
+   "firstSeen": "2026-11-07T13:17:56.073Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "game"
+   ],
+   "works": [
+    "アルカナ・ファミリア 幽霊船の魔術師"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1acEJHdU9jbUx3ZHZ1ZzVib3lHX09STElLVjJORTNoZHNDUEVNSDNUWm1ZaGlkQ18wTS02WWhkM1BwV1FHcVF4TjdUVi02MjUxRER5Zl80bFF3dw?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "「ガールズバンドクライ First Riff」のゲーム内容が公開に。トゲナシトゲアリのゲームKVもお披露目",
+   "summary": "DONUTSと東映アニメーションは本日，スマートフォン向けゲーム「ガールズバンドクライFirstRiff」のゲーム内容を公開した。「ストーリー」「ライブゲーム」「全国ツアー」の3要素に加え，トゲナシトゲアリのゲームKVも披露された。",
+   "link": "https://www.4gamer.net/games/834/G083422/20261106040/",
+   "pubDate": "2026-11-07T12:30:00.000Z",
+   "firstSeen": "2026-11-07T13:17:56.073Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 11,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/834/G083422/20261106040/"
+    }
+   ]
+  },
+  {
+   "title": "しまむらで「たまごっち」グッズが11月13日発売！まめっち＆くちぱっちのアパレル、メラミン食器など豊富なデザイン",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/07/190522.html",
    "pubDate": "2026-11-07T12:15:02.000Z",
    "firstSeen": "2026-11-07T12:17:55.372Z",
    "image": null,
-   "source": "インサイド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
    "kind": "general",
    "lang": "ja",
    "score": 4,
@@ -9520,9 +9654,48 @@
    "spoiler": false,
    "sources": [
     {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/07/190522.html"
+    },
+    {
      "name": "インサイド（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/70adf5b9d0ba5844a5847b46414d572cfb4f5265?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "静岡県とファミリーマートが連携し県内が舞台の4つのアニメ作品のモデル地を巡るデジタルスタンプラリー開催（静岡）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckhuYzl1dVVTaWRmVk5yRjMwRU05ZDJMTDRHMFFHR1hWMjZwWjh3bVNoSlZJcnlyTVRlS1lMNUo0UlQtV3kzM0NxbE50UVh6YjYyeWJoblhlNFZqbDFWWVZQZDY5RW54OGViN2Y5Z1BDR0JwczhUNlZCanFQOEUxemFPb1loaTQ?oc=5",
+   "pubDate": "2026-11-07T12:13:01.000Z",
+   "firstSeen": "2026-11-07T13:17:56.073Z",
+   "image": null,
+   "source": "日テレNEWS NNN",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "日テレNEWS NNN",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckhuYzl1dVVTaWRmVk5yRjMwRU05ZDJMTDRHMFFHR1hWMjZwWjh3bVNoSlZJcnlyTVRlS1lMNUo0UlQtV3kzM0NxbE50UVh6YjYyeWJoblhlNFZqbDFWWVZQZDY5RW54OGViN2Y5Z1BDR0JwczhUNlZCanFQOEUxemFPb1loaTQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "静岡（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOVTJMUGhkampuR1JmeDFfeDNLOG9FT3JjeHVEeFUyWmUtQTVSNkdsSjhPTDhLRkl6Q2I0X2FZajNDbFpKNkl3M2doU0dubXF5SjNwVS1kRXNMOVNBWEdtNndjSHpHZHRyVGdKV0lLX3JFdF81ckRQMXBRb0xuYmc?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -9688,15 +9861,15 @@
    ]
   },
   {
-   "title": "TAKUTO「“ダンス”の幅が広がった気が！」 MAZZELが『百妖譜』の声優＆タップダンスに挑戦＜MAZZEL DUO MISSION＞",
+   "title": "TAKUTO「“ダンス”の幅が広がった気が！」 MAZZELが『百妖譜』の声優＆タップダンスに挑戦＜MAZZEL DUO MISSION",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FYmpQc1o3NDYxcjZCVlg4WWtrenhvbHBzVjJ2UTRfeGdsR1NPUGY1Vkd3dmE0UDBzNjh3QW9pcXhhcVFUMDVoQ3p3UGtNbldScXByaFRmcVd6V1djYlhmS3Q5b1hDSlhRbWZMRGluWldFMndkdC1oNG1jQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqYkVZeWE4WXhUN0xreTNzbWNiOEJvbkxMektCQ1BsQ1c0aWVGdGh1Z2FPVlpKbktHdG9lb2dKc2J1MW9wampDVkxKUU1EUQ?oc=5",
    "pubDate": "2026-11-07T11:48:00.000Z",
    "firstSeen": "2026-11-07T12:17:55.372Z",
    "image": null,
-   "source": "ニコニコニュース",
+   "source": "WEBザテレビジョン",
    "sourceId": "gnews-seiyu",
-   "syndicated": true,
+   "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
    "score": 8,
@@ -9708,6 +9881,12 @@
    ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "WEBザテレビジョン",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqYkVZeWE4WXhUN0xreTNzbWNiOEJvbkxMektCQ1BsQ1c0aWVGdGh1Z2FPVlpKbktHdG9lb2dKc2J1MW9wampDVkxKUU1EUQ?oc=5",
+     "via": "Googleニュース「声優」"
+    },
     {
      "name": "ニコニコニュース",
      "sourceId": "gnews-seiyu",
@@ -10526,10 +10705,37 @@
    ]
   },
   {
+   "title": "『ミルサブ』公式、新作ショートアニメ『チェロビンパーティー』からチハルとマキナのキャラビジュアルを公開。2人ともギャルすぎる",
+   "summary": "ポッピーくんの楽曲「ぱぴぷぺ！ポッピーくん」もYouTubeで公開。歌唱ははいだしょうこさんが担当、音源は12月18日に配信予定",
+   "link": "https://news.denfaminicogamer.jp/news/261107l",
+   "pubDate": "2026-11-07T09:47:40.000Z",
+   "firstSeen": "2026-11-07T10:17:53.074Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/sub1-13-1024x1024.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ミルサブ",
+    "チェロビンパーティー"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261107l"
+    }
+   ]
+  },
+  {
    "title": "「ウマ娘」美人声優、ミニ丈制服姿で美脚際立つ「スタイル良すぎ」「リアルお人形さん」と反響",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GUHM1dkV0RVI4YWtteURxWWpQeWNZM2ljMWYzRWZFNldFVDBYYzZUZWNxR2pucHBVX1djSk5rMXRWQmVqSXhYVWJjWdIBR0FVX3lxTE5LWFFqM3g4Ym45SWFlcTNYLVBXQk1ZeEdZY3dfSmp4QUUyZ0tqdWdjbC1PVG9vd1NWZ05sbFhneEVDdWtTNHd3?oc=5",
-   "pubDate": "2026-11-07T09:47:49.000Z",
+   "pubDate": "2026-11-07T09:47:00.000Z",
    "firstSeen": "2026-11-07T10:17:53.074Z",
    "image": null,
    "source": "モデルプレス",
@@ -10562,33 +10768,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBubE02U1B4UVNCOHdSSzRyTUpxaWhCUTRESXFoWTdEOUVRVTZWeHJOam1iUUdxblc3MGtVZVNrMmpkajdDSTVTaHBEbmx1bXFOVGhQNEdGakIwMzhaNVpYMzNJUkpTQmpjSE1VZVRHVGoyMDlwbHdzY3V3MEhSdDg?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『ミルサブ』公式、新作ショートアニメ『チェロビンパーティー』からチハルとマキナのキャラビジュアルを公開。2人ともギャルすぎる",
-   "summary": "ポッピーくんの楽曲「ぱぴぷぺ！ポッピーくん」もYouTubeで公開。歌唱ははいだしょうこさんが担当、音源は12月18日に配信予定",
-   "link": "https://news.denfaminicogamer.jp/news/261107l",
-   "pubDate": "2026-11-07T09:47:40.000Z",
-   "firstSeen": "2026-11-07T10:17:53.074Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/sub1-13-1024x1024.png",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "ミルサブ",
-    "チェロビンパーティー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261107l"
     }
    ]
   },
@@ -10898,7 +11077,7 @@
    "firstSeen": "2026-11-07T09:17:57.747Z",
    "image": null,
    "source": "テレ朝NEWS",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-seiyu",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -10913,9 +11092,9 @@
    "sources": [
     {
      "name": "テレ朝NEWS",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IU0FXUUx2S2ZKMFozVmlZcFFkSEhZb2FSSGdldW1sR29mQmotcmMzdTlEQW5ZaWJJUndPTVRiOWE0Z2w3aFVHaU5QNnZZZHB6NzUtZVM1OW8tejR0ZHNqNG5CX3dQMkQyUTlLei1HSGI?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「声優」"
     },
     {
      "name": "Yahoo!ニュース エンタメ",
@@ -12130,7 +12309,7 @@
    "firstSeen": "2026-11-07T08:17:56.732Z",
    "image": null,
    "source": "電ファミニコゲーマー",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-tvanime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -12145,9 +12324,9 @@
    "sources": [
     {
      "name": "電ファミニコゲーマー",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQjQ3c1ZZdnk0VGZHVVl0SHloTm4yTlUwMVlsRWo4SEpRX1hZc05fckNqZkpwUnFweG9YYjctbmpuWG91UDRGd3RQamItRmVCWjB6bzFiYVE?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -12386,16 +12565,16 @@
    ]
   },
   {
-   "title": "【イベントレポート】「夜露死駆★少女」舞台挨拶に錦織敦史、南沙良ら 釘宮理恵「心がかわいくなる作品」(コミックナタリー)",
-   "summary": "オリジナルアニメーション映画「GROTESQQQUE-グロテスク-」の公開記念舞台挨拶が本日11月7日に東京・新宿バルト9で開催され、錦織敦史監督と、「夜露死駆★少女（よろしくしょうじょ）」よりステラ",
-   "link": "https://news.yahoo.co.jp/articles/75416dd7993aef61cef79b8c7262a945460ff3aa?source=rss",
-   "pubDate": "2026-11-07T07:56:11.000Z",
+   "title": "「夜露死駆★少女」舞台挨拶に錦織敦史、南沙良ら 釘宮理恵「心がかわいくなる作品」（イベントレポート）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wbjJPMUlHSWEtd3JoVmp1azNxdDRXVG9iS2h4dTBoMlpWVlNGMWstc09TVXdNNlRTVlFVclNBR3lIOEJrN29fY0VOUFg?oc=5",
+   "pubDate": "2026-11-07T07:56:00.000Z",
    "firstSeen": "2026-11-07T08:17:56.732Z",
    "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "ナタリー",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
    "lang": "ja",
    "score": 7,
    "categories": [
@@ -12407,6 +12586,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "ナタリー",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wbjJPMUlHSWEtd3JoVmp1azNxdDRXVG9iS2h4dTBoMlpWVlNGMWstc09TVXdNNlRTVlFVclNBR3lIOEJrN29fY0VOUFg?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -12535,6 +12720,12 @@
      "name": "オリコンニュース",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0M2V0dWZtS1hvVEw2dzREbm9GNkJ4NHJsakxhaHktSjVNMVk0TjlKZTI4aENHc1JZLUZHeWxMaDJMT1pWUTIxXy1KV3JLSTA?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "毎日新聞",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03MDRCS1E1eTFMdWFCU3NnTm1obURnbDhsWmxTUll2dlBrMDNWUUc4WlVfajhPekowVjlfYllzcGUzNExiMGJOdU1xOFdwa0JEVkowVlNZcFVCSGlNV2wtR2ZLQkVDa29p?oc=5",
      "via": "Googleニュース「アニメ」"
     },
     {
@@ -12777,6 +12968,13 @@
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rTDhmTWFhU1hxbzREQUpsd1g2VlBvQTNCeUNLNkw2c3JJZC1RQzlLWFZvX2laV0lSd0hSbndVS3YxeXFRWW13dC03RVJtSGNwRFRxOGEweFNseUFMS0Q0TkZOc3czQU03ejBGaF92d0NHNm1WUGt6NlhCcmZudEk?oc=5",
      "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10Z09md0k2dXk0MHhrWFBIekZHVklCbjNPYV9qRGZFSWt3a3JvVzU0VUJYSURVVU16Ujd2NTdNU2MxMm9XdHQ1RDN1eGYtWTlpa2lkYWpkZEJoQTdXVzJyQl9HekVwODRxZGdNYXpEbjRzUU3SAXhBVV95cUxNcUJHMHZXeG5sNDdsVVBCX2FnS1k5SmxTS19hdjMwRVBoU0o0cjRZMGgzVW52U0t6dlF0UWJQdHVIeUF4THBleUNWbWp5WGZZWl9LZ0poRzNHLWZKWlJUZXlaR2IwdUlwR2dHczhiQmpkcG0yQnpjMkk?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -15861,7 +16059,7 @@
    "title": "「VIVANT」第23話の場面写真 [画像ギャラリー 11/180]",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5NW15QmxvQ293V2FjendlTzFDSjR2Y2c1ZGFqRS1QemhIdjJCRW9wQjdyTFM4b3RZZl91OWk1cG9sYkd5emphQlhtbzBzMWNVeHVnSjVrMkdWM1hyc3Brbg?oc=5",
-   "pubDate": "2026-11-07T00:02:41.000Z",
+   "pubDate": "2026-11-07T00:02:40.000Z",
    "firstSeen": "2026-11-07T10:17:53.074Z",
    "image": null,
    "source": "映画ナタリー",
@@ -192519,143 +192717,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSSEs3RlJrNWp2Y3IyWFcxaE50Uk1Na0NCVE1TVkRZTENaclAwV2xXci1MR2xHQTVoNUhpR0QzQUdlVzU2aDZFVUpqTm9pRC1jSGJSWHF6VG9yWUpZYk45Q0ZKMVg2UFJqcXJiNEdrRlhWRlVQSHFBZjJzdndhcU0?oc=5",
      "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "プライム1スタジオ、「塊魂」シリーズの「王子」と「王様」を新フィギュアブランド「A-SYMBOL」シリーズで立体化(HOBBY Watch)",
-   "summary": "プライム1スタジオは、フィギュア「A-SYMBOL 塊魂 王子 ボーナス版」と「A-SYMBOL 塊魂 王様 ボーナス版」をECサイト「プライム1スタジオ公式オンラインストア」と「アソビストア」にて1",
-   "link": "https://news.yahoo.co.jp/articles/018013a2ec646ef9f9c64b0de94e1994e38cc2dc?source=rss",
-   "pubDate": "2026-10-22T09:08:00.000Z",
-   "firstSeen": "2026-10-22T09:17:56.620Z",
-   "image": null,
-   "source": "HOBBY Watch（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "HOBBY Watch（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/018013a2ec646ef9f9c64b0de94e1994e38cc2dc?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「日和ってる奴いる？いねえよなぁ！？」―格ゲー『餓狼 CotW』に参戦した「東リベ」マイキーは女キャラを殴らない原作再現アリ！ドラケンも登場",
-   "summary": "",
-   "link": "http://www.gamespark.jp/article/2026/10/22/173940.html",
-   "pubDate": "2026-10-22T09:05:02.000Z",
-   "firstSeen": "2026-10-22T09:17:56.620Z",
-   "image": null,
-   "source": "Game*Spark",
-   "sourceId": "gamespark",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "餓狼CotW"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Game*Spark",
-     "sourceId": "gamespark",
-     "link": "http://www.gamespark.jp/article/2026/10/22/173940.html"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『らんま1/2』3期4話のあらすじ公開！ らんまが暴れ馬に乗った男にさらわれて…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodk1ZRUJQVGN0eGxZZUw3d1lOQ2ZBOHNpUGlNRDFCaVViWllIQVpYdDYyZTNWVWF0X3dKbTVRc0pXR3Vlam15X1lyVktoNXl2a2VnSg?oc=5",
-   "pubDate": "2026-10-22T09:04:32.000Z",
-   "firstSeen": "2026-10-22T09:17:56.620Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "らんま1/2"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodk1ZRUJQVGN0eGxZZUw3d1lOQ2ZBOHNpUGlNRDFCaVViWllIQVpYdDYyZTNWVWF0X3dKbTVRc0pXR3Vlam15X1lyVktoNXl2a2VnSg?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『デュエマLOST ～断罪の少年～』第2話のあらすじ公開！ ジャシン帝は、この世界の真実の一端をウィンに語り始め…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fRUlmQUpGcGQ1NTVmcVpaSDAydG1IU1Jud0tid3lXYVBMS2k2cjl6SS1qMzNYTllLMTVlSDFRLUt5Zl9VY095VXptbWhseFAzU2lVaw?oc=5",
-   "pubDate": "2026-10-22T09:04:32.000Z",
-   "firstSeen": "2026-10-22T09:17:56.620Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "デュエマLOST ~断罪の少年~"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fRUlmQUpGcGQ1NTVmcVpaSDAydG1IU1Jud0tid3lXYVBMS2k2cjl6SS1qMzNYTllLMTVlSDFRLUt5Zl9VY095VXptbWhseFAzU2lVaw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "『ロード・オブ・ザ・リング：力の指輪』シーズン3、本予告解禁！中つ国を支配する“一つの指輪”が誕生へ(The Hollywood Reporter Japan)",
-   "summary": "世界を支配する“一つの指輪”の誕生が、ついに近づく。Prime Videoのオリジナルドラマ『ロード・オブ・ザ・リング：力の指輪』シーズン3の日本版本予告とキービジュアルが解禁された。最新シーズンは1",
-   "link": "https://news.yahoo.co.jp/articles/e8589e560caa0e302b52c683abc1c03ba48e6c38?source=rss",
-   "pubDate": "2026-10-22T09:03:56.000Z",
-   "firstSeen": "2026-10-22T09:17:56.620Z",
-   "image": null,
-   "source": "The Hollywood Reporter Japan（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "broadcast",
-    "visual"
-   ],
-   "works": [
-    "ロード・オブ・ザ・リング:力の指輪"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "The Hollywood Reporter Japan（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/e8589e560caa0e302b52c683abc1c03ba48e6c38?source=rss",
      "syndicated": true
     }
    ]
