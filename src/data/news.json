@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-08T15:15:55.780Z",
+ "generatedAt": "2026-11-08T15:18:46.990Z",
  "count": 6000,
  "dedupe": {
   "exact": 5528,
-  "syndicated": 548,
+  "syndicated": 549,
   "similar": 683,
-  "syndicatedTotal": 6280,
+  "syndicatedTotal": 6279,
   "syndicatedLeft": 1205
  },
  "calendar": [
@@ -8521,14 +8521,13 @@
    "precision": "month",
    "verb": "broadcast",
    "label": "放送",
-   "work": "みなみけ",
-   "title": "14年ぶりに『みなみけ』新作アニメ放送へ、公式「過度な期待はしないでください」も過去キャスト続投に歓喜(オタク総研)",
-   "link": "https://news.yahoo.co.jp/articles/f7bde06cf55954249df6105f9442e89d126666d8?source=rss",
-   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "work": "ぼくの好きな人が好きな人",
+   "title": "『ぼくの好きな人が好きな人』アニメ化で来年4月放送 PV公開で出演は梶原岳人・三川華月・稗田寧々",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NTm5JdGRpZ18yamxOSlVOcVQ3bXEyYlF5d0hwSFMxdzV1dXZWT2NhZ01tVDF2TXZiS000MTcxdlEyVHlRVFlSb2tuYjBNR2M?oc=5",
+   "source": "オリコンニュース",
    "sources": 7,
    "categories": [
     "new",
-    "broadcast",
     "visual",
     "cast"
    ],
@@ -8540,13 +8539,14 @@
    "precision": "month",
    "verb": "broadcast",
    "label": "放送",
-   "work": "ぼくの好きな人が好きな人",
-   "title": "『ぼくの好きな人が好きな人』アニメ化で来年4月放送 PV公開で出演は梶原岳人・三川華月・稗田寧々",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NTm5JdGRpZ18yamxOSlVOcVQ3bXEyYlF5d0hwSFMxdzV1dXZWT2NhZ01tVDF2TXZiS000MTcxdlEyVHlRVFlSb2tuYjBNR2M?oc=5",
-   "source": "オリコンニュース",
-   "sources": 6,
+   "work": "みなみけ",
+   "title": "14年ぶりに『みなみけ』新作アニメ放送へ、公式「過度な期待はしないでください」も過去キャスト続投に歓喜(オタク総研)",
+   "link": "https://news.yahoo.co.jp/articles/f7bde06cf55954249df6105f9442e89d126666d8?source=rss",
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sources": 7,
    "categories": [
     "new",
+    "broadcast",
     "visual",
     "cast"
    ],
@@ -9358,8 +9358,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5296,
-   "accepted": 5003
+   "archived": 5297,
+   "accepted": 5004
   },
   {
    "id": "gnews-tvanime",
@@ -9369,8 +9369,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1088,
-   "accepted": 1022
+   "archived": 1086,
+   "accepted": 1020
   },
   {
    "id": "gnews-movie",
@@ -9379,7 +9379,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 94,
+   "fetched": 92,
    "archived": 860,
    "accepted": 764
   },
@@ -9391,8 +9391,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2609,
-   "accepted": 2356
+   "archived": 2611,
+   "accepted": 2358
   },
   {
    "id": "natalie-eiga",
@@ -9552,7 +9552,7 @@
    "firstSeen": "2026-11-08T15:15:18.917Z",
    "image": null,
    "source": "ニコニコニュース",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": true,
    "kind": "aggregator",
    "lang": "ja",
@@ -9569,9 +9569,9 @@
    "sources": [
     {
      "name": "ニコニコニュース",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GNXg0bnllUHVyUFNxcDVVSGlrWDJNZDZ3V18yVmhnV0NPVmRReGRXZE9oN01YeXdqQjB0Q05KQXExaVNMX1V4MGVRUWJROTYzNnM3ZmZvWE9vc0liTGJSN0FndlN6VE5FU0JnaTZheVJUNXliLU93LUlHRQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -9686,6 +9686,36 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCUmtNWktEWk1mT0p5a1ZkcExDM0lLeHNZT0JDNUVFeUdjS3U1SXAxQzZCdDVTa2s4SVlIenpzY1d6X2k0SVI4T1VlTDlaZEJnb1BqUnpOOXdXY056dGhuUmZKRlRzSWdPbVlN?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
+   "title": "『ぼくの好きな人が好きな人』2027年4月放送開始、出演声優に梶原岳人ら3名発表",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZU3k0b2dYUzkwMWgtd1F4dGE2My1LQlNTOWdZOEtLNFhBd21fbjJsc0ZzUGV4OEdqeWptWXRiS1VvNTBpVzdoX0dVT2NxQmN0R2JzREdIdTYwUjdPRkduQk9GalpNQm5xdkpR?oc=5",
+   "pubDate": "2026-11-08T15:00:00.000Z",
+   "firstSeen": "2026-11-08T15:17:55.368Z",
+   "image": null,
+   "source": "アニメイトタイムズ",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "broadcast",
+    "cast"
+   ],
+   "works": [
+    "ぼくの好きな人が好きな人"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZU3k0b2dYUzkwMWgtd1F4dGE2My1LQlNTOWdZOEtLNFhBd21fbjJsc0ZzUGV4OEdqeWptWXRiS1VvNTBpVzdoX0dVT2NxQmN0R2JzREdIdTYwUjdPRkduQk9GalpNQm5xdkpR?oc=5",
+     "via": "Googleニュース「声優」"
     }
    ]
   },
@@ -192861,55 +192891,6 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2610232m"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『私を喰べたい、ひとでなし』いよしファンミーティング事後通販実施決定！放送1周年記念イラストグッズが通販サイト「いんふぃにっちょ。」にて10月24日正午より販売開始！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54RDBlTzNVeEJsNGxPR0RmNm1CYUhnVW5yNmNjZ2Z0di1idXJEYWtvUVczZ0ZJcWJLMVZPbXlIeDJETGU5N0pWQURSdkVDaGo5amFsWXNNVGwtVVc3UDRoSldITmk3ZFprRmc?oc=5",
-   "pubDate": "2026-10-23T03:00:04.000Z",
-   "firstSeen": "2026-10-23T03:17:54.826Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "私を喰べたい、ひとでなし"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54RDBlTzNVeEJsNGxPR0RmNm1CYUhnVW5yNmNjZ2Z0di1idXJEYWtvUVczZ0ZJcWJLMVZPbXlIeDJETGU5N0pWQURSdkVDaGo5amFsWXNNVGwtVVc3UDRoSldITmk3ZFprRmc?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    },
-    {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Md1Q3M0tVeTNhajhTY0toLUVTbXhNcTJTTXZLNU1vT1ZZcVpIYnV6d0p1Y1Y1TWNUSFQxX25wdHJzckUycmJ1Wjk5SXRYdzZDUXFiaEJPR1I5NU1KdUVwTzhjdGl0ZHlac293?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VSjRfbVd6NjlYYlZPX01wTFVtc2U5cHNBTmN2UzVDb2J3by1OeVBSODYzZFZCUHlfb3NxZl9wNU56R0c4M3pLQXIydGJ5QU1ON1cybg?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44ellleERKNGdBVTlMSlZZOEtqWlhkTDU1UE1GVmVzcTFXNERtTE1tTHhkakRWbUM3aThiTlU4S1hjWHFJQ2NsV1RXcnhFYTlMOXpkVDNLZGR2U1FSSGwzV09kTzFnLU0tUjRqRFFFR20wZw?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
     }
    ]
   }
