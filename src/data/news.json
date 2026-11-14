@@ -1,14 +1,30 @@
 {
- "generatedAt": "2026-11-14T03:22:23.192Z",
+ "generatedAt": "2026-11-14T04:18:28.906Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5546,
-  "syndicated": 551,
-  "similar": 709,
-  "syndicatedTotal": 6373,
-  "syndicatedLeft": 1193
+  "exact": 5540,
+  "syndicated": 550,
+  "similar": 705,
+  "syndicatedTotal": 6370,
+  "syndicatedLeft": 1195
  },
  "calendar": [
+  {
+   "date": "2026-10",
+   "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "氷の城壁",
+   "title": "数話観て「最後まで観る」心に決めた2026秋アニメTOP5 同率2位は『氷の城壁』『アオのハコ』じゃあ1位は？(マグミクス)",
+   "link": "https://news.yahoo.co.jp/articles/11a6b90b76ef498c3f9ea7214f01628eee29261b?source=rss",
+   "source": "マグミクス（Yahoo!ニュース エンタメ）",
+   "sources": 2,
+   "categories": [
+    "ranking"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
   {
    "date": "2026-10",
    "precision": "month",
@@ -23,22 +39,6 @@
     "new",
     "movie",
     "music"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-10",
-   "precision": "month",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": "氷の城壁",
-   "title": "数話観て「最後まで観る」心に決めた2026秋アニメTOP5 同率2位は『氷の城壁』『アオのハコ』じゃあ1位は？(マグミクス)",
-   "link": "https://news.yahoo.co.jp/articles/11a6b90b76ef498c3f9ea7214f01628eee29261b?source=rss",
-   "source": "マグミクス（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "ranking"
    ],
    "platforms": [],
    "spoiler": false
@@ -4757,7 +4757,7 @@
    "title": "劇場アニメ「魔法使いの夜」11月20日よりIMAX同時公開！戸松遥さん、小林裕介さん登壇の公開記念舞台挨拶も11月21日に東京、22日に大阪で開催",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53WWVVVkhuYWlfRUtKTUdSaklqMEdONEhkNFZzRjFiYkI3LTVaZnFEenZfRkRYZEFtYkZTdmJwZERaT2xYY1BWb1IzNV9YV2JIbUFDUg?oc=5",
    "source": "Gamer",
-   "sources": 6,
+   "sources": 4,
    "categories": [
     "movie",
     "stage"
@@ -5351,6 +5351,38 @@
   {
    "date": "2026-11-24",
    "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "セボンスター",
+   "title": "『セボンスター』×サンエックス初コラボ！リラックマ・すみっコぐらしなど全10デザインのキラキラペンダントが11月24日から先行発売",
+   "link": "https://nijimen.kusuguru.co.jp/topics/653606",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-24",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": null,
+   "title": "リラックマ、すみっコぐらし、たれぱんだ等のアクセサリーが素敵！「セボンスター」×「サンエックスユニバース」コラボ商品が11月24日発売",
+   "link": "https://www.inside-games.jp/article/2026/11/11/190709.html",
+   "source": "インサイド",
+   "sources": 1,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-24",
+   "precision": "day",
    "verb": "event",
    "label": "開催",
    "work": null,
@@ -5456,6 +5488,22 @@
    "categories": [
     "broadcast",
     "visual"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-26",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "BANANA FISH",
+   "title": "TVアニメ『BANANA FISH』テーマカフェ「BANANA FISH Cafe and Bar – What they see -」が11月26日より新宿で開催！アッシュ・英二・ショーターをイメージしたドーナツやスープセット、描き起こしグッズも登場",
+   "link": "https://nijimen.kusuguru.co.jp/topics/656963",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
+    "goods"
    ],
    "platforms": [],
    "spoiler": false
@@ -8793,7 +8841,7 @@
    "title": "TVアニメ「とある暗部の少女共棲」Blu-ray＆DVD 2027年3月31日(水)より発売!",
    "link": "https://prtimes.jp/main/html/rd/p/000002955.000031422.html",
    "source": "PR TIMES",
-   "sources": 1,
+   "sources": 2,
    "categories": [
     "media"
    ],
@@ -9656,8 +9704,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 869,
-   "accepted": 868
+   "archived": 864,
+   "accepted": 863
   },
   {
    "id": "lisani",
@@ -9700,8 +9748,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1117,
-   "accepted": 464
+   "archived": 1120,
+   "accepted": 465
   },
   {
    "id": "gnews-anime",
@@ -9711,8 +9759,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5501,
-   "accepted": 5201
+   "archived": 5495,
+   "accepted": 5196
   },
   {
    "id": "gnews-tvanime",
@@ -9722,8 +9770,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1108,
-   "accepted": 1045
+   "archived": 1104,
+   "accepted": 1041
   },
   {
    "id": "gnews-movie",
@@ -9733,8 +9781,8 @@
    "ok": true,
    "error": null,
    "fetched": 85,
-   "archived": 850,
-   "accepted": 758
+   "archived": 846,
+   "accepted": 754
   },
   {
    "id": "gnews-seiyu",
@@ -9744,8 +9792,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2507,
-   "accepted": 2261
+   "archived": 2498,
+   "accepted": 2252
   },
   {
    "id": "natalie-eiga",
@@ -9755,8 +9803,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 914,
-   "accepted": 171
+   "archived": 913,
+   "accepted": 170
   },
   {
    "id": "inside-games",
@@ -9766,8 +9814,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1666,
-   "accepted": 846
+   "archived": 1660,
+   "accepted": 845
   },
   {
    "id": "4gamer",
@@ -9777,8 +9825,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1245,
-   "accepted": 97
+   "archived": 1239,
+   "accepted": 95
   },
   {
    "id": "denfaminico",
@@ -9788,7 +9836,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1232,
+   "archived": 1230,
    "accepted": 299
   },
   {
@@ -9799,7 +9847,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1239,
+   "archived": 1236,
    "accepted": 98
   },
   {
@@ -9810,7 +9858,7 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 138,
+   "archived": 137,
    "accepted": 12
   },
   {
@@ -9822,7 +9870,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29508,
-   "accepted": 3390
+   "accepted": 3391
   },
   {
    "id": "prtimes",
@@ -9832,8 +9880,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29090,
-   "accepted": 532
+   "archived": 29016,
+   "accepted": 531
   },
   {
    "id": "ann",
@@ -9843,8 +9891,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 700,
-   "accepted": 700
+   "archived": 698,
+   "accepted": 698
   },
   {
    "id": "mal",
@@ -9854,8 +9902,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 81,
-   "accepted": 81
+   "archived": 80,
+   "accepted": 80
   },
   {
    "id": "cbr-anime",
@@ -9870,6 +9918,467 @@
   }
  ],
  "items": [
+  {
+   "title": "ポッチャマやモクローたちが家でゴロゴロ♪「ポケピース」×JINSの新作アイウエアがパステル可愛い！(アニメ！アニメ！)",
+   "summary": "「ポケピース」より、ポケモンたちの世界観を表現した新作アイウエア「ポケピース meets JINS HOME®」が登場。2026年11月19日より全国のJINS店舗およびJINSオンラインショップにて",
+   "link": "https://news.yahoo.co.jp/articles/f8cdead468ea2045e3bd99fb916391fad89d9f31?source=rss",
+   "pubDate": "2026-11-14T04:15:02.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f8cdead468ea2045e3bd99fb916391fad89d9f31?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Sailor Moon Officially Redesigns Its 4 Original Guardians for November 2026 Debut",
+   "summary": "Sailor Moon's four beloved Sailor Guardians are getting a makeover, with Bandai unveiling its updated designs for Mercury, Mars, Jupiter and…",
+   "link": "https://www.cbr.com/sailor-moon-inner-guardians-bandai-figure-update/",
+   "pubDate": "2026-11-14T04:10:11.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/sailor-moon-officially-redesigns-its-4-original-guardians-for-november-2026-debut-2.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/sailor-moon-inner-guardians-bandai-figure-update/"
+    }
+   ]
+  },
+  {
+   "title": "『薬屋のひとりごと』×茨城県のJR山手線ラッピングトレインが11月13日より運行！猫猫・壬氏・馬閃・羅半が茨城の四季を描く全5種のビジュアル",
+   "summary": "『IBARAKI is Blossoming』JR山手線ラッピングトレインの魅力 茨城県では、観光ブランドコンセプト「IBARAKI is Blossoming（いま、いばらきが咲いている）」のもと、アニメ『薬屋のひとりごと』とのコラボレー…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/657086",
+   "pubDate": "2026-11-14T04:08:22.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/a9f557b1a0744be49f10778669d88a8a.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "薬屋のひとりごと"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/657086"
+    }
+   ]
+  },
+  {
+   "title": "“Machico Live 2026 -Tone Prism-“オフィシャルライブレポートが到着！",
+   "summary": "Machicoのソロライブ「Machico Live 2026 -Tone Prism-」が2026年11月1日(日)、神奈川・YOKOHA...",
+   "link": "https://www.lisani.jp/0000322176/",
+   "pubDate": "2026-11-14T04:00:20.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611131800-yh-012.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000322176/"
+    }
+   ]
+  },
+  {
+   "title": "「サンリオ」×GU新作！ ハローキティやシナモロールが幸せそう♪ ハートモチーフのパジャマやTシャツがズラリ",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/14/104771.html",
+   "pubDate": "2026-11-14T04:00:03.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "サンリオ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/14/104771.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/7e34118020dd7ad50cef65256236e28ab42d22dc?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ポケモン』”新たなる旅立ち”を立体化！冒険が甦るフィギュアに、「イッシュ地方」など全3種が展開",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/14/190952.html",
+   "pubDate": "2026-11-14T04:00:03.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/14/190952.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0fc4672984a28b37b6d30403f0528cd49e66c2d0?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『TANK CHAIR-戦車椅子-』第7話 あらすじ＆先行カット公開！(アニメージュプラス)",
+   "summary": "10月4日（日）よりTOKYO MXほかにて放送中のTVアニメ『TANK CHAIR -戦車椅子-』。第7話のあらすじと先行カットが公開された。そして、キャストインタビュー映像「Interview o",
+   "link": "https://news.yahoo.co.jp/articles/243e5340230c07edee47a30816ba16aec5b593e4?source=rss",
+   "pubDate": "2026-11-14T04:00:00.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "TANK CHAIR-戦車椅子-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/243e5340230c07edee47a30816ba16aec5b593e4?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "アニメ『ケロロ軍曹』第8話の次回予告が公開。ケロロが巨大化する…!?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jd1RqakpONGJLTENmU0dIYTB0X3ZGZWJ2MVViMl9kVUN4X2VjYTFCWDJjZFN5OEw1Z3NOQXFSMUZBNkdNQjM4ZnQ0VFZSRFZQd0o0aUZxQUYtZw?oc=5",
+   "pubDate": "2026-11-14T03:47:00.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "ケロロ軍曹"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jd1RqakpONGJLTENmU0dIYTB0X3ZGZWJ2MVViMl9kVUN4X2VjYTFCWDJjZFN5OEw1Z3NOQXFSMUZBNkdNQjM4ZnQ0VFZSRFZQd0o0aUZxQUYtZw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『葬送のフリーレン』のフリーレンとフェルンがクラシカルなワンピース姿でTENITOL TALLから全高約28〜30cmのフィギュアになって予約受付中",
+   "summary": "フリューのTENITOL TALLで師弟2人がそろって立体化 今回のフィギュアは、フリューが展開する、お求めになりやすい価格帯のフィギュアブランド『TENITOL』から、背の高いTALLサイズで登場します。フリーレンは全高約28cm、フェル…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/657013",
+   "pubDate": "2026-11-14T03:45:48.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/df157a7b5a2748e791bbb0cad8777ff6.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "葬送のフリーレン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/657013"
+    }
+   ]
+  },
+  {
+   "title": "「セーラームーン」ネオ・クイーン・セレニティが美麗フィギュアに！ パールや白の色合いで繊細かつ優美な姿を再現",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/14/104770.html",
+   "pubDate": "2026-11-14T03:45:02.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "セーラームーン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/14/104770.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/3b580162b91a0994630ddd7fbfe91162f2458c26?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ホロライブ、アニメ〈物語〉シリーズコラボで「秘密結社holoX」の体験型展示 制作元SHAFT描き下ろしイラスト公開（オタク総研）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRFh5a25OWGFVNFoxOWlVVGx6NXJzRy1tRy1KM3k2eDFqZWJYdnRwMHg3NzJDSXJMemJMMlpTd2NmOUMteG9KN0c5TUpnTFpnWGU3M251TEJLeWdScWhQYjc4Rm5TNDlrVVJwM0tXWkczMmJ5NTg3QzhCSVpFOUE?oc=5",
+   "pubDate": "2026-11-14T03:40:00.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "event",
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRFh5a25OWGFVNFoxOWlVVGx6NXJzRy1tRy1KM3k2eDFqZWJYdnRwMHg3NzJDSXJMemJMMlpTd2NmOUMteG9KN0c5TUpnTFpnWGU3M251TEJLeWdScWhQYjc4Rm5TNDlrVVJwM0tXWkczMmJ5NTg3QzhCSVpFOUE?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『SHIROBAKO』『NEW GAME!』などお仕事アニメ5作品がABEMAで無料一挙放送！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9reDg2b0EyeDR5MXdTSDR5MDNOMHBUU0VGZTBBSy1TUVdVR0ZiYnVXZTBZcWZ4LWdTNlcxNlF5ZFhOd3pLN0dMaDQ0Y0pnVzZsVUhzZnAzd2QzZw?oc=5",
+   "pubDate": "2026-11-14T03:32:00.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "broadcast",
+    "game"
+   ],
+   "works": [
+    "SHIROBAKO",
+    "NEW GAME!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9reDg2b0EyeDR5MXdTSDR5MDNOMHBUU0VGZTBBSy1TUVdVR0ZiYnVXZTBZcWZ4LWdTNlcxNlF5ZFhOd3pLN0dMaDQ0Y0pnVzZsVUhzZnAzd2QzZw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「リラックマ」「すみっコぐらし」らサンエックスキャラが「セボンスター」化！ キラキラ輝くコラボ商品登場",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/14/104769.html",
+   "pubDate": "2026-11-14T03:30:03.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "リラックマ",
+    "すみっコぐらし",
+    "セボンスター"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/14/104769.html"
+    }
+   ]
+  },
+  {
+   "title": "『星のカービィ』ゆらゆら揺れるインテリアフィギュア！微笑ましい姿のカービィ＆マホロアなど全6種",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/14/190951.html",
+   "pubDate": "2026-11-14T03:30:03.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "星のカービィ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/14/190951.html"
+    }
+   ]
+  },
+  {
+   "title": "バスケＢプレミア「スサマジ」、ＳａｕｃｙＤｏｇと有名声優さん起用の短編アニメ公開…バンダイナムコ傘下の運営会社が制作",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWVdtbkV2RUtaVDB2aGFJNzUxUnN4WGxrLU00YWk5MjQ5RGJNSWVKeDB6a3JTSldrSHY3amw1SGdWLW9feEhFal9WMUtJYWhqaVFqMVFRb3VYNjFjRmVBNW91Z1oyWmlkeUlPVExsczRRU1RsRUlEWDBQYTNNTFk?oc=5",
+   "pubDate": "2026-11-14T03:26:11.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-seiyu",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWVdtbkV2RUtaVDB2aGFJNzUxUnN4WGxrLU00YWk5MjQ5RGJNSWVKeDB6a3JTSldrSHY3amw1SGdWLW9feEhFal9WMUtJYWhqaVFqMVFRb3VYNjFjRmVBNW91Z1oyWmlkeUlPVExsczRRU1RsRUlEWDBQYTNNTFk?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ『BANANA FISH』テーマカフェ「BANANA FISH Cafe and Bar – What they see -」が11月26日より新宿で開催！アッシュ・英二・ショーターをイメージしたドーナツやスープセット、描き起こしグッズも登場",
+   "summary": "アッシュ・英二・ショーターが見る“景色”がテーマ コンセプト名の「What they see」は、彼らの視界、彼らが見ているものという意味。アッシュ・英二・ショーターが見る“景色”や“光景”、そして3人が共有した“時間”にフォーカスしたカフ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/656963",
+   "pubDate": "2026-11-14T03:24:20.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/5d08d9a22f844e8fb8bcf8c3e4f376b5.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "BANANA FISH"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/656963"
+    }
+   ]
+  },
   {
    "title": "元NMB上西怜、ヒップラインあらわ脚線美「ドキドキ」ショーパン姿「激烈に美しい」メガネ姿も(日刊スポーツ)",
    "summary": "元NMB48でモデルの上西怜（25）が14日までに、自身のインスタグラムを更新。カレンダー撮影中とみられるオフショットを投稿した。 「上西姉妹2027年カレンダー 発売まであと2日」とつづり、赤のラン",
@@ -9952,28 +10461,42 @@
    ]
   },
   {
-   "title": "「薬屋のひとりごと」猫猫＆壬氏たちが山手線に登場！ 茨城の四季を巡るラッピングトレインが11月13日から運行(アニメ！アニメ！)",
-   "summary": "アニメ『薬屋のひとりごと』より、茨城県とのコラボレーションによるJR山手線ラッピングトレインが走行決定。猫猫、壬氏、馬閃、羅半と茨城の四季折々の魅力を描いた5種類のビジュアルが、2026年11月13日",
-   "link": "https://news.yahoo.co.jp/articles/693dddbe724eb0d6230db2c7555c83a5cc33b9d7?source=rss",
+   "title": "「薬屋のひとりごと」猫猫＆壬氏たちが山手線に登場！ 茨城の四季を巡るラッピングトレインが11月13日から運行",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/14/104768.html",
    "pubDate": "2026-11-14T03:15:02.000Z",
    "firstSeen": "2026-11-14T03:18:34.018Z",
    "image": null,
-   "source": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
    "lang": "ja",
    "score": 6,
    "categories": [
     "goods"
    ],
-   "works": [],
+   "works": [
+    "薬屋のひとりごと"
+   ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/14/104768.html"
+    },
     {
      "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/693dddbe724eb0d6230db2c7555c83a5cc33b9d7?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zeXpJU0lsT3FaaEJBT1QtR2lNMXR4UGNWQ1NrdjJvVXQ5UWkzM0ZUVmw0UEY0YTNsczZkSl80ZVd0b0VfMlczUnliMHgzeWFmaEdaWlpFLVZFbkI2T2FBZW1xVFZsTzZOUGFzbG9YTWRqaFhsZm1xTUtqMHRJYmM?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -10036,6 +10559,13 @@
      "name": "マグミクス（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/11a6b90b76ef498c3f9ea7214f01628eee29261b?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "マグミクス（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XbmxpbGNuckp2dkVGWlhFSWd0SDZ6aXBNbnZEUmN6MnpIWVNodWJpdDNIZEthNU1rQUV2Wm9uaFRSQnhvMjRCLUk2aS1NbFBfb1ZLUndZQUlXLW5rR3E5UTNnbko5dnUyWjR4SkRxWDJUcW5ic2p2ZkdzMzFNZzQ?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -10211,6 +10741,35 @@
      "name": "4Gamer.net",
      "sourceId": "4gamer",
      "link": "https://www.4gamer.net/games/933/G093375/20261114002/"
+    }
+   ]
+  },
+  {
+   "title": "ポケモン1025匹が横浜赤レンガ集結／早見沙織が描く『SPY×FAMILY』絵【11／13よく読まれたアニメ＆ゲームニュース】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sM0szTVBkSXFQd2ppaXRLdHZSR2RtOHBzMTlCQl8xbkRXWEsybmhaaTRHU3F0aUQ5S0pmU3JmTUhHbzBfOTJkQVp3WktCUkNE?oc=5",
+   "pubDate": "2026-11-14T03:00:00.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "オリコンニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "game"
+   ],
+   "works": [
+    "SPY×FAMILY"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコンニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sM0szTVBkSXFQd2ppaXRLdHZSR2RtOHBzMTlCQl8xbkRXWEsybmhaaTRHU3F0aUQ5S0pmU3JmTUhHbzBfOTJkQVp3WktCUkNE?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -11404,6 +11963,13 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/dde9ff564ee2688c8d9a46e6ac914f05938fffb0?source=rss",
      "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16WXZRYmF1SlVvNVRickd3NVZmMlhmMkYxSUxNb0dJRUtpRHBpWUVIT242dlkxT0Z6SHF6aXdBMXVBMDFKZEthV0pQOVVhOWUwVFc3aFBlQi1nMm5MVU1RVk1DN0FERDh3bHRtVHVsbU9WbjFHOWFFSV9YUlY3RWM?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -12016,16 +12582,16 @@
    ]
   },
   {
-   "title": "【TVer】アニメ『進撃の巨人』 Season1、Season2、Season3、The Final Season 全エピソードを期間限定で順次無料配信",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ySGZBdC0zT3FqbjNCc3Zaa2kxS2xDbGRhaDZVSHJRVGNTU2kzaWhWT1ZDMEpIUElWX3hYZUhHVE5LWVRMR3I4V0hXZXZwYUpzanlPNDJHdEdKdjktNHc?oc=5",
+   "title": "【TVer】アニメ『進撃の巨人』Season1、Season2、Season3 The Final Season全エピソードを期間限定で順次無料配信",
+   "summary": "民放公式テレビ配信サービス「TVer（ティーバー）」は、2026年11月14日（土）から、MBSなどで放送された人気アニメ『進撃の巨人』のSeason1、Season2、Season3、The Final Season全話を期間限定で順次配信しま...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000543.000002492.html",
    "pubDate": "2026-11-13T22:00:00.000Z",
    "firstSeen": "2026-11-13T22:17:57.810Z",
    "image": null,
-   "source": "沖縄タイムス社",
-   "sourceId": "gnews-anime",
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "press",
    "lang": "ja",
    "score": 8,
    "categories": [],
@@ -12034,6 +12600,11 @@
    ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000543.000002492.html"
+    },
     {
      "name": "沖縄タイムス社",
      "sourceId": "gnews-anime",
@@ -13123,7 +13694,7 @@
    ]
   },
   {
-   "title": "Titan Holds Distribution of Five Star Stories Manga's 1st English Volume to Review Translation Situation",
+   "title": "Titan Holds Distribution of Five Star Stories Manga's 1st English Volume to Review Translation Situation (Updated)",
    "summary": "Titan Manga: \"We take the quality and integrity of our translations extremely seriously and fully recognize the gravity of this situation.\"",
    "link": "https://www.animenewsnetwork.com/news/2026-11-13/titan-holds-distribution-of-five-star-stories-manga-1st-english-volume-to-review-translation-/.243800",
    "pubDate": "2026-11-13T19:00:00.000Z",
@@ -13423,6 +13994,12 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000002955.000031422.html"
+    },
+    {
+     "name": "毎日新聞",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hSV8wekVzNGN3cDdGUmROSDZReFdsX0NjRDE5YWhYMGNQSTV6M2gwc0E2aEJMcUJWUzdrXzdvN3JfMUg4dm5LV20yUGJRREM0Q3VLRW1ncUJmY2ZaSGtlM0xENHFIbVYz?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -16936,6 +17513,13 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82LWxlTGc4QWtnWnFCUDg2TU13VTYxWF9ZNUNYSmxRdGk3V0VJcVRYbkhCWXJNc3VOSG1lVUpOaFBLcVJweUo0T3dxZ1VhRk1VSGl3Mk56Q0dkVVNVXzdTVWpDbjNqNHpiMWs1MEhqbmNoVXNYXzN2by1kRXoyV1E?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yb0FDMl9hbmRzODIzNVZfLWNzdjlXQm5OajZOSzJpdlFUeDVvbVBVMWc3MF9ybHA0VmpzSXFrRFhtLWVQXzY0SmRvT3YzRVJzbXJLMkV5NUQxZFJvNGpHYWs0cDhxcTNYNU9naEh3?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
     }
    ]
   },
@@ -17037,6 +17621,13 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kczIxS19KZDE3aFRQY21jVDh5QktRV0dteWVjenJ0a2s0bVBUck5tVDB5WlBuVGFXdUxmWHhYcy05WWhKdGRlemhic1NGeHNqWkM0elZNQXVKVnhsZFBHRzc3Znlhb0pWenVvVW5NUzdjWTQtcmfSAYoBQVVfeXFMTjRodlM0V1V3Z252V1k2Q0FEOUQycGxEaF9SNDdpcm5MMTU3N1RmX3RrSmgwTnk0TGQ2czRrWm52QzFsZk9YMXVDSjRaRm1Tc25EcXpNQjhfX2RHTGFqTXRJc05BTlU5TWlmdzFvam9kN2tmWTlDRGpzSFJSdzBHeWFzTHE0c2haT0xB?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "サンケイスポーツ（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUZhOVBPUjg0VW9DeUhlT0U1VkpxUWpRYlN6ejFLVjVCemJWbld6bFdBLUZIQVRhVlFlNkZGWWJjN1ZlWnJTaVZIYjBSTFVXamtmRUFJSS13SllkQWxwNE9odUg5azNJN1hYT0c1X2VhSXFHOFNaXzVEcXBRQy04RnpZeGxOOWRLQy1rcE5n?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -18573,6 +19164,32 @@
    ]
   },
   {
+   "title": "「最底辺の少女は龍神の最愛花嫁」力を隠して底辺に生きる少女と最強龍神の純愛物語（試し読みあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jLXM4QzA3SmR2ZERXanQyZWFnVGIzY2pFNDFkV25wdkdydGl1WlEtekw3ZUJhTlpVTlBiNFFZeGNhM1NVMnJCSUxIZTI?oc=5",
+   "pubDate": "2026-11-13T08:46:00.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "最底辺の少女は龍神の最愛花嫁"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jLXM4QzA3SmR2ZERXanQyZWFnVGIzY2pFNDFkV25wdkdydGl1WlEtekw3ZUJhTlpVTlBiNFFZeGNhM1NVMnJCSUxIZTI?oc=5"
+    }
+   ]
+  },
+  {
    "title": "「タッチ」達也が弟・和也のためにバイト代で買った“グローブ”もデザイン！明青学園野球部のユニフォームがセイコーコラボウオッチに",
    "summary": "",
    "link": "https://animeanime.jp/article/2026/11/13/104755.html",
@@ -19549,6 +20166,41 @@
    ]
   },
   {
+   "title": "松本しげのぶ原作、少年と滅びゆく化物を描く新連載「ホロビート－怪異双魂奇譚－」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyWkpvX0xxamstcEphN2cxRHg4QVdLVGR0aVBzVUhubDByRElTYWFQaEQ4cGUybnM5VEdDSG5uZkVCOTVPY3dGSDBNdHk?oc=5",
+   "pubDate": "2026-11-13T08:00:00.000Z",
+   "firstSeen": "2026-11-13T08:01:51.158Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "cast",
+    "media"
+   ],
+   "works": [
+    "ホロビート-怪異双魂奇譚-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyWkpvX0xxamstcEphN2cxRHg4QVdLVGR0aVBzVUhubDByRElTYWFQaEQ4cGUybnM5VEdDSG5uZkVCOTVPY3dGSDBNdHk?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/015940a09897dd45b0955996f09fdb2a0cfc762a?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "ダニエル・ラドクリフ、ドラマ版「ハリー・ポッター」は「観ないかも」(映画.com)",
    "summary": "映画「ハリー・ポッター」シリーズでハリーを演じたダニエル・ラドクリフが、12月に始まるドラマ版を観るかどうかはわからないと、米AP通信のインタビューで語った。 ラドクリフは、2001年の「ハリー・ポッ",
    "link": "https://news.yahoo.co.jp/articles/6343d7a83b1b8c7624d51942fe59c40ddd96a35b?source=rss",
@@ -19571,6 +20223,35 @@
      "name": "映画.com（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/6343d7a83b1b8c7624d51942fe59c40ddd96a35b?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "松本しげのぶ×佐島勤×斎夏生×天野明が協力 漫画『ホロビート－怪異双魂奇譚－』週刊コロコロ連載開始(オリコン)",
+   "summary": "13日に『週刊コロコロコミック』にて、漫画『ホロビート－怪異双魂奇譚－』の連載がスタートした。原作は『デュエル・マスターズ』の松本しげのぶ、シナリオは『魔法科高校の劣等生』の佐島勤、漫画は『PSYCH",
+   "link": "https://news.yahoo.co.jp/articles/d4919b648d74c86df2314d374025674f82159358?source=rss",
+   "pubDate": "2026-11-13T08:00:00.000Z",
+   "firstSeen": "2026-11-13T08:01:51.158Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "media"
+   ],
+   "works": [
+    "ホロビート-怪異双魂奇譚-"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d4919b648d74c86df2314d374025674f82159358?source=rss",
      "syndicated": true
     }
    ]
@@ -20590,7 +21271,7 @@
    ]
   },
   {
-   "title": "TVアニメ『ホテル・インヒューマンズ』2期7話のあらすじ公開！ コシバは、キャラくじのポップのイラストを描いた店員の光留と知り合いになり…",
+   "title": "TVアニメ『ホテル・インヒューマンズ』2期7話のあらすじ公開！ コシバは、キャラくじのポップのイラストを描いた店員の光留と知り合いになり… - eeo Media（イーオメディア）",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tN0V1LUNUWE1KeG4xUjV3SHFpRGhBWThTZmlqMnhMV2NtcFVQejJMS0IxSVNLZlg0aGpHQUlPUlJyeG9CZXRaRmstNEt5ODVRUm5VUg?oc=5",
    "pubDate": "2026-11-13T06:22:30.000Z",
@@ -32527,9 +33208,9 @@
     },
     {
      "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iMEF6U25OdUJLMDJ2Z19ZMmpVZ2JkMEk1dFZNUzJKNE1KQi1CSUZxODEzV0JVNWN5RzFCeVh6Y1RUZVV6dXVWa1BfdzlyVkNSdXpBZ3JZX2JmQ2xrYmVOcXkwcS1odF9PTG9PVTRjel9vQ1ZwanpLbDd2ck41aGc?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -51957,6 +52638,34 @@
    ]
   },
   {
+   "title": "『セボンスター』×サンエックス初コラボ！リラックマ・すみっコぐらしなど全10デザインのキラキラペンダントが11月24日から先行発売",
+   "summary": "セボンスターサンエックスコラボver.の特徴 『セボンスター』は、1979年の発売以来、キラキラのペンダントアクセサリーが付いた玩具菓子として親しまれてきたシリーズです。今回は、そのペンダントにサンエックスの人気キャラクター10種類がデザイ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/653606",
+   "pubDate": "2026-11-10T23:21:41.000Z",
+   "firstSeen": "2026-11-11T00:17:58.450Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/3dda6de9e83c4284a9d2c8c160bcc07d.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "セボンスター"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/653606"
+    }
+   ]
+  },
+  {
    "title": "フリップフラッパーズ 2016年放送 #11 ピュアストレージ｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDZWtwMGlNUDVpUTRsMEt5NDVLaGZ1NnZ1YTQ0MUUyUUQtOFJmNjZsMnJqb0VwY0JISVV2MElSNUhIZlZUZWdFUndxcw?oc=5",
@@ -52457,6 +53166,32 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Bakk5ZHEwa29tM0dxa3NydmJPd18xYlVpUm8xWk1RaEdiNEZ6cnd1aVFxT3JvM19vdF95RFFVLU81S04xRHBOcWF2elAzcnZU?oc=5",
      "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "リラックマ、すみっコぐらし、たれぱんだ等のアクセサリーが素敵！「セボンスター」×「サンエックスユニバース」コラボ商品が11月24日発売",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/11/190709.html",
+   "pubDate": "2026-11-10T22:30:03.000Z",
+   "firstSeen": "2026-11-10T23:17:57.101Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/11/190709.html"
     }
    ]
   },
@@ -132782,32 +133517,6 @@
    ]
   },
   {
-   "title": "「ドキサバ」，20％オフセールを開催。「テニスの王子様」のキャラクターと無人島で過ごす恋愛ゲーム",
-   "summary": "KONAMIは本日（2026年11月4日），「テニスの王子様ぎゅ〜っと！ドキドキサバイバルTiebreak♡game」の20％オフセールを，NintendoStoreおよびSteamで開始した。",
-   "link": "https://www.4gamer.net/games/947/G094705/20261104017/",
-   "pubDate": "2026-11-04T04:59:20.000Z",
-   "firstSeen": "2026-11-04T05:17:55.542Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/947/G094705/20261104017/"
-    }
-   ]
-  },
-  {
    "title": "11月7日(土)・8日(日)に「アニメ＆まんが聖地 EXPO 2026」開催！",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LTGN0SmhDVkVKMGU3YmpqRDFKbzdRdFd0YVJyeUY4WFhQR2NSbzFWUWJiQmt0c243ZEUzOC1vdGZYQWpkT2Y0bThUaHI5WGJkQXRMci1CeGtBaGRyc3JTcGV6QUJMWHpGWnc?oc=5",
@@ -150426,32 +151135,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qMjJ0b0dkcEV0UmdmRDc4eVByWkVLZUx2dktzQjBIRHViLWpkcnViUGV2X254Zl9HczlvTXA0b1VYc1Ywd0EzUTdNSGE1VlZUOXZacHZ3Tk5tLVJQQzEzUVh1cDdTa0QwTmZhQV83NzBVc19WMEtOOVR5Sm9oRzQ?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『テニスの王子様』×アベイル リストバンド付きメンズTシャツが11月下旬ごろ再販！青学・氷帝・立海・四天宝寺のユニフォーム風4デザイン",
-   "summary": "推し校を選べるユニフォーム風デザイン 再販売されるのは、青学・氷帝・立海・四天宝寺の4校をイメージしたユニフォーム風のメンズTシャツです。どのデザインにもリストバンドが付いています。 配色は青×白、白×灰、黄×黒、黄×緑の4種…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/648330",
-   "pubDate": "2026-11-02T10:45:19.000Z",
-   "firstSeen": "2026-11-02T11:17:56.879Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/b30c85a9a3b34bc8bfc17e4a2809ce64.jpg",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "テニスの王子様"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/648330"
     }
    ]
   },
@@ -192196,551 +192879,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbEU0Rng3bVR2cEtKaU44aXVDRk1MRllyYUd4OGdPNHdEQ2lfZ3dhOGRSQU0tNWpEb2VfSklxU3QxdnRwVHRINEhHOXJ3UENHUjFrX2dn?oc=5",
      "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "Firefly Wedding TV Anime Casts Natsuko Abe",
-   "summary": "Abe plays Aoi",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-29/firefly-wedding-tv-anime-casts-natsuko-abe/.243336",
-   "pubDate": "2026-10-29T19:10:36.000Z",
-   "firstSeen": "2026-10-29T20:17:56.818Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-29/firefly-wedding-tv-anime-casts-natsuko-abe/.243336"
-    }
-   ]
-  },
-  {
-   "title": "Transformers Reveals Lost 1986 Plans for Grimlock & the Technobots",
-   "summary": "A new look at an episode of the Generation 1 Transformers cartoon reveals the time-traveling origin that was almost given to a group of Auto…",
-   "link": "https://www.cbr.com/transformers-grimlock-original-series-plan-reveal/",
-   "pubDate": "2026-10-29T18:35:12.000Z",
-   "firstSeen": "2026-10-29T19:17:57.579Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/grimlock-in-the-g1-transformers-cartoon.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/transformers-grimlock-original-series-plan-reveal/"
-    }
-   ]
-  },
-  {
-   "title": "The World's Strongest Witch ‒ Episode 4",
-   "summary": "I know that this work can engage deeper gaming mechanics and why people love playing these kinds of video games, and hope it gets back to en…",
-   "link": "https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-4/.243337",
-   "pubDate": "2026-10-29T18:30:00.000Z",
-   "firstSeen": "2026-10-29T19:17:57.579Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-4/.243337"
-    }
-   ]
-  },
-  {
-   "title": "【丸眞株式会社】テレビCMに続きラジオCMを放送開始 スタジオジブリが描く「タオルの物語」を、ラジオからもお届け",
-   "summary": "丸眞株式会社（本社：愛知県名古屋市守山区、代表取締役社長：眞下 一成）は、2025年8月より スタジオジブリが制作した創業初のテレビCMを放送しています。 このたび、スタジオジブリ・プロデューサーの鈴木敏夫...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000008.000166961.html",
-   "pubDate": "2026-10-29T18:10:02.000Z",
-   "firstSeen": "2026-10-29T18:17:57.112Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000008.000166961.html"
-    }
-   ]
-  },
-  {
-   "title": "The Grimm Reapress and the Drearytale Monster Game's Trailer Reveals May 13 Release in West",
-   "summary": "Game launches for Switch 2, Switch, PS5, PC",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-29/the-grimm-reapress-and-the-drearytale-monster-game-trailer-reveals-may-13-release-in-west/.243335",
-   "pubDate": "2026-10-29T18:00:00.000Z",
-   "firstSeen": "2026-10-29T18:17:57.112Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "visual",
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-29/the-grimm-reapress-and-the-drearytale-monster-game-trailer-reveals-may-13-release-in-west/.243335"
-    }
-   ]
-  },
-  {
-   "title": "声優・藤原夏海インタビュー#3 経験も、人のお芝居も、キャラの人生も。声優ならすべてが自分の武器になる。",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yanZoWmpFSnZIbHpDNG9PVlRNUjRxTksyNmFMdFgwVmxyN2t6U3RBV0FKa3NMUTBxQUVLeU53cFkyZFhTU09PaXVZQlpJdHFGU1JHODQyYklyYTl5WVktWUx0QS0?oc=5",
-   "pubDate": "2026-10-29T18:00:00.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "J:magazine!",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "J:magazine!",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yanZoWmpFSnZIbHpDNG9PVlRNUjRxTksyNmFMdFgwVmxyN2t6U3RBV0FKa3NMUTBxQUVLeU53cFkyZFhTU09PaXVZQlpJdHFGU1JHODQyYklyYTl5WVktWUx0QS0?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "FromSoftware Delays The Duskbloods Switch 2 Game to 2027",
-   "summary": "Developers to take additional time to adjust game balance following August's Closed Network Test",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-29/fromsoftware-delays-the-duskbloods-switch-2-game-to-2027/.243333",
-   "pubDate": "2026-10-29T17:17:48.000Z",
-   "firstSeen": "2026-10-29T18:17:57.112Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-29/fromsoftware-delays-the-duskbloods-switch-2-game-to-2027/.243333"
-    }
-   ]
-  },
-  {
-   "title": "Demon Slayer Officially Releases on Nintendo Switch 2 With Free Upgrade Available Now",
-   "summary": "Demon Slayer is officially giving Nintendo players a free Switch 2 upgrade that's available now.",
-   "link": "https://www.cbr.com/demon-slayer-hinokami-chronicles-2-switch-2-free-upgrade/",
-   "pubDate": "2026-10-29T17:00:12.000Z",
-   "firstSeen": "2026-10-29T17:17:58.566Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/09/demon-slayer_-infinity-castle-s-biggest-power-up-isn-t-that-great-after-all.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/demon-slayer-hinokami-chronicles-2-switch-2-free-upgrade/"
-    }
-   ]
-  },
-  {
-   "title": "Rascal Does Not Dream of a Dear Friend Film Screens in U.S., Canada on February 21, 23-24",
-   "summary": "English-subbed trailer streamed",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-29/rascal-does-not-dream-of-a-dear-friend-film-screens-in-u.s-canada-on-february-21-23-24/.243332",
-   "pubDate": "2026-10-29T16:30:10.000Z",
-   "firstSeen": "2026-10-29T17:17:58.566Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "visual",
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-29/rascal-does-not-dream-of-a-dear-friend-film-screens-in-u.s-canada-on-february-21-23-24/.243332"
-    }
-   ]
-  },
-  {
-   "title": "Daily Report About My Witch Senpai Manga Ends",
-   "summary": "Manga launched 2018, continued with sequel in 2022",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-29/daily-report-about-my-witch-senpai-manga-ends/.243241",
-   "pubDate": "2026-10-29T16:15:00.000Z",
-   "firstSeen": "2026-10-29T17:17:58.566Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new",
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-29/daily-report-about-my-witch-senpai-manga-ends/.243241"
-    }
-   ]
-  },
-  {
-   "title": "Lustful Domination Novels/Manga Get AnimeFesta Anime",
-   "summary": "Isotarо̄ Shimano debuted Shikiyoku Hadou novel in June 2025",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-29/lustful-domination-novels-manga-get-animefesta-anime/.243329",
-   "pubDate": "2026-10-29T16:01:10.000Z",
-   "firstSeen": "2026-10-29T17:17:58.566Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-29/lustful-domination-novels-manga-get-animefesta-anime/.243329"
-    }
-   ]
-  },
-  {
-   "title": "Sega's Hit JRPG Officially Brings Back Persona 3 With a Brand-New Story",
-   "summary": "Persona 3 Reload officially returns this November, bringing a brand-new story and a new 5-star character to Sega's hit JRPG.",
-   "link": "https://www.cbr.com/persona-3-new-story-sega-jrpg/",
-   "pubDate": "2026-10-29T16:00:12.000Z",
-   "firstSeen": "2026-10-29T16:10:06.367Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/10/persona3_reload_soejima_shigenori_art.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/persona-3-new-story-sega-jrpg/"
-    }
-   ]
-  },
-  {
-   "title": "Vampire Princess Miyu OVA Blu-ray Anime Review",
-   "summary": "The Vampire Princess Miyu OAVs are perhaps a relic of a bygone time, but they're still worth watching.",
-   "link": "https://www.animenewsnetwork.com/review/vampire-princess-miyu/blu-ray-the-complete-ova-anime-series/.243030",
-   "pubDate": "2026-10-29T16:00:00.000Z",
-   "firstSeen": "2026-10-29T16:10:06.367Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 16,
-   "categories": [
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/review/vampire-princess-miyu/blu-ray-the-complete-ova-anime-series/.243030"
-    }
-   ]
-  },
-  {
-   "title": "Chiikawa Anime Film Rises Back to #2, Made in Abyss: Mezameru Shinpi Anime Film Opens at #6",
-   "summary": "Live-action In the Clear Moonlit Dusk film opens at #4",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-29/chiikawa-anime-film-rises-back-to-no.2-made-in-abyss-mezameru-shinpi-anime-film-opens-at-no.6/.243244",
-   "pubDate": "2026-10-29T15:15:00.000Z",
-   "firstSeen": "2026-10-29T16:10:06.367Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "movie",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-29/chiikawa-anime-film-rises-back-to-no.2-made-in-abyss-mezameru-shinpi-anime-film-opens-at-no.6/.243244"
-    }
-   ]
-  },
-  {
-   "title": "くら寿司で「にじさんじ」コラボ第3弾が開催！咎人、リトテツ、おうとうのグッズやコラボメニューを多数展開",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/30/190061.html",
-   "pubDate": "2026-10-29T15:10:03.000Z",
-   "firstSeen": "2026-10-29T15:18:53.635Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/30/190061.html"
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/8685386766b0dfea27aa8660af4439e6dce91df5?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ドラマ「溺愛」EDテーマは吉田仁人の新曲「愛の形」、初回放送内で解禁",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OZTliamlrY0wtV1lkbGpNZFNmcVNtVmRMa1BDTXFUaGN2UVhHa1E5YlY4UlJ0eVNOLWp2dTlwYVpGQkItaGRWSjBDaw?oc=5",
-   "pubDate": "2026-10-29T15:10:00.000Z",
-   "firstSeen": "2026-10-29T15:18:53.635Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "music"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OZTliamlrY0wtV1lkbGpNZFNmcVNtVmRMa1BDTXFUaGN2UVhHa1E5YlY4UlJ0eVNOLWp2dTlwYVpGQkItaGRWSjBDaw?oc=5"
-    },
-    {
-     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/81c79dd212d03e9a76346749db112891b87dda51?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "吉田仁人、自身主演ドラマ「溺愛」のEDテーマ担当 初の書き下ろし曲「愛の形」を初回放送で解禁(TVガイドWeb)",
-   "summary": "TOKYO MXの新金曜ドラマ「溺愛 ～ 実は、最強ヒーロー ～」（金曜午後11：00）が10月30日よりスタート。主演の吉田仁人（M!LK）の新曲「愛の形」がエンディングテーマに決まったことが明らか",
-   "link": "https://news.yahoo.co.jp/articles/834caa66cb7c4eb6cb3d00e273f4225891b6247a?source=rss",
-   "pubDate": "2026-10-29T15:10:00.000Z",
-   "firstSeen": "2026-10-29T15:18:53.635Z",
-   "image": null,
-   "source": "TVガイドWeb（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 9,
-   "categories": [
-    "music"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "TVガイドWeb（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/834caa66cb7c4eb6cb3d00e273f4225891b6247a?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ「薬屋のひとりごと」羅半とは？声優や年齢、能力、初登場は何話？猫猫との関係も紹介 | アニメニュース | アニメフリークス",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQjZfY2hQeWFWcmVQYzNSbll0ZnQxblNfalllQVNWeTdrVy1HSVdEd0Zic2tQZVhLZm9lendoWFNuMEFfSGxlU3g5MFhJaG9vZXZCcQ?oc=5",
-   "pubDate": "2026-10-29T15:07:00.000Z",
-   "firstSeen": "2026-10-29T16:10:06.367Z",
-   "image": null,
-   "source": "ABEMA TIMES",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ABEMA TIMES",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQjZfY2hQeWFWcmVQYzNSbll0ZnQxblNfalllQVNWeTdrVy1HSVdEd0Zic2tQZVhLZm9lendoWFNuMEFfSGxlU3g5MFhJaG9vZXZCcQ?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "劇場アニメ『魔法使いの夜』が11月20日よりIMAX同時公開決定！“遊園地”で魔術を展開する青子と有珠を描いたビジュアルも解禁",
-   "summary": "戸松遥さん・小林裕介さん登壇の舞台挨拶を11月21日に東京、22日に大阪で開催。supercellの主題歌「夜と青」のCDとサントラの発売情報も",
-   "link": "https://news.denfaminicogamer.jp/news/2610292u",
-   "pubDate": "2026-10-29T15:00:00.000Z",
-   "firstSeen": "2026-10-29T15:18:53.635Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/MY_IMAX_poster_3_RGB_CC--724x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 9,
-   "categories": [
-    "movie",
-    "music",
-    "stage"
-   ],
-   "works": [
-    "魔法使いの夜"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610292u"
-    },
-    {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zQjVqMVp5dzM1M3N6UUNVNFExTnY4LU1Sb3YxSklESVcyQ1B1R0ZfajFTZ0o2S2xIN0tnQWstVlNoZm9IYUxweC1XTUhqRDBMbUx4X1hoVU9vZThSZ1ltajdXY1JwVV9tUkxqY1ZkUmo2Y2s?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ハセガワ、レジンキット「『魔法のプリンセス ミンキーモモ』 ミンキーモモ」本日出荷開始！(HOBBY Watch)",
-   "summary": "ハセガワは、レジンキット「『魔法のプリンセス ミンキーモモ』 ミンキーモモ」を10月30日に出荷開始する。価格は6,490円。【この記事に関する別の画像を見る】 本商品は、TVアニメ「魔法のプリンセス",
-   "link": "https://news.yahoo.co.jp/articles/166f3401bfede7eef9a55654a17e192284627a20?source=rss",
-   "pubDate": "2026-10-29T15:00:00.000Z",
-   "firstSeen": "2026-10-29T15:18:53.635Z",
-   "image": null,
-   "source": "HOBBY Watch（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "魔法のプリンセス ミンキーモモ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "HOBBY Watch（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/166f3401bfede7eef9a55654a17e192284627a20?source=rss",
-     "syndicated": true
     }
    ]
   }
