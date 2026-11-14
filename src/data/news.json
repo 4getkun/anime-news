@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-14T04:18:28.906Z",
+ "generatedAt": "2026-11-14T05:18:31.797Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5540,
-  "syndicated": 550,
-  "similar": 705,
-  "syndicatedTotal": 6370,
-  "syndicatedLeft": 1195
+  "exact": 5529,
+  "syndicated": 548,
+  "similar": 704,
+  "syndicatedTotal": 6358,
+  "syndicatedLeft": 1192
  },
  "calendar": [
   {
@@ -1038,23 +1038,6 @@
    "categories": [
     "movie",
     "goods"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-03",
-   "precision": "day",
-   "verb": "movie",
-   "label": "公開",
-   "work": "ゴジラ-1.0",
-   "title": "『ゴジラ-1.0』本編ノーカットで今夜放送 神木隆之介×浜辺美波×山崎貴監督のコメント到着(リアルサウンド)",
-   "link": "https://news.yahoo.co.jp/articles/704a54db60ec143c3d90b3b5a44fb3eba2178f40?source=rss",
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sources": 3,
-   "categories": [
-    "cast",
-    "movie"
    ],
    "platforms": [],
    "spoiler": false
@@ -5884,6 +5867,22 @@
   {
    "date": "2026-11-30",
    "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "ビリーと魔法のはじまり",
+   "title": "生田斗真がゲスト！映画『ビリーと魔法のはじまり』公開記念、FM802「ROCK KIDS 802」公開収録が11月30日に開催 観覧に合計1,000名を招待",
+   "link": "https://nijimen.kusuguru.co.jp/topics/657104",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
+    "movie"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-30",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "ベイマックス",
@@ -9693,8 +9692,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 948,
-   "accepted": 942
+   "archived": 951,
+   "accepted": 945
   },
   {
    "id": "natalie-comic",
@@ -9704,8 +9703,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 864,
-   "accepted": 863
+   "archived": 865,
+   "accepted": 864
   },
   {
    "id": "lisani",
@@ -9748,8 +9747,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1120,
-   "accepted": 465
+   "archived": 1123,
+   "accepted": 468
   },
   {
    "id": "gnews-anime",
@@ -9759,8 +9758,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5495,
-   "accepted": 5196
+   "archived": 5491,
+   "accepted": 5194
   },
   {
    "id": "gnews-tvanime",
@@ -9770,8 +9769,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1104,
-   "accepted": 1041
+   "archived": 1101,
+   "accepted": 1038
   },
   {
    "id": "gnews-movie",
@@ -9780,9 +9779,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 85,
-   "archived": 846,
-   "accepted": 754
+   "fetched": 83,
+   "archived": 844,
+   "accepted": 753
   },
   {
    "id": "gnews-seiyu",
@@ -9792,8 +9791,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2498,
-   "accepted": 2252
+   "archived": 2478,
+   "accepted": 2233
   },
   {
    "id": "natalie-eiga",
@@ -9803,7 +9802,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 913,
+   "archived": 914,
    "accepted": 170
   },
   {
@@ -9814,7 +9813,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1660,
+   "archived": 1658,
    "accepted": 845
   },
   {
@@ -9825,7 +9824,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1239,
+   "archived": 1235,
    "accepted": 95
   },
   {
@@ -9836,8 +9835,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1230,
-   "accepted": 299
+   "archived": 1225,
+   "accepted": 297
   },
   {
    "id": "gamespark",
@@ -9847,7 +9846,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1236,
+   "archived": 1234,
    "accepted": 98
   },
   {
@@ -9870,7 +9869,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29508,
-   "accepted": 3391
+   "accepted": 3388
   },
   {
    "id": "prtimes",
@@ -9880,7 +9879,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29016,
+   "archived": 28936,
    "accepted": 531
   },
   {
@@ -9891,8 +9890,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 698,
-   "accepted": 698
+   "archived": 699,
+   "accepted": 699
   },
   {
    "id": "mal",
@@ -9902,8 +9901,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 80,
-   "accepted": 80
+   "archived": 79,
+   "accepted": 79
   },
   {
    "id": "cbr-anime",
@@ -9919,22 +9918,344 @@
  ],
  "items": [
   {
-   "title": "ポッチャマやモクローたちが家でゴロゴロ♪「ポケピース」×JINSの新作アイウエアがパステル可愛い！(アニメ！アニメ！)",
-   "summary": "「ポケピース」より、ポケモンたちの世界観を表現した新作アイウエア「ポケピース meets JINS HOME®」が登場。2026年11月19日より全国のJINS店舗およびJINSオンラインショップにて",
-   "link": "https://news.yahoo.co.jp/articles/f8cdead468ea2045e3bd99fb916391fad89d9f31?source=rss",
-   "pubDate": "2026-11-14T04:15:02.000Z",
-   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "title": "マジック：ザ・ギャザリング Netflixアニメシリーズ「PLANESWALKER」発表 - mtg-jp.com",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iNkcyQU93QllXdVRiQ3NNampUMUxBa2UtM2NrOEpWd2lkV3NmNF9IY1VTYlZJZ1JEalIzUW1henlEdy1aSjlOcWN1djVpVG8zU2xpWHMzQmQ?oc=5",
+   "pubDate": "2026-11-14T05:11:30.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
    "image": null,
-   "source": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+   "source": "Googleニュース「アニメ」",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "broadcast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Googleニュース「アニメ」",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iNkcyQU93QllXdVRiQ3NNampUMUxBa2UtM2NrOEpWd2lkV3NmNF9IY1VTYlZJZ1JEalIzUW1henlEdy1aSjlOcWN1djVpVG8zU2xpWHMzQmQ?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "『ムーミン』クリスマス限定刺繍のトートバッグ2型が販売中！スニフ・ムーミン・リトルミイが彩る2WAYミニと約15Lの大容量",
+   "summary": "クリスマス限定の刺繍デザイン「ダークグリーン（クリスマス）」 「スニフ」「ムーミン」「リトルミイ」の3人が、クリスマスならではの特別な姿で刺繍されたデザインです。ボディは深みのあるダークグリーンで、冬の装いになじむ落ち着いた色合いになってい…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/657108",
+   "pubDate": "2026-11-14T05:10:19.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/c3eda5ae63a046549078b07015fce553.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ムーミン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/657108"
+    }
+   ]
+  },
+  {
+   "title": "佐久間大介、テレビアニメ初主演決定に絶叫「よっしゃ!」 加瀬康之が“素直な芝居”を称賛【インタビュー】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Tajh6U2lEYktIOTl4a2FSOUhtSkpWbF82aHUydGFCM01IMUtoZm9QRC1RVHF6b3hCS2o3NUpLa3pxVzJQUmZVcmpKMlpWcTA?oc=5",
+   "pubDate": "2026-11-14T05:10:00.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": null,
+   "source": "オリコンニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコンニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Tajh6U2lEYktIOTl4a2FSOUhtSkpWbF82aHUydGFCM01IMUtoZm9QRC1RVHF6b3hCS2o3NUpLa3pxVzJQUmZVcmpKMlpWcTA?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d0c0b3b577ac1ba8b399d5cac75f26ada78ba497?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ライトセーバーが競売で7・8億円！「スター・ウォーズ」関連小道具で史上最高額記録(日刊スポーツ)",
+   "summary": "米映画「スター・ウォーズ／帝国の逆襲」（1980年）と「スター・ウォーズ／ジェダイの帰還」（1983年）の撮影で実際に使用されたライトセーバーが現地時間12日に競売にかけられ、予想をはるかに上回る48",
+   "link": "https://news.yahoo.co.jp/articles/02f4eb4428a35cbe1aa7456da9f2f5c80898c399?source=rss",
+   "pubDate": "2026-11-14T05:07:42.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": null,
+   "source": "日刊スポーツ（Yahoo!ニュース エンタメ）",
    "sourceId": "yahoo-ent",
    "syndicated": true,
    "kind": "general",
    "lang": "ja",
    "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "日刊スポーツ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/02f4eb4428a35cbe1aa7456da9f2f5c80898c399?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「葬送のフリーレン」クラシカルなワンピースを着たフリーレン、フェルンがフィギュアに(コミックナタリー)",
+   "summary": "山田鐘人・アベツカサ原作によるTVアニメ「葬送のフリーレン」より、ワンピースに身を包んだフリーレン、フェルンのフィギュアがフリューから登場。FURYU HOBBY MALL、あみあみ、アニメイト等で予",
+   "link": "https://news.yahoo.co.jp/articles/26b98a3db5164c3816a02d18f55931879bc98953?source=rss",
+   "pubDate": "2026-11-14T05:00:11.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/26b98a3db5164c3816a02d18f55931879bc98953?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Uma Musume Revs its Engines with F1 Japanese Grand Prix",
+   "summary": "Horse-girl racing meets Formula 1 racing",
+   "link": "https://www.animenewsnetwork.com/interest/2026-11-13/uma-musume-revs-its-engines-with-f1-japanese-grand-prix/.243789",
+   "pubDate": "2026-11-14T04:59:00.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
    "categories": [],
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/interest/2026-11-13/uma-musume-revs-its-engines-with-f1-japanese-grand-prix/.243789"
+    }
+   ]
+  },
+  {
+   "title": "生田斗真がゲスト！映画『ビリーと魔法のはじまり』公開記念、FM802「ROCK KIDS 802」公開収録が11月30日に開催 観覧に合計1,000名を招待",
+   "summary": "生田斗真さんが映画『ビリーと魔法のはじまり』を語る公開収録 今回の公開収録は、FM802で毎週金曜21:00〜23:48に放送中の「ROCK KIDS 802-Lisa Lit Friday-」が、映画『ビリーと魔法のはじまり』の公開を記念…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/657104",
+   "pubDate": "2026-11-14T04:52:36.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/f045b948addb4ba8a856dd420eea3ce0.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "ビリーと魔法のはじまり"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/657104"
+    }
+   ]
+  },
+  {
+   "title": "「ガンダム」アパレルショップ「STRICT-G」大阪に出撃！ ならではな限定商品や“ハロのピンズ”まで登場",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/14/104774.html",
+   "pubDate": "2026-11-14T04:45:02.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ガンダム",
+    "STRICT-G"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/14/104774.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c7d4b3749a3d8c5900c3ce093327bc5ff2dac1ad?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Netflix『マジック：ザ・ギャザリング』アニメ『PLANESWALKER』舞台裏映像＆特報が解禁！7年越しの大作、『ヴィジョンクエスト』ショーランナーが指揮",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zSzlVSFpTc0o5QVhhQV9tSlF3RThPUm9lMThta1R1ak93R3NGWUwwMm5Lc0UzU2ctS3ZoeS1PNlg2Z2FDQnFCQWtWcmxuOG82?oc=5",
+   "pubDate": "2026-11-14T04:39:28.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": null,
+   "source": "玩具人 TOY PEOPLE",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "broadcast",
+    "visual",
+    "stage"
+   ],
+   "works": [
+    "マジック:ザ・ギャザリング",
+    "PLANESWALKER",
+    "ヴィジョンクエスト"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "玩具人 TOY PEOPLE",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zSzlVSFpTc0o5QVhhQV9tSlF3RThPUm9lMThta1R1ak93R3NGWUwwMm5Lc0UzU2ctS3ZoeS1PNlg2Z2FDQnFCQWtWcmxuOG82?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『進撃の巨人』Season1からThe Final SeasonまでTVerで無料配信！11月14日から期間限定で順次スタート",
+   "summary": "『進撃の巨人』の4シリーズをTVerで順番に楽しめる 今回TVerで配信されるのは、MBSなどで放送されたアニメ『進撃の巨人』のSeason1、Season2、Season3、The Final Season。シリーズごとに配信期間が設けら…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/657098",
+   "pubDate": "2026-11-14T04:37:49.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/17dd5d6ed1fa4fba818ee02ce21ba003.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "works": [
+    "進撃の巨人"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/657098"
+    }
+   ]
+  },
+  {
+   "title": "「ムーミン」リトルミイたちが冬のお出かけを彩る♪ クリスマスにぴったりなトート＆ショルダー",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/14/104773.html",
+   "pubDate": "2026-11-14T04:30:03.000Z",
+   "firstSeen": "2026-11-14T05:17:59.787Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ムーミン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/14/104773.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/17c5b669f41f2f3a6c02381158a33ecd6be8fa76?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ポッチャマやモクローたちが家でゴロゴロ♪「ポケピース」×JINSの新作アイウエアがパステル可愛い！",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/14/104772.html",
+   "pubDate": "2026-11-14T04:15:02.000Z",
+   "firstSeen": "2026-11-14T04:17:56.786Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ポケピース"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/14/104772.html"
+    },
     {
      "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -11238,6 +11559,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/11/14/104763.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUM4ZUNDQUtSZXVnNE9NZko5cU03WlhTdDZXZFJ6SExDeklOOXlqZUYwdmtpbkE3OWdibV9LOGxmSnZOaUdhN1czVWtnUV9ZZUVvVTFBNUszRkZaSjR1UXNKNlpxUWgxc3ZHT3ZkMU9Pd3I2VlZzVEJDYjBPbDhLTTR0WXVsbjVVVnMtVlp3?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -11847,24 +12175,31 @@
    ]
   },
   {
-   "title": "「タッチ」45周年記念の腕時計がセイコーから、“4500点”限定で 1時には「M」を配置(コミックナタリー)",
-   "summary": "あだち充「タッチ」の連載開始45周年を記念した腕時計「あだち充 原作『タッチ』 45周年記念ウオッチ」が、セイコーから登場。PREMICOオンラインショップで“4500”点限定で販売されている。【画像",
-   "link": "https://news.yahoo.co.jp/articles/0df354aa16831565a7ec8729f0cc9191f5e129d8?source=rss",
-   "pubDate": "2026-11-14T00:05:10.000Z",
+   "title": "「タッチ」45周年記念の腕時計がセイコーから、“4500点”限定で 1時には「M」を配置",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83RVc2Z2gxNGhOY085RFNMT1dNTzRDZmZGRjJCLXhxUnU3eEsybHh5YXkzZ1IyOGE3ZXJmZGt0MzV5TG9RSHcwZlVmQzM?oc=5",
+   "pubDate": "2026-11-14T00:05:00.000Z",
    "firstSeen": "2026-11-14T00:18:00.257Z",
    "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
    "lang": "ja",
    "score": 5,
    "categories": [
     "media"
    ],
-   "works": [],
+   "works": [
+    "タッチ"
+   ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83RVc2Z2gxNGhOY085RFNMT1dNTzRDZmZGRjJCLXhxUnU3eEsybHh5YXkzZ1IyOGE3ZXJmZGt0MzV5TG9RSHcwZlVmQzM?oc=5"
+    },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -12859,34 +13194,6 @@
    ]
   },
   {
-   "title": "＜機動戦士ガンダムSEED FREEDOM ZERO＞新作アニメのインフィニットジャスティスガンダム 魂ネイション2026に",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYVUxcGdKMTN0THEzd214ZDE4OGk1S3pjUXBZNUE1RTJyRWVSODRrVDFpTE1Ydlk0bG1NOXY0b255V3gzR3BlWnI1S1lDTnRpVVlTTFNzWUJ4QkdHTUl3ZTAxTkFYUlUxLVpWS1pfWlRYcjEzemZFT2xzOVdCc1U?oc=5",
-   "pubDate": "2026-11-13T21:32:32.000Z",
-   "firstSeen": "2026-11-13T22:17:57.810Z",
-   "image": null,
-   "source": "Yahoo!ニュース",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "new"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYVUxcGdKMTN0THEzd214ZDE4OGk1S3pjUXBZNUE1RTJyRWVSODRrVDFpTE1Ydlk0bG1NOXY0b255V3gzR3BlWnI1S1lDTnRpVVlTTFNzWUJ4QkdHTUl3ZTAxTkFYUlUxLVpWS1pfWlRYcjEzemZFT2xzOVdCc1U?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "Magic Knight Rayearth ‒ Episode 6",
    "summary": "This week was the first time I felt this quicker pacing working more to this series’ disadvantage.",
    "link": "https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-6/.243803",
@@ -12962,6 +13269,34 @@
      "name": "にじめん",
      "sourceId": "nijimen",
      "link": "https://nijimen.kusuguru.co.jp/topics/656713"
+    }
+   ]
+  },
+  {
+   "title": "＜機動戦士ガンダムSEED FREEDOM ZERO＞新作アニメのインフィニットジャスティスガンダム 魂ネイション2026に",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYVUxcGdKMTN0THEzd214ZDE4OGk1S3pjUXBZNUE1RTJyRWVSODRrVDFpTE1Ydlk0bG1NOXY0b255V3gzR3BlWnI1S1lDTnRpVVlTTFNzWUJ4QkdHTUl3ZTAxTkFYUlUxLVpWS1pfWlRYcjEzemZFT2xzOVdCc1U?oc=5",
+   "pubDate": "2026-11-13T21:26:00.000Z",
+   "firstSeen": "2026-11-13T22:17:57.810Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYVUxcGdKMTN0THEzd214ZDE4OGk1S3pjUXBZNUE1RTJyRWVSODRrVDFpTE1Ydlk0bG1NOXY0b255V3gzR3BlWnI1S1lDTnRpVVlTTFNzWUJ4QkdHTUl3ZTAxTkFYUlUxLVpWS1pfWlRYcjEzemZFT2xzOVdCc1U?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -13126,10 +13461,10 @@
    "pubDate": "2026-11-13T21:00:00.000Z",
    "firstSeen": "2026-11-13T21:17:54.140Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-anime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
    "score": 9,
    "categories": [],
@@ -13139,9 +13474,10 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KbVItdDFpSlZ1QVB3WWcwbWdsNmhOMHFicE9BTG1jUWtrY1JNRDFLejkza0Q0ZWlHVV9iVFZFaDZOZWNNX19IVERaNEQ?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KbVItdDFpSlZ1QVB3WWcwbWdsNmhOMHFicE9BTG1jUWtrY1JNRDFLejkza0Q0ZWlHVV9iVFZFaDZOZWNNX19IVERaNEQ?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -13349,6 +13685,12 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2611142s"
+    },
+    {
+     "name": "マイナビニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yc0VKa0VQSnZrMWZaSHE5WnhKWVl0QjVPSmRZbHpkeTBiemJ0WXNmdUpRNGE2RnZBU1gyWEJmTWJvRUcyYXVZSUZWNzIzZzNoOTFzYWFZX3kxTXRy?oc=5",
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "ｄメニューニュース",
@@ -19517,6 +19859,12 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Pd2xqWTQzRE01QnlKR1FUanBEMktCMTlMSGNhdzh3YXpsMmN2MEhZTU9jU2VnYmZtaTBtNjBhMFVSSm8?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "北海道新聞デジタル",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MS0FFVU5SN1Y5RkFTX0FGNS1EUm0xVE5RUjQwTlZEWWJrVFlkSTRSVzhXczRRRGNpckxZcjZ2MW0yZFFlUHdaMGE0YVV6VVJpelFHZXBLaHJTUQ?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -25443,12 +25791,12 @@
    "pubDate": "2026-11-13T01:00:00.000Z",
    "firstSeen": "2026-11-13T01:06:55.743Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-movie",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
-   "score": 9,
+   "score": 13,
    "categories": [
     "cast",
     "movie",
@@ -25460,10 +25808,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aWjlGLTNRa1FNYWVGa21FMkFPa1h6LVpyWFNoZ2Q0NFI5cVo1LWlRN0k3S3pYdnFyc2l0SENJQ2xPYkRzaDRHR2gtY1M?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aWjlGLTNRa1FNYWVGa21FMkFPa1h6LVpyWFNoZ2Q0NFI5cVo1LWlRN0k3S3pYdnFyc2l0SENJQ2xPYkRzaDRHR2gtY1M?oc=5"
     },
     {
      "name": "シネマトゥデイ",
@@ -192560,324 +192907,6 @@
      "name": "PASH! PLUS",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZcFpac09mRmstSHlCSmVsZHhXeHh0MHUyNlVCOTNwY3VOX3YyYkNnb0g2OW52WkFreTU5NnZlbzFGVWZPVE9tcWdOYXMxQQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "『ドラクエ』カードダス第2弾が発売！『3』より勇者や職業9種、ゾーマたち強敵など全35枚を描き下ろし",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/10/30/190062.html",
-   "pubDate": "2026-10-29T21:00:03.000Z",
-   "firstSeen": "2026-10-29T21:09:36.786Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "ドラクエ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/10/30/190062.html"
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/0bf88c30d5c946388c900db29e14a2cdeeb85034?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『ゴジラ-1.0』今夜、本編ノーカットで放送！ 神木隆之介「とても大きな想いのある作品」(cinemacafe.net)",
-   "summary": "金曜ロードショーでの映画『ゴジラ-1.0』の放送にあたって、神木隆之介、浜辺美波、監督の山崎貴からコメントが到着した。【写真】浜辺美波演じる典子『ゴジラ-1.0』もうすぐ公開を迎える山崎監督最新作『ゴ",
-   "link": "https://news.yahoo.co.jp/articles/dca822018849d9abe4fcfef50682dcdee6644077?source=rss",
-   "pubDate": "2026-10-29T21:00:03.000Z",
-   "firstSeen": "2026-10-29T21:09:36.786Z",
-   "image": null,
-   "source": "cinemacafe.net（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "ゴジラ-1.0"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "cinemacafe.net（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/dca822018849d9abe4fcfef50682dcdee6644077?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『ゴジラ-1.0』本編ノーカットで今夜放送 神木隆之介×浜辺美波×山崎貴監督のコメント到着(リアルサウンド)",
-   "summary": "11月3日に公開を控える山崎貴監督最新作『ゴジラ-0.0』の前作『ゴジラ-1.0』が、10月30日21時より日本テレビ系『金曜ロードショー』にて本編ノーカットで放送されることを受けて、神木隆之介、浜辺",
-   "link": "https://news.yahoo.co.jp/articles/704a54db60ec143c3d90b3b5a44fb3eba2178f40?source=rss",
-   "pubDate": "2026-10-29T21:00:00.000Z",
-   "firstSeen": "2026-10-29T21:09:36.786Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "ゴジラ-1.0"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/704a54db60ec143c3d90b3b5a44fb3eba2178f40?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "オリコン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/cddc6d70dd3c92870a088fe1c04b983b157a8ec0?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "今夜放送！ 金曜ロードショー『ゴジラ-1.0』神木隆之介＆浜辺美波＆山崎貴監督コメント到着(クランクイン！)",
-   "summary": "山崎貴監督最新作『ゴジラ-0.0』の11月3日公開を記念して、本日10月30日21時より日本テレビ系『金曜ロードショー』にて、最新作の前作となる『ゴジラ-1.0』を本編ノーカットで放送。本作の放送に当",
-   "link": "https://news.yahoo.co.jp/articles/0580d0dddebee60ee7243f891db362c028173363?source=rss",
-   "pubDate": "2026-10-29T21:00:00.000Z",
-   "firstSeen": "2026-10-29T21:09:36.786Z",
-   "image": null,
-   "source": "クランクイン！（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "ゴジラ-1.0"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/0580d0dddebee60ee7243f891db362c028173363?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Shōta Kōno Launches Nightmare of Oveja Negra Manga",
-   "summary": "Science fiction horror story debuted on Tuesday",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-28/shota-kono-launches-nightmare-of-oveja-negra-manga/.243299",
-   "pubDate": "2026-10-29T21:00:00.000Z",
-   "firstSeen": "2026-10-29T21:09:36.786Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-28/shota-kono-launches-nightmare-of-oveja-negra-manga/.243299"
-    }
-   ]
-  },
-  {
-   "title": "Howl's Moving Castle Meets Minecraft as Cozy Witch Game Gets Full Steam Release",
-   "summary": "A brand-new indie game allows players to travel in a customizable magic house while training to become a witch in a Slavic-inspired fantasy…",
-   "link": "https://www.cbr.com/reka-steam-full-release/",
-   "pubDate": "2026-10-29T20:20:12.000Z",
-   "firstSeen": "2026-10-29T21:09:36.786Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/06/studio-ghibli-s-howl-s-moving-castle-20th-anniversary-poster.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/reka-steam-full-release/"
-    }
-   ]
-  },
-  {
-   "title": "Star Trek, X-Men Actor Patrick Stewart Dies at 86",
-   "summary": "Stewart played Captain Picard in Star Trek, Professor Xavier in X-Men",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-29/star-trek-x-men-actor-patrick-stewart-dies-at-86/.243339",
-   "pubDate": "2026-10-29T20:18:57.000Z",
-   "firstSeen": "2026-10-29T21:09:36.786Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "obituary"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-29/star-trek-x-men-actor-patrick-stewart-dies-at-86/.243339"
-    }
-   ]
-  },
-  {
-   "title": "「からくりサーカス」作者・能楽宗家・声優のスペシャルトーク 金沢能楽美術館開館20周年記念",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMN25hYllXWVVuSGFIOGVpZlNRWHB0M1JYTmhsdHo3OXRFVC1IWUMtejNjM2tYMXVnX2g1OC1QRzBQbUViRjhJbWJWRWRCQlVXQ3hGck1EajZiNnNuWlc3eE1obHh1Mkhv?oc=5",
-   "pubDate": "2026-10-29T20:05:00.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "中日新聞Web",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "中日新聞Web",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMN25hYllXWVVuSGFIOGVpZlNRWHB0M1JYTmhsdHo3OXRFVC1IWUMtejNjM2tYMXVnX2g1OC1QRzBQbUViRjhJbWJWRWRCQlVXQ3hGck1EajZiNnNuWlc3eE1obHh1Mkhv?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "47NEWS",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iZUNoYko1aXRpMUVEbWpScjJ0aXAtQU4wdnF1VGxfbHVua3gwcGRTRTV0SVgzMGNNd2Y1MmhfREF1UlQyQ3c5bjN6NA?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "Hotel Inhumans Anime's 2nd Season Casts Mitsuki Saiga",
-   "summary": "Saiga plays Sekiya",
-   "link": "https://www.animenewsnetwork.com/news/2026-10-29/hotel-inhumans-anime-2nd-season-casts-mitsuki-saiga/.243338",
-   "pubDate": "2026-10-29T20:00:00.000Z",
-   "firstSeen": "2026-10-29T20:17:56.818Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-10-29/hotel-inhumans-anime-2nd-season-casts-mitsuki-saiga/.243338"
-    }
-   ]
-  },
-  {
-   "title": "『映画ちいかわ』大ヒットでも減収減益…東宝の第2四半期決算が冴えないが、今後の業績には期待が持てる理由",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DRFVuY3FOay1PSnFtYjdhT1JOWHBLNFdKc2tMY0VINjhXREx2NXU2bGpwY0w0NTZ2R3VHOUpxS2JEYmxfUHh4S0ZUSHbSAU9BVV95cUxQUGpuWkl4OXhNd1NsRkdEYUhmSUhtOHdyVlVJZy1ZMjhSWGdIWEZHSFdXYkJMZnhvYlBLbDV3NkdwMmszVGc0ZThlUVFRZlVJ?oc=5",
-   "pubDate": "2026-10-29T19:45:00.000Z",
-   "firstSeen": "2026-10-29T20:17:56.818Z",
-   "image": null,
-   "source": "ダイヤモンド・オンライン",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie",
-    "business"
-   ],
-   "works": [
-    "ちいかわ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ダイヤモンド・オンライン",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DRFVuY3FOay1PSnFtYjdhT1JOWHBLNFdKc2tMY0VINjhXREx2NXU2bGpwY0w0NTZ2R3VHOUpxS2JEYmxfUHh4S0ZUSHbSAU9BVV95cUxQUGpuWkl4OXhNd1NsRkdEYUhmSUhtOHdyVlVJZy1ZMjhSWGdIWEZHSFdXYkJMZnhvYlBLbDV3NkdwMmszVGc0ZThlUVFRZlVJ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「東京リベンジャーズ」三天戦争編 第５６話【アニメイズム】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbEU0Rng3bVR2cEtKaU44aXVDRk1MRllyYUd4OGdPNHdEQ2lfZ3dhOGRSQU0tNWpEb2VfSklxU3QxdnRwVHRINEhHOXJ3UENHUjFrX2dn?oc=5",
-   "pubDate": "2026-10-29T19:38:46.000Z",
-   "firstSeen": "2026-10-29T20:17:56.818Z",
-   "image": null,
-   "source": "TBSテレビ",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "TBSテレビ",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbEU0Rng3bVR2cEtKaU44aXVDRk1MRllyYUd4OGdPNHdEQ2lfZ3dhOGRSQU0tNWpEb2VfSklxU3QxdnRwVHRINEhHOXJ3UENHUjFrX2dn?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
