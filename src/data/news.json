@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-15T21:18:30.706Z",
+ "generatedAt": "2026-11-15T22:19:44.802Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5364,
-  "syndicated": 518,
-  "similar": 685,
-  "syndicatedTotal": 6131,
+  "exact": 5361,
+  "syndicated": 517,
+  "similar": 684,
+  "syndicatedTotal": 6128,
   "syndicatedLeft": 1187
  },
  "calendar": [
@@ -3870,6 +3870,25 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": "ウィッチウォッチ",
+   "title": "『ウィッチウォッチ』アニメ続編は来年放送！ジャンプ連載の原作漫画は約5年半の連載に幕下ろす 声優陣からお祝い多数(オタク総研)",
+   "link": "https://news.yahoo.co.jp/articles/efa33c5a317a276af5c62e8d5c6cdce9ad3534e4?source=rss",
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [
+    "new",
+    "visual",
+    "cast",
+    "media"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-16",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": null,
    "title": "本日2026年11月16日（月）発売分のマンガ雑誌リスト",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50QmpmVFFaQUdJT2FuRll1UU1WZFhaTWVxUHE0Um1qRW14bkotekNsN1ZjVTc5ZGVrVU1KaHBtODJfUTRUVXZvMjhSVzk?oc=5",
@@ -4625,23 +4644,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-11-20",
-   "precision": "day",
-   "verb": "movie",
-   "label": "公開",
-   "work": "魔法使いの夜",
-   "title": "劇場版『魔法使いの夜』11月20日公開初日よりIMAX上映決定！ 戸松遥＆小林裕介登壇の舞台挨拶も開催",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xMHhMWTBoWFZIY2V4Vjlid2JnWjZocTRWZWM3MHNBQ0hrQzNyOVh6X3ZLTHpNeVpTYm51cVFNUllKTkViTmpLZlB0cHBFbUJDVmFRalNJcXkyZw?oc=5",
-   "source": "電撃オンライン",
-   "sources": 1,
-   "categories": [
-    "movie",
-    "stage"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-11-21",
    "precision": "day",
    "verb": "event",
@@ -4986,6 +4988,20 @@
     "cast",
     "goods"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-25",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "anan",
+   "title": "Hey! Say! JUMP、1年ぶりの『anan』で“初表紙”をセルフオマージュ 山田涼介から知念侑李へのメッセージも「今も変わらずやっぱり可愛い」(KAI-YOU)",
+   "link": "https://news.yahoo.co.jp/articles/b0402dff49787bbf98f820fd99734913dea20d31?source=rss",
+   "source": "KAI-YOU（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -6506,7 +6522,7 @@
    "title": "声優・大熊和奏の写真集、12月25日発売 心も体も解放された先行カット解禁",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XYU9obFNiUWFSdUxJWktnM0ZoUE1mQm45S0xpU2ZLcjloVUo3SGdrc0FEOWVuR1B1RVNza0tNQXU4eVlhaUZKc1dlN0ZlQk42QWFjNXVB?oc=5",
    "source": "佐賀新聞",
-   "sources": 6,
+   "sources": 7,
    "categories": [
     "cast"
    ],
@@ -9230,9 +9246,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 54,
    "accepted": 54
   },
@@ -9241,9 +9257,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 0,
    "accepted": 0
   },
@@ -9255,7 +9271,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1217,
+   "archived": 1218,
    "accepted": 491
   },
   {
@@ -9266,8 +9282,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5372,
-   "accepted": 5070
+   "archived": 5371,
+   "accepted": 5069
   },
   {
    "id": "gnews-tvanime",
@@ -9277,8 +9293,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1041,
-   "accepted": 979
+   "archived": 1040,
+   "accepted": 978
   },
   {
    "id": "gnews-movie",
@@ -9288,8 +9304,8 @@
    "ok": true,
    "error": null,
    "fetched": 88,
-   "archived": 813,
-   "accepted": 722
+   "archived": 809,
+   "accepted": 718
   },
   {
    "id": "gnews-seiyu",
@@ -9299,8 +9315,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2377,
-   "accepted": 2148
+   "archived": 2381,
+   "accepted": 2151
   },
   {
    "id": "natalie-eiga",
@@ -9310,7 +9326,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 916,
+   "archived": 918,
    "accepted": 159
   },
   {
@@ -9321,8 +9337,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1602,
-   "accepted": 772
+   "archived": 1603,
+   "accepted": 773
   },
   {
    "id": "4gamer",
@@ -9343,7 +9359,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1171,
+   "archived": 1172,
    "accepted": 276
   },
   {
@@ -9354,7 +9370,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1179,
+   "archived": 1177,
    "accepted": 81
   },
   {
@@ -9377,7 +9393,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29384,
-   "accepted": 3236
+   "accepted": 3237
   },
   {
    "id": "prtimes",
@@ -9425,6 +9441,232 @@
   }
  ],
  "items": [
+  {
+   "title": "Hey! Say! JUMP、1年ぶりの『anan』で“初表紙”をセルフオマージュ 山田涼介から知念侑李へのメッセージも「今も変わらずやっぱり可愛い」(KAI-YOU)",
+   "summary": "Hey! Say! JUMPが、11月25日（水）発売の週刊誌『anan』2521号（マガジンハウス）の表紙を飾ることが発表された。価格は980円（税込）。【写真】“もう一人の自分”と共演した山田涼介",
+   "link": "https://news.yahoo.co.jp/articles/b0402dff49787bbf98f820fd99734913dea20d31?source=rss",
+   "pubDate": "2026-11-15T22:10:03.000Z",
+   "firstSeen": "2026-11-15T22:18:51.053Z",
+   "image": null,
+   "source": "KAI-YOU（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "anan"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "KAI-YOU（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/b0402dff49787bbf98f820fd99734913dea20d31?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ウィッチウォッチ』アニメ続編は来年放送！ジャンプ連載の原作漫画は約5年半の連載に幕下ろす 声優陣からお祝い多数(オタク総研)",
+   "summary": "TVアニメ『ウィッチウォッチ』の続編第2期が2027年に放送されることが決定した。あわせて、若月ニコが手でハートマークを作り、ウィンクするティザービジュアルが公開。原作漫画も11月16日発売の「週刊少",
+   "link": "https://news.yahoo.co.jp/articles/efa33c5a317a276af5c62e8d5c6cdce9ad3534e4?source=rss",
+   "pubDate": "2026-11-15T22:06:00.000Z",
+   "firstSeen": "2026-11-15T22:18:51.053Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 26,
+   "categories": [
+    "new",
+    "visual",
+    "cast",
+    "media"
+   ],
+   "works": [
+    "ウィッチウォッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/efa33c5a317a276af5c62e8d5c6cdce9ad3534e4?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ちいかわ」が“臓器”に!? 新作グッズ「ちいかわクリニック」発表にファン騒然「えげつないのきた」(ふたまん＋)",
+   "summary": "イラストレーター・ナガノ氏が描く人気キャラクター「ちいかわ」の新作グッズシリーズとして、「ちいかわクリニック」が発表された。ナース服や白衣に身を包んだキャラクターたちの愛らしいアイテムが多数登場する中",
+   "link": "https://news.yahoo.co.jp/articles/99fc37a7071d9e6c6143848f3ad8163049a8a441?source=rss",
+   "pubDate": "2026-11-15T22:00:30.000Z",
+   "firstSeen": "2026-11-15T22:18:51.053Z",
+   "image": null,
+   "source": "ふたまん＋（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ふたまん＋（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/99fc37a7071d9e6c6143848f3ad8163049a8a441?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【コスプレ】ハロウィン衣装がセクシー×可愛い「着せ恋」、妖精みたいな初音ミクや「リゼロ」など「池ハロ」美女レイヤー11選【写真44枚】",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/16/191003.html",
+   "pubDate": "2026-11-15T22:00:02.000Z",
+   "firstSeen": "2026-11-15T22:18:51.053Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "event"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/16/191003.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/f559353936f93e503a4d3eb9dd764e373ae47d02?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "懐かしのジャンプ作品をPontaパスで無料公開、第1弾に「キン肉マン」「ヒカルの碁」など",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94VEZGSUxud2RJZmZ2V3ZzTTNzU2ZKUFQtY0hHczg3eUhHMmtfOTRvN0VzaWZubjRXeGRLZ2lieklFYmxzYzVvUVhwTGI?oc=5",
+   "pubDate": "2026-11-15T22:00:00.000Z",
+   "firstSeen": "2026-11-15T22:18:51.053Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "キン肉マン",
+    "ヒカルの碁"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94VEZGSUxud2RJZmZ2V3ZzTTNzU2ZKUFQtY0hHczg3eUhHMmtfOTRvN0VzaWZubjRXeGRLZ2lieklFYmxzYzVvUVhwTGI?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『リゼロ』5th season製作決定。スバルとレムのティザービジュアル公開＆長月達平からのお祝いコメントも",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NajZLNEo0MkppZ0l0Y3ZYSlEzZlFrMzJhQ3FjTGtfNzg4VTdSR0dwZERiM1QzUnJRVWxsVHBIMDVCTV8yTDhBbzRmYloxZjJ5NXlqTkxpaTRPdw?oc=5",
+   "pubDate": "2026-11-15T22:00:00.000Z",
+   "firstSeen": "2026-11-15T22:18:51.053Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "Re:ゼロから始める異世界生活"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NajZLNEo0MkppZ0l0Y3ZYSlEzZlFrMzJhQ3FjTGtfNzg4VTdSR0dwZERiM1QzUnJRVWxsVHBIMDVCTV8yTDhBbzRmYloxZjJ5NXlqTkxpaTRPdw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "禁止カードに大幅弱体化も…アニメ『遊戯王』歴代主人公たちが使った“反則級”ドローカード（ふたまん＋）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mX3RFWjJqVThqLWVwRWRDYTJZaVlTSTgwVk9kZnJRa2h3MVUwMkdRNkk0a0tCY25OV3FNVmdZWUp2TXh2VTJPdVBCLVJaRWxVbmhXVVZCb3R0dGRqTnFObTkzRXNKUVN0eXlIaklYSW1oMlE4OVROVEJ5bGVqdWs?oc=5",
+   "pubDate": "2026-11-15T21:32:16.000Z",
+   "firstSeen": "2026-11-15T22:18:51.053Z",
+   "image": null,
+   "source": "ふたまん＋（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "遊戯王"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ふたまん＋（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mX3RFWjJqVThqLWVwRWRDYTJZaVlTSTgwVk9kZnJRa2h3MVUwMkdRNkk0a0tCY25OV3FNVmdZWUp2TXh2VTJPdVBCLVJaRWxVbmhXVVZCb3R0dGRqTnFObTkzRXNKUVN0eXlIaklYSW1oMlE4OVROVEJ5bGVqdWs?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ちいかわ」漫画のコマがマグネットに！「キャラマグネッツ5」発売、当たったらラッキーなレア3種も",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/16/191002.html",
+   "pubDate": "2026-11-15T21:30:03.000Z",
+   "firstSeen": "2026-11-15T22:18:51.053Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/16/191002.html"
+    }
+   ]
+  },
   {
    "title": "Bleach Finally Lets Fans Create Their Own Soul Reaper and Zanpakuto",
    "summary": "Bleach fans can finally create their own Soul Reaper and Zanpakuto in a new game set after the Thousand-Year Blood War.",
@@ -9672,6 +9914,12 @@
      "via": "Googleニュース「アニメ」"
     },
     {
+     "name": "Bloomberg.com",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zeTVQdzJibF9BRlZzaUllODJPV2JBeTVDTVV2dmhmTktUNDd6Ynh0cjBMSXlaeHhabVY3M3VJcUNfQm1KbkRMV2pXcUFaQ0pTeUF3SzYyRDVtZF8zUzhfYml5YkVMWF9DTm9DdGtBeng4ZzdNNGFF?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
      "name": "ｄメニューニュース",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FdTlqamtycm1lVk5PcFlwdm1mSzRrZ2FvSlRMaXVVYnVxNVRycjhLUHJjWUxFWGxXbTJITEs0dmpPblNWLWVJUmdIR0dkOWxtLVFteHpnbVhLZlVkX1hWS3RQTmRiUm5KYkk1WmpvNzhpQUluRmt2S1ln0gF_QVVfeXFMUEJxcW03djh4Mk5tc3NVTm5xUmhsOGJrOC1ZS3hsZ2phcDBJaVZaeE1wdkR0OUFmSUQzLUMzTElzSDcwSklEVEd0aHVGM0lvSzRFOXFLWjJHU2N1dkJscjhtZm5LRUtQa3VYaFpOcHl0RDRNVDl4Q3ZtWmNoTFVSMA?oc=5",
@@ -9870,9 +10118,9 @@
     },
     {
      "name": "au Webポータル",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XTk9rTFlibzV2V3BWWTdYQ2Q1YU5URktGei1sVFBST20ta0M3bGdXTkdzUHZaTlp1dmFYSVFDNlVZb1ZMaTlhd050OWwzaWJzWDRMSm82bjVzbFBhNDhHMGZ3T19LeVhZVTNhNVp3?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
+     "via": "Googleニュース「声優」",
      "syndicated": true
     }
    ]
@@ -10060,6 +10308,18 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oeVZCUjBhai1CeUVhdEJfNENBNXdGMldWLXl3VmhZY1dIVXJ5b0pKbzJkTWUxd3loU0M2NUZxcjVEbzF2c1VCNGMxcmhJSDhxNGJ1U1Jn?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "福井新聞社",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMU00wclA2ei1BNHE0TkJSaTRYVFV0aUw2dTZ4WFdwdjUyLUNHN3pMSnhfUjNraG02MkJ0VUhhNXZSYXZndlhEMlBNTUNFWjdYNUZCTWRVb1o5dU5DdXc?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "佐賀新聞",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wTDdEa3BJbTlQSUVqc1JIaWh2Tk5kUkc4aE0wQUFUSkNTWGE2UzRPbFFVNjN2d1NSNEJrM2FCa3ItaEZUN2lMbDJXQXFvSDlQUDRwbjVR?oc=5",
+     "via": "Googleニュース「声優」"
     },
     {
      "name": "オリコン（Yahoo!ニュース エンタメ）",
@@ -45916,6 +46176,12 @@
      "name": "山陽新聞",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zdVJuVXBtSzlxWWpaNUR5VXBXNFpYTWFvWTY4WlpLSWI2dExXdEZ6cWRHWjl5TTN4RzI0VWxsUGZZUGZZWEhlV0dUNUpYUHhTZXc?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "朝日新聞",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QMEs1SzNZRERUY0ZVWU5rWGF3N1hpTDBjTEZqQ3V4TzNwM0F5M2kyWDZPM2VJRGQ0YW1qTkJfY1MzcWd3ZWJHOTE5NWNiZUNjWGQxSld0aUFSRzJB?oc=5",
      "via": "Googleニュース「声優」"
     },
     {
@@ -192175,257 +192441,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/1e7fc76f986f0d1fd37632555e91942b4eb7ddfd?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『名探偵コナン』1218話 第一発見者の愛犬が事件解決の鍵！(アニメージュプラス)",
-   "summary": "アニメ『名探偵コナン』の1218話「わんダフルな捜査」のあらすじと先行カットが到着した。【関連画像】『名探偵コナン』1218話の先行カットをすべてチェック！（画像5点）『名探偵コナン』は、青山剛昌によ",
-   "link": "https://news.yahoo.co.jp/articles/0da04ec3cf3489108d5b16d2db542561ce72010e?source=rss",
-   "pubDate": "2026-10-30T09:15:00.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "アニメージュプラス（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "名探偵コナン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/0da04ec3cf3489108d5b16d2db542561ce72010e?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ「鬼滅の刃」 『ゆらふわぬいぐるみ＜不死川実弥＞』 一部商品の不備および交換対応について",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNVDBZb05aYzFzaTB3cXF5ZWJUWFNXcC1SSTNGcUYxU3gtaGJWYXV3b09qei1hZ2dCci1CTkNpU0h3OWwzOWxnS1BzUW90YVBhczNlUkZzb0Ffeng3NTRyeFpn?oc=5",
-   "pubDate": "2026-10-30T09:10:09.000Z",
-   "firstSeen": "2026-11-01T02:17:57.379Z",
-   "image": null,
-   "source": "Aniplex",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ゆらふわぬいぐるみ<不死川実弥>",
-    "鬼滅の刃"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Aniplex",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNVDBZb05aYzFzaTB3cXF5ZWJUWFNXcC1SSTNGcUYxU3gtaGJWYXV3b09qei1hZ2dCci1CTkNpU0h3OWwzOWxnS1BzUW90YVBhczNlUkZzb0Ffeng3NTRyeFpn?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「美味しんぼ」の新作で振り返る！初代アニメOPで「なんで恋愛ソング!?」ってツッコまなかった？「YOU」「Dang Dang 気になる」に漂うシティポップとバブルの空気",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/10/30/104348.html",
-   "pubDate": "2026-10-30T09:10:03.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 13,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "美味しんぼ",
-    "YOU",
-    "Dang Dang 気になる"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/10/30/104348.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/7ef9aa6a10f3878ee7ffccfd03a87277f72ea91b?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xTkNramlnYUN4M2NsT3k0bl9yODliSjU2cmFORFdsX05nQ3k0UlVfaVVCVlJNVl9Fa0k0amduWFhOQTdkYng1cnhiR2MxRGhBNzVlVkJTSmI2QWNGTXdZSFNxaFBaRUU0YWNPVW45NzNxSk1WZFZMUDMwSDNiajg?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "劇場版『魔法使いの夜』11月20日公開初日よりIMAX上映決定！ 戸松遥＆小林裕介登壇の舞台挨拶も開催",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xMHhMWTBoWFZIY2V4Vjlid2JnWjZocTRWZWM3MHNBQ0hrQzNyOVh6X3ZLTHpNeVpTYm51cVFNUllKTkViTmpLZlB0cHBFbUJDVmFRalNJcXkyZw?oc=5",
-   "pubDate": "2026-10-30T09:10:00.000Z",
-   "firstSeen": "2026-10-30T11:17:57.917Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "movie",
-    "stage"
-   ],
-   "works": [
-    "魔法使いの夜"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xMHhMWTBoWFZIY2V4Vjlid2JnWjZocTRWZWM3MHNBQ0hrQzNyOVh6X3ZLTHpNeVpTYm51cVFNUllKTkViTmpLZlB0cHBFbUJDVmFRalNJcXkyZw?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「ついに白娘々がっ」「イメージしてた白娘娘より可愛い顔」アニメ『薬屋のひとりごと』第53話予告に新キャラ・白娘々が本格登場(ABEMA TIMES)",
-   "summary": "アニメ『薬屋のひとりごと』公式Xにて、10月30日23:40から順次放送の第53話「白蛇仙女」の予告映像が公開され、白娘々（CV：上田麗奈）の姿にファンが大いに沸いている。【映像】猫猫と白娘々が対決か",
-   "link": "https://news.yahoo.co.jp/articles/9161299a96c485fa02ed69935f22a64aefbb13e3?source=rss",
-   "pubDate": "2026-10-30T09:09:15.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "visual"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/9161299a96c485fa02ed69935f22a64aefbb13e3?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mUi15MkV6MVJZTEJ4LXdKV09BbGpIVWR6RVFtQ2EwUUhrU2JCQ3V6RmtnMnZsbGJEZDUwaTZocUdZaW1JRkthQ2RGTVhoMHdEaHFTQllyRjVCcVdIRVJobXhpZmRHT0V6Sk40S3p5d2MyQlhIbmluaDVicWNQWTA?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "＜欠けた月のメルセデス＞ダンジョンに挑むメルセデス テレビアニメPV公開 三宅健太、綿貫竜之介、諏訪部順一、茅野愛衣出演",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxOVFBVmdKUS14OG9HVmZ5RTdfdkl1WkRSdGxyV3B1LTBtWjFsOHRuaEp0cFEzSzdTcmx3Vmc4OGpQQ1VJQzNTTXFFZUNiY1BRbDd1UkRueHhxUjlqcTFNVVcxc3JKdXRnSm1Sc1NKZUJlSW02VG1OUlU0SXJQdlk?oc=5",
-   "pubDate": "2026-10-30T09:06:00.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "Yahoo!ニュース",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "visual",
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxOVFBVmdKUS14OG9HVmZ5RTdfdkl1WkRSdGxyV3B1LTBtWjFsOHRuaEp0cFEzSzdTcmx3Vmc4OGpQQ1VJQzNTTXFFZUNiY1BRbDd1UkRueHhxUjlqcTFNVVcxc3JKdXRnSm1Sc1NKZUJlSW02VG1OUlU0SXJQdlk?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "nonoc、初アルバム『A Photon Away』で見せた多彩な音楽性と原点を語る──「自分を照らしてくれるみんなと相思相愛でありたい」(ぴあ)",
-   "summary": "『Re:ゼロから始める異世界生活』シリーズなど数々のアニメ主題歌を担当してきたnonoc（ノノック）が、初のアルバム『A Photon Away』をリリースした。北海道から上京して3年の間に発表してき",
-   "link": "https://news.yahoo.co.jp/articles/2052aaf4ef1a391bcdeaf4367d7932566dab24f2?source=rss",
-   "pubDate": "2026-10-30T09:05:56.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "ぴあ（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "A Photon Away"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ぴあ（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/2052aaf4ef1a391bcdeaf4367d7932566dab24f2?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ「薬屋のひとりごと」ハロウィンに合わせたビジュアル第2弾 [画像・動画ギャラリー 1/4]",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wWkt0cTdtc1NPT3h4VlZLeU42dU9Ld3N6UGQ2TlMtSFNjbEpENFUyckZNYmtaNHVUNm1JZ0k3SmZIZVJ6R1VCTUFBbHRaaC04VV9oVlRjSGNrb003aks0d1VR?oc=5",
-   "pubDate": "2026-10-30T09:04:24.000Z",
-   "firstSeen": "2026-10-30T18:18:01.094Z",
-   "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wWkt0cTdtc1NPT3h4VlZLeU42dU9Ld3N6UGQ2TlMtSFNjbEpENFUyckZNYmtaNHVUNm1JZ0k3SmZIZVJ6R1VCTUFBbHRaaC04VV9oVlRjSGNrb003aks0d1VR?oc=5",
-     "via": "Googleニュース「アニメ」"
     }
    ]
   }
