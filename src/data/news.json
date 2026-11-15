@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-15T12:19:38.496Z",
+ "generatedAt": "2026-11-15T13:18:33.712Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5371,
-  "syndicated": 515,
-  "similar": 686,
-  "syndicatedTotal": 6158,
+  "exact": 5366,
+  "syndicated": 516,
+  "similar": 684,
+  "syndicatedTotal": 6154,
   "syndicatedLeft": 1189
  },
  "calendar": [
@@ -488,24 +488,6 @@
    "sources": 1,
    "categories": [
     "cast"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11",
-   "precision": "month",
-   "verb": "event",
-   "label": "開催",
-   "work": null,
-   "title": "「91Days」10周年記念上映会を11月に開催、特典は初期プロット集 鏑木ひろ監督ら登壇(コミックナタリー)",
-   "link": "https://news.yahoo.co.jp/articles/ee9294fb0d4edb527cfeb61f66ab23b15b7be811?source=rss",
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "cast",
-    "movie",
-    "event"
    ],
    "platforms": [],
    "spoiler": false
@@ -1832,6 +1814,20 @@
    "categories": [
     "goods"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-07",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "新テニスの王子様",
+   "title": "『新テニスの王子様』イオン限定クリスマス商品が11月7日より順次発売！5校のクッキー缶とカード付きサブレ",
+   "link": "https://nijimen.kusuguru.co.jp/topics/646733",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -9226,6 +9222,22 @@
    "spoiler": false
   },
   {
+   "date": "2027-10",
+   "precision": "month",
+   "verb": "event",
+   "label": "開催",
+   "work": "新テニスの王子様",
+   "title": "「ミュージカル『新テニスの王子様』Revolution Live 2027」2027年10月に開催決定",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XaEZiZVM5bjQyeW5OdXJjVVNyMEFwa3FZanBqWWpCbW9FaXpsU0VlNTVxZ1dFaTNzTGVGM1poazBxWF94NHZQSzdCOXo?oc=5",
+   "source": "コミックナタリー",
+   "sources": 1,
+   "categories": [
+    "stage"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
    "date": "2027-11-21",
    "precision": "day",
    "verb": "event",
@@ -9278,8 +9290,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 825,
-   "accepted": 824
+   "archived": 826,
+   "accepted": 825
   },
   {
    "id": "lisani",
@@ -9297,9 +9309,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 54,
    "accepted": 54
   },
@@ -9308,9 +9320,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 0,
    "accepted": 0
   },
@@ -9322,8 +9334,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1209,
-   "accepted": 485
+   "archived": 1212,
+   "accepted": 488
   },
   {
    "id": "gnews-anime",
@@ -9333,8 +9345,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5372,
-   "accepted": 5067
+   "archived": 5367,
+   "accepted": 5065
   },
   {
    "id": "gnews-tvanime",
@@ -9354,9 +9366,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 85,
-   "archived": 811,
-   "accepted": 720
+   "fetched": 82,
+   "archived": 809,
+   "accepted": 718
   },
   {
    "id": "gnews-seiyu",
@@ -9366,8 +9378,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2377,
-   "accepted": 2144
+   "archived": 2375,
+   "accepted": 2142
   },
   {
    "id": "natalie-eiga",
@@ -9377,8 +9389,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 903,
-   "accepted": 161
+   "archived": 905,
+   "accepted": 160
   },
   {
    "id": "inside-games",
@@ -9388,8 +9400,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1610,
-   "accepted": 777
+   "archived": 1607,
+   "accepted": 775
   },
   {
    "id": "4gamer",
@@ -9399,7 +9411,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1132,
+   "archived": 1129,
    "accepted": 89
   },
   {
@@ -9410,7 +9422,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1172,
+   "archived": 1171,
    "accepted": 274
   },
   {
@@ -9421,7 +9433,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1194,
+   "archived": 1189,
    "accepted": 82
   },
   {
@@ -9443,8 +9455,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29398,
-   "accepted": 3254
+   "archived": 29397,
+   "accepted": 3252
   },
   {
    "id": "prtimes",
@@ -9454,7 +9466,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27197,
+   "archived": 27163,
    "accepted": 492
   },
   {
@@ -9465,8 +9477,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 682,
-   "accepted": 682
+   "archived": 683,
+   "accepted": 683
   },
   {
    "id": "mal",
@@ -9487,11 +9499,147 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 220,
-   "accepted": 220
+   "archived": 219,
+   "accepted": 219
   }
  ],
  "items": [
+  {
+   "title": "「ワンピース」シャムロック聖や軍子も収録！“ゴムゴムの実”型入浴剤からマスコットが飛び出す「びっくらたまご エルバフ編」発売(インサイド)",
+   "summary": "バンダイは、「びっくらたまご ONE PIECE ～エルバフ編～」を11月16日に発売します。【画像】ゴムゴムの実型入浴剤から「シャムロック聖」「軍子」ら8体が飛び出す！◆エルバフ編に注目した「ONE",
+   "link": "https://news.yahoo.co.jp/articles/ef7592a6aae7a6668783b90ecddcf7e9b86c3941?source=rss",
+   "pubDate": "2026-11-15T13:15:02.000Z",
+   "firstSeen": "2026-11-15T13:17:57.719Z",
+   "image": null,
+   "source": "インサイド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ef7592a6aae7a6668783b90ecddcf7e9b86c3941?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "1万円で『フリーレン』フェルンが大型フィギュア化！30cmでワンピース姿を再現…上品な仕草や繊細な衣装に注目(オタク総研)",
+   "summary": "ホビーメーカーのフリューは15日現在、TVアニメ『葬送のフリーレン』より、フェルンのフィギュア「TENITOL TALL フェルン クラシカルワンピースver.」の予約受付を実施している。価格は1万4",
+   "link": "https://news.yahoo.co.jp/articles/d85618408d7e38862ad49aa63a63cfc233a13f95?source=rss",
+   "pubDate": "2026-11-15T13:05:00.000Z",
+   "firstSeen": "2026-11-15T13:17:57.719Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "フリーレン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d85618408d7e38862ad49aa63a63cfc233a13f95?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ビリーと魔法のはじまり」日本版本予告＆ポスタービジュアル公開 畑芽育＆生田斗真のコメントも : ニュース",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MbW5KWl9uVjYtNkZEWGpGWDVvU2tTYUw4c1RHZV9kbElGRGpkMk11YlRoTjkzclBYMnI1bkVpamdWMTJYbWFNaGJYSQ?oc=5",
+   "pubDate": "2026-11-15T13:00:00.000Z",
+   "firstSeen": "2026-11-15T13:17:57.719Z",
+   "image": null,
+   "source": "アニメハック",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "visual"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメハック",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MbW5KWl9uVjYtNkZEWGpGWDVvU2tTYUw4c1RHZV9kbElGRGpkMk11YlRoTjkzclBYMnI1bkVpamdWMTJYbWFNaGJYSQ?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "「ミュージカル『新テニスの王子様』Revolution Live 2027」2027年10月に開催決定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XaEZiZVM5bjQyeW5OdXJjVVNyMEFwa3FZanBqWWpCbW9FaXpsU0VlNTVxZ1dFaTNzTGVGM1poazBxWF94NHZQSzdCOXo?oc=5",
+   "pubDate": "2026-11-15T12:22:00.000Z",
+   "firstSeen": "2026-11-15T13:17:57.719Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "stage"
+   ],
+   "works": [
+    "新テニスの王子様"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XaEZiZVM5bjQyeW5OdXJjVVNyMEFwa3FZanBqWWpCbW9FaXpsU0VlNTVxZ1dFaTNzTGVGM1poazBxWF94NHZQSzdCOXo?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "Stranger Than Heaven Game Streams Story Trailer for 2nd Act 'Kure'",
+   "summary": "Game launches on January 15 for Xbox Series X|S, PlayStation 5, PC via Steam",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-15/stranger-than-heaven-game-streams-story-trailer-for-2nd-act-kure/.243829",
+   "pubDate": "2026-11-15T12:15:00.000Z",
+   "firstSeen": "2026-11-15T13:17:57.719Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "visual",
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-15/stranger-than-heaven-game-streams-story-trailer-for-2nd-act-kure/.243829"
+    }
+   ]
+  },
   {
    "title": "『学マス』氷渡香名江（CV：安倍彩野夏）のライブシーンが公開！竹内アンナさんが作詞・作曲を手がけた新曲「メタモルフォーゼ」がお披露目",
    "summary": "初星学園公式YouTubeにてMVをプレミア公開予定。メインシナリオを担当するのは『ペルソナ5』などのシナリオに携わった牧野圭祐氏",
@@ -9601,6 +9749,33 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/1f773e7d372728ee3af137bc4a73cc73a48d9a2e?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "おでかけ子ザメ：劇場版アニメ第2弾 「水のまちの思い出」制作 花澤香菜「わくわくしながら待っています」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wVHN4LXpUT3N6ckk4enVya1lQWWVlQmo0Y1RCSnJGT2RTMTFUX1lyb1o0Vlh4UXZBaU5jUVRSbUgxT1hiUGh1cnlWVDN1NXlheFp0WlN4R25YaFVjZm03SFlFQVJMVTRMY0Zv?oc=5",
+   "pubDate": "2026-11-15T12:03:00.000Z",
+   "firstSeen": "2026-11-15T13:17:57.719Z",
+   "image": null,
+   "source": "Mantan Web",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Mantan Web",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wVHN4LXpUT3N6ckk4enVya1lQWWVlQmo0Y1RCSnJGT2RTMTFUX1lyb1o0Vlh4UXZBaU5jUVRSbUgxT1hiUGh1cnlWVDN1NXlheFp0WlN4R25YaFVjZm03SFlFQVJMVTRMY0Zv?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -9882,6 +10057,33 @@
      "name": "にじめん",
      "sourceId": "nijimen",
      "link": "https://nijimen.kusuguru.co.jp/topics/658577"
+    }
+   ]
+  },
+  {
+   "title": "『新テニスの王子様』白石蔵ノ介役・細谷佳正＆遠山金太郎役・杉本ゆうインタビュー「何も言わなくても一緒の方向を向く、四天宝寺はそんなチーム」(ananweb)",
+   "summary": "今年、原作が完結、アニメシリーズは25周年を迎えた「週刊少年ジャンプ」発のレジェンド作品『テニスの王子様』。アニメシリーズを通して王子様たちの成長を誰よりも近くで見てきた、白石蔵ノ介役の細谷佳正さん、",
+   "link": "https://news.yahoo.co.jp/articles/c32d55127a6cb054231c682ad1ced682fff3e961?source=rss",
+   "pubDate": "2026-11-15T11:00:03.000Z",
+   "firstSeen": "2026-11-15T11:17:58.237Z",
+   "image": null,
+   "source": "ananweb（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [],
+   "works": [
+    "新テニスの王子様"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ananweb（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c32d55127a6cb054231c682ad1ced682fff3e961?source=rss",
+     "syndicated": true
     }
    ]
   },
@@ -10917,6 +11119,35 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vcFRwdXZIbzZFMDZVWTkzS2plTnhzUXhJQVZsS21EbGNhVkJrTUpqZ3pyeVZGTFQ1LXJRQ2tUcU1vZFN5TFZSX05UWS1VVmI5WEJCN1hhODNSbWVxQU8tWk1XTnVwbFZlWlAwR3NYYkEyakExdXFpYzB4UDNBZHc?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『夜桜さんちの大作戦』第46話あらすじ＆場面カット",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9INHFhX0NVcWZLNF80NGtaQW9qR1ZZMUVBc29keHg2cThKMWhmclowLWxGU2t6eDlpQ3FJeDRqX1RZU1E5dk9FRUNuNEJlay1fODd1VXNqNGx0NUxwUXNMcnlpdTkyUFAwbVo4?oc=5",
+   "pubDate": "2026-11-15T09:00:00.000Z",
+   "firstSeen": "2026-11-15T13:17:57.719Z",
+   "image": null,
+   "source": "アニメイトタイムズ",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "夜桜さんちの大作戦"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9INHFhX0NVcWZLNF80NGtaQW9qR1ZZMUVBc29keHg2cThKMWhmclowLWxGU2t6eDlpQ3FJeDRqX1RZU1E5dk9FRUNuNEJlay1fODd1VXNqNGx0NUxwUXNMcnlpdTkyUFAwbVo4?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -14597,9 +14828,10 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 5,
    "categories": [
-    "cast"
+    "cast",
+    "event"
    ],
    "works": [
     "翠星のガルガンティア"
@@ -14610,6 +14842,19 @@
      "name": "Googleニュース「アニメ」",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EaWpkRFlRWnRabnRuem4yUDk4R1hWQWZITjRWMVAwTGk1REtOeV9JamNpaG94SEIzd2VUdWRTZjcwYlNudE9adw?oc=5"
+    },
+    {
+     "name": "KAI-YOU（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d22b3d0218ebcf98ce5ee0ac81a8c7e683eedca7?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3UlRoLVJXbmJRcjFqTVIwSTFENE9sMFhYemU3S3EyNm9DejU1YnQwSG9FbUlDWF9VY04yT3dxcHlmeWtRMUtCZHVxbDlabXI2NUFYcUYxVjgyak5CN2gxRlpCeVA5N29aS1NQcEJaWEtHcWxiWjhKQkxscnVic0U?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -15027,10 +15272,10 @@
    "pubDate": "2026-11-14T16:00:00.000Z",
    "firstSeen": "2026-11-14T16:17:56.004Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
    "score": 13,
    "categories": [
@@ -15042,10 +15287,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12enBmdk1pYUZTR0cxcEdtdi1vdmthajJKNFFEYTJ3QjRUTE96ZEk5ZE9uSl85WWJIbTE3eGduWGJVbTBrUmdabVV1NUg?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12enBmdk1pYUZTR0cxcEdtdi1vdmthajJKNFFEYTJ3QjRUTE96ZEk5ZE9uSl85WWJIbTE3eGduWGJVbTBrUmdabVV1NUg?oc=5"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -16438,6 +16682,33 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXJUU2Y4WEtrSHZwVGFsNkgyQlRrckRLV3hFM0lxSzZpM2xPWWNoTzRnd0pPa29pQWVxbGs3WVFvUU5XbW1YRnR5THQyemZjcFhBV2UxRUJxTWVWeGIwXzdlMGh0aGJ4WWtqcjdVb3NTYlFGWkgzM3ZjWTFlam9pcWNsb2M2a202aDhwV0VB?oc=5",
      "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『新テニスの王子様』幸村精市役・永井幸子＆柳 蓮二役・竹本英史インタビュー「全員まとまってただただ強い。それが立海の一番の魅力」(ananweb)",
+   "summary": "今年、原作が完結、アニメシリーズは25周年を迎えた「週刊少年ジャンプ」発のレジェンド作品『テニスの王子様』。アニメシリーズを通して王子様たちの成長を誰よりも近くで見てきた、幸村精市役の永井幸子さん、柳",
+   "link": "https://news.yahoo.co.jp/articles/0718361deacdc799a88ba790a86269a2088449ab?source=rss",
+   "pubDate": "2026-11-14T11:01:43.000Z",
+   "firstSeen": "2026-11-14T11:17:56.408Z",
+   "image": null,
+   "source": "ananweb（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [],
+   "works": [
+    "新テニスの王子様"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ananweb（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0718361deacdc799a88ba790a86269a2088449ab?source=rss",
      "syndicated": true
     }
    ]
@@ -47688,6 +47959,35 @@
    ]
   },
   {
+   "title": "『新テニスの王子様』第8話「勝利だけを⽬指して」あらすじ＆先行カット公開！(アニメージュプラス)",
+   "summary": "2026年9⽉30⽇（⽔）より放送開始となる『新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦』、第8話のあらすじと先行カットが公開された。【関連画像】第8話先行カットをすべてチェッ",
+   "link": "https://news.yahoo.co.jp/articles/e5c652003abc2491fe2f03c8d6c1aa941df75bd6?source=rss",
+   "pubDate": "2026-11-12T03:05:00.000Z",
+   "firstSeen": "2026-11-12T03:17:58.758Z",
+   "image": null,
+   "source": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "broadcast"
+   ],
+   "works": [
+    "新テニスの王子様"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e5c652003abc2491fe2f03c8d6c1aa941df75bd6?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "なぜ米津玄師の楽曲は劇場版に求められる？ 「IRIS OUT」「夜鷹」「地球儀」……3つのケースに見る解釈の深さ(リアルサウンド)",
    "summary": "12月11日全国公開の『劇場版 薬屋のひとりごと 亡妃の秘宝』主題歌「春が灯り」、そして来年1月15日公開予定の劇場版『虎に翼』主題歌「こんにちはごきげんよう！」というついに開幕した国内ツアー『米津玄",
    "link": "https://news.yahoo.co.jp/articles/a34f3545bc9ab39668cf8f313d575c9da1fd5a1c?source=rss",
@@ -53199,6 +53499,34 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByVS1MQVI0dHdLUTlYYjM1RTl6V1lhWTdPaWhkcTZqUXRKU1VDenB4eTlNMFVfa1BWNWx6VTEwWTJCUHlWMjhXMlNRdEZXcUduUVEtOW8yV1BUV042dlNn?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『新テニスの王子様』×よこはまコスモワールド・YOKOHAMA AIR CABIN2026の事後通販がスタート！twilight ver.やうさいぬグッズを11月25日まで受付",
+   "summary": "『新テニスの王子様』×よこはまコスモワールド・YOKOHAMA AIR CABIN2026 事後通販 告知ビジュアルでは、遊園地を背景に、越前リョーマがピンクのうさいぬのカチューシャを着けてアイスを手にしています。いつもの試合中とはひと味違…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/654169",
+   "pubDate": "2026-11-11T11:07:42.000Z",
+   "firstSeen": "2026-11-11T11:17:58.063Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/91a9aa5d87e8423e87c0db9840e5a4c4.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "新テニスの王子様"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/654169"
     }
    ]
   },
@@ -187748,6 +188076,32 @@
    ]
   },
   {
+   "title": "『新テニスの王子様』イオン限定クリスマス商品が11月7日より順次発売！5校のクッキー缶とカード付きサブレ",
+   "summary": "「わちゃっと！」イラストの缶と復刻デザインのクリアカード クッキー缶には「わちゃっと！」シリーズのイラストを使用しています。チョコインサブレには、「マルチプレートコレクション」の復刻デザインを使ったクリアカードが付いてきます。缶とカードでそ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/646733",
+   "pubDate": "2026-10-30T13:04:56.000Z",
+   "firstSeen": "2026-10-30T13:17:56.311Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/fa55551cc3e74e88a412447394c0ffaa.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "新テニスの王子様"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/646733"
+    }
+   ]
+  },
+  {
    "title": "『透明男と人間女』透乃眼あきらと夜香しずかが結婚「支え合って笑顔の絶えない楽しい家庭を」(リアルサウンド)",
    "summary": "漫画『透明男と人間女 ～そのうち夫婦になるふたり～』に登場する透乃眼あきらと夜香しずかが夫婦になったことが発表された。【写真】透乃眼あきら・夜香しずかの結婚報告 透乃眼探偵事務所のオーナー兼探偵である",
    "link": "https://news.yahoo.co.jp/articles/125a93af158a13a30ee95b9438e5f22e7a8c0b5f?source=rss",
@@ -192104,377 +192458,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/1c3665005782210da3524ed80697fd306c389bcf?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ミッフィー×「Maison de FLEUR」が4年ぶりにコラボ！ フリルトートや顔型ポーチなど展開(クランクイン！)",
-   "summary": "「Maison de FLEUR（メゾン ド フルール）」は、11月3日（火・祝）から、ミッフィーとボリスをデザインしたコラボレーションアイテムを、全国の店舗で発売。公式WEBストア「STRIPE C",
-   "link": "https://news.yahoo.co.jp/articles/37102b906f13088b47917924f49be84632643dde?source=rss",
-   "pubDate": "2026-10-30T08:10:00.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "クランクイン！（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/37102b906f13088b47917924f49be84632643dde?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「マジか…」 『VIVANT』奪還作戦の「元ネタの元ネタ」が伝説すぎ？ 60年以上前の名作も(マグミクス)",
-   "summary": "敵地への潜入、仲間の救出、裏で作戦を支えるハッカー、追っ手をかわしての脱出……。ドラマ『VIVANT』第2シーズンで描かれた別班奪還作戦には、名作ゲーム「メタルギア」シリーズを思わせる要素がそこかしこ",
-   "link": "https://news.yahoo.co.jp/articles/2ffd39bad8526e1f9b530c3d18ff7a3058201864?source=rss",
-   "pubDate": "2026-10-30T08:10:00.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "マグミクス（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "game"
-   ],
-   "works": [
-    "VIVANT"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "マグミクス（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/2ffd39bad8526e1f9b530c3d18ff7a3058201864?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「恐怖コレクター」第4話以降のゲストキャラ役に山下大輝、井口裕香、鬼頭明里（コメントあり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HT1ZTN2I2ZzdLVm1jV21EVHBkUXJUVW1QU215Skg3YmRuNHRBUzBaUmhqaDVWTjRCdTQ1WVcxVUY2bFpZc0tuY1VzMno?oc=5",
-   "pubDate": "2026-10-30T08:07:00.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "恐怖コレクター"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HT1ZTN2I2ZzdLVm1jV21EVHBkUXJUVW1QU215Skg3YmRuNHRBUzBaUmhqaDVWTjRCdTQ1WVcxVUY2bFpZc0tuY1VzMno?oc=5"
-    },
-    {
-     "name": "アニメイトタイムズ",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLOXNuN0Q0M2JtQzZCWHVGbExQTHFPNDhtUDZXbUdjeUpmekxzZkoyZGk0Ql9XTGl0M1VSZU9QSnEwUXdvSTAwanZMU0hoSVdwME5SUEpQdFFFVTN1OUl0ZkdlQmRIUFBUOGhF?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/09a741a333234f0993b899dae3e7507d5965e158?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『あかね噺』とフォーチューンラテコラボの開催決定！ | ニュース | アニプレックス オフィシャルサイト",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kWUI3dXd1UF9Vcm9mdTQ0LTVsbGNkTS0zNnZuVXFCY1NEblpfUDk0SVdUQTVZT0FIRWhYR1JmRmFhVzd2eFdkc2xvaXBKU1pXbEV3d0F0S0tFOVE?oc=5",
-   "pubDate": "2026-10-30T08:06:14.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "Aniplex",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "あかね噺"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Aniplex",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kWUI3dXd1UF9Vcm9mdTQ0LTVsbGNkTS0zNnZuVXFCY1NEblpfUDk0SVdUQTVZT0FIRWhYR1JmRmFhVzd2eFdkc2xvaXBKU1pXbEV3d0F0S0tFOVE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「ヤマトよ永遠に」の「お疲れ様本」発売 声優・スタッフのコメントや裏話を掲載",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ja241MFprZFpadlpZS3dkcWJqWGdmRzljM3Z4Uy1CSWF3aWNSV2RYWTRaOVZNMzRCOWxPMlFPV3h4VVpzeEhsSTFXYzI?oc=5",
-   "pubDate": "2026-10-30T08:06:00.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "cast",
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ナタリー",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ja241MFprZFpadlpZS3dkcWJqWGdmRzljM3Z4Uy1CSWF3aWNSV2RYWTRaOVZNMzRCOWxPMlFPV3h4VVpzeEhsSTFXYzI?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/11709c2dacc5a9d960b117eecb6016f99f5b9151?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Tmk0WHM4cWtkakJsc3BKMnNwNDZiZk9XZEVsUkxTOXkxM05qam1rYWFlSmFldnJIQVF5NEp6X2Q2MVc4dzMxR1BxN1MxbFBzdzU5Y01iMFpjeDJvTGx6T1JwcmFpNUtLU1dDMUJNWmVHQklUT0E0QlpHWG9ST1U?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『アイカツスターズ！』『魔法の姉妹ルルットリリィ』コラボ決定！『クリィミーマミ』から続くぴえろ魔法少女シリーズ最新作と、二階堂ゆず&白銀リリィによる「ゆずっとリリィ」が共演",
-   "summary": "『クリィミーマミ』から続くぴえろ魔法少女シリーズ最新作と、⼆階堂ゆず&白銀リリィの「ゆずっとリリィ」が共演。どちらも病弱に見えて斧やチェーンソーで暴れていた子がいる",
-   "link": "https://news.denfaminicogamer.jp/news/2610302v",
-   "pubDate": "2026-10-30T08:04:33.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/d6e56c32d93016084dae0f272982e7ad-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "アイカツスターズ!",
-    "魔法の姉妹ルルットリリィ",
-    "クリィミーマミ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2610302v"
-    }
-   ]
-  },
-  {
-   "title": "＜薬屋のひとりごと＞悠木碧“猫猫”と大塚剛央“壬氏”がヨルシカの新曲を語る 特別CMが3週連続オンエア(WEBザテレビジョン)",
-   "summary": "アニメ「薬屋のひとりごと」第3期(毎週金曜夜11:00-11:30ほか、日本テレビ系ほか)の第53話が10月30日(金)に放送。番組内で、ヨルシカが手掛けるオープニングテーマ「雲を抜け風下へ私だけ」に",
-   "link": "https://news.yahoo.co.jp/articles/8cec4087d533679783b2da67703958ad89b19405?source=rss",
-   "pubDate": "2026-10-30T08:04:17.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "new",
-    "music"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/8cec4087d533679783b2da67703958ad89b19405?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アクリルカード「TVアニメ『どうも、好きな人に惚れ薬を依頼された魔女です。』」01/コンプリートセット(全5種)(公式イラスト)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ySmRqV2tlYmdwSkVyeDVHTFFCaXpyRXZ6NXNkeHlFcnM0WGMxMlF6T1k4OGIxdzdqd3lCQ3o3Rmpmc1FkNDRoS1I0M2M2QTljd3Yzd2Z4aWN0Y1d3WHRN?oc=5",
-   "pubDate": "2026-10-30T08:04:12.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "どうも、好きな人に惚れ薬を依頼された魔女です。"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ySmRqV2tlYmdwSkVyeDVHTFFCaXpyRXZ6NXNkeHlFcnM0WGMxMlF6T1k4OGIxdzdqd3lCQ3o3Rmpmc1FkNDRoS1I0M2M2QTljd3Yzd2Z4aWN0Y1d3WHRN?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「91Days」10周年記念上映会を11月に開催、特典は初期プロット集 鏑木ひろ監督ら登壇(コミックナタリー)",
-   "summary": "TVアニメ「91Days」の10周年を記念して、全12話を11月15日、20日の2日にわたり上映するイベントが、東京・新宿ピカデリーで行われる。【画像】販売される10周年のロゴ入りロックグラス「91D",
-   "link": "https://news.yahoo.co.jp/articles/ee9294fb0d4edb527cfeb61f66ab23b15b7be811?source=rss",
-   "pubDate": "2026-10-30T08:04:11.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "cast",
-    "movie",
-    "event"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ee9294fb0d4edb527cfeb61f66ab23b15b7be811?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『転生貴族、鑑定スキルで成り上がる 第3期』Blu-ray BOX発売決定！ - V-storage",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xZ19vX2FvZlhqOXJ5YkVraGJhaWxOY1FwYjBhRmdrcG9JNWhkbHB4WWNycEVVakV5aTEwY3VKTVo4SFBmb1hzV1VKNWJ1Tjh1WFpn?oc=5",
-   "pubDate": "2026-10-30T08:03:45.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "Googleニュース「TVアニメ 放送」",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "new",
-    "media"
-   ],
-   "works": [
-    "転生貴族、鑑定スキルで成り上がる"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「TVアニメ 放送」",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xZ19vX2FvZlhqOXJ5YkVraGJhaWxOY1FwYjBhRmdrcG9JNWhkbHB4WWNycEVVakV5aTEwY3VKTVo4SFBmb1hzV1VKNWJ1Tjh1WFpn?oc=5"
-    },
-    {
-     "name": "Googleニュース「アニメ」",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wOVBOdlQyNHg2MXh1Z3pFLXBZYWhYcUpQS29GN3VUUTN6VGpsc1NUTVQtV1VJQXo5SmduZ0ZtdVpvY3Y3Y0lOTC1ZNEE?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "シリーズ最大の黒歴史…『スター・ウォーズ』ワースト映画（3）旧三部作ファンほど戸惑う？ 前日譚最大の問題作(映画チャンネル)",
-   "summary": "映画史に燦然と名を刻む『スター・ウォーズ』シリーズ。しかし、その長い歴史の中には、ファンの間で賛否が大きく分かれた作品が存在している。圧倒的な人気を誇るシリーズだからこそ、一作ごとの評価もシビアに見ら",
-   "link": "https://news.yahoo.co.jp/articles/92e83705b03e4914ad9483cd9e97b0d1e1a482ef?source=rss",
-   "pubDate": "2026-10-30T08:03:44.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "映画チャンネル（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "スター・ウォーズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画チャンネル（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/92e83705b03e4914ad9483cd9e97b0d1e1a482ef?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ「DEATH STRANDING ISOLATIONS」のティザー映像と新ビジュアルが公開。悪夢にうなされる少女の過去とは",
-   "summary": "コジマプロダクションは本日（2026年10月30日），2027年に配信を予定しているオリジナルアニメーションシリーズ「DEATHSTRANDINGISOLATIONS」のティザー映像を公開した。公開された映像には，主人公と思われる少女が悪夢にうなされる様子が収められている。",
-   "link": "https://www.4gamer.net/games/483/G048386/20261030030/",
-   "pubDate": "2026-10-30T08:02:17.000Z",
-   "firstSeen": "2026-10-30T08:17:57.443Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 9,
-   "categories": [
-    "visual"
-   ],
-   "works": [
-    "DEATH STRANDING ISOLATIONS"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/483/G048386/20261030030/"
     }
    ]
   }
