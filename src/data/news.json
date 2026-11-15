@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-15T17:18:30.007Z",
+ "generatedAt": "2026-11-15T18:18:42.296Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5355,
+  "exact": 5359,
   "syndicated": 517,
-  "similar": 681,
-  "syndicatedTotal": 6141,
-  "syndicatedLeft": 1191
+  "similar": 683,
+  "syndicatedTotal": 6144,
+  "syndicatedLeft": 1190
  },
  "calendar": [
   {
@@ -9225,8 +9225,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 828,
-   "accepted": 827
+   "archived": 833,
+   "accepted": 832
   },
   {
    "id": "lisani",
@@ -9270,7 +9270,7 @@
    "error": null,
    "fetched": 20,
    "archived": 1217,
-   "accepted": 490
+   "accepted": 491
   },
   {
    "id": "gnews-anime",
@@ -9280,7 +9280,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5369,
+   "archived": 5370,
    "accepted": 5069
   },
   {
@@ -9291,8 +9291,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1039,
-   "accepted": 977
+   "archived": 1040,
+   "accepted": 978
   },
   {
    "id": "gnews-movie",
@@ -9301,7 +9301,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 86,
+   "fetched": 85,
    "archived": 814,
    "accepted": 723
   },
@@ -9324,7 +9324,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 909,
+   "archived": 911,
    "accepted": 159
   },
   {
@@ -9346,7 +9346,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1125,
+   "archived": 1124,
    "accepted": 88
   },
   {
@@ -9368,7 +9368,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1181,
+   "archived": 1180,
    "accepted": 81
   },
   {
@@ -9390,8 +9390,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29359,
-   "accepted": 3245
+   "archived": 29358,
+   "accepted": 3246
   },
   {
    "id": "prtimes",
@@ -9401,7 +9401,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27022,
+   "archived": 27004,
    "accepted": 490
   },
   {
@@ -9434,8 +9434,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 221,
-   "accepted": 221
+   "archived": 220,
+   "accepted": 220
   }
  ],
  "items": [
@@ -9522,6 +9522,13 @@
      "name": "ｄメニューニュース",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FdTlqamtycm1lVk5PcFlwdm1mSzRrZ2FvSlRMaXVVYnVxNVRycjhLUHJjWUxFWGxXbTJITEs0dmpPblNWLWVJUmdIR0dkOWxtLVFteHpnbVhLZlVkX1hWS3RQTmRiUm5KYkk1WmpvNzhpQUluRmt2S1ln0gF_QVVfeXFMUEJxcW03djh4Mk5tc3NVTm5xUmhsOGJrOC1ZS3hsZ2phcDBJaVZaeE1wdkR0OUFmSUQzLUMzTElzSDcwSklEVEd0aHVGM0lvSzRFOXFLWjJHU2N1dkJscjhtZm5LRUtQa3VYaFpOcHl0RDRNVDl4Q3ZtWmNoTFVSMA?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    },
+    {
+     "name": "TBS CROSS DIG with Bloomberg（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TNHBkZkJFb3RLT2NZcDJlU1k0UEdNYUhMMm9FcGlTUFpXcnNJTDhPSVo0S3lYNjk1em1DYzBBVGVTTVowWlFPa1V2bjcwTTdDaTltMXRpTThuS0FjLWR0b0lrYlV4XzhrcUl6SVVIVWM4VS1ZVlFBT2l0aUV6WmM?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
@@ -9691,7 +9698,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 20,
+   "score": 24,
    "categories": [
     "new",
     "broadcast",
@@ -9759,7 +9766,7 @@
    "syndicated": false,
    "kind": "general",
    "lang": "ja",
-   "score": 19,
+   "score": 23,
    "categories": [
     "new",
     "broadcast",
@@ -9896,7 +9903,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 29,
+   "score": 33,
    "categories": [
     "new",
     "cast",
@@ -9923,6 +9930,12 @@
      "name": "山陽新聞",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2SU9CZ0dyRkJmZkkxa1N1RklLWUpKNm43R0hDdV9UUklaNVFwN3FVNjJ5V190dEhBZGM0ZndveW42ZXFrMU9JdlNkOWVsYS1SMUdCZkVsRnp6cEhLTzk0YlVQWHlPbUhFNnotOA?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "徳島新聞デジタル",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oeVZCUjBhai1CeUVhdEJfNENBNXdGMldWLXl3VmhZY1dIVXJ5b0pKbzJkTWUxd3loU0M2NUZxcjVEbzF2c1VCNGMxcmhJSDhxNGJ1U1Jn?oc=5",
      "via": "Googleニュース「アニメ」"
     },
     {
@@ -9959,7 +9972,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 16,
+   "score": 20,
    "categories": [
     "broadcast",
     "cast"
@@ -9989,7 +10002,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 28,
+   "score": 32,
    "categories": [
     "new",
     "broadcast",
@@ -10091,26 +10104,27 @@
    "pubDate": "2026-11-15T15:00:00.000Z",
    "firstSeen": "2026-11-15T15:17:56.816Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "new",
     "broadcast",
     "visual",
     "cast"
    ],
-   "works": [],
+   "works": [
+    "ウィッチウォッチ"
+   ],
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tUVhfb0p0RV9yNGJnbXhZNDk3eGJZaHU4LTVHdW1wTW5jRHJsVVFHZC1xLUxMeTdqOHpxYjVXNC1vSldsRnpBRnNBLVA?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tUVhfb0p0RV9yNGJnbXhZNDk3eGJZaHU4LTVHdW1wTW5jRHJsVVFHZC1xLUxMeTdqOHpxYjVXNC1vSldsRnpBRnNBLVA?oc=5"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -12042,10 +12056,10 @@
    "pubDate": "2026-11-15T09:05:00.000Z",
    "firstSeen": "2026-11-15T15:17:56.816Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
    "score": 16,
    "categories": [
@@ -12057,10 +12071,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyT0RxakV4SkdiMmlQWnlrNFcyWGs4UFIxYnZzTDdYdTJmOEVzTFRDbDk0LVV2MkxyRWZwQ3VrYzBIeE9KRXBGcm9HaUctdHlYNjFocXRObUFQS04wV0d2ZTFR?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyT0RxakV4SkdiMmlQWnlrNFcyWGs4UFIxYnZzTDdYdTJmOEVzTFRDbDk0LVV2MkxyRWZwQ3VrYzBIeE9KRXBGcm9HaUctdHlYNjFocXRObUFQS04wV0d2ZTFR?oc=5"
     }
    ]
   },
@@ -13131,6 +13144,38 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxd090cllYajNudXJ5YWVVU0ZCRklfZ2I2eFJNNkVlR25tWk1ISS1kR29IU1Y5V2tEV0h0cGJPRnd1YzNnWWxDTnhneWtXTGg3Z0xobnNFc0RpRXdFeGNnOEFjZWhDa2p2dFFKdmtidEd3QjJVc0RuMlV1aXIxczg?oc=5",
      "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "死にたがりの少年と余命わずかな少年、共に過ごし「生きる理由」を見つける読み切り",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9scWk5Y1hVU1oxcTVubk5VZzkta21UbTB2SzBSTzRURmc2c3c1TXpSRlJ5NC1MTHNzeF9QamR0NTdrSy1fRGcydVUyQUY?oc=5",
+   "pubDate": "2026-11-15T05:06:00.000Z",
+   "firstSeen": "2026-11-15T05:17:59.327Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "生きる理由"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9scWk5Y1hVU1oxcTVubk5VZzkta21UbTB2SzBSTzRURmc2c3c1TXpSRlJ5NC1MTHNzeF9QamR0NTdrSy1fRGcydVUyQUY?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/2d453ce3812acb63521f2877deb3a91694d533b7?source=rss",
      "syndicated": true
     }
    ]
@@ -17501,7 +17546,7 @@
    "syndicated": false,
    "kind": "specialist",
    "lang": "ja",
-   "score": 10,
+   "score": 16,
    "categories": [
     "visual"
    ],
@@ -182327,6 +182372,34 @@
    ]
   },
   {
+   "title": "『ウィッチウォッチ』まるくじ【プレッピーコーデ】発売！チェック柄の描き下ろし6人が選べるアクスタやジオラマに",
+   "summary": "『ウィッチウォッチ』まるくじ【プレッピーコーデ】 今回のテーマは、チェック柄がおしゃれなプレッピーコーデ。若月ニコ、乙木守仁、風祭監志、真神圭護、宮尾音夢、霧生見晴の6人が、新規描き下ろしイラストで登場します。 チェックのジャケットやスカー…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/647101",
+   "pubDate": "2026-10-31T07:30:45.000Z",
+   "firstSeen": "2026-10-31T08:17:58.878Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/448288f270444598b310fcceae4361b0.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ウィッチウォッチ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/647101"
+    }
+   ]
+  },
+  {
    "title": "TVアニメ『しろたん』 第5話「おいしいハロウィン」【公式】",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42aTQ5X0ZBdTZhQ3F6cEc3Yk5OUGNPaVZBcDN1NjRNd2F2VEZ2blZOZEpobThaQW1PM2VpOENTWlVTRUxsNks3QmFKa05fU1JzWXNhQ0JRS1gyQVNY?oc=5",
@@ -192347,60 +192420,6 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wYW9xMV8wS1ZRRlR5T3FneWdRdHdadmlMMlRtX0JyQzFyb09Cenh5cWZaRFRTaXcxNE5iUndqOF9xVDVjQmJndUs0ckRCYjRhNE1IZw?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『凶乱令嬢ニア・リストン』第5話のあらすじ公開！ ニアは、天破流の師範代代理ガンドルフと対面するが…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OMk85bTd3UTRMejZiR0ljMnVRSEJZUUpac0ZuaUFwUVUybjZjSndwREI4T1ZxaVo5cnFKRHpCTDZZTVUyNFl1NURtUklJSDRwU2VtUQ?oc=5",
-   "pubDate": "2026-10-30T09:02:18.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [],
-   "works": [
-    "凶乱令嬢ニア・リストン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OMk85bTd3UTRMejZiR0ljMnVRSEJZUUpac0ZuaUFwUVUybjZjSndwREI4T1ZxaVo5cnFKRHpCTDZZTVUyNFl1NURtUklJSDRwU2VtUQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "『星のカービィ』デザインのスマホアクセサリーが発売 カービィやワドルディのiPhoneケースなど全6種(リアルサウンド)",
-   "summary": "モバイルライフスタイルブランド「iFace」を展開するHameeは、『星のカービィ』デザインのスマートフォンアクセサリー全6アイテムを10月29日より発売する。【画像】ホバリングするカービィや、ちょこ",
-   "link": "https://news.yahoo.co.jp/articles/9b376d92a434df8a5d168788ddf74d4dcd2306d0?source=rss",
-   "pubDate": "2026-10-30T09:01:13.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "星のカービィ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/9b376d92a434df8a5d168788ddf74d4dcd2306d0?source=rss",
-     "syndicated": true
     }
    ]
   }
