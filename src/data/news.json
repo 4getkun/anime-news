@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-15T19:18:42.514Z",
+ "generatedAt": "2026-11-15T20:18:49.792Z",
  "count": 6000,
  "dedupe": {
   "exact": 5359,
   "syndicated": 517,
-  "similar": 683,
-  "syndicatedTotal": 6144,
+  "similar": 684,
+  "syndicatedTotal": 6141,
   "syndicatedLeft": 1190
  },
  "calendar": [
@@ -9225,8 +9225,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 832,
-   "accepted": 831
+   "archived": 835,
+   "accepted": 834
   },
   {
    "id": "lisani",
@@ -9280,8 +9280,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5367,
-   "accepted": 5066
+   "archived": 5365,
+   "accepted": 5063
   },
   {
    "id": "gnews-tvanime",
@@ -9301,9 +9301,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 86,
-   "archived": 814,
-   "accepted": 723
+   "fetched": 87,
+   "archived": 813,
+   "accepted": 722
   },
   {
    "id": "gnews-seiyu",
@@ -9313,8 +9313,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2374,
-   "accepted": 2144
+   "archived": 2373,
+   "accepted": 2145
   },
   {
    "id": "natalie-eiga",
@@ -9324,7 +9324,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 913,
+   "archived": 915,
    "accepted": 159
   },
   {
@@ -9390,8 +9390,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29352,
-   "accepted": 3246
+   "archived": 29386,
+   "accepted": 3244
   },
   {
    "id": "prtimes",
@@ -9401,8 +9401,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 26992,
-   "accepted": 490
+   "archived": 26969,
+   "accepted": 489
   },
   {
    "id": "ann",
@@ -9434,8 +9434,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 221,
-   "accepted": 221
+   "archived": 220,
+   "accepted": 220
   }
  ],
  "items": [
@@ -10521,6 +10521,30 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-11-15/odekake-kozame-anime-gets-2nd-film/.243832"
+    }
+   ]
+  },
+  {
+   "title": "蛭子能収の世界観を詰め込んだ新作カプセルトイ、ガロの表紙がそのままエコバッグに",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2T0d3ODV0LTVtNklXUzBvWGlQWERBbHBTdXcxY0pZSTZRS0ZUaWhmWDV3ejlwbUcybENOWHNWU2dEVjUwc3lfN1dqd20?oc=5",
+   "pubDate": "2026-11-15T13:24:00.000Z",
+   "firstSeen": "2026-11-15T20:18:01.652Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2T0d3ODV0LTVtNklXUzBvWGlQWERBbHBTdXcxY0pZSTZRS0ZUaWhmWDV3ejlwbUcybENOWHNWU2dEVjUwc3lfN1dqd20?oc=5"
     }
    ]
   },
@@ -12110,10 +12134,10 @@
    "pubDate": "2026-11-15T09:04:59.000Z",
    "firstSeen": "2026-11-15T15:17:56.816Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
    "score": 16,
    "categories": [
@@ -12125,10 +12149,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDVXZTSWVINFRWZ2xyYjBiRHRjLWxaSTRETlBTaG53RDVzRHowZVNJcFJEcENaQ0JDcF9IX1I4RUhISUppdVZwd0RsaTVZS3hiNVdGcmpDeTJlSHI0dmpFSldn?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDVXZTSWVINFRWZ2xyYjBiRHRjLWxaSTRETlBTaG53RDVzRHowZVNJcFJEcENaQ0JDcF9IX1I4RUhISUppdVZwd0RsaTVZS3hiNVdGcmpDeTJlSHI0dmpFSldn?oc=5"
     }
    ]
   },
@@ -120300,7 +120323,7 @@
    ]
   },
   {
-   "title": "日本版声優｜『アベンジャーズ／ドゥームズデイ』",
+   "title": "日本版声優｜『アベンジャーズ／ドゥームズデイ』｜マーベル公式",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yNWlrcDZFbWhDRmJDdERtWlZyRWUzTnNzS2d3ZURBbldzNy03ZGRGUjQyVVJrR0NwaHpBVUtmWVdTNnlsWUdQNlIxcHVLV01QRUZYZTlULWRnZEIxbWN2SnVYOGxXeC1iQjlVaW5tTQ?oc=5",
    "pubDate": "2026-11-06T02:31:36.000Z",
@@ -192390,33 +192413,6 @@
      "name": "eeo",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oZFpKWllreHVPMWJDZkRkUlJUOWVsYU5CRjhSVDhIOHNnR2NNM1E5TDV0STZ3U05DYWxWVzVkTVNIRGZuWWZVeXJEQlllNktqMTNlYQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『TANK CHAIR-戦車椅子-』第5話のあらすじ公開！ 平良兄妹の追跡を命じられた⿊坂兄妹の元に…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82UnpvbFlRSUNTOERUQVQzaHM0V0N0OExRWEtydmxfV1owZWR3OUxrang4T0ZXVGJ0dDJFclFtd2lPMmpMTExnby1OY0EzUDQxak91TA?oc=5",
-   "pubDate": "2026-10-30T09:02:31.000Z",
-   "firstSeen": "2026-10-30T09:17:56.758Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "TANK CHAIR-戦車椅子-"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82UnpvbFlRSUNTOERUQVQzaHM0V0N0OExRWEtydmxfV1owZWR3OUxrang4T0ZXVGJ0dDJFclFtd2lPMmpMTExnby1OY0EzUDQxak91TA?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
