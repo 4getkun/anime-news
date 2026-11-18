@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-18T21:18:31.013Z",
+ "generatedAt": "2026-11-18T21:59:54.001Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5522,
+  "exact": 5526,
   "syndicated": 519,
   "similar": 737,
-  "syndicatedTotal": 6329,
-  "syndicatedLeft": 1164
+  "syndicatedTotal": 6334,
+  "syndicatedLeft": 1163
  },
  "calendar": [
   {
@@ -4669,6 +4669,20 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": "ちいかわ",
+   "title": "『ちいかわ』のアイテムがアベイルに登場！冬の準備をはじめるアイテムが11月21日（土）発売",
+   "link": "https://nijimen.kusuguru.co.jp/topics/661846",
+   "source": "にじめん",
+   "sources": 2,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-21",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": "ポケモン",
    "title": "しまむら・アベイルで『ポケモン』グッズが11月21日発売！アパレルをはじめ、イーブイと進化系たちのバッグ類やトラベル収納ケースも",
    "link": "https://www.inside-games.jp/article/2026/11/18/191197.html",
@@ -4755,20 +4769,6 @@
    "categories": [
     "goods"
    ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-21",
-   "precision": "day",
-   "verb": "release",
-   "label": "発売",
-   "work": "ちいかわ",
-   "title": "『ちいかわ』大人用トレーナー全12柄が11月21日発売！ドン・キホーテ・アピタで税込2,981円から、背面イラスト入りZIPタイプも",
-   "link": "https://nijimen.kusuguru.co.jp/topics/661561",
-   "source": "にじめん",
-   "sources": 1,
-   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -10206,8 +10206,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 890,
-   "accepted": 888
+   "archived": 891,
+   "accepted": 889
   },
   {
    "id": "lisani",
@@ -10250,8 +10250,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1392,
-   "accepted": 560
+   "archived": 1397,
+   "accepted": 562
   },
   {
    "id": "gnews-anime",
@@ -10261,7 +10261,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5454,
+   "archived": 5456,
    "accepted": 5159
   },
   {
@@ -10272,8 +10272,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1087,
-   "accepted": 1018
+   "archived": 1088,
+   "accepted": 1019
   },
   {
    "id": "gnews-movie",
@@ -10282,9 +10282,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 85,
-   "archived": 838,
-   "accepted": 752
+   "fetched": 90,
+   "archived": 839,
+   "accepted": 753
   },
   {
    "id": "gnews-seiyu",
@@ -10294,8 +10294,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2443,
-   "accepted": 2188
+   "archived": 2448,
+   "accepted": 2192
   },
   {
    "id": "natalie-eiga",
@@ -10305,7 +10305,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 992,
+   "archived": 993,
    "accepted": 157
   },
   {
@@ -10338,7 +10338,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1253,
+   "archived": 1252,
    "accepted": 291
   },
   {
@@ -10350,7 +10350,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1240,
-   "accepted": 91
+   "accepted": 90
   },
   {
    "id": "otakuma",
@@ -10371,8 +10371,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29458,
-   "accepted": 3357
+   "archived": 29498,
+   "accepted": 3360
   },
   {
    "id": "prtimes",
@@ -10382,7 +10382,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29230,
+   "archived": 29231,
    "accepted": 510
   },
   {
@@ -10393,8 +10393,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 716,
-   "accepted": 716
+   "archived": 717,
+   "accepted": 717
   },
   {
    "id": "mal",
@@ -10415,38 +10415,254 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 218,
-   "accepted": 218
+   "archived": 219,
+   "accepted": 219
   }
  ],
  "items": [
   {
-   "title": "鈴木保奈美、コットン・きょんと『ビリーと魔法のはじまり』日本版声優に「セレステはヴィランだけど愛すべきキャラクター」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MSmIyZjMydHdlQ2NQNjczNnMwdHI5RTRhMEFDLVN2RHhoajh6N1RoaV90OGU5ZDNQelpfT2xBUmxDbXc0dGZ1NEdxTUNGUG41Y056eDZFdjUydEZ1bjZnT08zNFp4Q1ZxQnlSSjdpR3p4OWNrLXAxREM4bw?oc=5",
-   "pubDate": "2026-11-18T21:09:10.000Z",
-   "firstSeen": "2026-11-18T21:18:00.584Z",
+   "title": "Studio Ghibli's 2,000-Piece Motorized Howl's Moving Castle LEGO Returns With Major Milestone",
+   "summary": "After two previous attempts to become an official LEGO set, a remarkable fan build for Ghibli's iconic steampunk fortress returns to LEGO Id…",
+   "link": "https://www.cbr.com/studio-ghibli-howls-moving-castle-motorized-lego-third-attempt/",
+   "pubDate": "2026-11-18T21:40:12.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/studio-ghibli-s-2-000-piece-motorized-howl-s-moving-castle-lego-returns-with-major-milestone.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/studio-ghibli-howls-moving-castle-motorized-lego-third-attempt/"
+    }
+   ]
+  },
+  {
+   "title": "昭和『ウルトラマン』大人になって見返すと胸が痛む「悲劇のウルトラ怪獣」たち 地球人は被害者じゃない!?(ふたまん＋)",
+   "summary": "1966年放送の『ウルトラQ』からスタートした昭和『ウルトラマン』シリーズにはさまざまな怪獣や宇宙人が登場。地球に襲来し、平和を脅かした存在として知られている。■【画像】美女がとんでもない姿に…胸が張",
+   "link": "https://news.yahoo.co.jp/articles/265f3436e3d80ab1dddffd24939eda20bdc3de2c?source=rss",
+   "pubDate": "2026-11-18T21:30:34.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
    "image": null,
-   "source": "ニコニコニュース",
-   "sourceId": "gnews-seiyu",
+   "source": "ふたまん＋（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
    "syndicated": true,
-   "kind": "aggregator",
+   "kind": "general",
    "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast",
-    "movie"
-   ],
+   "score": 4,
+   "categories": [],
    "works": [
-    "ビリーと魔法のはじまり"
+    "ウルトラマン"
    ],
    "spoiler": false,
    "sources": [
     {
-     "name": "ニコニコニュース",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MSmIyZjMydHdlQ2NQNjczNnMwdHI5RTRhMEFDLVN2RHhoajh6N1RoaV90OGU5ZDNQelpfT2xBUmxDbXc0dGZ1NEdxTUNGUG41Y056eDZFdjUydEZ1bjZnT08zNFp4Q1ZxQnlSSjdpR3p4OWNrLXAxREM4bw?oc=5",
-     "via": "Googleニュース「声優」",
+     "name": "ふたまん＋（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/265f3436e3d80ab1dddffd24939eda20bdc3de2c?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ちいかわ』のアイテムがアベイルに登場！冬の準備をはじめるアイテムが11月21日（土）発売",
+   "summary": "アベイルに『ちいかわ』アイテムが登場 今回のアイテムは「ちいかわアイテムで冬の準備をはじめよう」というメッセージとともに案内されています。寒さが増していくこれからの時期に向けて、『ちいかわ』のアイテムで冬支度ができそうです。 公開されたビジュアルには、毛足のあるアイテムが色違いで…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/661846",
+   "pubDate": "2026-11-18T21:30:09.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/4626139d4bb448a1aa492e85b6bda91c.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ちいかわ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/661846"
+    }
+   ]
+  },
+  {
+   "title": "Even the Student Council Has Its Holes! ‒ Episode 7",
+   "summary": "The saga of Komaro's rice balls is the closest that this anime has gotten to a unified and holistic episode—and I'm here for it.",
+   "link": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-7/.243946",
+   "pubDate": "2026-11-18T21:30:00.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-7/.243946"
+    }
+   ]
+  },
+  {
+   "title": "【イベント情報】東京・激レア！国立映画アーカイブ「韓国アニメーションの冒険」開催｜ネジムラ89 / アニメ映画ライター",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ieHhrYUtZYjVrRnJhbi1GS0xMSVpUWDJvTFkyTi02dHV4S3NQVllYdWx0N3c1RFBaZk5iS1Fkdy1HLXByWmI5TThST2NybHJXYThMelln?oc=5",
+   "pubDate": "2026-11-18T21:23:38.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": null,
+   "source": "note",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "movie",
+    "event"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "note",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ieHhrYUtZYjVrRnJhbi1GS0xMSVpUWDJvTFkyTi02dHV4S3NQVllYdWx0N3c1RFBaZk5iS1Fkdy1HLXByWmI5TThST2NybHJXYThMelln?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「即完売はやめて…」『ドラクエ』新ふくびきのラインナップに「さいご賞やばっ！」「モンスターの色が違う…？」(マグミクス)",
+   "summary": "「ドラゴンクエスト」シリーズの新たなふくびきが発表され、ファンから「全部ほしい」と反響が寄せられています。【画像】え…っ！「即完売はやめて…」こちらが『ドラクエ』新ふくびきのラインナップのビジュアルで",
+   "link": "https://news.yahoo.co.jp/articles/0c688d9dd7888da5aed8fba824f5ca5f21359934?source=rss",
+   "pubDate": "2026-11-18T21:20:00.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": null,
+   "source": "マグミクス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ドラクエ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "マグミクス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0c688d9dd7888da5aed8fba824f5ca5f21359934?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ケロロ軍曹』×『サンリオキャラクターズ』グッズが11月20日販売開始！フード着脱できるむにゅぐるみマスコットやPCケースなど",
+   "summary": "『ケロロ軍曹』×『サンリオキャラクターズ』コラボの特徴 今回のコラボでは、ケロロ小隊の5人がサンリオキャラクターズとペアを組んでいます。組み合わせは、ケロロ×ハローキティ、タママ×マイメロディ、ギロロ×バッドばつ丸、クルル×ぐでたま、ドロロ×タキシードサムの5組です。 ラインナッ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/661812",
+   "pubDate": "2026-11-18T21:19:13.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/941795638b19441aaae18c4cb722099e.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ケロロ軍曹",
+    "サンリオキャラクターズ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/661812"
+    }
+   ]
+  },
+  {
+   "title": "鍛え抜かれた太もも！『スト6』より「春麗(Outfit2)」がプライズフィギュア「Grandista」で展開",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/19/191203.html",
+   "pubDate": "2026-11-18T21:15:02.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "スト6"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/19/191203.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/3914b920d5e4829d71e2c006145786a21784d89f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【灰皿にあふれる吸い殻やアニメの丸み帯びたフェンダーまで再現！】エンドレス製作の『カリオストロの城』仕様フィアット500",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RbmlLUDl4QlQzMkZsZjRpOFY2M0p3cnlra1E1UzZlbFByRVpaaUltN0NLa2pUTk5ZOUVQdHFKcTFNUTczUDdENzd5RUlsQjlpQVFmWHVldVdYWGZUQUYxMWl3SjFWUG5EcXBUY2xfblJGc2FwQ3V2Um5STkFQUU0?oc=5",
+   "pubDate": "2026-11-18T21:11:10.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "カリオストロの城"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RbmlLUDl4QlQzMkZsZjRpOFY2M0p3cnlra1E1UzZlbFByRVpaaUltN0NLa2pUTk5ZOUVQdHFKcTFNUTczUDdENzd5RUlsQjlpQVFmWHVldVdYWGZUQUYxMWl3SjFWUG5EcXBUY2xfblJGc2FwQ3V2Um5STkFQUU0?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -10589,16 +10805,16 @@
    ]
   },
   {
-   "title": "鈴木保奈美、ディズニー最新作で日本版声優に決定 初参加で新ヴィラン女王役「夢のようでした」(ENCOUNT)",
-   "summary": "俳優の鈴木保奈美とお笑いコンビ・コットンのきょんが、12月4日公開のディズニー・アニメーション・スタジオ最新作『ビリーと魔法のはじまり』で日本版声優を務めることが19日、発表された。2人は同作品が初参",
-   "link": "https://news.yahoo.co.jp/articles/4190741c387c99facd865117248eb32ff1cdf271?source=rss",
+   "title": "鈴木保奈美、ディズニー最新作で日本版声優に決定 初参加で新ヴィラン女王役「夢のようでした」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdk83QTFnMVh4bU9wOFJQVzFERDE2elVfX2dQaTNGWVIwdEY1V2pnaWJjZzdlLWctd1RxTUF5Y1p6S0JOVWhTZ0hYX2c2akRpN3VDYUZqR3BGZVQ4MWZnUWpqWWlUblp5QnhQUzRxX2RCY0JXVlZtOGtWblhxUW1HYw?oc=5",
    "pubDate": "2026-11-18T21:00:00.000Z",
    "firstSeen": "2026-11-18T21:18:00.584Z",
    "image": null,
-   "source": "ENCOUNT（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
+   "source": "UQライフ",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
    "lang": "ja",
    "score": 11,
    "categories": [
@@ -10608,6 +10824,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "UQライフ",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdk83QTFnMVh4bU9wOFJQVzFERDE2elVfX2dQaTNGWVIwdEY1V2pnaWJjZzdlLWctd1RxTUF5Y1p6S0JOVWhTZ0hYX2c2akRpN3VDYUZqR3BGZVQ4MWZnUWpqWWlUblp5QnhQUzRxX2RCY0JXVlZtOGtWblhxUW1HYw?oc=5",
+     "via": "Googleニュース「声優」"
+    },
     {
      "name": "ENCOUNT（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
@@ -10731,6 +10953,43 @@
    ]
   },
   {
+   "title": "鈴木保奈美、コットン・きょんと『ビリーと魔法のはじまり』日本版声優に「セレステはヴィランだけど愛すべきキャラクター」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MaXNSd0hpVDJSeUpxaW1ZeDNGMTNtNXEya1RvTU43QklSaXRRY1pMYnN2bk1SRUMtV2lWUFFrNUlxUzVfd1pFcFQ5MTlVdw?oc=5",
+   "pubDate": "2026-11-18T21:00:00.000Z",
+   "firstSeen": "2026-11-18T21:18:00.584Z",
+   "image": null,
+   "source": "WEBザテレビジョン",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "ビリーと魔法のはじまり"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MaXNSd0hpVDJSeUpxaW1ZeDNGMTNtNXEya1RvTU43QklSaXRRY1pMYnN2bk1SRUMtV2lWUFFrNUlxUzVfd1pFcFQ5MTlVdw?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "ニコニコニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MSmIyZjMydHdlQ2NQNjczNnMwdHI5RTRhMEFDLVN2RHhoajh6N1RoaV90OGU5ZDNQelpfT2xBUmxDbXc0dGZ1NEdxTUNGUG41Y056eDZFdjUydEZ1bjZnT08zNFp4Q1ZxQnlSSjdpR3p4OWNrLXAxREM4bw?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "鈴木保奈美が新たなディズニーヴィランに！ 『ビリーと魔法のはじまり』特別映像で衝撃の変身 - アニメ - ニュース",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RS2xnc3JRYjFPaXNHMy1sbW5vSnMwbXo1TmpZS1VGNmw1a182VTRMMldreF9oUmpTR3h0TWNMM1VUMkE4anZVQXBYcl9pSjg?oc=5",
@@ -10821,6 +11080,87 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-11-18/youre-so-sloppy-hotta-sensei-manga-ends-in-2-chapters/.243956"
+    }
+   ]
+  },
+  {
+   "title": "嘘つき“毒妹”にすべて奪われた姉の復讐劇「逆襲シンデレラ」ドラマ化、主演は剛力彩芽（コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yYXNvTHJwbVRLVl8ybzJFU1ZZUXpkSE1aelk2ZXVYRDhJQ21Fb0tOXzRyTnZoMUZwMzV2cHJPS3UwcTE2bjNwbDM5Snc?oc=5",
+   "pubDate": "2026-11-18T21:00:00.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "works": [
+    "逆襲シンデレラ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yYXNvTHJwbVRLVl8ybzJFU1ZZUXpkSE1aelk2ZXVYRDhJQ21Fb0tOXzRyTnZoMUZwMzV2cHJPS3UwcTE2bjNwbDM5Snc?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "鈴木保奈美が“新ディズニーヴィラン”！「ビリーと魔法のはじまり」セレステ女王役の日本版声優に挑戦、コットンきょんも参加",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QeGFacFVFbGZ4TUxBUElNSU1TM2ppRmRWaDdrSk1Wdkk4X0hRU0tvNDFnX0V6ckQ1OUZ0Qjl3Vnh6dDdnc1RDZg?oc=5",
+   "pubDate": "2026-11-18T21:00:00.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": null,
+   "source": "映画.com",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QeGFacFVFbGZ4TUxBUElNSU1TM2ppRmRWaDdrSk1Wdkk4X0hRU0tvNDFnX0V6ckQ1OUZ0Qjl3Vnh6dDdnc1RDZg?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦』徳川の「阿修羅」をデュークの「破壊の魔神」が破壊し、徳川はコートに倒れ伏す――!? 第9話「譲れない想い」あらすじ＆先行カット",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sZnRsM2R5aElNVUlYeFgwOHY4eF9WSTVtRVF6eGVqVzFoVEJNbDdqR0k3T1QzRU15RllVMG5zOExHeWhMZVdSaDVEZmkzQQ?oc=5",
+   "pubDate": "2026-11-18T20:56:18.000Z",
+   "firstSeen": "2026-11-18T21:59:15.875Z",
+   "image": null,
+   "source": "PASH! PLUS",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PASH! PLUS",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sZnRsM2R5aElNVUlYeFgwOHY4eF9WSTVtRVF6eGVqVzFoVEJNbDdqR0k3T1QzRU15RllVMG5zOExHeWhMZVdSaDVEZmkzQQ?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -27763,9 +28103,9 @@
     },
     {
      "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zQ1dhVkxrcDJ3SXA3YlR4OXNtQmFUMHdMc24xdmRsQW93T0ttVFgtQnRfS3dMN1FnTW4yS1ZzWUZXZDB3eWRrZ3dhUEpfUlNnVUJLZjNEdE9TRzJKZDh3SGthekZ5YklpbEtENmh4a1k1QTh6QUdWOG5KQVg5X0U?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -192514,397 +192854,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83OUNvVGFHRUcxYW85aFdiZm95X2FuSkUzRnJOQlRtT0drM3lJcUtVT0Jpb1RPMHI0TWstYkFEMHFBeVl5ZnBiQ2hnRFJrUmRJR3lJN1RZN29PYUlXR05z?oc=5",
      "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "The Iceblade Sorcerer Shall Rule the World Season 2 Unveils 5 Cast Members",
-   "summary": "Yūki Wakai, Toshiyuki Morikawa, Tetsu Inada, Daiki Hamano, Riona Imaizumi join anime's cast from episode 5 on Thursday",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-03/the-iceblade-sorcerer-shall-rule-the-world-season-2-unveils-5-cast-members/.243478",
-   "pubDate": "2026-11-03T10:01:33.000Z",
-   "firstSeen": "2026-11-03T11:17:56.750Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "new",
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-03/the-iceblade-sorcerer-shall-rule-the-world-season-2-unveils-5-cast-members/.243478"
-    }
-   ]
-  },
-  {
-   "title": "“平和の象徴とは…何だ”「ヒロアカ」エンデヴァーが「S.H.Figuarts」に登場♪ 劇中作画をもとに検証しつくしたこだわりの造形は必見！",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/11/03/104455.html",
-   "pubDate": "2026-11-03T10:00:03.000Z",
-   "firstSeen": "2026-11-03T10:17:57.772Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "僕のヒーローアカデミア",
-    "S.H.Figuarts"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/11/03/104455.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/513b6704dfd7b0057f5962fac3a73d9161a724f1?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TUUM4QXNianpnb1poako2Nmw4NDY1OUJES2RKQUUtYzJkbDlxbVVsM0c1cG5oV25aWnVlRWFSbTJuYlZ3MGRkd0hfM2N5ZFM3MlJNSVZyeXlSZXQ1SHRJc19xZDNVWUt5WV9NSTBxZW80OG1QODdyZ2ZVWDNjVlE?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『FX戦士くるみちゃん』、OPテーマ「FX戦士くるみちゃん」のデスボイスver.が公開！",
-   "summary": "10月1日より大好評放送中のTVアニメ『FX戦士くるみちゃん』（原作：でむにゃん・作画：炭酸だ...",
-   "link": "https://www.lisani.jp/0000321406/",
-   "pubDate": "2026-11-03T10:00:00.000Z",
-   "firstSeen": "2026-11-03T10:17:57.772Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611031800-yh-007.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 26,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "FX戦士くるみちゃん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000321406/"
-    },
-    {
-     "name": "Excite エキサイト",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWT2QyUEZMV2JOQWRvTWJQeUJLTzFZLTF1a3ZZbms4T1BfNFkzLXlRT3lxbHpoZHZ0M1FGQjI2dFBNWGgzRzh6Z1FJSzVZN0VKUDJab1FUOTQ2enBOSWh0dmxySFJKUQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    },
-    {
-     "name": "ライブドアニュース",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxRWUzYlNqVmRSb2FXZDFjMlhXTHdycFZ5LUpINmFsZFlSMXRrQXY5aDAxWVU3bVlFYjFSQjNteDFmbGo2VWxCMnRrWVFtS2t3Z0hqZEY5RWZxaFppSnNF?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『氷の城壁』第20話あらすじ＆場面カット",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55SllqSlVaQ0Fxdk1HN2c5dEZuVnJvQS0xeDZHTTZTclVlQnJWa0ZPY3pvNGtlNjFRRC1kUk1VU0wzUnA4eWlkMlh3cTNpTlkteTJveUxTMWVmSXJ3M0dpWWMxM2Uya0g3X1Fv?oc=5",
-   "pubDate": "2026-11-03T10:00:00.000Z",
-   "firstSeen": "2026-11-03T10:17:57.772Z",
-   "image": null,
-   "source": "アニメイトタイムズ",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "visual"
-   ],
-   "works": [
-    "氷の城壁"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメイトタイムズ",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55SllqSlVaQ0Fxdk1HN2c5dEZuVnJvQS0xeDZHTTZTclVlQnJWa0ZPY3pvNGtlNjFRRC1kUk1VU0wzUnA4eWlkMlh3cTNpTlkteTJveUxTMWVmSXJ3M0dpWWMxM2Uya0g3X1Fv?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "＜氷の城壁＞文化祭当日、小雪と湊の間にある微妙な距離感に美姫らは歯がゆさを感じる 第20話先行カット＆あらすじ公開(WEBザテレビジョン)",
-   "summary": "アニメ「氷の城壁」第2期(毎週木曜夜11:56-0:26、TBS系／ABEMA・ディズニープラス・Huluほかで配信)の第20話「文化祭」が11月5日(木)に放送される。放送に先駆け、あらすじと場面カ",
-   "link": "https://news.yahoo.co.jp/articles/35f8249289180133bc1c8358491edeff76ea09e6?source=rss",
-   "pubDate": "2026-11-03T10:00:00.000Z",
-   "firstSeen": "2026-11-03T10:17:57.772Z",
-   "image": null,
-   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "new",
-    "broadcast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/35f8249289180133bc1c8358491edeff76ea09e6?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメーターは“観察者”である、錦織敦史監督らが語る「アニメーターの醍醐味」（イベントレポート）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qamU4Ml9VeGdudDFGeW85ZTQ3U0dfNXVHejEtdmtfSjUzRFhLWlE2RXhxUEUtR2F5eDNmODJ6SElRbEJVYlJxNVU3NWE?oc=5",
-   "pubDate": "2026-11-03T09:50:00.000Z",
-   "firstSeen": "2026-11-03T10:17:57.772Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 17,
-   "categories": [
-    "cast",
-    "business",
-    "movie",
-    "event"
-   ],
-   "works": [
-    "ーターの醍醐味"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qamU4Ml9VeGdudDFGeW85ZTQ3U0dfNXVHejEtdmtfSjUzRFhLWlE2RXhxUEUtR2F5eDNmODJ6SElRbEJVYlJxNVU3NWE?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/79c3a9f6ae27563672dfd0e6e55ae15d73e9b0b7?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『ブラック・ジャック』ラッフルくじ登場！ブラック・ジャックとピノコのA4パブミラーや選べるつながるアクキーなど全29種",
-   "summary": "アニメ『ブラック・ジャック』ラッフルくじの景品ラインナップ 今回のくじは、アニメ『ブラック・ジャック』のアニメイラストを使った景品で構成されています。描かれているのは、天才外科医ブラック・ジャックと、彼を支えるピノコ。ふたりの姿を収めたビジ…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/648731",
-   "pubDate": "2026-11-03T09:50:00.000Z",
-   "firstSeen": "2026-11-03T10:17:57.772Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/e25f67b8eeab4a039c4b96a3e6ff19fd.jpg",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ブラック・ジャック"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/648731"
-    }
-   ]
-  },
-  {
-   "title": "川尻将由監督が東京国際映画祭で語る、アニメの道へ進んだきっかけ (2026年11月3日掲載)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50TDRPaTdfdEhKcmVuQTJOY0M2TW1lMmRwVFpZMzUzcl96YkFBWFVYOHNZMUdhMXZFTVJaZ0JuTlk4U09BX1dMZzBDRUU1VHQxSW5uUkpqWk81QXc0cVE?oc=5",
-   "pubDate": "2026-11-03T09:48:40.000Z",
-   "firstSeen": "2026-11-03T11:17:56.750Z",
-   "image": null,
-   "source": "2026年11月3日掲載（ライブドアニュース）",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "2026年11月3日掲載（ライブドアニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50TDRPaTdfdEhKcmVuQTJOY0M2TW1lMmRwVFpZMzUzcl96YkFBWFVYOHNZMUdhMXZFTVJaZ0JuTlk4U09BX1dMZzBDRUU1VHQxSW5uUkpqWk81QXc0cVE?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "東京国際映画祭アニメ・シンポジウムで「宮崎駿さんが作った子どもイメージは違う」発言に沸く",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlg5ZTg1b1lFVloxUVYtaEg2R2dsRnZGYksyMTdVWWZwbUhFQWFmNHlYdTU2Y3cyVUVPMHl3UkJnQjFnLXVFaTZUNG9nTXppQ3ltcG05REpWWEVEVVMwY3V3NDJGVFVQSVFlc296S2VCMVFNT3UzNlJ5VjRpbndhQXdYM1Mxc1JibFJwTFFGZ0pRUEF0Z0E?oc=5",
-   "pubDate": "2026-11-03T09:48:00.000Z",
-   "firstSeen": "2026-11-03T10:17:57.772Z",
-   "image": null,
-   "source": "日刊スポーツ",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "日刊スポーツ",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlg5ZTg1b1lFVloxUVYtaEg2R2dsRnZGYksyMTdVWWZwbUhFQWFmNHlYdTU2Y3cyVUVPMHl3UkJnQjFnLXVFaTZUNG9nTXppQ3ltcG05REpWWEVEVVMwY3V3NDJGVFVQSVFlc296S2VCMVFNT3UzNlJ5VjRpbndhQXdYM1Mxc1JibFJwTFFGZ0pRUEF0Z0E?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "日刊スポーツ（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/eaff9812d6bc73eaf816a8e94df29a79e4cc113e?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "日刊スポーツ（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDMGhXdEN4RkxRYTE1Y3JFcDQxQzY2T1AzN01neGpxRGVkUXlqeG5lajV1N2puOHliMXZLNnROT0I1WTJoYkdObFQwWF9nRU9NbERjUlBVcEg2Zk1MYjVmMGFaN3V2cDU1YlV5Q2E5TzAyTzgtdGM4dmdIaElEMlU?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    },
-    {
-     "name": "ｄメニューニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOUNfS0ZwNHd5TU11d1dBY1pUbXlpT1FKSjJxVURwTzVxZEtxYzZaS0xmam42Q3VocHZPUTlxdDRQaVZZMFplak91ZWo5QVZIUkFVRWZtUmhTNmUwYzNUUnNUbGMyUVBfU2tSOTJMVi10TnYxUndGTHpjUHh3Z2RMTi1QS2trSnV5RHNqUmZPTll2Z1JXTGNPQVdsQVNRd0ZvSFdPMXZqN296NnZKZ2dtWEszdVBWMHBwMkozcDBETlNRc2lPZmNGNFlRMjNUSmROcWctY0t3NHhvMzZOcGNjaFJVTHpqT2hRcUZqdmRuLThyRUk20gGkAUFVX3lxTE50OWpDamprWWl5MzlXZ3FDOXZSNi1nempxNXZZZkt4UjVxMV9hcExBNWpZU3oyR184VFhXRktlc1I3TE5NZVdjeWp3MG9kNkRidmRPUjRJc0d2SDJDVDdYT2NmVDZha0ZybEozb0hsZlNLZ1NDbmw1VUdqbkMzQ0lkZWFIcGtIWHVfWDdKanc5WUh6LUhHU3JwRElLWGEwb19VbWJl?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『FX戦士くるみちゃん』OPテーマの「デスボイスver.」が公開!? スーパー投資バトルが始まる第6話あらすじ＆先行カットも到着",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WMldRbUc1OHF5bERZYU54bFNONS1Ldmc0VV9icTgzME5RcThTTVdNUnhZYVZpWEpvQ3dWaWZYM1hWc2J4RzBKQkdySlZVQQ?oc=5",
-   "pubDate": "2026-11-03T09:33:45.000Z",
-   "firstSeen": "2026-11-03T10:17:57.772Z",
-   "image": null,
-   "source": "PASH! PLUS",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "FX戦士くるみちゃん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PASH! PLUS",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WMldRbUc1OHF5bERZYU54bFNONS1Ldmc0VV9icTgzME5RcThTTVdNUnhZYVZpWEpvQ3dWaWZYM1hWc2J4RzBKQkdySlZVQQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「白雪姫」の世界をキャップで表現！ 小さな刺繍やイラストプリントがおしゃれ♪ ディズニーデザインコレクション新作",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/11/03/104454.html",
-   "pubDate": "2026-11-03T09:30:03.000Z",
-   "firstSeen": "2026-11-03T10:17:57.772Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "白雪姫"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/11/03/104454.html"
-    }
-   ]
-  },
-  {
-   "title": "『劇場版 薬屋のひとりごと』×ツムラ漢方がタイアップ！ 猫猫と学べる限定本やアクスタが当たるキャンペーン実施",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvZ2l1T010LTRuSWRhSHRJdEhDSjcyalpvZWNpcDVfOEpQWmZ6Y05UMG9JY3QxbllfaWozbkVGbmg4TG5hVzdtaW5lbzJRcUZaRnItd0VjcGVXdw?oc=5",
-   "pubDate": "2026-11-03T09:30:00.000Z",
-   "firstSeen": "2026-11-03T14:18:02.829Z",
-   "image": null,
-   "source": "電撃オンライン",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "movie",
-    "goods"
-   ],
-   "works": [
-    "薬屋のひとりごと"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvZ2l1T010LTRuSWRhSHRJdEhDSjcyalpvZWNpcDVfOEpQWmZ6Y05UMG9JY3QxbllfaWozbkVGbmg4TG5hVzdtaW5lbzJRcUZaRnItd0VjcGVXdw?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
   }
