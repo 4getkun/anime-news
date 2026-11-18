@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-18T13:18:46.654Z",
+ "generatedAt": "2026-11-18T14:04:37.705Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5503,
+  "exact": 5507,
   "syndicated": 519,
-  "similar": 735,
-  "syndicatedTotal": 6304,
-  "syndicatedLeft": 1167
+  "similar": 736,
+  "syndicatedTotal": 6309,
+  "syndicatedLeft": 1168
  },
  "calendar": [
   {
@@ -6919,23 +6919,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-12-18",
-   "precision": "day",
-   "verb": "movie",
-   "label": "公開",
-   "work": "デューン",
-   "title": "素顔は「遊戯王」「ドラゴンボール」を愛する青年、ティモシー・シャラメのカリスマ性を『デューン』監督が語る(cinemacafe.net)",
-   "link": "https://news.yahoo.co.jp/articles/b327c3a0a6e5822f23d87d4ed372825b187ed23a?source=rss",
-   "source": "cinemacafe.net（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-12-19",
    "precision": "day",
    "verb": "event",
@@ -10236,17 +10219,17 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 877,
-   "accepted": 875
+   "archived": 878,
+   "accepted": 876
   },
   {
    "id": "lisani",
    "name": "リスアニ！",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 220,
    "accepted": 220
   },
@@ -10280,7 +10263,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1387,
+   "archived": 1390,
    "accepted": 559
   },
   {
@@ -10291,8 +10274,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5445,
-   "accepted": 5150
+   "archived": 5449,
+   "accepted": 5154
   },
   {
    "id": "gnews-tvanime",
@@ -10324,8 +10307,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2423,
-   "accepted": 2171
+   "archived": 2424,
+   "accepted": 2172
   },
   {
    "id": "natalie-eiga",
@@ -10335,8 +10318,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 961,
-   "accepted": 153
+   "archived": 977,
+   "accepted": 155
   },
   {
    "id": "inside-games",
@@ -10346,7 +10329,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1683,
+   "archived": 1684,
    "accepted": 868
   },
   {
@@ -10368,7 +10351,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1250,
+   "archived": 1249,
    "accepted": 293
   },
   {
@@ -10379,7 +10362,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1237,
+   "archived": 1238,
    "accepted": 92
   },
   {
@@ -10401,8 +10384,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29415,
-   "accepted": 3345
+   "archived": 29432,
+   "accepted": 3347
   },
   {
    "id": "prtimes",
@@ -10423,8 +10406,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 724,
-   "accepted": 724
+   "archived": 723,
+   "accepted": 723
   },
   {
    "id": "mal",
@@ -10450,6 +10433,62 @@
   }
  ],
  "items": [
+  {
+   "title": "舞台「烈海王は異世界転生しても 一向にかまわんッッ」に坂垣怜次、新井雄也、松原凛らが出演 キービジュアル公開(映画.com)",
+   "summary": "舞台「刃牙 THEGRAPPLERSTAGE外伝 烈海王は異世界転生しても 一向にかまわんッッ」の出演者が発表された。キービジュアルも公開されている。 猪原賽氏（原作）と陸井栄史氏（漫画）が「月刊少年",
+   "link": "https://news.yahoo.co.jp/articles/61d2364147d407ee912692755a4188252ec94979?source=rss",
+   "pubDate": "2026-11-18T14:00:00.000Z",
+   "firstSeen": "2026-11-18T14:03:50.405Z",
+   "image": null,
+   "source": "映画.com（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "visual",
+    "cast",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画.com（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/61d2364147d407ee912692755a4188252ec94979?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "ano、『CDTVライブ！ライブ！』での「キライのちスキ！」パフォーマンス映像を公開(Billboard JAPAN)",
+   "summary": "anoが、TBS系『CDTVライブ！ライブ！』で披露した新曲「キライのちスキ！」のパフォーマンス映像を期間限定公開した。その他の画像 新曲「キライのちスキ！」は、TVアニメ『ケロロ軍曹☆』のオープニン",
+   "link": "https://news.yahoo.co.jp/articles/123f46f1016e2486ed2924b0ea4cae3b91879c2f?source=rss",
+   "pubDate": "2026-11-18T13:20:04.000Z",
+   "firstSeen": "2026-11-18T14:03:50.405Z",
+   "image": null,
+   "source": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [],
+   "works": [
+    "CDTVライブ!ライブ!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/123f46f1016e2486ed2924b0ea4cae3b91879c2f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "おそろいで着たい！ディズニー『わんわん物語』のウェディングドレス＆タキシードが神デザイン(ぴあ)",
    "summary": "クラウディアより、映画『わんわん物語』のレディとトランプにインスパイアされた、最旬トレンドデザインの「新作ウェディングドレス＆タキシード」が登場。【全ての画像】クラウディア「ディズニーウェディングドレ",
@@ -10730,6 +10769,30 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/3f1668b32aba3059676aba4f3fedcebc3e3e1261?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「VIVANT」ハン・リンシン役の宮下今日子が「A-Studio+」へ、友人の天海祐希が語る魅力",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92SXRBTEtmb3JRQ3lMblVnUjZENXltbGsyNU5Dc3hRYkFFbzRUc0ZIXzROSUU1REZqUDdMWkpOWVJLMjhmNzBNNEFmQQ?oc=5",
+   "pubDate": "2026-11-18T11:30:00.000Z",
+   "firstSeen": "2026-11-18T14:03:50.405Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92SXRBTEtmb3JRQ3lMblVnUjZENXltbGsyNU5Dc3hRYkFFbzRUc0ZIXzROSUU1REZqUDdMWkpOWVJLMjhmNzBNNEFmQQ?oc=5"
     }
    ]
   },
@@ -11054,34 +11117,6 @@
    ]
   },
   {
-   "title": "「くくルプ」2027年放送開始 アルフィーナ役は長谷川育美、ライオネット役は浦和希(コミックナタリー)",
-   "summary": "TVアニメ「99回断罪されたループ令嬢ですが今世は『超絶愛されモード』ですって!? ～真の力に目覚めて始まる100回目の人生～」が、2027年放送開始。メインキャストとして主人公・アルフィーナ役を長谷",
-   "link": "https://news.yahoo.co.jp/articles/94c783c7115530b8d388e9924ab640689c133afd?source=rss",
-   "pubDate": "2026-11-18T11:00:25.000Z",
-   "firstSeen": "2026-11-18T11:18:03.412Z",
-   "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "broadcast",
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/94c783c7115530b8d388e9924ab640689c133afd?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "【コスプレ】大胆で華麗な足上げポーズで美脚を披露！『FGO』イシュタルの黒髪なびく美貌に目が釘付け【写真9枚】",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/11/18/191196.html",
@@ -11119,7 +11154,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 16,
    "categories": [
     "broadcast",
     "cast"
@@ -11167,6 +11202,41 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DX0NLdWlhazVYOHk0SElJWXU1dHIwRjk1b21oQ0FRMUJMT2F0ay1ucjJCNm9Hcm5uRUZBOHdqM28tOVNHb2lBVk96OHdRMHNWS1Z2WFBONE9qbFluekRFY1c2T0pRX0JFLV93TzZOVEZsVlJHQVc5Y2E5NEZCWk0?oc=5",
      "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「くくルプ」2027年放送開始 アルフィーナ役は長谷川育美、ライオネット役は浦和希（コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jRElKRlBSRF9lVHFMQUZHdTBnVjRkVFlzcVlYVWk3eERMd21ZRWpjYng5Q1A3NzdHakZ1Z1NmWk5JWWthZWxONXY3VVA?oc=5",
+   "pubDate": "2026-11-18T11:00:00.000Z",
+   "firstSeen": "2026-11-18T11:18:03.412Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "broadcast",
+    "cast"
+   ],
+   "works": [
+    "くくルプ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jRElKRlBSRF9lVHFMQUZHdTBnVjRkVFlzcVlYVWk3eERMd21ZRWpjYng5Q1A3NzdHakZ1Z1NmWk5JWWthZWxONXY3VVA?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/94c783c7115530b8d388e9924ab640689c133afd?source=rss",
      "syndicated": true
     }
    ]
@@ -11539,6 +11609,35 @@
      "name": "アニメ！アニメ！（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2NHhZaFZMTlRtZkxxQzdTaFMxVnhiWTNmY2VpUjZiMVNpLW40bHUyLW9TXzY2YlVSQldxcGt3R3ZHblFvOWloQkFFVlFuMjlVZUwzUWdjQ3Buc1lMa0hPSWZ6UDFtRm1NTTZRQUl3NVJaU0pEX2k0RWEwUlVhcWs?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "＜狼と香辛料＞新作テレビアニメ第2期 2027年1月スタート ホロとロレンスの新たな旅路 廣田行生、内田夕夜、豊崎愛生出演",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWWlYVnpOQVpJazlsOVotMm55R2p2MC1ndXYzZU9wRUl4MzM2TnVLZ0J6aTVIaE1KSzZEU1M5cnZiZ1ExZ3d4aWRYMlhHOHp6cnU0RThMUnhMRV9saWN2M1NOUVZ4LURzVE56ZkU4M1hPN1oteVR2MUFmNkZRVVU?oc=5",
+   "pubDate": "2026-11-18T10:03:00.000Z",
+   "firstSeen": "2026-11-18T14:03:50.405Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "new",
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWWlYVnpOQVpJazlsOVotMm55R2p2MC1ndXYzZU9wRUl4MzM2TnVLZ0J6aTVIaE1KSzZEU1M5cnZiZ1ExZ3d4aWRYMlhHOHp6cnU0RThMUnhMRV9saWN2M1NOUVZ4LURzVE56ZkU4M1hPN1oteVR2MUFmNkZRVVU?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
@@ -12173,6 +12272,32 @@
    ]
   },
   {
+   "title": "大阪府で「劇場版 アイドルマスター SideM F@NTASTIC BATTLE FES ～Who goes first～」を上映中の映画館",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmNHhhNVQ4M21PdkRuVkxWa05nN3I1djBrNkVhbVNnNmdWa0ZXMERoc0dYNWpVczhBRGptZHpxQlVFYVQwUVhwczR2NU4tZHk3cWRLS0ZBTkE?oc=5",
+   "pubDate": "2026-11-18T09:49:52.000Z",
+   "firstSeen": "2026-11-18T14:03:50.405Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmNHhhNVQ4M21PdkRuVkxWa05nN3I1djBrNkVhbVNnNmdWa0ZXMERoc0dYNWpVczhBRGptZHpxQlVFYVQwUVhwczR2NU4tZHk3cWRLS0ZBTkE?oc=5"
+    }
+   ]
+  },
+  {
    "title": "「最新が一番かわいくてすごい」「年々可愛くなってる」声優・上坂すみれ、同じドレス姿で“11年の歴史”ショット公開にファン歓喜",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JSUpET3habW8xcndHSmtvdVA3YUxnTTBwQm1ZRVQydEFnOEhBOG05U3lIUVV3RWdndEdhMkhuQUF1R0NSVktsUjhOY0xwR1hzdXFvcg?oc=5",
@@ -12196,6 +12321,13 @@
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JSUpET3habW8xcndHSmtvdVA3YUxnTTBwQm1ZRVQydEFnOEhBOG05U3lIUVV3RWdndEdhMkhuQUF1R0NSVktsUjhOY0xwR1hzdXFvcg?oc=5",
      "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1paTBhclJKNTMwdFo2SjBKMXRoNFdqLWdJb1RGTTl3YTE3bnhnMXpsMzVYVy12NUpBT2h3REdZaGh6MF83S01sZ3RQelpLcTZCWXE0VmtVNldDNkNOMzZ1bTdQazV2U3VuSlNDZjBWLWtnWmtVa2ZwckVVM2xsSjA?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
     }
    ]
   },
@@ -13055,34 +13187,6 @@
    ]
   },
   {
-   "title": "TVアニメ『しゅごキャラ！』より、新規描き下ろしイラストを使用したオンラインくじが登場！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000020601.000007006.html",
-   "pubDate": "2026-11-18T08:41:08.000Z",
-   "firstSeen": "2026-11-18T11:18:03.412Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "しゅごキャラ!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000020601.000007006.html"
-    }
-   ]
-  },
-  {
    "title": "ドンキ、アピタで「ちいかわ」大人アパレルが11月21日発売！ワンポイントが可愛いZIPトレーナーなど全12アイテム",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/11/18/191182.html",
@@ -13813,6 +13917,34 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/18/191178.html"
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ『しゅごキャラ！』より、新規描き下ろしイラストを使用したオンラインくじが登場！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000020601.000007006.html",
+   "pubDate": "2026-11-18T08:00:02.000Z",
+   "firstSeen": "2026-11-18T11:18:03.412Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "しゅごキャラ!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000020601.000007006.html"
     }
    ]
   },
@@ -14750,6 +14882,13 @@
      "name": "コミックナタリー",
      "sourceId": "natalie-comic",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEMkhaY0FoRmdDZEdTMDhPd0J4ODB6bTg3OUZuMG5mZm5SX29Ra2UwbGxUa3IzODdJaEQzdlFybkZ1ZjhoeTZIS3Fjd3A?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wODZjRzM5cXU0TlIyUU5MMy1jdGtPV0lXSE5XTHhFTjViZjJwRkh5Ri1IcW91UmQwcTFRckplSm04eVlMRERrYzY3MkNiUlpqZXdIRDlSX2tMdlB1c3JIZFNfMElWN2JDOS1pN2R0dmo5MEpBZlNCTXVNOE14MXc?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -14925,7 +15064,9 @@
    "categories": [
     "music"
    ],
-   "works": [],
+   "works": [
+    "異世界マンチキン -HP1のままで最強最速ダンジョン攻略-"
+   ],
    "spoiler": false,
    "sources": [
     {
@@ -14933,6 +15074,12 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0lPMnFrLWVXOUdsOEplYzlIeE1WZW1Cd0hqR1JLZ2tBYXhlV3hlaWhMY1pYUzRpNk5XaEw5cHJLaENBcFhiOVVzZGxSd3NtcnhpOHRsRjhUSW9BLUdqWWhJemoxVE03RUlCdXBrTHYxZ1ZhZGJtSXJ4eEhheGtyMg?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "日刊エンタメクリップ",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12MVlZLVh1MU4wejBjd21qNGIyaGtQYy1sWkJjYV82RlVaRFhuNmhTaW9zMXdlMTZmcDd2WHJ5TC1fYjdSQzNEc2U5aw?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -192982,172 +193129,6 @@
      "name": "オリコン（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/8922edb29d1c8030973e2a43341bc865b6605951?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『探偵はもう、死んでいる。Season2』第5話「それが最後に出した答え」のあらすじ＆先行カット解禁",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2SlFUMTdDdUhLZ2txSmhVb1VoYUUxMzN5NjVLQjdwNFRfbVFoSlVqd1FkMkJJOHBiRkllUFpUMjd6TnBWLVNjZm52czF1cWRLMVVCZkF6SlRxYnBlclZr?oc=5",
-   "pubDate": "2026-11-03T04:02:24.000Z",
-   "firstSeen": "2026-11-03T05:18:02.602Z",
-   "image": null,
-   "source": "千葉テレビ放送株式会社",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "探偵はもう、死んでいる。"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "千葉テレビ放送株式会社",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2SlFUMTdDdUhLZ2txSmhVb1VoYUUxMzN5NjVLQjdwNFRfbVFoSlVqd1FkMkJJOHBiRkllUFpUMjd6TnBWLVNjZm52czF1cWRLMVVCZkF6SlRxYnBlclZr?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "集英社「少年ジャンプ＋」連載『シバつき物件』TVアニメ化決定！2027年夏より放送スタート！",
-   "summary": "全国書店員が選んだおすすめコミック2025、次にくるマンガ大賞2025ランクイン！2023年に同名読...",
-   "link": "https://www.lisani.jp/0000321359/",
-   "pubDate": "2026-11-03T04:00:58.000Z",
-   "firstSeen": "2026-11-03T04:17:57.808Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611021800-yh-012.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 25,
-   "categories": [
-    "new",
-    "media"
-   ],
-   "works": [
-    "シバつき物件",
-    "少年ジャンプ+"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000321359/"
-    },
-    {
-     "name": "ライブドアニュース",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90aFlXYjNHQnB0YUdmcTVmbmxfLTJoSnoyYUxPUG9VMjYyQ2NMMWd2bVJvektOVUdZalZlTnFzY3BrOGhia1RwVmlmUWdILXVTUHJIMXJQMGVuSmh4SlZB?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「機動戦士ガンダム」フリースプルオーバー登場！ ホワイトベース＆黒い三連星、シャアカラーの全3種♪",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/11/03/104445.html",
-   "pubDate": "2026-11-03T04:00:03.000Z",
-   "firstSeen": "2026-11-03T04:17:57.808Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "機動戦士ガンダム"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/11/03/104445.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/44a50008237e05a219001d83a9f62c761a61ba68?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oSWttX3JpVThEaHBYQloxWjlSM3Z1c2s2dDVoTFAxRW0taXBuMjMwQlZDUWZqV2VmVWVJNWNGUVlWczhMRGs5Z0tuSEcyNDBldjkzQzM4MkpOODN0bVBiYlNXV3BGMnQ5QnlWN0tlWTl5Z0VmVnZsTnhjZE5RaTA?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「名探偵コナン」30周年記念オンラインくじが販売中！6つの事件の軌跡をたどるボードゲームなど、ワクワクするラインナップ",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/03/190309.html",
-   "pubDate": "2026-11-03T04:00:03.000Z",
-   "firstSeen": "2026-11-03T04:17:57.808Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "goods",
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/03/190309.html"
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/119f65fd541f8bafb49403b74f256bd90a2c9bbb?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "素顔は「遊戯王」「ドラゴンボール」を愛する青年、ティモシー・シャラメのカリスマ性を『デューン』監督が語る(cinemacafe.net)",
-   "summary": "スティーヴン・スピルバーグやクリストファー・ノーランが絶賛する、“SF映画の最高峰“となるシリーズ最新作にして完結作『デューン 砂の惑星 PART3』が12月18日（金）より日米同時公開。【画像】ドゥ",
-   "link": "https://news.yahoo.co.jp/articles/b327c3a0a6e5822f23d87d4ed372825b187ed23a?source=rss",
-   "pubDate": "2026-11-03T04:00:03.000Z",
-   "firstSeen": "2026-11-03T04:17:57.808Z",
-   "image": null,
-   "source": "cinemacafe.net（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "デューン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "cinemacafe.net（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/b327c3a0a6e5822f23d87d4ed372825b187ed23a?source=rss",
      "syndicated": true
     }
    ]
