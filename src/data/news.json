@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-19T20:18:34.676Z",
+ "generatedAt": "2026-11-19T21:18:32.322Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5464,
-  "syndicated": 508,
-  "similar": 739,
-  "syndicatedTotal": 6292,
-  "syndicatedLeft": 1174
+  "exact": 5473,
+  "syndicated": 509,
+  "similar": 742,
+  "syndicatedTotal": 6303,
+  "syndicatedLeft": 1175
  },
  "calendar": [
   {
@@ -5407,6 +5407,22 @@
   {
    "date": "2026-11-28",
    "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "ガンダムSEED FREEDOM",
+   "title": "「ガンダムSEED FREEDOM」11月28日にニコニコプレミアム限定で生放送",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnaUFHV3FvX3Q5dl91ZEZ4VFVUUkFkaU9tcmN5R2xXWGpLWWM0NkZ4VlB6X0J1eWVJZTFFVW5CbURRMVhpbWFrdHVEMHg?oc=5",
+   "source": "コミックナタリー",
+   "sources": 2,
+   "categories": [
+    "movie"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-28",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "ドラクエ",
@@ -5448,22 +5464,6 @@
    "sources": 2,
    "categories": [
     "goods"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-28",
-   "precision": "day",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": null,
-   "title": "「ガンダムSEED FREEDOM」11月28日にニコニコプレミアム限定で生放送(コミックナタリー)",
-   "link": "https://news.yahoo.co.jp/articles/20b433cbb9af57de30eaf0038f3871b5042686cd?source=rss",
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "movie"
    ],
    "platforms": [],
    "spoiler": false
@@ -6641,7 +6641,7 @@
    "title": "在校生11名が出演した2027年放送予定TVアニメ『転生エルフ』ミノリ役・菱川花菜さん トーク＆アフレコ実演イベント【12/20（日）】開催",
    "link": "https://prtimes.jp/main/html/rd/p/000000793.000025577.html",
    "source": "PR TIMES",
-   "sources": 3,
+   "sources": 4,
    "categories": [
     "cast",
     "event"
@@ -7181,6 +7181,20 @@
     "cast",
     "movie"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01",
+   "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "この世は戦う価値がある",
+   "title": "「この世は戦う価値がある」ドラマ化、主演は桜田ひより フジテレビ系で2027年1月放送（コメントあり）",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zdFhJT09qQUlObmw3dGt5Mno0VmxLQUZlbklscUcxZk8wTFhqZl84RDJGbHlLZ3UxYVB3MU42eWQ1aXpsLWpSNHpWNkQ?oc=5",
+   "source": "コミックナタリー",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -9781,8 +9795,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 895,
-   "accepted": 893
+   "archived": 898,
+   "accepted": 896
   },
   {
    "id": "lisani",
@@ -9836,8 +9850,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5435,
-   "accepted": 5141
+   "archived": 5438,
+   "accepted": 5144
   },
   {
    "id": "gnews-tvanime",
@@ -9847,8 +9861,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1116,
-   "accepted": 1048
+   "archived": 1118,
+   "accepted": 1049
   },
   {
    "id": "gnews-movie",
@@ -9857,7 +9871,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 95,
+   "fetched": 100,
    "archived": 846,
    "accepted": 760
   },
@@ -9881,7 +9895,7 @@
    "error": null,
    "fetched": 100,
    "archived": 1003,
-   "accepted": 154
+   "accepted": 155
   },
   {
    "id": "inside-games",
@@ -9892,7 +9906,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1689,
-   "accepted": 868
+   "accepted": 869
   },
   {
    "id": "4gamer",
@@ -9947,7 +9961,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29465,
-   "accepted": 3353
+   "accepted": 3363
   },
   {
    "id": "prtimes",
@@ -9957,7 +9971,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29316,
+   "archived": 29335,
    "accepted": 503
   },
   {
@@ -9968,8 +9982,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 712,
-   "accepted": 712
+   "archived": 713,
+   "accepted": 713
   },
   {
    "id": "mal",
@@ -9995,6 +10009,348 @@
   }
  ],
  "items": [
+  {
+   "title": "「マシュマー狂いそう」『Zガンダム』ハマーン様の“イメチェン姿”に「お美しい」「可憐すぎ」と反響(マグミクス)",
+   "summary": "『機動戦士Zガンダム』の新ビジュアルが公開され、SNSでファンから反響が寄せられています。とくに注目を集めているのが、普段とはひと味違う雰囲気をまとったハマーン・カーンの姿で、「ハマーン様可憐すぎ」「",
+   "link": "https://news.yahoo.co.jp/articles/6b6bb7639e9291e9ac28366b8f491cabbd42cc41?source=rss",
+   "pubDate": "2026-11-19T21:10:00.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "マグミクス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "Zガンダム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "マグミクス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6b6bb7639e9291e9ac28366b8f491cabbd42cc41?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【きょうから】ジーユー×「ちいかわ」、新作発売 第1弾は“おでかけ着”、ニットやポーチほか(オリコン)",
+   "summary": "ジーユーと「ちいかわ」のコラボ新作商品が、きょう20日より販売開始される。 “さむ～い雪の日も楽しもう！”をテーマにしたアイテム。あす20日からの「第1弾」は、ニットなどのおでかけ着。27日からの「第",
+   "link": "https://news.yahoo.co.jp/articles/918183c527c818ea8313f76a57f15e48e4804edb?source=rss",
+   "pubDate": "2026-11-19T21:05:00.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/918183c527c818ea8313f76a57f15e48e4804edb?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "津田健次郎 ドラマ「アナログナース」での“手術シーン”の裏側を明かす「画面に映らない部分も…」(TOKYO FM＋)",
+   "summary": "声優・俳優の津田健次郎がパーソナリティを務めるTOKYO FMのラジオ番組「津田健次郎 SPEA/KING」（毎週日曜 12:00～12:30）。声優として数々の人気アニメ作品、俳優としても話題のドラ",
+   "link": "https://news.yahoo.co.jp/articles/6cf2349e8ec71d28ff2181d53fa7fe1651d3e4b5?source=rss",
+   "pubDate": "2026-11-19T21:02:53.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "TOKYO FM＋（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TOKYO FM＋（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6cf2349e8ec71d28ff2181d53fa7fe1651d3e4b5?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "名作ディズニーアニメ「ミッキーのクリスマスキャロル」がぬいぐるみに！衣装や帽子、杖などの小物も再現",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/20/191266.html",
+   "pubDate": "2026-11-19T21:00:03.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ミッキーのクリスマスキャロル"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/20/191266.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/5abac6e3b04c6bb318ebdfac71445278d14361f5?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUXhQMjlVRkhYcVkzblY2TWVDY0M4UmlacUVza0dSNC0zYlV5amVXQmRqaDcydnhCeEdteDBob05QeGlfdXNhcTdGTXg4ZzVlLUlxTzM2Um1NS1pybzBR?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "綾野剛×豊川悦司「地面師たち」新シリーズ制作決定！よりフェティッシュに…ファーストルック公開(シネマトゥデイ)",
+   "summary": "2024年7月に配信され社会現象を巻き起こしたNetflixシリーズ「地面師たち」の新シリーズ制作が決定し、2027年に世界独占配信されることが発表された。前作に続き綾野剛と豊川悦司がダブル主演を務め",
+   "link": "https://news.yahoo.co.jp/articles/6820ab4015b8692740815d2ee01abcd797d4d61e?source=rss",
+   "pubDate": "2026-11-19T21:00:02.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "new",
+    "broadcast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "シネマトゥデイ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6820ab4015b8692740815d2ee01abcd797d4d61e?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Netflix「地面師たち」新シリーズ制作決定、配信は2027年 綾野剛と豊川悦司が続投",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXcWR0akNMWkd3SWl5V09xTTd3aUgwRkpySVZ4MzBDcGtPZjhfWG5oUmYySHJtYUxmMWZWX3ZsckJhTHNKWE1GY1Fraw?oc=5",
+   "pubDate": "2026-11-19T21:00:00.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new",
+    "broadcast",
+    "ranking",
+    "cast"
+   ],
+   "works": [
+    "地面師たち"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXcWR0akNMWkd3SWl5V09xTTd3aUgwRkpySVZ4MzBDcGtPZjhfWG5oUmYySHJtYUxmMWZWX3ZsckJhTHNKWE1GY1Fraw?oc=5"
+    },
+    {
+     "name": "ぴあ（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/2b23dca23e748d81a2c2406bd979500021cd7703?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/9225cf1dd0fab35acc5858af7a2e74e041ae8b29?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "モデルプレス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e3bd2a579e36e92c5117a46bc49af362a1b51efd?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『地面師たち』新シリーズ制作決定！ 綾野剛＆豊川悦司らコメント到着(クランクイン！)",
+   "summary": "綾野剛と豊川悦司がダブル主演するNetflixシリーズ『地面師たち』の新シリーズの制作が決定。ファーストルックと、綾野と豊川、監督・脚本の大根仁、原作者の新庄耕からのコメントが到着した。【写真】綾野演",
+   "link": "https://news.yahoo.co.jp/articles/ef8891b9a556490e0c30957af3faf81722917d3d?source=rss",
+   "pubDate": "2026-11-19T21:00:00.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "クランクイン！（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "new",
+    "broadcast",
+    "cast"
+   ],
+   "works": [
+    "地面師たち"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/ef8891b9a556490e0c30957af3faf81722917d3d?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "ENCOUNT（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/23dc2bcb340b2fb2df8da4ec2a9d1547a0af6cfe?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Omoi Announces Digital Release of Shō Asahina's Tsuyo-Girl Manga in January",
+   "summary": "Romantic comedy manga launched in 2021",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-19/omoi-announces-digital-release-of-sho-asahina-tsuyo-girl-manga-in-january/.243981",
+   "pubDate": "2026-11-19T21:00:00.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-19/omoi-announces-digital-release-of-sho-asahina-tsuyo-girl-manga-in-january/.243981"
+    }
+   ]
+  },
+  {
+   "title": "This World is Worth Fighting For Manga Gets Live-Action Series",
+   "summary": "Series based on Hatsumi Kodama's Kono Yo wa Tatakau Kachi ga Aru manga debuts in January 2027",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-19/this-world-is-worth-fighting-for-manga-gets-live-action-series/.243996",
+   "pubDate": "2026-11-19T20:35:15.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-19/this-world-is-worth-fighting-for-manga-gets-live-action-series/.243996"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『薬屋のひとりごと』紙職人の村をあとにした猫猫たちは、さらに西にある西都を目指す。第56話「麻と民間信仰」あらすじ＆先行カット",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12Um5EM1VJT3Z4RDBKTXM0Y1p5anEzbnZqZHM2N1k4dERWdWFNdjV0VG56WHpDWV9aRkhPTlBseS1QNU8tZUNWVHpxcGpRdw?oc=5",
+   "pubDate": "2026-11-19T20:28:07.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "PASH! PLUS",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [],
+   "works": [
+    "薬屋のひとりごと"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PASH! PLUS",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12Um5EM1VJT3Z4RDBKTXM0Y1p5anEzbnZqZHM2N1k4dERWdWFNdjV0VG56WHpDWV9aRkhPTlBseS1QNU8tZUNWVHpxcGpRdw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "Spirited Away Meets Animal Crossing in Cozy New Steam Game With Over 70,000 Wishlists",
+   "summary": "Steam users are hyped for an upcoming Spirited Away-esque cozy game about creating the ideal getaway for 'extraordinary' supernatural beings…",
+   "link": "https://www.cbr.com/monsterest-steam-early-access-release/",
+   "pubDate": "2026-11-19T20:20:12.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/12/10-most-feel-good-spirited-away-moments-studio-ghibli-fans-will-never-forget.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/monsterest-steam-early-access-release/"
+    }
+   ]
+  },
   {
    "title": "「きゃー！お美しい！」劇場版『VIVANT』キャスト、別キービジュアル発表にファンの考察殺到「含みのある表情」「これは峰不二子説あり得るぞ」(中日スポーツ)",
    "summary": "TBS系日曜劇場「VIVANT」の公式インスタグラムが、19日に更新。12月4日に劇場公開される映画「VIVANT」のキャスト別キービジュアルで、医師の柚木薫役・二階堂ふみ（32）の写真が更新された。",
@@ -10087,6 +10443,32 @@
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUEIwdk5yTjZwZUFQSGxMallhREVpMEF5ckJENnljYzMxY2R0YVQ3am5BS2lMNWI5dlVpeVl2UEtTMlVtR3BoNWNtbDg3X0Nub0U4SDd6YlBkUlNfYjd0LWp5dllWcmRsLTk4cmFSTUtaN0ltdVFaR3o2Z01ocC1ZbUFrcTBUMURZT3djX0Zhb1ZsaTJwUGww0gGcAUFVX3lxTE0zdUNjT0p5NVoxQzZmLWhDMHo1T0R5cXlIQ0F4ZmR3cWdoM3Y5YWMycC1OazJmN29pN1NfTkl4VU0yam14eVctZ2JGNHdIVFdVT1l0M05CYVMzU1d4WDBmVW90RWpQa21LVkxQVjUzZ1lFTUdUckY1VFdQT1pRNFI5b3p2bGdhTmlodlNLRk9RdldnVTdkekx2Ylhxdg?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「この世は戦う価値がある」ドラマ化、主演は桜田ひより フジテレビ系で2027年1月放送（コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zdFhJT09qQUlObmw3dGt5Mno0VmxLQUZlbklscUcxZk8wTFhqZl84RDJGbHlLZ3UxYVB3MU42eWQ1aXpsLWpSNHpWNkQ?oc=5",
+   "pubDate": "2026-11-19T20:00:00.000Z",
+   "firstSeen": "2026-11-19T21:17:54.756Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 2,
+   "categories": [],
+   "works": [
+    "この世は戦う価値がある"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zdFhJT09qQUlObmw3dGt5Mno0VmxLQUZlbklscUcxZk8wTFhqZl84RDJGbHlLZ3UxYVB3MU42eWQ1aXpsLWpSNHpWNkQ?oc=5"
     }
    ]
   },
@@ -10788,33 +11170,6 @@
    ]
   },
   {
-   "title": "「ガンダムSEED FREEDOM」11月28日にニコニコプレミアム限定で生放送(コミックナタリー)",
-   "summary": "アニメ「機動戦士ガンダムSEED FREEDOM ZERO」の劇場公開を記念し、11月28日21時よりニコニコ生放送にて「機動戦士ガンダムSEED FREEDOM」がプレミアム会員限定で放送される。ま",
-   "link": "https://news.yahoo.co.jp/articles/20b433cbb9af57de30eaf0038f3871b5042686cd?source=rss",
-   "pubDate": "2026-11-19T15:00:21.000Z",
-   "firstSeen": "2026-11-19T15:17:57.321Z",
-   "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/20b433cbb9af57de30eaf0038f3871b5042686cd?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "「装甲騎兵ボトムズ 灰色の魔女」あらすじ・キャスト声優・登場キャラクターまとめ【2026年11月20日公開】",
    "summary": "",
    "link": "https://animeanime.jp/article/2026/11/20/104938.html",
@@ -10932,6 +11287,40 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdzRSVXp4TWxrM2hDOHdBTjhxUEpucjVRZVlESHphZV8tdkpTZmpxZUZ2cEZwWGNUZmtGa292TFhPMFhZU2l4TEJYemJfemx3WmFrNDA1VUZJZw?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「ガンダムSEED FREEDOM」11月28日にニコニコプレミアム限定で生放送",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnaUFHV3FvX3Q5dl91ZEZ4VFVUUkFkaU9tcmN5R2xXWGpLWWM0NkZ4VlB6X0J1eWVJZTFFVW5CbURRMVhpbWFrdHVEMHg?oc=5",
+   "pubDate": "2026-11-19T15:00:00.000Z",
+   "firstSeen": "2026-11-19T15:17:57.321Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "ガンダムSEED FREEDOM"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnaUFHV3FvX3Q5dl91ZEZ4VFVUUkFkaU9tcmN5R2xXWGpLWWM0NkZ4VlB6X0J1eWVJZTFFVW5CbURRMVhpbWFrdHVEMHg?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/20b433cbb9af57de30eaf0038f3871b5042686cd?source=rss",
+     "syndicated": true
     }
    ]
   },
@@ -11282,9 +11671,9 @@
     },
     {
      "name": "47NEWS",
-     "sourceId": "gnews-movie",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IN0hLN09TaUh2UmE5Vy1SQ1JZMmlYUFdZblBFR3B3UnBXeEQ0UnF0c2hYTllQUVJJQy1XVmFfa2hZUC1iQUlWRld1RQ?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -13301,48 +13690,6 @@
    ]
   },
   {
-   "title": "在校生11名が出演した2027年放送予定TVアニメ『転生エルフ』ミノリ役・菱川花菜さん トーク＆アフレコ実演イベント【12/20（日）】開催",
-   "summary": "「菱川花菜さん トーク＆アフレコ実演イベント」詳細・お申し込みはこちら :",
-   "link": "https://prtimes.jp/main/html/rd/p/000000793.000025577.html",
-   "pubDate": "2026-11-19T09:41:03.000Z",
-   "firstSeen": "2026-11-19T10:17:55.606Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast",
-    "event"
-   ],
-   "works": [
-    "転生エルフ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000793.000025577.html"
-    },
-    {
-     "name": "RBB TODAY",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VR2lTUjBSMTdDcG5XeHlWMGhrVVZOTW9US3Y0cURZTWNpQllKeHZxdnBuSDFwRTFwYUpld2VRR2M3LV9aYllibExic1hnZUs0LXl1Zk9yeVBJeWtDeVF4LXNHMTVzWVNkMXlFMVdIQUdaQ2ZLV3I3cg?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44UGN2X2FidG1Ranl4c09EVVJfWXdBdXlPZHMtWTZ6WVU4T0pTc19DYzZRczFPdEpVdkVrTERHQ3RLYmxxbnpURHRoWWZTQ3kzOGZXU09IWFp0ZGo5LVRJdHB3eG5wU1ZkT0NjZjMtVTdZQQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "アニメ『蒼き伝承 – Welsh & Shedar』、第8話「猫のブイヨン」のあらすじと場面写真を公開",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ST3ByQWpKbGI0VFhCallsRUlLMTZGUFpPaE44b19KMVk5VDFvUjN5aFo2NU1DZGx1a1NUbVhJTFBqSmNNb3NaUk1Yc1ZvTDE0ZVJLUHNwcjFuenZacGRVQi1OWTQzeWdxdVZKVG02SnJqLWRVTjdqaWVKdjc?oc=5",
@@ -13888,6 +14235,54 @@
      "name": "アニメージュプラス（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/c492f2f143906d0729774c2a1eaa2e04075867e3?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "在校生11名が出演した2027年放送予定TVアニメ『転生エルフ』ミノリ役・菱川花菜さん トーク＆アフレコ実演イベント【12/20（日）】開催",
+   "summary": "「菱川花菜さん トーク＆アフレコ実演イベント」詳細・お申し込みはこちら :",
+   "link": "https://prtimes.jp/main/html/rd/p/000000793.000025577.html",
+   "pubDate": "2026-11-19T09:13:38.000Z",
+   "firstSeen": "2026-11-19T10:17:55.606Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast",
+    "event"
+   ],
+   "works": [
+    "転生エルフ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000793.000025577.html"
+    },
+    {
+     "name": "RBB TODAY",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VR2lTUjBSMTdDcG5XeHlWMGhrVVZOTW9US3Y0cURZTWNpQllKeHZxdnBuSDFwRTFwYUpld2VRR2M3LV9aYllibExic1hnZUs0LXl1Zk9yeVBJeWtDeVF4LXNHMTVzWVNkMXlFMVdIQUdaQ2ZLV3I3cg?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "イザ！",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qMHN4b3p6RjZUSnB1UENYMnlKU2xsTUNSelhRT2RFOWZuQjYwWWRLRFlOWG5iSVBKQXhVV0J1dWs0U2ZBcVlMOXAwWmpvcXQ0ZHU3U2tLNlN1TF9ZUFU2UTZXZlVkUGpYaFdLUTA4eWNUN1pncUh3NWNn?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44UGN2X2FidG1Ranl4c09EVVJfWXdBdXlPZHMtWTZ6WVU4T0pTc19DYzZRczFPdEpVdkVrTERHQ3RLYmxxbnpURHRoWWZTQ3kzOGZXU09IWFp0ZGo5LVRJdHB3eG5wU1ZkT0NjZjMtVTdZQQ?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -15824,6 +16219,38 @@
    ]
   },
   {
+   "title": "苦労性同士が癒し合う異世界スローライフBL「社畜なもぐらは異世界で虎神さまと恋をする」（試し読みあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYd1ljUHRLSUtQVTIzUDdnS0ZleHdFOXlLMUtBeU9COTYzR0p0SjRVU0pfOGRMbzFGOVhGOVBmUmJHOTd0SU5iY1FBajU?oc=5",
+   "pubDate": "2026-11-19T08:16:00.000Z",
+   "firstSeen": "2026-11-19T08:17:55.470Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [
+    "社畜なもぐらは異世界で虎神さまと恋をする"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYd1ljUHRLSUtQVTIzUDdnS0ZleHdFOXlLMUtBeU9COTYzR0p0SjRVU0pfOGRMbzFGOVhGOVBmUmJHOTd0SU5iY1FBajU?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/1fb076003de3de6c7609d9f67e6f4d0d22a3768d?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "祝！＝LOVEが紅白初出場！「とくべチュ、して」のヒットから野口衣織らの声優活動まで、10人それぞれの個性が光るグループの歩み",
    "summary": "",
    "link": "https://animeanime.jp/article/2026/11/19/104928.html",
@@ -15856,9 +16283,9 @@
     },
     {
      "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Nb3hBM3dJSHQxZGNFelk1Y3ZsX1ZoaHEzbHVRWTYtclByZ1dQdEFxMXpVNWExcF96MzhVc1JycW54Q1lLMzYzUVM0Z3Y2N2NuQVl2XzVUN1BGNTJFRmZobmd0RG1PT09YR2hpM2xTcFIyT3JqdEhnUE12ZW1IYVU?oc=5",
-     "via": "Googleニュース「声優」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -191953,421 +192380,6 @@
      "name": "ABEMA TIMES（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nck5JaFRqMjBfSWdMQXZXNWdnNG1UUHZNRUhHcm9nTUYyWGtLR3N6SjlHSlpRdTNsSnJLejRyNXJsZTdKTG9DZE5XTURfcUhJQ1MyZlVpTUljWVZVS3NsQzlidUFxQ0pqY3lmSTlrZjVtU19aR1JVQkZWT2dJajg?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "劇場版「虎に翼」予告② [画像・動画ギャラリー 7/7]",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lZkJUT255MWY0cFN5RTlUR3dfVmctX1N3Qk9WQVM2cF9WWGR1dWdoZnNWUXlyMXpkaHRqckVWQWRDMDFJWDk4TXFBNFJuQmtZcGFXdzRwNHdoenlrMDg5NnJ2VGtJZDA?oc=5",
-   "pubDate": "2026-11-04T10:19:41.000Z",
-   "firstSeen": "2026-11-10T22:17:56.642Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "visual",
-    "movie"
-   ],
-   "works": [
-    "虎に翼"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lZkJUT255MWY0cFN5RTlUR3dfVmctX1N3Qk9WQVM2cF9WWGR1dWdoZnNWUXlyMXpkaHRqckVWQWRDMDFJWDk4TXFBNFJuQmtZcGFXdzRwNHdoenlrMDg5NnJ2VGtJZDA?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "超特急カイ＆リョウガ、『マリマリマリー』アニメコントに登場！特別コラボ実現",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MTXVibUJ4c3R5VDhsNFJVMUVKNUJxdk1JaGJxUEc0Q2VqLUZkdTE0RVhpOVFtYVZOa0k5QWlWM04yTE85bWFsWGpWcENuYlAwVFlvd2RUT3NGYVhtemtR?oc=5",
-   "pubDate": "2026-11-04T10:15:44.000Z",
-   "firstSeen": "2026-11-04T12:18:01.533Z",
-   "image": null,
-   "source": "ライブドアニュース",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "マリマリマリー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ライブドアニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MTXVibUJ4c3R5VDhsNFJVMUVKNUJxdk1JaGJxUEc0Q2VqLUZkdTE0RVhpOVFtYVZOa0k5QWlWM04yTE85bWFsWGpWcENuYlAwVFlvd2RUT3NGYVhtemtR?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "劇場版アニメ『カウボーイビバップ 天国の扉』のガシャポンフィギュア「まちぼうけ」が登場！スパイク、ヴィンセント、エレクトラ、エド＆アインの4種をラインナップ！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9abG1uSVJIWUpvOXNTd09UTDBYSVRDQ0RHQXFjSEFXdHVJVFBqdGl4RXl6YTRBUW1BcXFhTjVGNndXa25vRm9mcVI0US1kdDBq?oc=5",
-   "pubDate": "2026-11-04T10:15:32.000Z",
-   "firstSeen": "2026-11-04T12:18:01.533Z",
-   "image": null,
-   "source": "電撃ホビーウェブ",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 20,
-   "categories": [
-    "movie",
-    "goods"
-   ],
-   "works": [
-    "カウボーイビバップ 天国の扉"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電撃ホビーウェブ",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9abG1uSVJIWUpvOXNTd09UTDBYSVRDQ0RHQXFjSEFXdHVJVFBqdGl4RXl6YTRBUW1BcXFhTjVGNndXa25vRm9mcVI0US1kdDBq?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「マクロス」マックスとのタッグで戦場を駆けるミリアの「VF-1J スーパーバルキリー」がDX超合金に！ スーパーパーツは着脱可能",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/11/04/104486.html",
-   "pubDate": "2026-11-04T10:15:02.000Z",
-   "firstSeen": "2026-11-04T10:17:59.388Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "マクロス",
-    "VF-1J スーパーバルキリー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/11/04/104486.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/b6c80fe35d60e927564d4cc52a7ff1806db0ccf9?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BYktrREt0eTVLS2xReVZqU3VYNXBNWXE4UWxJbW9oT2QtVk9jN3IzcHVkY1BQLUJxc3BnVTN5OEhnSDY1V01haXFZSks2akptelNxZE9zRlZlUTAxU2huMHVUOTdQR2NKeUI1d09fUGVFZVpoSVpyUXByd0R0eFE?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "劇場版「虎に翼」のテーマは？脚本・吉田恵里香、監督・梛川善郎がQ&Aイベントに登壇",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByVmNzdkRLMUFsRXRiWjFtTFg5aUtReXhMN2dNSXNSMndRS09HN0U5bXVpZGc2VzFVTzdIU0NBQ2FsSF8xZkVDOXhCcw?oc=5",
-   "pubDate": "2026-11-04T10:13:00.000Z",
-   "firstSeen": "2026-11-04T10:17:59.388Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast",
-    "movie",
-    "event"
-   ],
-   "works": [
-    "虎に翼"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByVmNzdkRLMUFsRXRiWjFtTFg5aUtReXhMN2dNSXNSMndRS09HN0U5bXVpZGc2VzFVTzdIU0NBQ2FsSF8xZkVDOXhCcw?oc=5"
-    },
-    {
-     "name": "映画ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ddf09dd96bffd3b1cd027851c02121a62838c9ee?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『ストリートファイター』映画が全米週間興収1位達成、カプコン「認知拡大と価値向上に寄与」と意義説明(オタク総研)",
-   "summary": "カプコンは2日、10月16日に公開した映画『ストリートファイター／ザ・ムービー』が、全米の週間興行収入ランキングで第1位になったと発表した。10月22日までの全米の興行収入は約3834万ドルで、全世界",
-   "link": "https://news.yahoo.co.jp/articles/5629dea2d5fb85c365c3bd7ac8151762b47cc26a?source=rss",
-   "pubDate": "2026-11-04T10:11:00.000Z",
-   "firstSeen": "2026-11-04T10:17:59.388Z",
-   "image": null,
-   "source": "オタク総研（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie",
-    "ranking"
-   ],
-   "works": [
-    "ストリートファイター"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "オタク総研（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/5629dea2d5fb85c365c3bd7ac8151762b47cc26a?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ヒカキン、東海オンエア・てつやの新居に“背中丸出し”で突撃 シュールな光景に総ツッコミ「面白すぎる」(リアルサウンド)",
-   "summary": "2026年11月1日、ヒカキンが自身のYouTubeチャンネルを更新。YouTubeグループ・東海オンエアのリーダーであるてつやの新居を訪れる様子を公開した。【写真】「背中ゴツすぎやろ」「笑いこらえら",
-   "link": "https://news.yahoo.co.jp/articles/9f3e226dbc412c7f38e1533f5489261ec6550c66?source=rss",
-   "pubDate": "2026-11-04T10:04:22.000Z",
-   "firstSeen": "2026-11-04T10:17:59.388Z",
-   "image": null,
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/9f3e226dbc412c7f38e1533f5489261ec6550c66?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「シン・エヴァンゲリオン劇場版」「ゆるキャン△」など県内が舞台の4つのアニメとコラボしたデジタルスタンプラリーを開催＝静岡県",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PYVRhZDdFSVlwaV9rdUlVNC1hVWlZRW1KdXZoM1U1OXhValpNSTdlWEdMWXl1T0Nuc1BkR09nMG01d2FqSURZVDBQR3dRdnlKcVhLcFZweHF2SEFJM3hIZmh4M0Y?oc=5",
-   "pubDate": "2026-11-04T10:04:00.000Z",
-   "firstSeen": "2026-11-04T13:17:57.149Z",
-   "image": null,
-   "source": "TBS NEWS DIG",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "movie",
-    "goods",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "TBS NEWS DIG",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PYVRhZDdFSVlwaV9rdUlVNC1hVWlZRW1KdXZoM1U1OXhValpNSTdlWEdMWXl1T0Nuc1BkR09nMG01d2FqSURZVDBQR3dRdnlKcVhLcFZweHF2SEFJM3hIZmh4M0Y?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mcnFyMG9URV9lNVk0Q2lNWHh5LWwyanpYTWYxeVM0YUt4NFJ3azlwdVFic2NkeXQ3ekowMU53OWVodzMxSkJybkpFS1d6M1VJWVZjMFhiWFBoUTBMYzVZOXhxWlR3WHoxNXpZeXluU2R2Yl9hUjRVUEN6X3RhYWM?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ラーメン赤猫 其の二 テレビ東京アニメ公式",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SYUJ1Tk1Ka285MWVaWVhPT1BnYnEtYTZBTV9rT2Y4bkVMY2k3TzJIU1dkMlZoM3Fwb2twN0NnOXBLUzFhbVdSVmtmRnZpQnNtNlZKZ1lIYkM2dw?oc=5",
-   "pubDate": "2026-11-04T10:03:21.000Z",
-   "firstSeen": "2026-11-04T10:17:59.388Z",
-   "image": null,
-   "source": "テレビ東京",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "テレビ東京",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SYUJ1Tk1Ka285MWVaWVhPT1BnYnEtYTZBTV9rT2Y4bkVMY2k3TzJIU1dkMlZoM3Fwb2twN0NnOXBLUzFhbVdSVmtmRnZpQnNtNlZKZ1lIYkM2dw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『Maiden Blood』、佐伯伊織＆制作スタッフ登壇！トークつき第1話国内最速上映会が開催決定！抽選で無料招待！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1RUp5WTJYQVJDQXVCckEyclVwYXBxY3h6bGVMeDdtRFRYV3VMYjVXWHViaTRTQkNJNnRsalRGZmVlX0Z1Q2ZkTGUwM2FvdXJuWHJQVjg0QQ?oc=5",
-   "pubDate": "2026-11-04T10:01:59.000Z",
-   "firstSeen": "2026-11-04T10:17:59.388Z",
-   "image": null,
-   "source": "PONY CANYON NEWS",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast",
-    "movie",
-    "event"
-   ],
-   "works": [
-    "Maiden Blood"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PONY CANYON NEWS",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1RUp5WTJYQVJDQXVCckEyclVwYXBxY3h6bGVMeDdtRFRYV3VMYjVXWHViaTRTQkNJNnRsalRGZmVlX0Z1Q2ZkTGUwM2FvdXJuWHJQVjg0QQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「ゴジラ」がランドセルに！ 初代ゴジラの背中や体表を再現した全3種、2027年1月より予約開始",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/11/04/104485.html",
-   "pubDate": "2026-11-04T10:00:06.000Z",
-   "firstSeen": "2026-11-04T10:17:59.388Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ゴジラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/11/04/104485.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/dc74933b40ad7bd0310e335cc37ae363a10bd9a1?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "青木陽菜、BLUE ENCOUNT・田邊駿一提供の新曲「GET AWAY」を11月4日配信リリース！",
-   "summary": "声優・アーティストで活動する青木陽菜がデジタルシングル「GET AWAY」を11月4日より各音楽配...",
-   "link": "https://www.lisani.jp/0000321457/",
-   "pubDate": "2026-11-04T10:00:05.000Z",
-   "firstSeen": "2026-11-04T10:17:59.388Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611041800-yh-003.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "GET AWAY"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000321457/"
-    }
-   ]
-  },
-  {
-   "title": "「おぼっちゃまくん REBORN」決定！Z世代と相性が良いかも!? 令和の若者に伝えたい“茶魔語”の天才的センス",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/11/04/104484.html",
-   "pubDate": "2026-11-04T10:00:03.000Z",
-   "firstSeen": "2026-11-04T10:17:59.388Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [],
-   "works": [
-    "おぼっちゃまくん REBORN"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/11/04/104484.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/8278a8d29fed63b7be64b18b4679b507badd3d62?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9INzZZSHIyNjNuSWtvUktBdEdjUmI2SDB0YUxiaE5JbUtfV2tja0NuMGctTFk3WHpaNTctRFJBcmJmczc2VGw1LXV2Z2JCQUl0WlNxWi1CX0hXdjZzc1lkWndRa2VFZm1CYmtmNktfa201NWJ5cFg3Vzh1U1ViYzA?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
