@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-19T15:18:43.958Z",
+ "generatedAt": "2026-11-19T16:19:40.067Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5457,
-  "syndicated": 506,
-  "similar": 740,
-  "syndicatedTotal": 6283,
-  "syndicatedLeft": 1173
+  "exact": 5461,
+  "syndicated": 508,
+  "similar": 739,
+  "syndicatedTotal": 6285,
+  "syndicatedLeft": 1172
  },
  "calendar": [
   {
@@ -3831,6 +3831,22 @@
   {
    "date": "2026-11-20",
    "precision": "day",
+   "verb": "movie",
+   "label": "公開",
+   "work": "装甲騎兵ボトムズ 灰色の魔女",
+   "title": "「装甲騎兵ボトムズ 灰色の魔女」あらすじ・キャスト声優・登場キャラクターまとめ【2026年11月20日公開】",
+   "link": "https://animeanime.jp/article/2026/11/20/104938.html",
+   "source": "アニメ！アニメ！",
+   "sources": 6,
+   "categories": [
+    "cast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-20",
+   "precision": "day",
    "verb": "release",
    "label": "発売",
    "work": "ちいかわ",
@@ -3855,22 +3871,6 @@
    "categories": [
     "movie",
     "music"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2026-11-20",
-   "precision": "day",
-   "verb": "movie",
-   "label": "公開",
-   "work": "装甲騎兵ボトムズ 灰色の魔女",
-   "title": "押井守監督×サンライズがおくる劇場アニメ「装甲騎兵ボトムズ 灰色の魔女」第1作が本日公開",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jR3Q0ZG1nTS1zZmhSU1RMMXJpRUhfZHRWekctTHBla3RkMmliV3ZBOGdDV3FUSWlvdVVfNng4VGFlYS1mWWZtWUVxWWswV0psbWVOSlFpU2VDNUhOSDV6YTVEazVyQQ?oc=5",
-   "source": "GAME Watch",
-   "sources": 5,
-   "categories": [
-    "cast"
    ],
    "platforms": [],
    "spoiler": false
@@ -4380,6 +4380,20 @@
    "categories": [
     "goods"
    ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-21",
+   "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": null,
+   "title": "茅原実里とSnow Man佐久間大介がラジオで初対面果たす、11月21日の放送回で（コメントあり）",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5YkRMV1E4VTBMcHUxQ2s5dk8zemRZT0xwbHBxSUJXcmFWNmsxZzFBRXhnRGwtOHJheDktd0ttZU5TOFBLMldTNWI3YVA?oc=5",
+   "source": "コミックナタリー",
+   "sources": 1,
+   "categories": [],
    "platforms": [],
    "spoiler": false
   },
@@ -9801,8 +9815,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 886,
-   "accepted": 884
+   "archived": 888,
+   "accepted": 886
   },
   {
    "id": "lisani",
@@ -9820,9 +9834,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 55,
    "accepted": 55
   },
@@ -9831,9 +9845,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 0,
    "accepted": 0
   },
@@ -9856,8 +9870,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5438,
-   "accepted": 5144
+   "archived": 5441,
+   "accepted": 5147
   },
   {
    "id": "gnews-tvanime",
@@ -9877,9 +9891,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 93,
-   "archived": 844,
-   "accepted": 758
+   "fetched": 94,
+   "archived": 845,
+   "accepted": 759
   },
   {
    "id": "gnews-seiyu",
@@ -9889,8 +9903,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2368,
-   "accepted": 2105
+   "archived": 2369,
+   "accepted": 2106
   },
   {
    "id": "natalie-eiga",
@@ -9944,7 +9958,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1231,
+   "archived": 1234,
    "accepted": 87
   },
   {
@@ -9966,8 +9980,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29477,
-   "accepted": 3347
+   "archived": 29479,
+   "accepted": 3346
   },
   {
    "id": "prtimes",
@@ -9977,7 +9991,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29208,
+   "archived": 29227,
    "accepted": 504
   },
   {
@@ -9988,8 +10002,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 718,
-   "accepted": 718
+   "archived": 716,
+   "accepted": 716
   },
   {
    "id": "mal",
@@ -9999,8 +10013,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 86,
-   "accepted": 86
+   "archived": 85,
+   "accepted": 85
   },
   {
    "id": "cbr-anime",
@@ -10010,8 +10024,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 219,
-   "accepted": 219
+   "archived": 218,
+   "accepted": 218
   }
  ],
  "items": [
@@ -10192,31 +10206,6 @@
    ]
   },
   {
-   "title": "「ちいかわ」パラレルワールド編を収録した9巻、特装版には強くなったハチワレも(コミックナタリー)",
-   "summary": "ナガノ「ちいかわ なんか小さくてかわいいやつ」9巻が、通常版・特装版とともに本日11月20日に発売された。「なんか書けて飾れるポストカードブック」カバー9巻に収録されるのは、ちいかわが謎の虫に刺された",
-   "link": "https://news.yahoo.co.jp/articles/cec27e03a06b9aeee9a9ce607e3ef209b596d9ef?source=rss",
-   "pubDate": "2026-11-19T15:00:12.000Z",
-   "firstSeen": "2026-11-19T15:17:57.321Z",
-   "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/cec27e03a06b9aeee9a9ce607e3ef209b596d9ef?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "「装甲騎兵ボトムズ 灰色の魔女」あらすじ・キャスト声優・登場キャラクターまとめ【2026年11月20日公開】",
    "summary": "",
    "link": "https://animeanime.jp/article/2026/11/20/104938.html",
@@ -10241,6 +10230,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/11/20/104938.html"
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OSDRJM1MtQjBub0pVZmVoMGc2ZUhNRDMzSG1oT2VFUzI2c0xBdzh1dW5jQUltYlBvZEdVX3R2aGhUbzFLeC1UZzVTVDVZQ0FzQ0Q1QWotWEczT1RhWE5qR0pCdFNiendvdlhMcHZR?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
     }
    ]
   },
@@ -10327,6 +10323,38 @@
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdzRSVXp4TWxrM2hDOHdBTjhxUEpucjVRZVlESHphZV8tdkpTZmpxZUZ2cEZwWGNUZmtGa292TFhPMFhZU2l4TEJYemJfemx3WmFrNDA1VUZJZw?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「ちいかわ」パラレルワールド編を収録した9巻、特装版には強くなったハチワレも",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwWnZHcEIwZkFEbHFMd1Qyc3NVSE9oZnJleTR4WlBHdzdCYndIMkdtZzc0R3JBZjVXNkJLX3BOVlRSbmhwQ0d2Q1dXb2Y?oc=5",
+   "pubDate": "2026-11-19T15:00:00.000Z",
+   "firstSeen": "2026-11-19T15:17:57.321Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ちいかわ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwWnZHcEIwZkFEbHFMd1Qyc3NVSE9oZnJleTR4WlBHdzdCYndIMkdtZzc0R3JBZjVXNkJLX3BOVlRSbmhwQ0d2Q1dXb2Y?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/cec27e03a06b9aeee9a9ce607e3ef209b596d9ef?source=rss",
+     "syndicated": true
     }
    ]
   },
@@ -10775,6 +10803,30 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-7/.243922"
+    }
+   ]
+  },
+  {
+   "title": "茅原実里とSnow Man佐久間大介がラジオで初対面果たす、11月21日の放送回で（コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5YkRMV1E4VTBMcHUxQ2s5dk8zemRZT0xwbHBxSUJXcmFWNmsxZzFBRXhnRGwtOHJheDktd0ttZU5TOFBLMldTNWI3YVA?oc=5",
+   "pubDate": "2026-11-19T12:30:00.000Z",
+   "firstSeen": "2026-11-19T16:18:51.618Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5YkRMV1E4VTBMcHUxQ2s5dk8zemRZT0xwbHBxSUJXcmFWNmsxZzFBRXhnRGwtOHJheDktd0ttZU5TOFBLMldTNWI3YVA?oc=5"
     }
    ]
   },
@@ -11945,9 +11997,9 @@
     },
     {
      "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWNXZ6dm8zS3lfZmZPdUNXem8xUjRCUzhXVTVmMFp2c05ZaVlDWkd6bWlLTHRGMEVKb2ZidWdPNzkzWGVVdkxDWVZydHVycm5YQ1d1WjNVVUVUN293VVNrVFlSdFo5NXIwTHN0SVVsZGFCQkJMaG5WSDdHLVRaX1U?oc=5",
-     "via": "Googleニュース「声優」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -12132,9 +12184,9 @@
     },
     {
      "name": "ナタリー",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QVHdkbTJHa3NHb2MtTzM5X2xCMG8zZDdQdjZYNkNhSXlVLUhMei1mQndDd3lFcmtvMmhmWTlldlJlZzZEQ1hONXBxWVY?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -12144,9 +12196,9 @@
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZaE5GQS1MYUxqVF9qeXdqZ0xmODRFSUlfcFlMUEFtMW1Oek1HbUNqcTNnajgwTGc4cjdPUmhJSklQcFotc3VpMHNBWm9RbU83X1JES1BVc29uaWIyRVg5dV9pY3BBQ3JFZ3JjU3gxcHlBdTF3bXFlSEZTNGY2bTA?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     },
     {
@@ -12812,7 +12864,7 @@
    "firstSeen": "2026-11-19T10:17:55.606Z",
    "image": null,
    "source": "eeo",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -12825,9 +12877,9 @@
    "sources": [
     {
      "name": "eeo",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wS0RpUjM4c0pfeU92d3kyZWtfTDBOcllPYW1lYTc0OC0zalo2TDBSUy1qcDZqeXg0VDN6OTRVSzBtRHRNZlY5UU9tclp2eEFfWThNUw?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -15669,6 +15721,36 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xc0lFX0pneHN5OW9BZ2xmUGVQczhtenF4dmdUR091RVVDQ3lBV3JNdjQxSTBqNVFqOEVOMWFRS2ZfeG5tTktxYzkwQzhLbGFW?oc=5",
      "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』新作グッズが登場！“パンクボーダー”衣装を着こなすフランシュシュのメンバーたちは、がばカッコよか!!",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4cURzQ3lzNnIwcFpEbmFPYWFxR1YzTEo5Uk1FVzZxeFNIaEZXaTB5SE9lM21SbU9CM253WHlxblM0MmtiTnozNXdwUDdRMVNtcWY0LUpBRVNRY19jM0d6VnBSR3ItdlJoWlE?oc=5",
+   "pubDate": "2026-11-19T08:00:00.000Z",
+   "firstSeen": "2026-11-19T16:18:51.618Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie",
+    "goods"
+   ],
+   "works": [
+    "ゾンビランドサガ ゆめぎんがパラダイス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4cURzQ3lzNnIwcFpEbmFPYWFxR1YzTEo5Uk1FVzZxeFNIaEZXaTB5SE9lM21SbU9CM253WHlxblM0MmtiTnozNXdwUDdRMVNtcWY0LUpBRVNRY19jM0d6VnBSR3ItdlJoWlE?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
   },
@@ -18562,6 +18644,13 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NUZRc2l5VkhNR1kyRVZmeXFaNnFXUmVOQW9YdEVwV0MxVTI2elQwdXN0TWkxREk4cGEteUdyeUZVYlpJWkczMXAyOW9NdnFuWU9BYm51c2JvRTJYTFJOUXU3RjE3MzhYQ2xn?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IdFpIelVJdlZKNzJ4TjlMclZWaVllWjZXUUUxZ3hJZkRybGp4cTR2QlgzNmw4S0VuekwzYzFqVTNKR3pCT0NhOFlERVdZNWdyeGZrNUp3VWhnWFVjY0dnbnlUSkhqMW9hbjdKLUhJQnRUZw?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
     }
    ]
   },
@@ -192456,57 +192545,6 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfN1RzQjJCaFdRbnRIRTFEUm41c0NGRUdTVDVVTV9XWGhWUmVxNGdMLWdQMzZFOVVQbGJETW1Fem9TeWhvYzM1MlgzV2pxU3BHTVY3Zg?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "主人公の芯の強さに注目した漫画『ちいかわ』読者の投稿に、共感や別作品を連想する声",
-   "summary": "ちいかわ、一巻から読んでるけどこの漫画やっぱりちいかわが主人公なんだな。なんというか、黄金の精神がある。ちいかわには黄金の精神があるんだよ。 — くろがね@ビリヤニおじさん (@metal_black2) November 3,…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/648968",
-   "pubDate": "2026-11-04T09:07:10.000Z",
-   "firstSeen": "2026-11-04T09:18:39.706Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/426ab71a14a740d2a539b4acf42733cc.jpg",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "ちいかわ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/648968"
-    }
-   ]
-  },
-  {
-   "title": "無料のHentai AI：Hentaiジェネレーターとアニメチャットボットのレビュー {lbhp4iF}",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSTNRMVJYV3VCOVdManlXTDl1eFRWM0VYY19yQ2ZXa2RfT2VrREYzTkRFVy1uNzd1QkdGc1dYdXBQelRZTnpYdmpoYjBBOGl6NjJOVUpjY0JNU3VHeTZ5Uld3YWhOR2FGNFN6UEpKMnZrT1E5TGJKWlloNl85WkVGZ1RkR2N0dW5wc25KdVpnYWpOdnBOMkU2TEQtamJSRTlvME91ZE9sRnRPdmNmc3lsSHpzcHRxMjZGR2o4ZTZPRnNKQXBXX1Rzck1HZ1VtdWhLQjUyd2theVdjVVRCbm9EWTIxamtkNnVabWo3elJxM1ZlZGdr?oc=5",
-   "pubDate": "2026-11-04T09:05:43.000Z",
-   "firstSeen": "2026-11-04T09:18:39.706Z",
-   "image": null,
-   "source": "Law.com",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Law.com",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSTNRMVJYV3VCOVdManlXTDl1eFRWM0VYY19yQ2ZXa2RfT2VrREYzTkRFVy1uNzd1QkdGc1dYdXBQelRZTnpYdmpoYjBBOGl6NjJOVUpjY0JNU3VHeTZ5Uld3YWhOR2FGNFN6UEpKMnZrT1E5TGJKWlloNl85WkVGZ1RkR2N0dW5wc25KdVpnYWpOdnBOMkU2TEQtamJSRTlvME91ZE9sRnRPdmNmc3lsSHpzcHRxMjZGR2o4ZTZPRnNKQXBXX1Rzck1HZ1VtdWhLQjUyd2theVdjVVRCbm9EWTIxamtkNnVabWo3elJxM1ZlZGdr?oc=5",
-     "via": "Googleニュース「アニメ」"
     }
    ]
   }
