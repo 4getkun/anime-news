@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-20T21:09:34.740Z",
+ "generatedAt": "2026-11-20T21:21:37.073Z",
  "count": 6000,
  "dedupe": {
   "exact": 5500,
-  "syndicated": 511,
+  "syndicated": 510,
   "similar": 756,
-  "syndicatedTotal": 6360,
+  "syndicatedTotal": 6359,
   "syndicatedLeft": 1164
  },
  "calendar": [
@@ -10044,9 +10044,9 @@
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 908,
    "accepted": 906
   },
@@ -10099,20 +10099,20 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
-   "archived": 5427,
-   "accepted": 5134
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
+   "archived": 5425,
+   "accepted": 5132
   },
   {
    "id": "gnews-tvanime",
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1144,
    "accepted": 1075
   },
@@ -10121,9 +10121,9 @@
    "name": "Googleニュース「劇場版 アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 882,
    "accepted": 798
   },
@@ -10132,9 +10132,9 @@
    "name": "Googleニュース「声優」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 2401,
    "accepted": 2140
   },
@@ -10143,9 +10143,9 @@
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1030,
    "accepted": 161
   },
@@ -10157,7 +10157,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1729,
+   "archived": 1730,
    "accepted": 868
   },
   {
@@ -10212,7 +10212,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29481,
+   "archived": 29488,
    "accepted": 3410
   },
   {
@@ -10223,7 +10223,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29498,
+   "archived": 29512,
    "accepted": 517
   },
   {
