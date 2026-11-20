@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-20T12:18:32.059Z",
+ "generatedAt": "2026-11-20T13:18:37.021Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5467,
-  "syndicated": 506,
-  "similar": 747,
-  "syndicatedTotal": 6326,
+  "exact": 5470,
+  "syndicated": 508,
+  "similar": 748,
+  "syndicatedTotal": 6332,
   "syndicatedLeft": 1172
  },
  "calendar": [
@@ -6365,12 +6365,13 @@
    "precision": "day",
    "verb": "event",
    "label": "開催",
-   "work": "薬屋のひとりごと",
-   "title": "『薬屋のひとりごと』×極楽湯・RAKU SPAコラボ第2弾が12月10日より開催。猫猫の録り下ろし館内放送や5種類のコラボ風呂、限定グッズも登場",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRk1jYnpGTExtRzcwRW1IanhaNkRrZ3RwbHo1RU4tclBycFNGY1JVMENYTUM4MXFEdG9pUXpDT2RXTnJQRWxJYXp1dGxTUzVkb0RIYnFkbDVXUQ?oc=5",
-   "source": "電撃オンライン",
+   "work": "ゴールデンカムイ",
+   "title": "『ゴールデンカムイ』×極楽湯・RAKU SPA「湯上黄金郷」12月10日から開催！浴衣＆サウナ姿の描き下ろしグッズやコラボ風呂、鶴見中尉のジャックイベントも",
+   "link": "https://nijimen.kusuguru.co.jp/topics/663545",
+   "source": "にじめん",
    "sources": 2,
    "categories": [
+    "event",
     "goods"
    ],
    "platforms": [],
@@ -6381,11 +6382,11 @@
    "precision": "day",
    "verb": "event",
    "label": "開催",
-   "work": "ゴールデンカムイ",
-   "title": "TVアニメ『ゴールデンカムイ』×極楽湯・RAKU SPAコラボキャンペーンが12月10日(木)より開催決定！",
-   "link": "https://prtimes.jp/main/html/rd/p/000000285.000108434.html",
-   "source": "PR TIMES",
-   "sources": 1,
+   "work": "薬屋のひとりごと",
+   "title": "『薬屋のひとりごと』×極楽湯・RAKU SPAコラボ第2弾が12月10日より開催。猫猫の録り下ろし館内放送や5種類のコラボ風呂、限定グッズも登場",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRk1jYnpGTExtRzcwRW1IanhaNkRrZ3RwbHo1RU4tclBycFNGY1JVMENYTUM4MXFEdG9pUXpDT2RXTnJQRWxJYXp1dGxTUzVkb0RIYnFkbDVXUQ?oc=5",
+   "source": "電撃オンライン",
+   "sources": 2,
    "categories": [
     "goods"
    ],
@@ -9515,6 +9516,20 @@
   {
    "date": "2027-04",
    "precision": "month",
+   "verb": "release",
+   "label": "発売",
+   "work": "あんさんぶるスターズ!!",
+   "title": "『あんさんぶるスターズ！！』ぷっくり立体の「PUKUCOROステッカー」がamieから登場！Vol.1・Vol.2の2種類で2027年4月発売予定",
+   "link": "https://nijimen.kusuguru.co.jp/topics/663539",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-04",
+   "precision": "month",
    "verb": "broadcast",
    "label": "放送",
    "work": "スキップとローファー",
@@ -10139,8 +10154,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 904,
-   "accepted": 897
+   "archived": 903,
+   "accepted": 896
   },
   {
    "id": "natalie-comic",
@@ -10150,8 +10165,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 895,
-   "accepted": 893
+   "archived": 897,
+   "accepted": 895
   },
   {
    "id": "lisani",
@@ -10194,8 +10209,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1488,
-   "accepted": 586
+   "archived": 1490,
+   "accepted": 587
   },
   {
    "id": "gnews-anime",
@@ -10205,8 +10220,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5416,
-   "accepted": 5123
+   "archived": 5419,
+   "accepted": 5126
   },
   {
    "id": "gnews-tvanime",
@@ -10216,8 +10231,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1136,
-   "accepted": 1068
+   "archived": 1138,
+   "accepted": 1070
   },
   {
    "id": "gnews-movie",
@@ -10226,9 +10241,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 94,
-   "archived": 871,
-   "accepted": 787
+   "fetched": 100,
+   "archived": 874,
+   "accepted": 790
   },
   {
    "id": "gnews-seiyu",
@@ -10238,8 +10253,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2390,
-   "accepted": 2131
+   "archived": 2393,
+   "accepted": 2132
   },
   {
    "id": "natalie-eiga",
@@ -10249,7 +10264,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1027,
+   "archived": 1028,
    "accepted": 158
   },
   {
@@ -10260,7 +10275,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1717,
+   "archived": 1720,
    "accepted": 865
   },
   {
@@ -10271,8 +10286,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1203,
-   "accepted": 108
+   "archived": 1208,
+   "accepted": 110
   },
   {
    "id": "denfaminico",
@@ -10282,8 +10297,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1230,
-   "accepted": 293
+   "archived": 1233,
+   "accepted": 295
   },
   {
    "id": "gamespark",
@@ -10315,8 +10330,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29464,
-   "accepted": 3390
+   "archived": 29463,
+   "accepted": 3393
   },
   {
    "id": "prtimes",
@@ -10326,7 +10341,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29343,
+   "archived": 29341,
    "accepted": 515
   },
   {
@@ -10337,8 +10352,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 716,
-   "accepted": 716
+   "archived": 711,
+   "accepted": 711
   },
   {
    "id": "mal",
@@ -10364,6 +10379,454 @@
   }
  ],
  "items": [
+  {
+   "title": "しまむらパークで「サンリオキャラクターズ」グッズが発売！戦隊シリーズデザインのマスコットやフェイスポーチなど",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/20/191335.html",
+   "pubDate": "2026-11-20T13:10:03.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/20/191335.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/1b08c1613332010a99660db2682642828d3e96c7?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ウマ娘」公式番組「ぱかライブTV' #9」が11月29日に配信。ゲーム最新情報のほか，実馬を特集する「ぱか'トーク！」も",
+   "summary": "Cygamesは本日，「ウマ娘プリティーダービー」の公式生配信番組「ぱかライブTV'#9」を，2026年11月29日20：00より配信すると発表した。番組ではゲームの最新情報に加えて，ウマ娘のモチーフとなった実馬を特集する「ぱか'トーク！」も実施される。",
+   "link": "https://www.4gamer.net/games/554/G055489/20261120051/",
+   "pubDate": "2026-11-20T13:07:18.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/554/G055489/20261120051/"
+    }
+   ]
+  },
+  {
+   "title": "【イベントレポート】「ボトムズ 灰色の魔女」押井守監督、好評に意外な心境 「まだやり足りない」と意欲見せる(コミックナタリー)",
+   "summary": "押井守監督による劇場アニメ「装甲騎兵ボトムズ 灰色の魔女」の公開初日舞台挨拶が、本日11月20日に東京・TOHOシネマズ新宿で開催され、押井監督、アッシュ・ヴァンプス役の沢城みゆき、マキ・シュタウフェ",
+   "link": "https://news.yahoo.co.jp/articles/bb4502575615eabda172284840a3da9e45f5d70e?source=rss",
+   "pubDate": "2026-11-20T13:07:11.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "cast",
+    "movie",
+    "event",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/bb4502575615eabda172284840a3da9e45f5d70e?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "“究極の食漫画”「美味しんぼ」が35年ぶり復活！TVアニメ『新 美味しんぼ』眉目秀麗な若き敏腕社長団一郎役に小野大輔が決定",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xZkZrQ0RMSzF2N2lYR3ZWRUF6YjkwZFBRcnU4T0FJd2lfNnNXVlVZMDJSQXZjSzAySGtDT2o1ODVhc2VacTlsdzZR?oc=5",
+   "pubDate": "2026-11-20T13:06:30.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [],
+   "works": [
+    "新 美味しんぼ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xZkZrQ0RMSzF2N2lYR3ZWRUF6YjkwZFBRcnU4T0FJd2lfNnNXVlVZMDJSQXZjSzAySGtDT2o1ODVhc2VacTlsdzZR?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
+   "title": "『ゴールデンカムイ』×極楽湯・RAKU SPA「湯上黄金郷」12月10日から開催！浴衣＆サウナ姿の描き下ろしグッズやコラボ風呂、鶴見中尉のジャックイベントも",
+   "summary": "浴衣姿とサウナ姿の描き下ろしイラストが登場 今回のコラボのタイトルは「湯上黄金郷」。浴衣姿の8人を描いたビジュアルと、サウナ姿の5人を描いた描き下ろしサウナイラストの2種類が用意されています。極楽湯・RAKU SPAとのコラボならではの装い…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/663545",
+   "pubDate": "2026-11-20T12:45:31.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/8106faae895e48dc8ed6c1facff15e2a.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event",
+    "goods"
+   ],
+   "works": [
+    "ゴールデンカムイ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/663545"
+    }
+   ]
+  },
+  {
+   "title": "『輪るピングドラム』から着想を得た朗読劇『こどもブロイラー戦争』が制作決定！幾原邦彦氏が総合演出・脚本を担当",
+   "summary": "TVアニメの放送15周年を記念した完全新作のオリジナルストーリーを、暗闇の中で「声と音」によって描く。2027年2月6日・7日に新宿村LIVEで上演",
+   "link": "https://news.denfaminicogamer.jp/news/2611202z",
+   "pubDate": "2026-11-20T12:43:14.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-31-1024x576.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "new",
+    "cast"
+   ],
+   "works": [
+    "輪るピングドラム",
+    "こどもブロイラー戦争"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611202z"
+    }
+   ]
+  },
+  {
+   "title": "『あんさんぶるスターズ！！』ぷっくり立体の「PUKUCOROステッカー」がamieから登場！Vol.1・Vol.2の2種類で2027年4月発売予定",
+   "summary": "『あんさんぶるスターズ！！』PUKUCOROステッカーの魅力 PUKUCOROステッカーは、クリアな質感がかわいい、ぷっくり×ころんとした立体ステッカーです。素材にはPVCとエポキシ樹脂を使用。平面のシールとはひと味違う、ころんとした立体感…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/663539",
+   "pubDate": "2026-11-20T12:41:34.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/08606922a86241908fcbf48e1d07f1d8.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "あんさんぶるスターズ!!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/663539"
+    }
+   ]
+  },
+  {
+   "title": "「崩壊：スターレイル」とのコラボも開催。「ゼンレスゾーンゼロ」，Ver.3.4“ついには長き，日の終わり”を12月2日にリリース決定",
+   "summary": "HoYoverseは本日（2026年11月20日），アクションRPG「ゼンレスゾーンゼロ」のVer.3.4「ついには長き，日の終わり」を12月2日にリリースすると発表した。新エージェント「サンブリンガー」や，「崩壊：スターレイル」とのコラボエージェントが登場予定だ。",
+   "link": "https://www.4gamer.net/games/630/G063081/20261120048/",
+   "pubDate": "2026-11-20T12:39:46.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "4Gamer.net",
+   "sourceId": "4gamer",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "4Gamer.net",
+     "sourceId": "4gamer",
+     "link": "https://www.4gamer.net/games/630/G063081/20261120048/"
+    }
+   ]
+  },
+  {
+   "title": "ドラマ「花ざかりの君たちへ」OP主題歌はCIRRA、ED主題歌は龍宮城が担当(音楽ナタリー)",
+   "summary": "12月5日に日本テレビで放送がスタートするドラマ「花ざかりの君たちへ」のオープニング主題歌がCIRRA「CHE.R.RY」、エンディング主題歌が龍宮城「すきだから」に決定した。【写真】龍宮城のKEIG",
+   "link": "https://news.yahoo.co.jp/articles/b85a34eb1f504dd994c22f63d94188c51b3543ac?source=rss",
+   "pubDate": "2026-11-20T12:39:10.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "music"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/b85a34eb1f504dd994c22f63d94188c51b3543ac?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Kindle+（旧Kindle Unlimited）の「3か月2940円→99円」キャンペーンが実施中。『ハリー・ポッター』や『ドラゴン桜』全巻が読み放題",
+   "summary": "『まんがで読破』は全62巻、『メイドインアビス』『響け！ ユーフォニアム』は一部が対象",
+   "link": "https://news.denfaminicogamer.jp/news/2611202w",
+   "pubDate": "2026-11-20T12:38:01.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/1-3-714x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ハリー・ポッター",
+    "ドラゴン桜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611202w"
+    }
+   ]
+  },
+  {
+   "title": "デュエル・マスターズ＞アニメ「Duel Masters LOST」 第5章「失楽の訣闘」制作 新たな姿のジャシン帝（MANTANWEB）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWkd3NmpsS1NuMUtMTDVrbldBeDVRbzl4Z2FZa2xYOEJ0Y2twUHo2NWlPWFBtRThTUk1FMHhCdnpBOTViTExxMmJXUkJId2xmb2dUQ2paaGtIRVM4c1NiRlhteURRZHB3bEQyWXF5SFBJQlc5eG9sNXFDN0kzZ1U?oc=5",
+   "pubDate": "2026-11-20T12:33:00.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "MANTANWEB（Yahoo!ニュース）",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "Duel Masters LOST"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MANTANWEB（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWkd3NmpsS1NuMUtMTDVrbldBeDVRbzl4Z2FZa2xYOEJ0Y2twUHo2NWlPWFBtRThTUk1FMHhCdnpBOTViTExxMmJXUkJId2xmb2dUQ2paaGtIRVM4c1NiRlhteURRZHB3bEQyWXF5SFBJQlc5eG9sNXFDN0kzZ1U?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『装甲騎兵ボトムズ 灰色の魔女』は“期待以上” “カメラと被写体”をめぐる押井守の最新形(リアルサウンド)",
+   "summary": "リアルサウンド映画部の編集スタッフが週替りでお届けする「週末映画館でこれ観よう！」。毎週末にオススメ映画・特集上映をご紹介。今週は、押井守作品では『天使のたまご』（1985年）を一番繰り返し観ている徳",
+   "link": "https://news.yahoo.co.jp/articles/b735c97d3f0962f5922cf23df38af3bbe448f3d1?source=rss",
+   "pubDate": "2026-11-20T12:31:06.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "装甲騎兵ボトムズ 灰色の魔女"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/b735c97d3f0962f5922cf23df38af3bbe448f3d1?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "デュエマアニメ第5章「失楽の訣闘」制作決定 イラストに新たなジャシン帝の姿(コミックナタリー)",
+   "summary": "金林洋・松本しげのぶ原作によるアニメ「Duel Masters LOST」シリーズの第5章「Duel Masters LOST ～失楽の訣闘～（しつらくのデュエル）」の制作が決定した。トレーディングカ",
+   "link": "https://news.yahoo.co.jp/articles/eab2818fc54a421ad99c521d5132a438b213dab5?source=rss",
+   "pubDate": "2026-11-20T12:30:11.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 19,
+   "categories": [
+    "new"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/eab2818fc54a421ad99c521d5132a438b213dab5?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【デュエマ】アニメ第5章『Duel Masters LOST 失楽の訣闘』制作決定！",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RDMxbVVRMWxqc0pOV1JuUDBqMzl2QktvUWtFTWpzY0RuM2k0MFlCQldaS3cxZTMzbmtvSDNrSnkzMTdaV0NjbUlNVnM4NTR0TkVhWE1UaGtiQQ?oc=5",
+   "pubDate": "2026-11-20T12:30:00.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "new"
+   ],
+   "works": [
+    "Duel Masters LOST 失楽の訣闘"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RDMxbVVRMWxqc0pOV1JuUDBqMzl2QktvUWtFTWpzY0RuM2k0MFlCQldaS3cxZTMzbmtvSDNrSnkzMTdaV0NjbUlNVnM4NTR0TkVhWE1UaGtiQQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout Manga Ends With 20th Volume",
+   "summary": "Manga launched in November 2019, inspired 2022 TV anime",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-20/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-manga-ends-with-20th-volume/.244002",
+   "pubDate": "2026-11-20T12:15:00.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 8,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-20/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-manga-ends-with-20th-volume/.244002"
+    }
+   ]
+  },
+  {
+   "title": "ブラックカラーの“セイコーコラボ時計”が続々登場！【クルマ、名作アニメほか】今秋登場の狙い目ウオッチ3選",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40UU5WV3RzTExJTEp5b0IyXy0yenN6WmxWVDc5QmZyVFFHeldfbDdaZk1vVlRMZnFXeG1kWGVlZ3RPdHpDZFY0Qk1lb1M3MlRsS2RqLVJ0aWpvTmxRU1cxdF90SndmSmYtb3VyWHpiT0M1b1FPZTJGcXdNQVNGaUk?oc=5",
+   "pubDate": "2026-11-20T12:10:34.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "Yahoo!ニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40UU5WV3RzTExJTEp5b0IyXy0yenN6WmxWVDc5QmZyVFFHeldfbDdaZk1vVlRMZnFXeG1kWGVlZ3RPdHpDZFY0Qk1lb1M3MlRsS2RqLVJ0aWpvTmxRU1cxdF90SndmSmYtb3VyWHpiT0M1b1FPZTJGcXdNQVNGaUk?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "【イベント情報】大阪・中之島美術館にて「おおさかアニメーションミーツ」を開催！！｜ネジムラ89 / アニメ映画ライター",
    "summary": "",
@@ -10449,6 +10912,33 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/1800785e6aaad9d6bc742ae15e9445a0e0edd5f0?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "国内外アニメーションの魅力発信 新千歳映画祭開幕 86作品上映",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTzZkd0tnbHRWRUhseXBfUVZvRmtFVjhpZ3BmcDFWcnZ1bnZsUTY5alhRMEdjY3hzd0pQUXAydGcwVTVPdmRiTmRaTHRQM2p5bzhrZkM3VUNQdw?oc=5",
+   "pubDate": "2026-11-20T12:04:23.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "北海道新聞デジタル",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "北海道新聞デジタル",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTzZkd0tnbHRWRUhseXBfUVZvRmtFVjhpZ3BmcDFWcnZ1bnZsUTY5alhRMEdjY3hzd0pQUXAydGcwVTVPdmRiTmRaTHRQM2p5bzhrZkM3VUNQdw?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -14128,6 +14618,12 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5STUc2bnotTUQzRW1GZVdMRlhXQmlxTk80SElNUldUbm40OTlEOUxudlNNVXBPbnZrN0dJSWZqak5WS0pPYl80aHYtU1JvemhNMlRVMFp5UHZDa1U?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "川崎経済新聞",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80MTFQVFhkS3pBM3ZCYVkzRWFDWlV6UWNTUlctZExBcTd0MGVwTl9BUTdnLV90NmdMcG5OZHJQSVhYSmRvUE0tR1JNSFNUQTlJdzBJazd3?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     }
    ]
   },
@@ -14657,6 +15153,12 @@
      "name": "Excite エキサイト",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wNTBVaFVBZXZ3QmtJbG4wNURjaE1zQkE4UGFLbk1mcnRnRFF4QmtGRmNabmdzal9YdS1tN09TLWZiRzJZTmx0R1ptTW9UdWgxdU1RTG1RZmlTM0R2T2ZyeGExNUtWUGxLaGJ1Yw?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
+     "name": "ABEMA TIMES",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UjBzcnUzVnpxRWtFVXdja0w2aDZIVk5TUUtWY1g2QXFYSjhEMElnQTlfeVJWUGw1ZWg0RHljekFrNjVwaXk3THAwSGV2by13Yk45ZA?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
@@ -15323,6 +15825,13 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZdnMyZmp6cWk2MXNRXzR1VHJGMFpTSTBCMmVFUmZFNV83aFNKeU03TnlLZ2pjNGdzQW5ENmphLVBDc2d0QkJlLU1yR3B6bVNDU1JFWHNrR3dpdGlDaFRUbVcwQnNHQzRh0gFuQVVfeXFMUHp4RXNKRDlUNFNLa1NHOGRGQkU0bExTOFZ1MVlZSHVYaE9lcExMSEN1c2EtcUR0TVhQWkhnNENnZE5sZ2VDT0VPV2VpWnpIbmQ3TnROckk2ZktVTWJIeS1iYkNYQnU1ejEzeXZvSHc?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
+    },
+    {
+     "name": "シネマトゥデイ（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVUVhdXRmOXJMejEtSUtsRzJVRjJsdlZ0dmVzcGxTdTM2MzdjQ0J0VlJTUmJld2J2clJGNXprTVhGMG5HNnlHSHA1bTJ5Q0RRekt6WGIxRVpTQ3dGQkg3NWwzdGZUbURlWFFzYTg1cXVwYkp0aW1KRHdQeUd2XzQ?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
     }
    ]
   },
@@ -15383,33 +15892,6 @@
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDcDBrSnNqRTB1Z1ZPOTh6ZTltQW9Sbjk5MTdkbjNUOGhMdTFoLXE5dF9aTUNWRjhpV0NQa05kOHhxOHgwODA3dw?oc=5",
      "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "「攻殻機動隊 THE GHOST IN THE SHELL」とGEEKS RULEのコラボTシャツ発売(コミックナタリー)",
-   "summary": "士郎正宗原作によるTVアニメ「攻殻機動隊 THE GHOST IN THE SHELL」と、GEEKS RULEのコラボTシャツが11月26日に発売される。【画像】「攻殻機動隊展｜GEEKS RULE",
-   "link": "https://news.yahoo.co.jp/articles/68b7d3e301b53ab0db66f59017c6f9a9a5f32625?source=rss",
-   "pubDate": "2026-11-20T08:00:48.000Z",
-   "firstSeen": "2026-11-20T08:17:58.118Z",
-   "image": null,
-   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/68b7d3e301b53ab0db66f59017c6f9a9a5f32625?source=rss",
-     "syndicated": true
     }
    ]
   },
@@ -15941,6 +16423,38 @@
    ]
   },
   {
+   "title": "「攻殻機動隊 THE GHOST IN THE SHELL」とGEEKS RULEのコラボTシャツ発売",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DaHgxblBjRFRrc2NOMEwzMmk0RGMwNzRwQzJkdEg5VG1VWXZ2NDRBWWptZ1h4RGZ4MnlBS0x5V181WVZhWEtwRG1lXzM?oc=5",
+   "pubDate": "2026-11-20T08:00:00.000Z",
+   "firstSeen": "2026-11-20T08:17:58.118Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DaHgxblBjRFRrc2NOMEwzMmk0RGMwNzRwQzJkdEg5VG1VWXZ2NDRBWWptZ1h4RGZ4MnlBS0x5V181WVZhWEtwRG1lXzM?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/68b7d3e301b53ab0db66f59017c6f9a9a5f32625?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "『グレンダイザー』とクラフトワークはつながっていた？ 日本のロボットアニメがイタリアで起こした音楽革命",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UaG9ZdWNJN0g3TmtoYVFJRlhIWmZSSHEzTkJSUld6SElmcTVvQ1lLVUhWUWxYQUhkeEZWMnFBTG5qMmZnYUJpQmdzVmx0S2dDZlVfT2kxMWdCNFNHdGhTNw?oc=5",
@@ -15998,6 +16512,13 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lN2JFZlUzbGllTFVJQmloczV0dFpfN2J6czBUZ2VpZzBSQXFxVnBvYzRxMDJEdVFxeG9RdW9wTzVGZThVd0xBczlLSTMzNjVEdlR2UXlUUHBQTjFwWlItaW1XVVhBTWUyRDhn?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hc2F2THNmMDFXRHp3TTdkS1RuXzE2b3huY1VydGxhZnFSM2hxZi0xNmdjTHUwMzlvR0JFUUpWNVRZakttWWlQZDVYa0lrZkJjb1RTSHl4RmhDczNNRmZ6SmI3VFJfOG1xQnU2OThTTDl1VWEyczdDZUJEMlVDcUk?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -16170,6 +16691,13 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tczdaTmVGbXJhZkh1RGJ1QkFqV0Y4VXZYQWJoeXpfdW94cTdUNUVjQTYyTUs5dmlsdGZINXBnejB5Z1BJdlVZcFZoMnFLMEV5VFNNdHZ4SQ?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kNUpRZ1lNOXIzU0xEclVnUlUyMVFTanZBcVpPMGM2WmZfNXpqamd3WWE5amVoSUZSX0pvb3hWYmVkM3lPLWhwb2gzRVFSQVhCN1ZNWWs4aFBmaElqZXJ0Um5KVUp6UldxeWZ5WVlZY2tRRmVzTGhxdTZQWVFLQ0E?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -16709,6 +17237,38 @@
      "name": "インサイド（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/1b83a0aceea7dda1b9c8e5e01a136d60cfd9797c?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「お気楽領主の楽しい領地防衛」9巻特装版、カラーイラストなど収録の小冊子付き（試し読みあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4ybHNqQkVZOXlPWTNNdDhxckNKeHNfR2NQV2U1SHk0bnpxVVFCT1owYkpRT2p3eEQ5TU1RVnJLSkFYZ003SG9kNmRUOUQ?oc=5",
+   "pubDate": "2026-11-20T06:15:00.000Z",
+   "firstSeen": "2026-11-20T06:17:54.353Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [
+    "お気楽領主の楽しい領地防衛"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4ybHNqQkVZOXlPWTNNdDhxckNKeHNfR2NQV2U1SHk0bnpxVVFCT1owYkpRT2p3eEQ5TU1RVnJLSkFYZ003SG9kNmRUOUQ?oc=5"
+    },
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d7d638d6fbaac530b5ea263232d6a6bf12963cd9?source=rss",
      "syndicated": true
     }
    ]
@@ -17893,6 +18453,34 @@
    ]
   },
   {
+   "title": "広大無辺の大陸を舞台に、最強の武器を求めて旅する双子の兄妹戦記「百大兵器譜」1巻",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1adVZuYkJqVlZCY2RYeUZlZDdEOThITWx3RjFoQnJmZTRlUXNJMnRBbUhvUVI3YmllR2xVb3l5VlNaWDhjdGNqblBFVzE?oc=5",
+   "pubDate": "2026-11-20T04:22:00.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "stage"
+   ],
+   "works": [
+    "百大兵器譜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1adVZuYkJqVlZCY2RYeUZlZDdEOThITWx3RjFoQnJmZTRlUXNJMnRBbUhvUVI3YmllR2xVb3l5VlNaWDhjdGNqblBFVzE?oc=5"
+    }
+   ]
+  },
+  {
    "title": "『ハウルの動く城』カルシファーの暖炉が万年カレンダーに 色円盤がくるくる回る壁掛け時計も登場(cinemacafe.net)",
    "summary": "スタジオジブリ作品『ハウルの動く城』より、カルシファーのいる暖炉を立体で表現した万年カレンダーと、色円盤が回転する仕掛け付きの壁掛け時計が登場。11月21日（土）より、全国の「ジブリがいっぱい どんぐ",
    "link": "https://news.yahoo.co.jp/articles/0da9706dbf3d1dd4466314da6e08e4524996707e?source=rss",
@@ -19054,7 +19642,7 @@
    "firstSeen": "2026-11-20T03:17:54.007Z",
    "image": null,
    "source": "Mantan Web",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-movie",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -19068,9 +19656,9 @@
    "sources": [
     {
      "name": "Mantan Web",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52UVZsVUNadWQ4UXRyXzZnWTBuQ3prdl93UUpmcVlBbjZ2eTZoNURIOVNFNHE2dlZEb2ozaGhVMVNna2IyQmxpcE92bVRqNi1NWTNsa0FNYjJ0U1hkTDVTTmpoTHZFSFMtbUxR?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「劇場版 アニメ」"
     },
     {
      "name": "Yahoo!ニュース",
@@ -28668,9 +29256,9 @@
     },
     {
      "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNHlnWEUxbTFIdWc4VjBHblVMdjF1dGt1eDlDYldwcWlqdEVxcHJXV0pncjNodVJBVkVwaGdFb2sxQ2xfT013bzFNaDU1OXJES1VLU0psYklhbGllakowcUFTeGNSY0N0eVFVWnE3V19sQXBOMzlLbTJyTUJ4OGs?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -54116,7 +54704,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 26,
+   "score": 30,
    "categories": [
     "new",
     "media"
@@ -149313,6 +149901,34 @@
    ]
   },
   {
+   "title": "SPY×FAMILY 劇場版第2弾｜アニメキャスト・映画・最新情報一覧",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82am1tSV9PU0tENHB6WmxmbkVzS0FvRmgtalpUbGlwX2JRLUlSYjNDNF9Mdi0wNGtrdHE3VkZkU2ZwM1M5RGZUeDVSWkZFckpNTngyWnZZTTlkVmlCQlpHRFNPTQ?oc=5",
+   "pubDate": "2026-11-09T08:00:00.000Z",
+   "firstSeen": "2026-11-20T13:17:59.024Z",
+   "image": null,
+   "source": "アニメイトタイムズ",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82am1tSV9PU0tENHB6WmxmbkVzS0FvRmgtalpUbGlwX2JRLUlSYjNDNF9Mdi0wNGtrdHE3VkZkU2ZwM1M5RGZUeDVSWkZFckpNTngyWnZZTTlkVmlCQlpHRFNPTQ?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
    "title": "「ちいかわ」年賀はがき発売 羊衣装のちいかわ、うさぎ、ハチワレのシールも",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94NGdxcHA2VkJQdlBGN0E0SExFVHNNMWpCeVlDZXd4SFhSdUhYODNQa3QxS2kycWRLeTUxNkFtWlowNUsyTXVIbHRmT2o?oc=5",
@@ -192112,718 +192728,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoN2lVODBTR3Iza3RoeEdObF95TXZOVUsyb1NFV0xfS2dhNDJUUFdwbnhlbHNQT1NmeDNCSXZzckZfN3ZwTkxEa2dYWWY2RkdPS3RGRTE1ZzZMQXB0Umd4R29aYlFkdDVnc2lOU1M2REtpcjBwN0c4VjN2T2tNdVU?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "卒業間近「Suicaのペンギン」がNewDaysに登場！ コーヒーカップが限定デザインに、グッズ＆スイーツも♪(ぴあ)",
-   "summary": "2026年度末の卒業が決定している「Suicaのペンギン」が、現在さまざまなキャンペーンを実施中。【全ての画像】「Suicaのペンギンキャンペーン」の写真（全17枚）今回、NewDaysとの新たな展開",
-   "link": "https://news.yahoo.co.jp/articles/06596cbfdebcf98af0c2cf389d7767157c92529e?source=rss",
-   "pubDate": "2026-11-05T11:01:09.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "ぴあ（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ぴあ（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/06596cbfdebcf98af0c2cf389d7767157c92529e?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「今年1熱い戦闘！」マグナVSダンテ、“激アツ挿入歌”で彩られたバトルに「選曲が神」『ブラッククローバー』175話(ABEMA TIMES)",
-   "summary": "アニメ『ブラッククローバー』2nd Season第5話となる第175話が、10月31日に放送された（順次放送中）。強敵に挑むマグナ・スウィング（CV：室元気）の戦いが、熱い挿入歌とともに描かれ「これぞ",
-   "link": "https://news.yahoo.co.jp/articles/41bc0a376b5977cf0bcf8988ee7593a2bf6ff580?source=rss",
-   "pubDate": "2026-11-05T11:00:37.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "ブラッククローバー"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/41bc0a376b5977cf0bcf8988ee7593a2bf6ff580?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "miletが「My Voice, My Life」をCDリリース、ドラマ「アナログナース」主題歌(音楽ナタリー)",
-   "summary": "miletの新曲「My Voice, My Life」が、12月16日にCDでリリースされる。【画像】ジャケットに使用されているのは、miletのアンニュイな表情を捉えた1枚「My Voice, My",
-   "link": "https://news.yahoo.co.jp/articles/b001b97f21206fc02983e717bb9f3708d557ca33?source=rss",
-   "pubDate": "2026-11-05T11:00:23.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "music"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/b001b97f21206fc02983e717bb9f3708d557ca33?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Netflix「フールナイト」若山詩音、土田大、岡本信彦ら追加キャストに！主題歌アーティスト＆メインPV公開",
-   "summary": "",
-   "link": "https://animeanime.jp/article/2026/11/05/104511.html",
-   "pubDate": "2026-11-05T11:00:03.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "アニメ！アニメ！",
-   "sourceId": "animeanime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "broadcast",
-    "visual",
-    "cast",
-    "music"
-   ],
-   "works": [
-    "フールナイト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメ！アニメ！",
-     "sourceId": "animeanime",
-     "link": "https://animeanime.jp/article/2026/11/05/104511.html"
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/54d9731f4b0c4aee76771bc54101adcc4a7fbf41?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "アニメ！アニメ！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0cFpnZ3VYTmcwOTlfRG1tVWpTQVV3eHVtSU44RVNUVWFOTW80OVNLU1NHd21fR0FVSVF6VWtpQVJ5OXpwRmRSNUdvNmdZWjVwdDUzMld2UFc0M3JueEs5MUpqQjJ5RE5LTFRLQUloejBrcHJWcjBlWl84TnQtTkE?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】ピンクのピチテカスーツに元気なポーズが可愛すぎ！『NIKKE』アリスの美女レイヤーは小悪魔な笑顔で魅了する【写真9枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/05/190423.html",
-   "pubDate": "2026-11-05T11:00:03.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "game"
-   ],
-   "works": [
-    "NIKKE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/05/190423.html"
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/6952672e02e859c31bf04b090bdb6a0389b953aa?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「フールナイト」キービジュアル＆メインPV公開 若山詩音、土田大ら5人が出演（コメントあり / 動画あり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSNHJPMzRfNUJZajh0QjdyX29yUllPLXYtMjUycHJHUlRuUWRTTnBpeGtmUzVjRUppOTZaZXVmN1FYQVZCdWhjNWIyTEg?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 21,
-   "categories": [
-    "visual",
-    "cast",
-    "broadcast",
-    "media",
-    "music"
-   ],
-   "works": [
-    "フールナイト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSNHJPMzRfNUJZajh0QjdyX29yUllPLXYtMjUycHJHUlRuUWRTTnBpeGtmUzVjRUppOTZaZXVmN1FYQVZCdWhjNWIyTEg?oc=5"
-    },
-    {
-     "name": "リアルサウンド",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03aW4teTJ4SXkyZFZ3OVNld3A3cHcyNGJBdkswRElpY3J0aTYwcEx1Q3k4bmNKVkprYUQ2Ny12b21WZEJMQ3BfeUgtT0phOHY4aktLc1hSbHJfQ1FsOThSX0RR0gFnQVVfeXFMTTF6Q0hNV1NCMFhYTzlCbUxwWnM1LWt4b19hTjh6VGo0aUNrbUVLRzBKU0pySklHamxxME1BLWxpY2Y2SHBsVl9Vd2VlMnpkalAwZ3BTekU5SVJmZENfVDlkVEZsU0g5bw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/0240fe74eadd49861d707d229b55c9404c15c7e1?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/0301f045903552582a7f5d30c9d3a5c9bae7273c?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "リアルサウンド（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbzdudkpvT2tQdWdOWUJxOTBvN2k5RTBVeTlxM0pXZGJPMWFuSl9PNzQ3M214NDJCanYybF83cU04NzdiVEI0LXlSSWV3dXhGbWRQOWlDbFNuUEZJSFJrd3lYdmVpMEZiSHNrRExORFB4WmFXRXg1YjFBWFFzV28?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ『フールナイト』メインPV解禁 追加キャストに若山詩音、岡本信彦ら 土田大さんの出演も明らかに",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16SGFnX0FHRlY1Q2pmR2tiWEFIa2pfSjRtbGVtNjlQekpSTU4zS1ZXRzhocktwbFprdUtmM2kzSWZkcnNCSm90WXd2aUY?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "クランクイン！",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 28,
-   "categories": [
-    "visual",
-    "cast",
-    "broadcast",
-    "music"
-   ],
-   "works": [
-    "フールナイト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16SGFnX0FHRlY1Q2pmR2tiWEFIa2pfSjRtbGVtNjlQekpSTU4zS1ZXRzhocktwbFprdUtmM2kzSWZkcnNCSm90WXd2aUY?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "ABEMA TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94WDk2Uk8yOHNvUnlJNWs1b1JUbFRVakd6TlhCeWRnU2s1U0pJQ1R1bWlIdTFQZk95RHNtUEJIcG5WU2QzZkNkYUFUUzdMWGdIaXVqNw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/8d6722c76d9fbb5fe62788c701cde8a1e810e9b9?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "KAI-YOU（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/723693c988171bfe9fd95d03fd76778bc3de6a82?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "クランクイン！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PZ1NWZm9tQzk4Ny10TWRXbmt0Vno3a1ZnZkJkclphWFIzOTdCZzl3ekQ2U210LU5kMktsOWlrQnFRc0gtbnRyZHJ2RVBxWjdPUGk1cUd1dFZDYjdGdmlXRUtKZzRuLU5wLVY5RXNZbWI2d3loUTRQc2wtaGFYSVU?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    },
-    {
-     "name": "KAI-YOU（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KN0tGeE1vcnZTWHhOVFQwTHZzczZ3UlRzTHFva2Vfd3hKSG1Ba3VnUmpfa0RyalZNOGtsaGd2R2dPSzk0RkExcWJ3dm8yb3Zhb0xsSTY0eXV2dnZXbE5tOFQ5Rk1QeU1randVeWFXaWdNMC1ucEU1N2lPYV9BZlE?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Netflixシリーズのアニメ「フールナイト」OPテーマはTempalay、EDはNowlu（コメントあり / 動画あり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94THRXOHc0NnI0dWtpcjR4cWo3MTNJcHJkcmtIeU92ZGMwZ2Q5OEFXTlJ4SUVRcXMtTlhzY3h0T3FxSjJVQXNLV1Q2eTc?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "broadcast",
-    "music"
-   ],
-   "works": [
-    "フールナイト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94THRXOHc0NnI0dWtpcjR4cWo3MTNJcHJkcmtIeU92ZGMwZ2Q5OEFXTlJ4SUVRcXMtTlhzY3h0T3FxSjJVQXNLV1Q2eTc?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/5a8e7afa78ae7b8174b5617642183b4f48036418?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ「フールナイト」 キービジュアル、メインPV解禁！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96Qk5sdFZBZ3l5NklSZUI4WXpKM0cwbUxBQ1ZMUUpzX2hfclRvdEVZZDVIcWw0YnFyekpsNFc0am52R1R3b0ttVHh4cEVyejFiVmpz?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "ZDNET Japan",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "visual"
-   ],
-   "works": [
-    "フールナイト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ZDNET Japan",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96Qk5sdFZBZ3l5NklSZUI4WXpKM0cwbUxBQ1ZMUUpzX2hfclRvdEVZZDVIcWw0YnFyekpsNFc0am52R1R3b0ttVHh4cEVyejFiVmpz?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "沖縄タイムス社",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnQ0gzdE93aHVKUGNwaXI5ZlRoRG9YRDJFSnNtYXJ6S1hMTjR5aG9qcUd6d1M2d0xvaDM3SG9xMVpzQ0laMVV1TXlQTWlfLTdwUjQ4LVBKMm1HSTM4RkE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "Digital PR Platform",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1VG5qbDVJeTVSM0FBdG96Rm04RjRjcXVTWS0wQWMtd25kdUFWTDBrVkU1cHB2V3MyODh6TDNsaVBsQjA?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "Netflixアニメ「フールナイト」追加キャストに若山詩音、岡本信彦、小林由美子ら OP主題歌を収録したメインPVも公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04SDJMcG9HTzE2R0kwR3FCNERFdnlnVTBvZjJNX203S1pmRUtqZ3pYaDRaTG9jeVVyVGo1RktPWXBGamFWYWJXOUk4SQ?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "アニメハック",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "broadcast",
-    "visual",
-    "cast",
-    "music"
-   ],
-   "works": [
-    "フールナイト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメハック",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04SDJMcG9HTzE2R0kwR3FCNERFdnlnVTBvZjJNX203S1pmRUtqZ3pYaDRaTG9jeVVyVGo1RktPWXBGamFWYWJXOUk4SQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "映画.com（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/91453deb0c31378f18635a2b054c982403d3e53c?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "映画.com（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wOFBHQnJPWnFMR2JzNjZsZHVGaDcyUzlSVWI4NTUxQXNKRVMtZFRXc1lGODFNdmpuM3JqVm84T1V0d0xWdzM0Ti1oNUg0SnRKX3JBUmhxc0ppR01tZzlZV0RIMXVNR2NNQkNGeEJXdl83LTljV0lqRkdwbjRKSjA?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "サンライズ×シャフト制作アニメ『フールナイト』主題歌はTempalay 追加キャストに若山詩音、土田大ら - KAI-YOU",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SQktoWjA4NEY1bmRyVjk3cU56RU4xQWlSM0RkSklXWGUwVml4RXZpTTRlbkxnQ3BYWmlvRkFBel9fNDd6SHJrVw?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "Googleニュース「アニメ」",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 22,
-   "categories": [
-    "cast",
-    "music"
-   ],
-   "works": [
-    "フールナイト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Googleニュース「アニメ」",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SQktoWjA4NEY1bmRyVjk3cU56RU4xQWlSM0RkSklXWGUwVml4RXZpTTRlbkxnQ3BYWmlvRkFBel9fNDd6SHJrVw?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "＜フールナイト＞“転花”巡り思惑が交差 ビジュアル＆PV公開 アイヴィー役は小林由美子 サンライズ×シャフト初タッグでアニメ化",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52QVRPQnd5X0tUdWM1MEVKc1pmbFpOOGRwY3k1STI4dmo5V200aklSY3VjYjktSnhBOWxFc3YzOWQ3V3lsaGlpSnMyb1ZuSjhEdkxTMHhmWU8wbnY3YXZRR0JRMTRDU1otSktFNUhQYlJiazdLUm0tR1ZLbUxwUEU?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "Yahoo!ニュース",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new",
-    "visual"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52QVRPQnd5X0tUdWM1MEVKc1pmbFpOOGRwY3k1STI4dmo5V200aklSY3VjYjktSnhBOWxFc3YzOWQ3V3lsaGlpSnMyb1ZuSjhEdkxTMHhmWU8wbnY3YXZRR0JRMTRDU1otSktFNUhQYlJiazdLUm0tR1ZLbUxwUEU?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "楽園追放×ガールズバンドクライ：東映アニメつながりでコラボ “歴代JKビジュアル”公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PNERMSzFYWGx2N29qbnVCYWpaOFA4dHlVeVhld19ieVdLZG5GSHhJNmpyQ0ZxWDRLU1duaE91SDFUdmZTbDVkU1AtSTBVM1pSOEhzaFJiVkdGay10VFlQZ1cyUlI5anAyNlJr?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "Mantan Web",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Mantan Web",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PNERMSzFYWGx2N29qbnVCYWpaOFA4dHlVeVhld19ieVdLZG5GSHhJNmpyQ0ZxWDRLU1duaE91SDFUdmZTbDVkU1AtSTBVM1pSOEhzaFJiVkdGay10VFlQZ1cyUlI5anAyNlJr?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    },
-    {
-     "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MVjEtVjJ6eXhkdnRTcmJJb2RNd0U2LW9obFZBM2xSTVZ4V1J2c2RwX21xQlhWcVR0ZEJsMGJ5QUJGbWRxVlhYc05LN1pMM2tpcVR3ZG90OE5EQ1B6QWoybkZjOEhsZ0FMMnlxWTdpSFFZMW9GWFJFX0hDeU05dUU?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "アニメ配信サービスの終了でDVDやBlu-rayの「合法コピー」を可能にするためDMCA免除を求める動きが進んでいる",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RRTdOUHFVQU9xejZSYUVneUV6Y29KME1ZUm1ZbDA4UlRVeTg3OV9yZmdCWlM1bFVtbXQ4aUtnVjZBSkZEbUFYNEt4d3JJSVFVRllDcUlwZGdvaWxSOFNHS1Brb0w1ZWNFWkZLbkxvX256WGxNbmpENzdDc0tEQQ?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "GIGAZINE",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GIGAZINE",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RRTdOUHFVQU9xejZSYUVneUV6Y29KME1ZUm1ZbDA4UlRVeTg3OV9yZmdCWlM1bFVtbXQ4aUtnVjZBSkZEbUFYNEt4d3JJSVFVRllDcUlwZGdvaWxSOFNHS1Brb0w1ZWNFWkZLbkxvX256WGxNbmpENzdDc0tEQQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『フールナイト』キービジュアルやメインPV、追加キャストなどの最新情報が一挙公開。OPはTempalay、EDはNowlu氏が担当",
-   "summary": "11月5日、アニメ『フールナイト』のキービジュアル、メインPVを始めとする最新情報が解禁された。 同作では、OPをTempalay、EDをNowlu氏が担当することが決定。また、追加キャラやキャストも公開され、若山詩音さんや岡本信彦さんといった豪華キャストが出演することも発表され…",
-   "link": "https://news.denfaminicogamer.jp/news/2611052p",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/9a693ddb2351dd5ff1a2bdb57e6043f5-1024x753.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 24,
-   "categories": [
-    "visual",
-    "cast"
-   ],
-   "works": [
-    "フールナイト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2611052p"
-    },
-    {
-     "name": "電撃オンライン",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ybURHN0pLNjBRNW9sWWlkNkJrVjFHbkpNcjZJRXZ2UFJmRlEtQjdBNFVLdUJpY2V2Zl92RXF5ZkR1VnIwcVE3dEktcGRaMjlCYi1kaHUtX0xaUQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "エンタメ特化型情報メディア スパイス",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PaF9KRmJ2aWYtb3Y5eWNad2JxT2NvUTAyQjFMa2pBbFd4NERIWTNxclpTMkpSZTVGM3k5MTQ3RnFYRERFVzRvak5BRkNZbGPSAVRBVV95cUxQQ3ZQc09UUWVVMUxNUm9WZWZmUS1XQXRvZXRWLVNHUDU5ZmNNenF1ZjJVNTVYeDZsVFF3MHNDZjRJbi1FRWcwTFRYTERSLVRPY09xUzk?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "11/30(月)21:00『ホラーいえるかな？みえるかな？』 「殴り込み！Gメン＜新生編＞スペシャルトークショーつき上映会！ゲスト：ぁみ（怪談家）、はやせやすひろ（都市ボーイズ）、野津山幸宏（スペシャルGメン／声優）、野水伊織（映画感想屋声優)｜Cinem＠rt-新宿|トピックス|映画…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jWXhYNjJvMnVyNVhmM1dEVkdUem5pVWlURUZ1WUxqcmp4Qnd2S3kyUU9vUDR4SXhtYjVxNzM3OXRvOFQ0UndTQUJGWjM1YWRvQUxDX1dpT0M4UTNpTG9QX1Y4ZE0wV3BXMGc0dkN2MFh2WGNwZlQ3UTV3?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "Cinem＠rt",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "movie",
-    "event"
-   ],
-   "works": [
-    "ホラーいえるかな?みえるかな?"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Cinem＠rt",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jWXhYNjJvMnVyNVhmM1dEVkdUem5pVWlURUZ1WUxqcmp4Qnd2S3kyUU9vUDR4SXhtYjVxNzM3OXRvOFQ0UndTQUJGWjM1YWRvQUxDX1dpT0M4UTNpTG9QX1Y4ZE0wV3BXMGc0dkN2MFh2WGNwZlQ3UTV3?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "わしゃがなTVの最新動画では，ゲーム攻略本福箱の開封動画をお届け。「スパロボF完結編」をはじめ名作タイトルのレア本が登場",
-   "summary": "本日，声優の中村悠一さんと，フリーライターのマフィア梶田さんによるWeb番組「わしゃがなTV」の最新動画が公開された。今回は，中村さんが購入した「ゲーム攻略本福箱」の開封動画をお届け。懐かしのタイトルの攻略本が続々と登場する。",
-   "link": "https://www.4gamer.net/games/991/G999112/20261105032/",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "4Gamer.net",
-   "sourceId": "4gamer",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast",
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "4Gamer.net",
-     "sourceId": "4gamer",
-     "link": "https://www.4gamer.net/games/991/G999112/20261105032/"
-    }
-   ]
-  },
-  {
-   "title": "「楽園追放」×「ガルクラ」 80年代以降のJKカルチャーを反映したビジュアル公開（動画あり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBua1Mtb09iSTl4VXVzZ2pKV2pxVW8tWDJuWVY4dE42ajhJVUtLQ2JCWS1nRzhWMFUtRldqVlVfVHlneVJNQVpnTnJXaTk?oc=5",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "楽園追放",
-    "ガルクラ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBua1Mtb09iSTl4VXVzZ2pKV2pxVW8tWDJuWVY4dE42ajhJVUtLQ2JCWS1nRzhWMFUtRldqVlVfVHlneVJNQVpnTnJXaTk?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/e68bc6c09ce3c262fe1199a65e474c1ed500d67c?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "＜フールナイト＞若山詩音や岡本信彦ら追加キャスト発表 TempalayとNowluが主題歌で重厚な世界観を表現(WEBザテレビジョン)",
-   "summary": "アニメ「フールナイト」(11月26日[木]よりNetflixにて全世界独占配信開始)のキービジュアルとメインPVが公開になった。あわせてOP曲ををTempalay、ED曲をNowluが担当することも発",
-   "link": "https://news.yahoo.co.jp/articles/c5bd7e5bfc491bb2a68d797b0d842a24aa7cd3fe?source=rss",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "broadcast",
-    "visual",
-    "cast",
-    "music"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/c5bd7e5bfc491bb2a68d797b0d842a24aa7cd3fe?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Fool Night Anime's Trailer Reveals Theme Songs, Additional Cast",
-   "summary": "Tempalay, Nowlu perform theme songs for November 26 anime",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-05/fool-night-anime-trailer-reveals-theme-songs-additional-cast/.243524",
-   "pubDate": "2026-11-05T11:00:00.000Z",
-   "firstSeen": "2026-11-05T11:17:58.838Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "visual",
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-05/fool-night-anime-trailer-reveals-theme-songs-additional-cast/.243524"
     }
    ]
   }
