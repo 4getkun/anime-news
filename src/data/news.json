@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-21T11:18:37.747Z",
+ "generatedAt": "2026-11-21T12:18:47.282Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5462,
-  "syndicated": 508,
-  "similar": 739,
-  "syndicatedTotal": 6353,
-  "syndicatedLeft": 1166
+  "exact": 5439,
+  "syndicated": 507,
+  "similar": 738,
+  "syndicatedTotal": 6340,
+  "syndicatedLeft": 1167
  },
  "calendar": [
   {
@@ -3099,6 +3099,22 @@
    "precision": "day",
    "verb": "movie",
    "label": "公開",
+   "work": "魔法使いの夜",
+   "title": "公開初日にIMAX上映で映像乱れが発生、劇場アニメ『魔法使いの夜』即日復旧で招待券対応へ(オタク総研)",
+   "link": "https://news.yahoo.co.jp/articles/eebfcde96ed2d562407e017db175c939b9a7d990?source=rss",
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sources": 9,
+   "categories": [
+    "movie"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-20",
+   "precision": "day",
+   "verb": "movie",
+   "label": "公開",
    "work": "装甲騎兵ボトムズ 灰色の魔女",
    "title": "映画ファンにも観てほしい戦争アクション！『装甲騎兵ボトムズ 灰色の魔女』をネタバレなしでレビュー(MOVIE WALKER PRESS)",
    "link": "https://news.yahoo.co.jp/articles/270f1557a62c8547e4a33208277999d594b429b9?source=rss",
@@ -3109,22 +3125,6 @@
    ],
    "platforms": [],
    "spoiler": true
-  },
-  {
-   "date": "2026-11-20",
-   "precision": "day",
-   "verb": "movie",
-   "label": "公開",
-   "work": "魔法使いの夜",
-   "title": "映画『魔法使いの夜』予備知識なしで楽しむポイントは？ 奈須きのこの“原点にして最新作”の魅力(リアルサウンド)",
-   "link": "https://news.yahoo.co.jp/articles/599d369bc1f0191b74c0d3deb1dd955660b5e7d3?source=rss",
-   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
-   "sources": 7,
-   "categories": [
-    "movie"
-   ],
-   "platforms": [],
-   "spoiler": false
   },
   {
    "date": "2026-11-20",
@@ -4477,6 +4477,22 @@
    "link": "https://www.inside-games.jp/article/2026/11/18/191174.html",
    "source": "インサイド",
    "sources": 2,
+   "categories": [
+    "goods"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-11-25",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "機動戦士ガンダム",
+   "title": "『機動戦士ガンダム』シャア専用ザク＆ハロがだるま・鏡餅ぬいぐるみに！宝島社「賀正コレクション」全3種が11月25日より順次発売",
+   "link": "https://nijimen.kusuguru.co.jp/topics/664431",
+   "source": "にじめん",
+   "sources": 1,
    "categories": [
     "goods"
    ],
@@ -9652,23 +9668,6 @@
    "spoiler": false
   },
   {
-   "date": "2027-07",
-   "precision": "month",
-   "verb": "release",
-   "label": "発売",
-   "work": "楽園追放 心のレゾナンス",
-   "title": "アニメ映画「楽園追放 心のレゾナンス」より「ガブリエル」がHyper Bodyで可動フィギュア化！(HOBBY Watch)",
-   "link": "https://news.yahoo.co.jp/articles/ec93e06d5a4d779d489234d6ebc078e7f0566b48?source=rss",
-   "source": "HOBBY Watch（Yahoo!ニュース エンタメ）",
-   "sources": 2,
-   "categories": [
-    "movie",
-    "goods"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2027-08",
    "precision": "month",
    "verb": "release",
@@ -9711,8 +9710,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 901,
-   "accepted": 895
+   "archived": 899,
+   "accepted": 893
   },
   {
    "id": "natalie-comic",
@@ -9722,8 +9721,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 900,
-   "accepted": 898
+   "archived": 898,
+   "accepted": 896
   },
   {
    "id": "lisani",
@@ -9766,8 +9765,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1524,
-   "accepted": 600
+   "archived": 1526,
+   "accepted": 602
   },
   {
    "id": "gnews-anime",
@@ -9777,8 +9776,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5363,
-   "accepted": 5075
+   "archived": 5369,
+   "accepted": 5079
   },
   {
    "id": "gnews-tvanime",
@@ -9788,8 +9787,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1144,
-   "accepted": 1073
+   "archived": 1140,
+   "accepted": 1069
   },
   {
    "id": "gnews-movie",
@@ -9799,8 +9798,8 @@
    "ok": true,
    "error": null,
    "fetched": 98,
-   "archived": 882,
-   "accepted": 800
+   "archived": 859,
+   "accepted": 777
   },
   {
    "id": "gnews-seiyu",
@@ -9810,8 +9809,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2359,
-   "accepted": 2098
+   "archived": 2358,
+   "accepted": 2097
   },
   {
    "id": "natalie-eiga",
@@ -9821,8 +9820,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1036,
-   "accepted": 162
+   "archived": 1034,
+   "accepted": 160
   },
   {
    "id": "inside-games",
@@ -9832,7 +9831,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1720,
+   "archived": 1719,
    "accepted": 861
   },
   {
@@ -9843,8 +9842,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1172,
-   "accepted": 104
+   "archived": 1169,
+   "accepted": 103
   },
   {
    "id": "denfaminico",
@@ -9854,7 +9853,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1196,
+   "archived": 1195,
    "accepted": 289
   },
   {
@@ -9865,7 +9864,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1216,
+   "archived": 1214,
    "accepted": 89
   },
   {
@@ -9888,7 +9887,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29495,
-   "accepted": 3412
+   "accepted": 3403
   },
   {
    "id": "prtimes",
@@ -9898,7 +9897,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28813,
+   "archived": 28798,
    "accepted": 507
   },
   {
@@ -9909,8 +9908,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 710,
-   "accepted": 710
+   "archived": 709,
+   "accepted": 709
   },
   {
    "id": "mal",
@@ -9936,6 +9935,363 @@
   }
  ],
  "items": [
+  {
+   "title": "劇場アニメ『魔法使いの夜』、原作ゲームのED曲「星が瞬くこんな夜に」の映画版が彩る新CMが公開。遊園地を背に青子・有珠・草十郎の3人が並ぶ第3弾キービジュも",
+   "summary": "遊園地を舞台にド迫力の映像をたっぷり使用。青子、有珠、草十郎が巨大な城や観覧車を背に並ぶ第3弾キービジュアルや、サントラのCMも公開",
+   "link": "https://news.denfaminicogamer.jp/news/261121p",
+   "pubDate": "2026-11-21T12:09:54.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/bd998c225e60cda2cf269f5fe13dbc74-724x1024.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "visual",
+    "movie",
+    "music",
+    "game",
+    "stage"
+   ],
+   "works": [
+    "魔法使いの夜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261121p"
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ『Pumpkin Scissors』全24話がYouTube「フル☆アニメTV」で無料配信中！12月25日まで、原作最新25巻の発売記念",
+   "summary": "“戦災”からの復興に挑む部隊の物語 舞台は、敵対するフロスト共和国との長い戦争が停戦を迎えて3年が経った帝国。戦いは止まったものの、飢餓や疫病、野盗と化した兵士といった“戦災”に、国民は苦しみ続けていました。 事態を重く見た軍上層部が設立し…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/664471",
+   "pubDate": "2026-11-21T12:09:49.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/cce98767648c42c8a4090bd23bb30110.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "stage",
+    "business"
+   ],
+   "works": [
+    "Pumpkin Scissors"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/664471"
+    }
+   ]
+  },
+  {
+   "title": "【イベントレポート】「魔法使いの夜」を肉だらけのコースに例える戸松遥、小林裕介「デザートも肉だった」(コミックナタリー)",
+   "summary": "劇場アニメーション「魔法使いの夜」の公開記念舞台挨拶が本日11月21日に東京・TOHOシネマズ日比谷で行われ、蒼崎青子役の戸松遥、静希草十郎役の小林裕介が登壇した。【動画】『魔法使いの夜』最終予告／主",
+   "link": "https://news.yahoo.co.jp/articles/7fa264dd91cf5906255c850d750e211f295e9403?source=rss",
+   "pubDate": "2026-11-21T12:09:10.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "コミックナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "visual",
+    "movie",
+    "event",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/7fa264dd91cf5906255c850d750e211f295e9403?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "劇場アニメ『魔法使いの夜』第3弾キービジュアルと原作ED曲「星が瞬くこんな夜に」が彩るCM公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMQ01VLWttQnNoeWltSnhHUkh6VEFfN1ZzR1plTV9OMWhYSWEwSXdYR0dEQ2U2SU9ETlo5ay1LeURRUWlrREhEUGlhaGU1Q1l4VmZjd1A2OWc?oc=5",
+   "pubDate": "2026-11-21T12:09:00.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "電ファミニコゲーマー",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "魔法使いの夜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMQ01VLWttQnNoeWltSnhHUkh6VEFfN1ZzR1plTV9OMWhYSWEwSXdYR0dEQ2U2SU9ETlo5ay1LeURRUWlrREhEUGlhaGU1Q1l4VmZjd1A2OWc?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "家ではかわいかったのに…外出先の鏡で見た自分の姿が別人すぎる現象に「一体何が違うんだろう」【日常に潜むハプニング漫画3選】(WEBザテレビジョン)",
+   "summary": "コミックの映像化や、ドラマのコミカライズなどが多い今、エンタメ好きとしてチェックしておきたいホットなマンガ情報をお届けする「ザテレビジョンマンガ部」。【漫画】『家では可愛くみえても外だと別人に見える現",
+   "link": "https://news.yahoo.co.jp/articles/6d60ef036b0e805e463efc54d2d7529e045e3e5e?source=rss",
+   "pubDate": "2026-11-21T12:05:00.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6d60ef036b0e805e463efc54d2d7529e045e3e5e?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "公開初日にIMAX上映で映像乱れが発生、劇場アニメ『魔法使いの夜』即日復旧で招待券対応へ(オタク総研)",
+   "summary": "11月20日（金）より公開中の劇場アニメーション『魔法使いの夜』について、本作のIMAX上映において一部劇場で本編映像の乱れが発生していたことを発表した。【関連】製作側のアナウンス・109シネマズの発",
+   "link": "https://news.yahoo.co.jp/articles/eebfcde96ed2d562407e017db175c939b9a7d990?source=rss",
+   "pubDate": "2026-11-21T12:04:00.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "オタク総研（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 9,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "魔法使いの夜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オタク総研（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/eebfcde96ed2d562407e017db175c939b9a7d990?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "オタク総研（Yahoo!ニュース）",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aUEZkNlZOazB3WVNqWG0zbnZnT0VWLW9rOUZScm5BcUdJeTlvVHB2U2h5MW45ck81NldkaTlGLVZUR3FvMTdtYmUwb05wVkRuQ0N5MVJCeVhKblMyV2pPWHlLUDJDRWhIcmxDbGJaS3lGS2lmM1g4WU5xd1VpT1U?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「キル・ビル」完全版、オーレン・イシイの壮絶な過去を描くProduction I.G制作アニメパート含む場面写真公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XMDJtU0NKOWdWSGpCUlBKWjVrZ0FrNXVEYVBtYm55UFE5UTFyYWI5QkNObl9wbWF6aVRPUXB2UG5LQkJqWm5UTUk3aw?oc=5",
+   "pubDate": "2026-11-21T12:00:00.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "アニメハック",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメハック",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XMDJtU0NKOWdWSGpCUlBKWjVrZ0FrNXVEYVBtYm55UFE5UTFyYWI5QkNObl9wbWF6aVRPUXB2UG5LQkJqWm5UTUk3aw?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『機動戦士ガンダム』シャア専用ザク＆ハロがだるま・鏡餅ぬいぐるみに！宝島社「賀正コレクション」全3種が11月25日より順次発売",
+   "summary": "『機動戦士ガンダム』賀正コレクション 「賀正コレクション」は、「機動戦士ガンダム」シリーズのモビルスーツ「シャア専用ザク」とマスコットキャラクター「ハロ」をお正月デザインにした、日本限定展開のシリーズです。ラインナップは、シャア専用ザクのだ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/664431",
+   "pubDate": "2026-11-21T11:51:45.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/f7d1233f16274181a4afbe81473144eb.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "機動戦士ガンダム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/664431"
+    }
+   ]
+  },
+  {
+   "title": "「テニミュ1stの亡霊ゆえこれだけで泣ける」人気声優、“恩師”との初2ショット公開「あかん さすがに泣く」(All About)",
+   "summary": "俳優で声優の相葉裕樹さんは11月19日、自身のX（旧Twitter）を更新。恩師とのツーショットを公開しました。【写真】相葉裕樹、恩師と\"テニミュ\"ショット",
+   "link": "https://news.yahoo.co.jp/articles/0db21ecd1cf0aa5d27dcc4bc307711a2d904bff3?source=rss",
+   "pubDate": "2026-11-21T11:45:00.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "All About（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "All About（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0db21ecd1cf0aa5d27dcc4bc307711a2d904bff3?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "All About（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOUVpTUYwaUxKbUtxVVY0MFp1N0pzSWMxZG8wcURPU1pIQXNQMVJsZERsaDIzUnQ4aVVNaDhzbG00UnlBQnd5SkRBdThQVVg4TzdSZ3ZBUnY0WEZXNkg1eHRMM3g3dFpaR1ZGWGtEMHpYWndqZGZTSDV4QjNUT28?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "小島秀夫、『装甲騎兵ボトムズ 灰色の魔女』にカメオ出演！ 押井守は永遠の「人生の師」と絶賛",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBubElqOGlkMllPcTl1c0RxVkdXVENHWldEVnpxS3hveXJVbmIxSE43Wm5USkcwY0RwQ2c5bUlWZlozeE1ReHFXa0ZlTU9jRk5L?oc=5",
+   "pubDate": "2026-11-21T11:44:08.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "玩具人 TOY PEOPLE",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "装甲騎兵ボトムズ 灰色の魔女"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "玩具人 TOY PEOPLE",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBubElqOGlkMllPcTl1c0RxVkdXVENHWldEVnpxS3hveXJVbmIxSE43Wm5USkcwY0RwQ2c5bUlWZlozeE1ReHFXa0ZlTU9jRk5L?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『ドラクエ』『FF』40周年記念の周遊型リアル謎解きゲームが横浜で開催 両作品のトリビアを楽しめる(リアルサウンド)",
+   "summary": "スクウェア・エニックスは、横浜・みなとみらいを舞台とした周遊型リアル謎解きゲーム『ドラゴンクエスト＆ファイナルファンタジー 40th YOKOHAMA MEMORY WALK powered by C",
+   "link": "https://news.yahoo.co.jp/articles/c3328835f51cbc9d803b5fad22360b84ec17a446?source=rss",
+   "pubDate": "2026-11-21T11:42:58.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "game",
+    "stage"
+   ],
+   "works": [
+    "ドラクエ",
+    "FF"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c3328835f51cbc9d803b5fad22360b84ec17a446?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "魔法使いの夜＞「出し惜しみはなし！ めいっぱいぶん回すわよ！！」 劇場版アニメ新ビジュアル解禁 「星が瞬くこんな夜に」流れるCMも（MANTANWEB）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qYTY4YUhScDJYWTZ1aEJpaHlERUs0SEF2b1h5dEVVYXV0WmZJaEpnRm1LQi1vSXIwUXU5eFRiU015ZUFkNDg3VjJudTExSGYwQ3J2ZzluR1VHUGdQVTdOMVU3MDBwWlJpSGlCcUtxMHF3cWJVZkh2U0pVcmlpaDg?oc=5",
+   "pubDate": "2026-11-21T11:38:00.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "MANTANWEB（Yahoo!ニュース）",
+   "sourceId": "gnews-movie",
+   "syndicated": true,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "visual",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MANTANWEB（Yahoo!ニュース）",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qYTY4YUhScDJYWTZ1aEJpaHlERUs0SEF2b1h5dEVVYXV0WmZJaEpnRm1LQi1vSXIwUXU5eFRiU015ZUFkNDg3VjJudTExSGYwQ3J2ZzluR1VHUGdQVTdOMVU3MDBwWlJpSGlCcUtxMHF3cWJVZkh2U0pVcmlpaDg?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "「魔法使いの夜」第3弾キービジュアル公開 ufotable描き下ろしのサントラジャケットも(コミックナタリー)",
    "summary": "劇場アニメーション「魔法使いの夜」の第3弾キービジュアルが解禁された。公開中の「魔法使いの夜」。解禁されたキービジュアルには、巨大な城や観覧車がそびえ立つ遊園地を背景に、蒼崎青子、久遠寺有珠、静希草十",
@@ -9985,6 +10341,13 @@
      "name": "マグミクス（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/27bb0e364f8eacff3b95ad32c489411e47907254?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "マグミクス（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TaXhmSFdFVVZiWjdMRGxCN3VLSVZRS25kVU1uNWJyVElNRWZYQjBRdTYwUkgyVWZHdGdRQzZ5Q0oxd19xXzJya2lrNHZwQ1c1Tl9vajlIZ3kxamRBWW9TanFIdlZJVmdNa2tTSDdqTi1SeDhINFdkN3MwNE9YR3c?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -10384,6 +10747,33 @@
      "name": "リスアニ！",
      "sourceId": "lisani",
      "link": "https://www.lisani.jp/0000322674/"
+    }
+   ]
+  },
+  {
+   "title": "【Hulu アニメ 秋冬ランキング：2026年10～11月】異世界転生・チート系アニメ群雄割拠！秋の夜長によりどりみどり【11/21更新】",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxa1JXRDk2Q21TUHc4MWs3ZDFIZF9DVVNuZFRkTGRDWGNGTUN3RzFoQjdncFpwV1o2cjQwdllvYk15ck9BdmVUa3V4aDN3SlFKOUt1eFFhVXFYRnJlMjFj?oc=5",
+   "pubDate": "2026-11-21T10:00:45.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "千葉テレビ放送株式会社",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "ranking"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "千葉テレビ放送株式会社",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxa1JXRDk2Q21TUHc4MWs3ZDFIZF9DVVNuZFRkTGRDWGNGTUN3RzFoQjdncFpwV1o2cjQwdllvYk15ck9BdmVUa3V4aDN3SlFKOUt1eFFhVXFYRnJlMjFj?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -12257,15 +12647,15 @@
    ]
   },
   {
-   "title": "台湾アニメ「パイパイ 台風がやってくる」が日本賞グランプリ 来月にはEテレで放送（中央社フォーカス台湾）",
+   "title": "台湾アニメ「パイパイ 台風がやってくる」が日本賞グランプリ 来月にはEテレで放送",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzQS0zLUduYXp4VmtoTHM1bDRsVmtpQlpOZnlaNFZ4cWRkOURGTG9yOGVaN0NLenVGSGRkVWhqWF9peURuN21FLTk0WkFsQTVFN2pDdWlISzViOUVBNkprU3FVa29CUF9zM1E0aWo4UVQ4aGJXazZYc1NFamROU2s?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsNHpjczB1MWlOZDl2Ykd3Nmt0THgtVWJBVTJPc0VZV3pJZ2RiQnotaXFlTGNBZHJIUk9ncTBVTllQRnRLcnlhOUFlbmRMaDRuTmotWGwxTG5pS3ZOTEE?oc=5",
    "pubDate": "2026-11-21T04:29:29.000Z",
    "firstSeen": "2026-11-21T06:18:51.233Z",
    "image": null,
-   "source": "中央社フォーカス台湾（Yahoo!ニュース）",
+   "source": "フォーカス台湾",
    "sourceId": "gnews-anime",
-   "syndicated": true,
+   "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
    "score": 4,
@@ -12275,6 +12665,12 @@
    ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "フォーカス台湾",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsNHpjczB1MWlOZDl2Ykd3Nmt0THgtVWJBVTJPc0VZV3pJZ2RiQnotaXFlTGNBZHJIUk9ncTBVTllQRnRLcnlhOUFlbmRMaDRuTmotWGwxTG5pS3ZOTEE?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
     {
      "name": "中央社フォーカス台湾（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
@@ -20473,6 +20869,13 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoQi1RMHF4YWNPcXUycWR6SWJqVGFsT1k5bm1QSWRkd0xUbHRiclp2eXc1bHBtb085X0J6UnJ2Szh1NDBUUC1ZNkR1cTFWaUx5ZGhEeGllTHFIT21SQjM0cnZmdGp3SjVxMF94ZWRGU0xWVjFSMy15dE1RUQ?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QZ2VUR0h0RGJzM3MzdWllanY2YWxjQk00TUhKVDBUZW5xdzZOT05aSEsyTHI0ZW5KNjZZUDBzNzRqV3pwZEpaS3A1TXRvTU9ZaE9UekFLTmcwZHQwZ2xRSWpWeGlyM1BxMEIwVkJzelltQQ?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
     }
    ]
   },
@@ -21382,6 +21785,36 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TaUUxVE42MEVmOTdHRG5nbUoyTm1neGQ5Ulp6TlRRSEVCcUpoY3luSWRvX3BQaThzd1h6WWRpekx1cEFZWWpkWkM0aWpmMUNEVndQbw?oc=5",
      "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "映画『魔法使いの夜』、ufotableが「もう鬼滅の新作作るのやめちゃおっかなー」って業界を脅してねじ込んだような館数で上映されるも今のところかなり賛否両論の模様",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VjdlR0dlUTBobXhSNTZuODJOZU1MS2hYRlpwV0Njc20xYVNfZzFyWkdRNktuUnlpS1FtTXJ4elZ2SVNJelE?oc=5",
+   "pubDate": "2026-11-20T09:01:45.000Z",
+   "firstSeen": "2026-11-21T12:17:55.072Z",
+   "image": null,
+   "source": "Togetter",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "movie",
+    "business"
+   ],
+   "works": [
+    "魔法使いの夜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Togetter",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VjdlR0dlUTBobXhSNTZuODJOZU1MS2hYRlpwV0Njc20xYVNfZzFyWkdRNktuUnlpS1FtTXJ4elZ2SVNJelE?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
   },
@@ -22793,6 +23226,12 @@
      "name": "時事ドットコム",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6MTQ5VjRLekMxRzY2WDFIVUlrNFM4X0NfbzNxR3REaTJ1T05sVlk5MUVaM3ZHYXpIdXU0ZGdZZU9IYUxnX0xxODZrSmEwT3EwdDZ3eVNmb2t6WGpkRW4xYnZoal9mR3BmWFJj?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
+     "name": "福島民報デジタル",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QdVFMNGlEaE1vek9mYkEwSGtZLUpHV053VUpoeTVFLVduSGlTSHhHSUJrcVQyRUZybVBidWFpckZnNTF1WURleksxWnhTWGRMNDV5eTZSRjczRHM0TklRS1dCSFdidFU?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
     },
     {
@@ -30104,15 +30543,15 @@
   },
   {
    "title": "TVアニメ『傷だらけ聖女より報復をこめて Season2』オリジナルサウンドトラック 配信リリース決定！",
-   "summary": "株式会社イマジカインフォス（本社：東京都千代田区）は、大日本印刷株式会社（DNP）との共同事業「Animation ID」作品として2026年10月より放送中のTVアニメ『傷だらけ聖女より報復をこめて Season2』のオリジナ...",
-   "link": "https://prtimes.jp/main/html/rd/p/000001833.000007785.html",
+   "summary": "2026年10月より放送中のTVアニメ『傷だらけ聖女より報復をこめて Season2』のオリジナルサウン...",
+   "link": "https://www.lisani.jp/0000322687/",
    "pubDate": "2026-11-20T01:00:00.000Z",
    "firstSeen": "2026-11-20T02:18:00.163Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611211800-yh-009.png",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
    "syndicated": false,
-   "kind": "press",
+   "kind": "specialist",
    "lang": "ja",
    "score": 16,
    "categories": [
@@ -30123,6 +30562,11 @@
    ],
    "spoiler": false,
    "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000322687/"
+    },
     {
      "name": "PR TIMES",
      "sourceId": "prtimes",
@@ -192062,418 +192506,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CWDkyeUYtQmFzSXdNTGFlOEVIQlVTaExmaTE2V1FOaElSUnAtZGZLaTIyTUVFdG95YlRldmRzcWMxYVhYaFNqSXlwTTR1eGh6RVVNcmp0T0VuUkF4Y01XM0hWQV9hQnEzTUsweUNR?oc=5",
      "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『まるくじ』にて、TVアニメ「TRIGUN STARGAZE」のキャラグッズが当たるくじが販売開始！",
-   "summary": "株式会社エディア（本社:東京都千代田区、代表取締役社長:賀島 義成）の子会社、株式会社ティームエンタテインメント（本社:東京都千代田区、代表取締役社長:賀島 義成 以下:ティームエンタテインメント）は、202...",
-   "link": "https://prtimes.jp/main/html/rd/p/000001223.000021592.html",
-   "pubDate": "2026-11-06T05:15:21.000Z",
-   "firstSeen": "2026-11-06T06:18:02.628Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "まるくじ",
-    "TRIGUN STARGAZE"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000001223.000021592.html"
-    }
-   ]
-  },
-  {
-   "title": "『まるくじ』にて、TVアニメ「魔法騎士レイアース」の新規描き下ろしキャラグッズが当たるくじが販売開始！",
-   "summary": "株式会社エディア（本社:東京都千代田区、代表取締役社長:賀島 義成）の子会社、株式会社ティームエンタテインメント（本社:東京都千代田区、代表取締役社長:賀島 義成 以下:ティームエンタテインメント）は、202...",
-   "link": "https://prtimes.jp/main/html/rd/p/000001222.000021592.html",
-   "pubDate": "2026-11-06T05:15:21.000Z",
-   "firstSeen": "2026-11-06T06:18:02.628Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "まるくじ",
-    "魔法騎士レイアース"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000001222.000021592.html"
-    },
-    {
-     "name": "時事ドットコム",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDYnQ4QVNPRDRNU0J6UFhkX1ZwMDBUek5Qa1lrRDJRQ25Hc0NrWjJSZnFDQ2VNQ0djR0dVUWR0bE1kVXVZazd4dlA2ZTRkM1ctM1AxSU90NWlxeUpqYTY2NmtXN1BWcDdUamh3?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "新プライズフィギュアブランド「STRAVENTO」を始動、第一弾としてTVアニメ『カグラバチ』のキャラクターフィギュアを初公開",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000329.000085936.html",
-   "pubDate": "2026-11-06T05:15:21.000Z",
-   "firstSeen": "2026-11-06T06:18:02.628Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "new",
-    "goods"
-   ],
-   "works": [
-    "カグラバチ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000329.000085936.html"
-    }
-   ]
-  },
-  {
-   "title": "【劇場アニメ『ベルサイユのばら』×アニヴェルセルカフェ】 コラボレーションフェア 「ベルサイユのばら Sweets Collection」",
-   "summary": "記念日プロデュースを手がけるアニヴェルセル株式会社は、「アニヴェルセルカフェ みなとみらい横浜」にて、劇場アニメ『ベルサイユのばら』とのコラボレーションフェア「ベルサイユのばら Sweets Collection」...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000438.000007963.html",
-   "pubDate": "2026-11-06T05:15:21.000Z",
-   "firstSeen": "2026-11-10T01:17:56.017Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "ベルサイユのばら"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000438.000007963.html"
-    }
-   ]
-  },
-  {
-   "title": "アダム・ドライバー、『スター・ウォーズ』カイロ・レン役再演は「もうない」 ファンに衝撃(cinemacafe.net)",
-   "summary": "『スター・ウォーズ』続三部作の『スター・ウォーズ／フォースの覚醒』『スター・ウォーズ／最後のジェダイ』『スター・ウォーズ／スカイウォーカーの夜明け』でカイロ・レン／ベン・ソロを演じたアダム・ドライバー",
-   "link": "https://news.yahoo.co.jp/articles/99de296b906564901b5d27c1578eb528b6944c56?source=rss",
-   "pubDate": "2026-11-06T05:15:03.000Z",
-   "firstSeen": "2026-11-06T05:17:54.479Z",
-   "image": null,
-   "source": "cinemacafe.net（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [
-    "スター・ウォーズ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "cinemacafe.net（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/99de296b906564901b5d27c1578eb528b6944c56?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "元テレ朝アナ→トヨタに転職の富川悠太さん トップレベルの進学校出身！「先輩」の有名俳優と２ショ「すごい」(スポーツ報知)",
-   "summary": "元テレビ朝日アナウンサーでトヨタに転職した富川悠太さんが、高校の先輩である有名俳優を明かした。【写真】長男・富川立夢が大学入学式「１００％モテますね」 ６日までに自身のインスタグラムを更新し、「【六平",
-   "link": "https://news.yahoo.co.jp/articles/a20957fd8bbfbbb260ca4a7a8e91867e19a0c252?source=rss",
-   "pubDate": "2026-11-06T05:15:03.000Z",
-   "firstSeen": "2026-11-06T05:17:54.479Z",
-   "image": null,
-   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/a20957fd8bbfbbb260ca4a7a8e91867e19a0c252?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "新連載「悪女のレシピ～略奪愛を添えて～」いい子をやめて、少女は奪う側の悪女になる（試し読みあり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96U1p4MDI2bmpUbi15TlNHQi1icnRpSmZCSUdPYUNNSjBFMUhHbjZJY2tEcWF5MHJONE9zVGFQSGd3MDJSU0xYWVhuNko?oc=5",
-   "pubDate": "2026-11-06T05:14:00.000Z",
-   "firstSeen": "2026-11-06T05:17:54.479Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "media"
-   ],
-   "works": [
-    "悪女のレシピ~略奪愛を添えて~"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96U1p4MDI2bmpUbi15TlNHQi1icnRpSmZCSUdPYUNNSjBFMUhHbjZJY2tEcWF5MHJONE9zVGFQSGd3MDJSU0xYWVhuNko?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/42c1e9cc722b39a501aae512aa37d3beeae4dad4?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Manga 'Hagure Idol: Jigoku-hen' Gets TV Anime in Winter 2027",
-   "summary": "WWWave Corporation's Deregula animation label opened an official website for a television anime adaptation of Rui Takatou's Hagure Idol: Jig…",
-   "link": "https://myanimelist.net/news/74909290?_location=rss",
-   "pubDate": "2026-11-06T05:11:20.000Z",
-   "firstSeen": "2026-11-06T06:18:02.628Z",
-   "image": null,
-   "source": "MyAnimeList News",
-   "sourceId": "mal",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "new",
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "MyAnimeList News",
-     "sourceId": "mal",
-     "link": "https://myanimelist.net/news/74909290?_location=rss"
-    }
-   ]
-  },
-  {
-   "title": "アニメ映画「楽園追放 心のレゾナンス」より「ガブリエル」がHyper Bodyで可動フィギュア化！(HOBBY Watch)",
-   "summary": "グッドスマイルアーツ上海は、アクションフィギュア「Hyper Body ガブリエル」を2027年7月に発売する。価格は15,800円。【この記事に関する別の画像を見る】 本製品は、アニメ映画「楽園追放",
-   "link": "https://news.yahoo.co.jp/articles/ec93e06d5a4d779d489234d6ebc078e7f0566b48?source=rss",
-   "pubDate": "2026-11-06T05:09:00.000Z",
-   "firstSeen": "2026-11-06T05:17:54.479Z",
-   "image": null,
-   "source": "HOBBY Watch（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "movie",
-    "goods"
-   ],
-   "works": [
-    "楽園追放 心のレゾナンス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "HOBBY Watch（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ec93e06d5a4d779d489234d6ebc078e7f0566b48?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "HOBBY Watch（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMTJHaFU0TzVLaUdxdjdzWXRobmpsOVJ4QWEyMGM0YTJoT2EtdUJ3Mkh1MHliNTFad3FiRUFlM3dZbjIzZXJxZFBxMlF1UDRnUkJVT3hqUVZidjFqcTMxeEZfVVhsU3lQbDg5QnJYNkxFY0JNeURTeFRpTy1Vb0k?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "劇場版 薬屋のひとりごと ＞悠木碧“猫猫”が大塚剛央“壬氏”に映画館の魅力をプレゼン TOHO-ONEコラボ動画が公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Dd2VKSGMwZmp6VEtQa1JDTnJzRm01a2JmdG5CTC1VS3pQNlh2bTdyemtERWc0dUJibGthWmRVY1Z4ZTZpUVA3RmF4Wmk5Zw?oc=5",
-   "pubDate": "2026-11-06T05:07:15.000Z",
-   "firstSeen": "2026-11-06T05:17:54.479Z",
-   "image": null,
-   "source": "WEBザテレビジョン",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie",
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "WEBザテレビジョン",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Dd2VKSGMwZmp6VEtQa1JDTnJzRm01a2JmdG5CTC1VS3pQNlh2bTdyemtERWc0dUJibGthWmRVY1Z4ZTZpUVA3RmF4Wmk5Zw?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    },
-    {
-     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/00062eeab783ff8c660d65b483e1228b796a474a?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「ABEMA」、次世代アニメクリエイターとともにオリジナルアニメ作品の創出を目指す「Project PRISMation」国内外の応募作の中から、第1回公募 採択3作品が決定",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oSGR6RlNPWmRFMWFEUVFQcl9paEdHbzdLZ09DTkJ6UEVuLVB3OVIxSFBFdG00bVgwQ1VOcHZKUWE4ZWlnUGJqTjVScHU0MG5rOEw2azZXODZ3RmpTSTRqOEJOV04waVh5SHc?oc=5",
-   "pubDate": "2026-11-06T05:00:01.000Z",
-   "firstSeen": "2026-11-06T05:17:54.479Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oSGR6RlNPWmRFMWFEUVFQcl9paEdHbzdLZ09DTkJ6UEVuLVB3OVIxSFBFdG00bVgwQ1VOcHZKUWE4ZWlnUGJqTjVScHU0MG5rOEw2azZXODZ3RmpTSTRqOEJOV04waVh5SHc?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "『僕のヒーローアカデミア』×JAM HOME MADE、缶バッジがつけられる雄英校章のリング＆ネックレスが登場！黒デク・アーマード・オールマイトのフェイスリングも11月7日予約開始",
-   "summary": "『僕のヒーローアカデミア』×JAM HOME MADE コラボコレクション 今回のコレクションは全4商品。雄英高校の校章をモチーフにした「スクール バッジ リング」「スクール バッジ ネックレス」と、2種類の「フェイスリング」で構成されてい…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/650171",
-   "pubDate": "2026-11-06T04:59:02.000Z",
-   "firstSeen": "2026-11-06T05:17:54.479Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/950d6c76c2444aae95f5cb3a9dcf0f3b.jpg",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "僕のヒーローアカデミア"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/650171"
-    }
-   ]
-  },
-  {
-   "title": "ノクターン〜このグロテスクな夜に〜 感想 アヤメはなぜシオンをヴァンパイアにしたのか？【アニメ映画 GROTESQQQUE-グロテスク-】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZaTBPRzhRdk9vVFV0WjRDR29TbExUTDd3dzN6anFDa2RpRFNybHc1RkpkZVdkbWhPRlZoNlNkRnZiWFFYOTFvYmU4UkNYaE15emtNRG95LVkzZw?oc=5",
-   "pubDate": "2026-11-06T04:55:33.000Z",
-   "firstSeen": "2026-11-06T05:17:54.479Z",
-   "image": null,
-   "source": "人鳥日記",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "人鳥日記",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZaTBPRzhRdk9vVFV0WjRDR29TbExUTDd3dzN6anFDa2RpRFNybHc1RkpkZVdkbWhPRlZoNlNkRnZiWFFYOTFvYmU4UkNYaE15emtNRG95LVkzZw?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "ヒロド歩美アナ、大物芸人と衝撃デビュー！「おこがましいのはわかってます」結成の経緯「すごい」「ちがった一面」(スポーツ報知)",
-   "summary": "元朝日放送でフリーのヒロド歩美アナウンサーが、大物お笑い芸人と“バンドデビュー”することを明かした。【写真】ドラムのステッキを持つヒロドアナ！決まってます！ ６日までに自身のインスタグラムを更新し「浜",
-   "link": "https://news.yahoo.co.jp/articles/5eb7b3107f2cf2a7f8316698af9bb045a70a7085?source=rss",
-   "pubDate": "2026-11-06T04:55:03.000Z",
-   "firstSeen": "2026-11-06T05:17:54.479Z",
-   "image": null,
-   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/5eb7b3107f2cf2a7f8316698af9bb045a70a7085?source=rss",
      "syndicated": true
     }
    ]
