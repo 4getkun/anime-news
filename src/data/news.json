@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-22T13:18:43.233Z",
+ "generatedAt": "2026-11-22T14:20:46.427Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5400,
+  "exact": 5401,
   "syndicated": 497,
-  "similar": 720,
-  "syndicatedTotal": 6310,
-  "syndicatedLeft": 1187
+  "similar": 719,
+  "syndicatedTotal": 6306,
+  "syndicatedLeft": 1186
  },
  "calendar": [
   {
@@ -9576,9 +9576,9 @@
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 870,
    "accepted": 868
   },
@@ -9623,17 +9623,17 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1551,
-   "accepted": 603
+   "archived": 1549,
+   "accepted": 601
   },
   {
    "id": "gnews-anime",
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 5338,
    "accepted": 5038
   },
@@ -9642,9 +9642,9 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1127,
    "accepted": 1054
   },
@@ -9667,17 +9667,17 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2345,
-   "accepted": 2088
+   "archived": 2347,
+   "accepted": 2090
   },
   {
    "id": "natalie-eiga",
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 100,
+   "ok": false,
+   "error": "Status code 503",
+   "fetched": 0,
    "archived": 1025,
    "accepted": 152
   },
@@ -9689,7 +9689,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1687,
+   "archived": 1686,
    "accepted": 849
   },
   {
@@ -9700,7 +9700,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1124,
+   "archived": 1122,
    "accepted": 99
   },
   {
@@ -9711,8 +9711,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1142,
-   "accepted": 263
+   "archived": 1140,
+   "accepted": 262
   },
   {
    "id": "gamespark",
@@ -9722,7 +9722,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1172,
+   "archived": 1169,
    "accepted": 88
   },
   {
@@ -9744,8 +9744,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29495,
-   "accepted": 3372
+   "archived": 29480,
+   "accepted": 3367
   },
   {
    "id": "prtimes",
@@ -9755,8 +9755,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27779,
-   "accepted": 478
+   "archived": 27723,
+   "accepted": 477
   },
   {
    "id": "ann",
@@ -9766,8 +9766,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 700,
-   "accepted": 700
+   "archived": 697,
+   "accepted": 697
   },
   {
    "id": "mal",
@@ -10401,6 +10401,13 @@
      "name": "au Webポータル",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44Qk5zTmlEZ0NTaFBFNHNIZ2lZRHhUYUxva0IxOXVjWl9XeEpWYzZERzZXR0Q4OG1BQS1UdDl0RHNEWWRrbXZQSG0xWG91ZElJUld4VGtkY2pqMUlzeXBQanVLekVCdmZ3UWZTNFF3?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "モデルプレス（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuSEV6dUpGQUtKWWNjSkFyRkZDWjFTRzVidFB4VHJ6UXlQN2VTYnlJMjluWWxBZXN1Y01KekZqMzhhcEh6Q24wVWNaVUR0WmY3Y0NlZks4T1RHNW9Xb2cyQTYzQUZVcHo2dVVvMzNYR0hjcE41bEFIVWZvRWZPY1k?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -16017,36 +16024,6 @@
    ]
   },
   {
-   "title": "同級生男子からの告白メールに「反射的に『気持ち悪い』と…」デレマス声優・青木志貴（36）が「僕は自分のことを男だと思ってる」と気づいた瞬間（文春オンライン）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckxuRmRHenQ1TEd1OGx0WENGQk9GWlhtdGNmSXNEUTdmaWhCaWJ2QzhmZXE4bkpBSG1hVVdrMFl4MG9uc1JpTjFSMDBfUENTenlZdFNraXoyV0VZaHNMZEFyVjg2d01vZ2tYTUkyZnJwRk04eU9aSlV3YkJtSGJ6YmxlcFM1V000?oc=5",
-   "pubDate": "2026-11-22T01:12:16.000Z",
-   "firstSeen": "2026-11-22T08:17:55.673Z",
-   "image": null,
-   "source": "文春オンライン（Yahoo!ニュース）",
-   "sourceId": "gnews-seiyu",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "気持ち悪い"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "文春オンライン（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckxuRmRHenQ1TEd1OGx0WENGQk9GWlhtdGNmSXNEUTdmaWhCaWJ2QzhmZXE4bkpBSG1hVVdrMFl4MG9uc1JpTjFSMDBfUENTenlZdFNraXoyV0VZaHNMZEFyVjg2d01vZ2tYTUkyZnJwRk04eU9aSlV3YkJtSGJ6YmxlcFM1V000?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
    "title": "ao 2027年1月6日(水)放送開始の TVアニメ「魔術を極めて旅に出た転生エルフ、 持て余した寿命で生ける伝説となる」 オープニングテーマに新曲「ブレス」が決定！",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16c29qOUtUaUlqMWdzeFFtM2E4V05mbU8zZVhac3BsSzBOaENJZ3RLRVRNaUxmUkhXa0ZISzR6OFROYXdNRGlYVGJqNHVJZkxtbnc3TEozWm9JZVdQSkR1OE9vbDU?oc=5",
@@ -16280,6 +16257,42 @@
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Y25SQm8zVFE5R3JqQmpmMUhwSkNaSWE3ZmpjVE9jMjZ3ZzA4OVlwTDVDcmd0Z0xyMThVaUNGclFSTDRQdzhSVXhVOA?oc=5",
      "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "同級生男子からの告白メールに「反射的に『気持ち悪い』と…」デレマス声優・青木志貴（36）が「僕は自分のことを男だと思ってる」と気づいた瞬間",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rWWJmWkJyeVlnUG1lLTBOODZZRm1vNWxlcnhsRHZ4ZU9FNm5lY0xBYV9lRGl4R1pmd3BUM3d1ekF3N1Y4NWV4MDJhOA?oc=5",
+   "pubDate": "2026-11-22T01:00:00.000Z",
+   "firstSeen": "2026-11-22T08:17:55.673Z",
+   "image": null,
+   "source": "文春オンライン",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "気持ち悪い"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "文春オンライン",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rWWJmWkJyeVlnUG1lLTBOODZZRm1vNWxlcnhsRHZ4ZU9FNm5lY0xBYV9lRGl4R1pmd3BUM3d1ekF3N1Y4NWV4MDJhOA?oc=5",
+     "via": "Googleニュース「声優」"
+    },
+    {
+     "name": "文春オンライン（Yahoo!ニュース）",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckxuRmRHenQ1TEd1OGx0WENGQk9GWlhtdGNmSXNEUTdmaWhCaWJ2QzhmZXE4bkpBSG1hVVdrMFl4MG9uc1JpTjFSMDBfUENTenlZdFNraXoyV0VZaHNMZEFyVjg2d01vZ2tYTUkyZnJwRk04eU9aSlV3YkJtSGJ6YmxlcFM1V000?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
     }
    ]
   },
