@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-22T14:20:46.427Z",
+ "generatedAt": "2026-11-22T15:18:34.545Z",
  "count": 6000,
  "dedupe": {
   "exact": 5401,
-  "syndicated": 497,
+  "syndicated": 496,
   "similar": 719,
-  "syndicatedTotal": 6306,
-  "syndicatedLeft": 1186
+  "syndicatedTotal": 6303,
+  "syndicatedLeft": 1182
  },
  "calendar": [
   {
@@ -3908,7 +3908,7 @@
    "title": "『ドラクエ』の魔王が、日清ラ王とコラボ！「日清マ王 大魔王味噌」11月23日発売―「はぐれメタルブランケット付きセット」や「ゾーマのフタ止めアクスタ」も",
    "link": "https://www.inside-games.jp/article/2026/11/16/191045.html",
    "source": "インサイド",
-   "sources": 4,
+   "sources": 6,
    "categories": [
     "goods"
    ],
@@ -9568,17 +9568,17 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 877,
-   "accepted": 872
+   "archived": 876,
+   "accepted": 871
   },
   {
    "id": "natalie-comic",
    "name": "コミックナタリー",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
    "archived": 870,
    "accepted": 868
   },
@@ -9631,10 +9631,10 @@
    "name": "Googleニュース「アニメ」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 5338,
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 5339,
    "accepted": 5038
   },
   {
@@ -9642,11 +9642,11 @@
    "name": "Googleニュース「TVアニメ 放送」",
    "kind": "aggregator",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 1127,
-   "accepted": 1054
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 1128,
+   "accepted": 1055
   },
   {
    "id": "gnews-movie",
@@ -9656,8 +9656,8 @@
    "ok": true,
    "error": null,
    "fetched": 88,
-   "archived": 825,
-   "accepted": 745
+   "archived": 824,
+   "accepted": 744
   },
   {
    "id": "gnews-seiyu",
@@ -9667,19 +9667,19 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2347,
-   "accepted": 2090
+   "archived": 2348,
+   "accepted": 2091
   },
   {
    "id": "natalie-eiga",
    "name": "映画ナタリー",
    "kind": "general",
    "lang": "ja",
-   "ok": false,
-   "error": "Status code 503",
-   "fetched": 0,
-   "archived": 1025,
-   "accepted": 152
+   "ok": true,
+   "error": null,
+   "fetched": 100,
+   "archived": 1026,
+   "accepted": 153
   },
   {
    "id": "inside-games",
@@ -9700,8 +9700,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1122,
-   "accepted": 99
+   "archived": 1120,
+   "accepted": 98
   },
   {
    "id": "denfaminico",
@@ -9712,7 +9712,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1140,
-   "accepted": 262
+   "accepted": 263
   },
   {
    "id": "gamespark",
@@ -9722,7 +9722,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1169,
+   "archived": 1166,
    "accepted": 88
   },
   {
@@ -9744,8 +9744,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29480,
-   "accepted": 3367
+   "archived": 29473,
+   "accepted": 3366
   },
   {
    "id": "prtimes",
@@ -9755,8 +9755,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27723,
-   "accepted": 477
+   "archived": 27685,
+   "accepted": 475
   },
   {
    "id": "ann",
@@ -9766,8 +9766,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 697,
-   "accepted": 697
+   "archived": 696,
+   "accepted": 696
   },
   {
    "id": "mal",
@@ -9777,8 +9777,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 96,
-   "accepted": 96
+   "archived": 98,
+   "accepted": 98
   },
   {
    "id": "cbr-anime",
@@ -9788,11 +9788,266 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 220,
-   "accepted": 220
+   "archived": 221,
+   "accepted": 221
   }
  ],
  "items": [
+  {
+   "title": "'Yozakura-san Chi no Daisakusen' Creator Launches New Manga",
+   "summary": "The 52nd issue of Weekly Shounen Jump magazine began serializing a new manga by Hitsuji Gondaira, titled Ginza Uradoori Kouban no Hizuki-san…",
+   "link": "https://myanimelist.net/news/74968770?_location=rss",
+   "pubDate": "2026-11-22T15:11:56.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "MyAnimeList News",
+   "sourceId": "mal",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [
+    "Yozakura-san Chi no Daisakusen"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MyAnimeList News",
+     "sourceId": "mal",
+     "link": "https://myanimelist.net/news/74968770?_location=rss"
+    }
+   ]
+  },
+  {
+   "title": "『ドラクエ』の魔王が、日清ラ王とコラボ！11月23日から全国で発売開始",
+   "summary": "",
+   "link": "https://www.inside-games.jp/article/2026/11/23/191412.html",
+   "pubDate": "2026-11-22T15:10:03.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "インサイド",
+   "sourceId": "inside-games",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ドラクエ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "インサイド",
+     "sourceId": "inside-games",
+     "link": "https://www.inside-games.jp/article/2026/11/23/191412.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/084acdcf0873b86d077824f3d8c1eb2c2694cef3?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Manga 'Sakamoto Days' Concludes Serialization",
+   "summary": "Yuuto Suzuki's Sakamoto Days manga has concluded with chapter 284 in the 52nd issue of Weekly Shounen Jump magazine on Monday, after 6-year…",
+   "link": "https://myanimelist.net/news/74968755?_location=rss",
+   "pubDate": "2026-11-22T15:08:35.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "MyAnimeList News",
+   "sourceId": "mal",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "media"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MyAnimeList News",
+     "sourceId": "mal",
+     "link": "https://myanimelist.net/news/74968755?_location=rss"
+    }
+   ]
+  },
+  {
+   "title": "櫻井翔、阿部亮平、川島如恵留が「anan」表紙に登場 お互いのいいところ語り合う座談会も(音楽ナタリー)",
+   "summary": "櫻井翔、阿部亮平（Snow Man）、川島如恵留（Travis Japan）が、12月2日に発売される雑誌「anan」2522号の表紙を飾る。【動画】櫻井翔、阿部亮平、川島如恵留がゆる〜く語り合う「く",
+   "link": "https://news.yahoo.co.jp/articles/b774cd72e819d1e3dcee2fc4d4d322f763fecd17?source=rss",
+   "pubDate": "2026-11-22T15:00:18.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/b774cd72e819d1e3dcee2fc4d4d322f763fecd17?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Hello Kitty Meets Animal Crossing in Cozy Nintendo Switch 2 Release Available Now",
+   "summary": "Nippon Columbia unveils a brand-new life sim which blends the addicting town management mechanics of AC with the ultra kawaii vibes of Hello…",
+   "link": "https://www.cbr.com/sumikkogurashi-nintendo-switch-2-animal-crossing/",
+   "pubDate": "2026-11-22T15:00:12.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/06/animal-crossing-new-horizons-characters.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/sumikkogurashi-nintendo-switch-2-animal-crossing/"
+    }
+   ]
+  },
+  {
+   "title": "アニメ『死亡遊戯で飯を食う。』続編制作決定、「この世界で、生きてみようと思った」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93WDF5WjhjaS01TWw0dmZDbk4zaDlhV2U1QWVKRTVOZ2YybWl3dVoxZzJfVFd2T0trU3lhcmFwVWd3dkhzenlsLWtqTzlPcHo1V3lleW5kSjFEZElWYjBjNw?oc=5",
+   "pubDate": "2026-11-22T14:59:00.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "GIGAZINE",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "new"
+   ],
+   "works": [
+    "死亡遊戯で飯を食う。"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "GIGAZINE",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93WDF5WjhjaS01TWw0dmZDbk4zaDlhV2U1QWVKRTVOZ2YybWl3dVoxZzJfVFd2T0trU3lhcmFwVWd3dkhzenlsLWtqTzlPcHo1V3lleW5kSjFEZElWYjBjNw?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『ドラゴンボール超 ビルス』フリーザ復活！ 第7話あらすじ＆場面カット公開(オリコン)",
+   "summary": "テレビアニメ『ドラゴンボール超』を再構築した『ドラゴンボール超 ビルス』の第7話が22日、フジテレビ系で放送された。放送後に第7話あらすじ＆場面カットが公開された。【画像】フリーザ復活！公開された『ド",
+   "link": "https://news.yahoo.co.jp/articles/0544d4e8ad6c6b99911ff7a7ab57354a673aa557?source=rss",
+   "pubDate": "2026-11-22T14:50:07.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "ドラゴンボール超 ビルス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0544d4e8ad6c6b99911ff7a7ab57354a673aa557?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ジョジョ』「石仮面」の“壁掛け時計”が11月下旬よりプライズで登場。電源を入れると目が光るギミックを搭載、骨針ではなく3本の針が時刻を教えてくれる",
+   "summary": "石仮面が持つ迫力ある造形を再現しており、骨針ではなく3本の針が時刻を教えてくれる。11月下旬よりプライズで登場",
+   "link": "https://news.denfaminicogamer.jp/news/261122h",
+   "pubDate": "2026-11-22T14:34:15.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/d065567f-eda8-47f8-9a1e-219676359ce4_p_01_ja.jpg",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "ジョジョ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/261122h"
+    }
+   ]
+  },
+  {
+   "title": "『テレビアニメ「鬼滅の刃」シリーズ全編再放送』キービジュアル",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZWxQV0p6eTBBN0Rqa2hHRjAzQktkTmRQWXZtQVhrakhZV2VaZFpKWTFULW9JeFdXejBrMllpd01hTnd4V3hrWk9SUklHcjYwY1VnNGZTdFFRalFadmFmekp6TjVIdw?oc=5",
+   "pubDate": "2026-11-22T14:06:19.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "Excite エキサイト",
+   "sourceId": "gnews-tvanime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 24,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "「鬼滅の刃」シリーズ全編再放送",
+    "鬼滅の刃"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZWxQV0p6eTBBN0Rqa2hHRjAzQktkTmRQWXZtQVhrakhZV2VaZFpKWTFULW9JeFdXejBrMllpd01hTnd4V3hrWk9SUklHcjYwY1VnNGZTdFFRalFadmFmekp6TjVIdw?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
   {
    "title": "『緋弾のアリア』新作ショートアニメ『緋弾のアリア Corto』が2027年4月より配信決定！本作で初登場となるリサ（CV：岩井映美里 ）、メヌエット（CV：根本京里）、ネモ（CV：春野杏 ）が描かれたキービジュアルも公開",
    "summary": "本作で初登場となるリサ（CV：岩井映美里 ）、メヌエット（CV：根本京里）、ネモ（CV：春野 杏 ）の姿が描かれたキービジュアルも公開",
@@ -9979,6 +10234,30 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/ae195445e39ce068fd845bc28b6f1dcb8e874ada?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「VIVANT」ドラムと別班員役3名がトーク、“和田さん”平山祐介は「007」を参考に役作り",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtUTc0R0xkR0JwOWlUQXU4dTQyaDdVNWZZLVdOTUFYcHRhc2czVWRaa01lamdZaFlDZWUxRzBhdnd4X0pHT2R1SzVkWQ?oc=5",
+   "pubDate": "2026-11-22T12:51:00.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtUTc0R0xkR0JwOWlUQXU4dTQyaDdVNWZZLVdOTUFYcHRhc2czVWRaa01lamdZaFlDZWUxRzBhdnd4X0pHT2R1SzVkWQ?oc=5"
     }
    ]
   },
@@ -10279,6 +10558,31 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-11-22/nahato-the-one-later-on-light-novels-get-tv-anime-in-2027/.244089"
+    }
+   ]
+  },
+  {
+   "title": "【公式アニメ】聖闘士星矢 第77話「巨星の涙！ヒルダのために死す」第78話「牙むく！北の狼フェンリル」",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5jWElsUlNXSGdYQVhXa0xSNFBJYzFuekI3aXk3aTFOOTN5b1FRc1otRjZYQjJNcUFueFlN?oc=5",
+   "pubDate": "2026-11-22T12:00:08.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "Howl.Link",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": true,
+   "sources": [
+    {
+     "name": "Howl.Link",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5jWElsUlNXSGdYQVhXa0xSNFBJYzFuekI3aXk3aTFOOTN5b1FRc1otRjZYQjJNcUFueFlN?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -14316,10 +14620,10 @@
    "pubDate": "2026-11-22T04:01:00.000Z",
    "firstSeen": "2026-11-22T04:18:06.983Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
    "score": 15,
    "categories": [
@@ -14328,14 +14632,15 @@
     "cast",
     "music"
    ],
-   "works": [],
+   "works": [
+    "結界師の一輪華"
+   ],
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3SmM2dEhTb1BjS0kzMG5zTHhUX1cxdWZadi1lWTlfRC0xdmhQaXlmcUl2cjNlRjQxY3M4WmtUcXFRZkg0Q1N6aGFmbEY?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3SmM2dEhTb1BjS0kzMG5zTHhUX1cxdWZadi1lWTlfRC0xdmhQaXlmcUl2cjNlRjQxY3M4WmtUcXFRZkg0Q1N6aGFmbEY?oc=5"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -17743,6 +18048,31 @@
      "name": "Aniplex",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zRkJSR3dPdHhxRVpaX2d0N01CZFd1ZkNmelpKOEVrcXVSOVRJZldTV2MzbGtNWENsNlRaZUxYa25Ld1AxZ3l1eHBMbk5CLWxQc3hwYVNtRWVma0E?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "警察庁 採用活動でポップなアニメ動画",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZWxuYng4azdCWDQ2X2pCRzI4cVZFWjZuVTNyYTdUdTRjVjZMeDdxYkh4bWxicDhfWm9TN2tBNTJrcnlBT3F5M0hFeHdHX29JMzRoRS0yS2JMQWc?oc=5",
+   "pubDate": "2026-11-21T16:00:17.000Z",
+   "firstSeen": "2026-11-22T15:17:56.895Z",
+   "image": null,
+   "source": "ABEMA",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZWxuYng4azdCWDQ2X2pCRzI4cVZFWjZuVTNyYTdUdTRjVjZMeDdxYkh4bWxicDhfWm9TN2tBNTJrcnlBT3F5M0hFeHdHX29JMzRoRS0yS2JMQWc?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
@@ -42436,32 +42766,6 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000958.000011454.html"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『暗殺教室』の新商品がシンクイノベーション株式会社より発売されます！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000000727.000071079.html",
-   "pubDate": "2026-11-19T15:10:02.000Z",
-   "firstSeen": "2026-11-19T15:17:57.321Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "暗殺教室"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000727.000071079.html"
     }
    ]
   },
@@ -89916,7 +90220,7 @@
    "syndicated": false,
    "kind": "general",
    "lang": "ja",
-   "score": 6,
+   "score": 2,
    "categories": [],
    "works": [
     "暗殺教室"
@@ -192147,368 +192451,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/a5217909ab8408ea19ead73aa358a38642ebafdf?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「花ざかりの君たちへ」初の舞台化、河村花・長谷川慎・藤原樹ら新ドラマキャストが総出演(ステージナタリー)",
-   "summary": "中条比紗也のマンガ「花ざかりの君たちへ」の連載開始30周年を記念したプロジェクトが始動。日本テレビでの新たなテレビドラマ化に加え、そのテレビドラマのキャストが総出演する初の舞台化が決定した。河村花と、",
-   "link": "https://news.yahoo.co.jp/articles/65a657d50e682e347826768c51a0c06a436a7625?source=rss",
-   "pubDate": "2026-11-06T22:00:16.000Z",
-   "firstSeen": "2026-11-06T22:17:53.334Z",
-   "image": null,
-   "source": "ステージナタリー（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "new",
-    "cast",
-    "media",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "ステージナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/65a657d50e682e347826768c51a0c06a436a7625?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「花ざかりの君たちへ」原作連載30周年迎え日テレでドラマ放送 メインキャスト全員同キャラクターのまま舞台化も(モデルプレス)",
-   "summary": "【モデルプレス＝2026/11/07】シリーズ累計1,700万部を突破し、世代を超えて愛され続けてきた中条比紗也氏によるヒット漫画『花ざかりの君たちへ』。連載開始から30周年を記念して、日本テレビでの",
-   "link": "https://news.yahoo.co.jp/articles/8204146276ec8b535043cbf3e5c562b084a21feb?source=rss",
-   "pubDate": "2026-11-06T22:00:03.000Z",
-   "firstSeen": "2026-11-06T22:17:53.334Z",
-   "image": null,
-   "source": "モデルプレス（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "cast",
-    "media",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "モデルプレス（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/8204146276ec8b535043cbf3e5c562b084a21feb?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「花ざかりの君たちへ」ドラマ放送＆舞台化が決定！メインキャスト１２人のソロビジュアル解禁(スポーツ報知)",
-   "summary": "シリーズ累計１，７００万部を突破し、世代を超えて愛され続けてきた中条比紗也による大ヒット漫画「花ざかりの君たちへ」。連載開始から３０周年を記念して、日本テレビ系でのドラマ放送（土曜・午後２時３０分、１",
-   "link": "https://news.yahoo.co.jp/articles/e8d7e6e6affa71c1db6cb5fadea65ec40389b587?source=rss",
-   "pubDate": "2026-11-06T22:00:03.000Z",
-   "firstSeen": "2026-11-06T22:17:53.334Z",
-   "image": null,
-   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "visual",
-    "cast",
-    "media",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/e8d7e6e6affa71c1db6cb5fadea65ec40389b587?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「ドラえもん」特別エピソード「ナマステ！のび太、インドに留学」本日放送",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RRnRPWWRQYmZOQ0Q3cngyVUJNdzU1QkRSZzBxZDNKb1N4YkdpREZraW5ONDJRVXlmMVlkdXlxYnVGcUJxN3hmTWVrUWU?oc=5",
-   "pubDate": "2026-11-06T22:00:00.000Z",
-   "firstSeen": "2026-11-06T22:17:53.334Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 7,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "ドラえもん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RRnRPWWRQYmZOQ0Q3cngyVUJNdzU1QkRSZzBxZDNKb1N4YkdpREZraW5ONDJRVXlmMVlkdXlxYnVGcUJxN3hmTWVrUWU?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/73ca540526d708990792da1ebf57400c13dfb277?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「花ざかりの君たちへ」新たにドラマ化！初舞台化も 河村花、長谷川慎、藤原樹出演で（コメントあり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VOVktUGhLZ0t2RFhQeXB2UDBXaFdzT29SV3hKMkhKNFVIZmI0Wkh4QnBGTEwyZGc1bDV6UjF6UUF5amE5bjRPMnBSUTY?oc=5",
-   "pubDate": "2026-11-06T22:00:00.000Z",
-   "firstSeen": "2026-11-06T22:17:53.334Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "broadcast",
-    "cast",
-    "media",
-    "stage"
-   ],
-   "works": [
-    "花ざかりの君たちへ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VOVktUGhLZ0t2RFhQeXB2UDBXaFdzT29SV3hKMkhKNFVIZmI0Wkh4QnBGTEwyZGc1bDV6UjF6UUF5amE5bjRPMnBSUTY?oc=5"
-    },
-    {
-     "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/d55774af0a4d8c601385ac76cd8df4637a14e722?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "のび太がインドで“はじめての留学” アニメ『ドラえもん』世界のドラえもんシリーズ第4弾が本日放送！",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwY2hNTE9lN1BBekNTeUd4QXhmZzBKNnJhMnh1QlZjSnpDVEduQTk2SXlZenRUbHJPOGYxM2gtRzVDRVVQN3RfZkNNNFU?oc=5",
-   "pubDate": "2026-11-06T22:00:00.000Z",
-   "firstSeen": "2026-11-06T22:17:53.334Z",
-   "image": null,
-   "source": "クランクイン！",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "ドラえもん"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwY2hNTE9lN1BBekNTeUd4QXhmZzBKNnJhMnh1QlZjSnpDVEduQTk2SXlZenRUbHJPOGYxM2gtRzVDRVVQN3RfZkNNNFU?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/ac67d82c02e15a5b012cd0942362345e958edb84?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "Infoseek",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QVDJHdHZJTjBCdHBxRnRycms1OXZjY0hXNTZLazBxLVllQnktTy1mWEpJVEs0YzhCdTBqYkRtRG1ZNW9MaHdSb1hpdmNtSlNVeFZLbF9NMUJMWFQ1SVJNZFRZSQ?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    },
-    {
-     "name": "クランクイン！（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVm4xNDhfOXBjQWQ3NDFSbmg5QjlZWlZlMTRTeEREeGZuMHh1M1JCbVVieEw4azJTQVRGTXRtMnlHRFdiTU5ydUtuTFJWWV9fTUhlS3dTZy0yWkw0cUd2b2hKSkhTSHNOQWxHZDdNR2lDaVVJV2NBeW4teElrR2c?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "『花ざかりの君たちへ』連載30周年でドラマ＆舞台化決定！ 河村花・長谷川慎・藤原樹が新たな青春を彩る(クランクイン！)",
-   "summary": "中条比紗也による大ヒット漫画『花ざかりの君たちへ』の連載開始30周年を記念し、日本テレビでのドラマ化と、ドラマのメインキャストが総出演する舞台化が決定。あわせて、メインキャストとそれぞれのソロビジュア",
-   "link": "https://news.yahoo.co.jp/articles/a822d9e9e32be90114c0b2bc28ebebc0400fecd8?source=rss",
-   "pubDate": "2026-11-06T22:00:00.000Z",
-   "firstSeen": "2026-11-06T22:17:53.334Z",
-   "image": null,
-   "source": "クランクイン！（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "cast",
-    "media",
-    "stage"
-   ],
-   "works": [
-    "花ざかりの君たちへ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/a822d9e9e32be90114c0b2bc28ebebc0400fecd8?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「花ざかりの君たちへ」30周年で新ドラマ＆初舞台化！ 河村花×長谷川慎×藤原樹がトリプル主演(TVガイドWeb)",
-   "summary": "日本テレビでは、12月5日からドラマ「花ざかりの君たちへ」（土曜午後2：30、全8話）を放送することが決定した。中条比紗也氏による原作漫画の連載30周年を記念したプロジェクトで、河村花、THE RAM",
-   "link": "https://news.yahoo.co.jp/articles/7054ee267882829f679adf63967a8e0bf0c328ab?source=rss",
-   "pubDate": "2026-11-06T22:00:00.000Z",
-   "firstSeen": "2026-11-06T22:17:53.334Z",
-   "image": null,
-   "source": "TVガイドWeb（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "media",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "TVガイドWeb（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/7054ee267882829f679adf63967a8e0bf0c328ab?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "【入場特典リスト 11月最新版】「GROTESQQQUE グロテスク」に注目 映画「ちいかわ」新特典は？(映画.com)",
-   "summary": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者特典、入場者プレゼント、来場者特典）を紹介する。 今週末は、本日公開の「GRO",
-   "link": "https://news.yahoo.co.jp/articles/23d6b3a3e9f1add94a4df7b7c0f985de7b9c1657?source=rss",
-   "pubDate": "2026-11-06T22:00:00.000Z",
-   "firstSeen": "2026-11-06T22:17:53.334Z",
-   "image": null,
-   "source": "映画.com（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "movie",
-    "stage"
-   ],
-   "works": [
-    "ちいかわ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画.com（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/23d6b3a3e9f1add94a4df7b7c0f985de7b9c1657?source=rss",
-     "syndicated": true
-    },
-    {
-     "name": "映画.com（Yahoo!ニュース）",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rUjk5ZVdDZEtBM0ZZSTNfVWoyZnNjQzBCX0FVdG5YTW9sb0lGcGhhcWtYY2FhMHVOX3RNS0JwalVJR0pZUHFpNFhvUUUyM1hTWGs3SDNaLXBOVXBsMDhBSmp5VnoycUl3b3JVTWlDblVXS3o3ZzBQSndIMnBhaDg?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "North American Anime, Manga Releases, November 1-7",
-   "summary": "KPop Demon Hunters animated film; Black Jack, Full Metal Panic! Family manga ship",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-06/north-american-anime-manga-releases-november-1-7/.243459",
-   "pubDate": "2026-11-06T22:00:00.000Z",
-   "firstSeen": "2026-11-06T23:12:06.483Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 12,
-   "categories": [
-    "movie",
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-06/north-american-anime-manga-releases-november-1-7/.243459"
-    }
-   ]
-  },
-  {
-   "title": "原作連載30周年記念！ドラマ連動舞台『花ざかりの君たちへ』2027年2月・3月上演決定！河村花・長谷川慎・藤原樹らドラマメインキャストが同役で総出演！",
-   "summary": "シリーズ累計1,700万部を突破し、世代を超えて愛され続けてきた中条比紗也による大ヒット少女漫画『花ざかりの君たちへ』（白泉社・花とゆめコミックス）。連載開始30周年を記念した大型プロジェクトとして、日本...",
-   "link": "https://prtimes.jp/main/html/rd/p/000003581.000012949.html",
-   "pubDate": "2026-11-06T22:00:00.000Z",
-   "firstSeen": "2026-11-07T03:17:57.766Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "media",
-    "stage"
-   ],
-   "works": [
-    "花ざかりの君たちへ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000003581.000012949.html"
     }
    ]
   }
