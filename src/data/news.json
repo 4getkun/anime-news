@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-22T20:18:40.542Z",
+ "generatedAt": "2026-11-22T21:18:42.613Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5401,
+  "exact": 5384,
   "syndicated": 496,
-  "similar": 714,
-  "syndicatedTotal": 6309,
-  "syndicatedLeft": 1174
+  "similar": 718,
+  "syndicatedTotal": 6307,
+  "syndicatedLeft": 1173
  },
  "calendar": [
   {
@@ -4756,24 +4756,6 @@
    "spoiler": false
   },
   {
-   "date": "2026-11-27",
-   "precision": "day",
-   "verb": "movie",
-   "label": "公開",
-   "work": null,
-   "title": "津田健次郎が実写映画で初主演 短編「息子の鑑」11月27日から下北沢トリウッドで公開(映画.com)",
-   "link": "https://news.yahoo.co.jp/articles/7738c1f459963d25758f4b7be2a1e5c7091ca0c7?source=rss",
-   "source": "映画.com（Yahoo!ニュース エンタメ）",
-   "sources": 1,
-   "categories": [
-    "cast",
-    "movie",
-    "stage"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
    "date": "2026-11-28",
    "precision": "day",
    "verb": "broadcast",
@@ -8779,6 +8761,22 @@
   {
    "date": "2027-04",
    "precision": "month",
+   "verb": "stream",
+   "label": "配信",
+   "work": "緋弾のアリアCorto",
+   "title": "【緋弾のアリア】新作ショートアニメ『緋弾のアリア Corto』2027年4月配信！",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jSTFRQURSVEVuNEdfZzgwTUhJcU00Q0hUMFhiUGppU2tvazJFb29XanoyLVctOHFFZFBTaWVsc2tTNUlHV1M5cS1kYW9QNExGZDZrbDJRb0J0dw?oc=5",
+   "source": "電撃オンライン",
+   "sources": 9,
+   "categories": [
+    "broadcast"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-04",
+   "precision": "month",
    "verb": "broadcast",
    "label": "放送",
    "work": "みなみけ",
@@ -8790,22 +8788,6 @@
     "new",
     "visual",
     "cast"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-04",
-   "precision": "month",
-   "verb": "stream",
-   "label": "配信",
-   "work": "緋弾のアリアCorto",
-   "title": "【緋弾のアリア】新作ショートアニメ『緋弾のアリア Corto』2027年4月配信！",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jSTFRQURSVEVuNEdfZzgwTUhJcU00Q0hUMFhiUGppU2tvazJFb29XanoyLVctOHFFZFBTaWVsc2tTNUlHV1M5cS1kYW9QNExGZDZrbDJRb0J0dw?oc=5",
-   "source": "電撃オンライン",
-   "sources": 8,
-   "categories": [
-    "broadcast"
    ],
    "platforms": [],
    "spoiler": false
@@ -9579,8 +9561,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 877,
-   "accepted": 875
+   "archived": 878,
+   "accepted": 876
   },
   {
    "id": "lisani",
@@ -9634,8 +9616,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5318,
-   "accepted": 5020
+   "archived": 5298,
+   "accepted": 5001
   },
   {
    "id": "gnews-tvanime",
@@ -9655,9 +9637,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 84,
-   "archived": 825,
-   "accepted": 745
+   "fetched": 100,
+   "archived": 827,
+   "accepted": 747
   },
   {
    "id": "gnews-seiyu",
@@ -9666,8 +9648,8 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 96,
-   "archived": 2362,
+   "fetched": 100,
+   "archived": 2363,
    "accepted": 2104
   },
   {
@@ -9690,7 +9672,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1684,
-   "accepted": 848
+   "accepted": 847
   },
   {
    "id": "4gamer",
@@ -9722,7 +9704,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1161,
+   "archived": 1160,
    "accepted": 87
   },
   {
@@ -9744,8 +9726,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29458,
-   "accepted": 3367
+   "archived": 29449,
+   "accepted": 3365
   },
   {
    "id": "prtimes",
@@ -9755,7 +9737,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 27604,
+   "archived": 27601,
    "accepted": 475
   },
   {
@@ -9766,8 +9748,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 700,
-   "accepted": 700
+   "archived": 701,
+   "accepted": 701
   },
   {
    "id": "mal",
@@ -9793,6 +9775,113 @@
   }
  ],
  "items": [
+  {
+   "title": "Live-Action The Remarried Empress Series Drives Surge in Original Webtoon, Web Novel Readership",
+   "summary": "Global views of original webtoon increased approximately 35-fold during 2 weeks following show's November 3 premiere",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-22/live-action-the-remarried-empress-series-drives-surge-in-original-webtoon-web-novel-readership/.244078",
+   "pubDate": "2026-11-22T21:15:00.000Z",
+   "firstSeen": "2026-11-22T21:17:57.098Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "broadcast",
+    "stage"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-22/live-action-the-remarried-empress-series-drives-surge-in-original-webtoon-web-novel-readership/.244078"
+    }
+   ]
+  },
+  {
+   "title": "勝ち筋はあった？ 『ゴジラ-0.0』歴代キングギドラに見える「共通の敗因」とは(マグミクス)",
+   "summary": "昭和から続く「ゴジラ」シリーズにおいて、屈指の強敵とされるのが「キングギドラ」です。【画像】さすがベテラン（笑） こちらメチャ低姿勢と話題になったキングギドラさんです※以下『ゴジラ-0.0』のネタバレ",
+   "link": "https://news.yahoo.co.jp/articles/5d034c6e2319300c54adc0ada234e226ccea16d6?source=rss",
+   "pubDate": "2026-11-22T21:10:00.000Z",
+   "firstSeen": "2026-11-22T21:17:57.098Z",
+   "image": null,
+   "source": "マグミクス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ゴジラ-0.0"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "マグミクス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/5d034c6e2319300c54adc0ada234e226ccea16d6?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Lord of the Rings Director Breaks Silence on What Went Wrong With $21 Million Box Office Flop",
+   "summary": "The director of The Lord of the Rings: The War of the Rohirrim opens up about why the high fantasy anime feature didn't dominate the box off…",
+   "link": "https://www.cbr.com/lord-of-the-rings-war-of-the-rohirrim-director-box-office-flop/",
+   "pubDate": "2026-11-22T21:00:12.000Z",
+   "firstSeen": "2026-11-22T21:17:57.098Z",
+   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/the-lord-of-the-rings-movie-logo.jpg",
+   "source": "CBR Anime News",
+   "sourceId": "cbr-anime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "CBR Anime News",
+     "sourceId": "cbr-anime",
+     "link": "https://www.cbr.com/lord-of-the-rings-war-of-the-rohirrim-director-box-office-flop/"
+    }
+   ]
+  },
+  {
+   "title": "I Became the Tyrant of a Defense Game Web Novel, Webtoon Gets Mobile Game Adaptation",
+   "summary": "Game will feature exploration, territory management, defensive battles",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-22/i-became-the-tyrant-of-a-defense-game-web-novel-webtoon-gets-mobile-game-adaptation/.244077",
+   "pubDate": "2026-11-22T20:15:00.000Z",
+   "firstSeen": "2026-11-22T21:17:57.098Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "game"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-22/i-became-the-tyrant-of-a-defense-game-web-novel-webtoon-gets-mobile-game-adaptation/.244077"
+    }
+   ]
+  },
   {
    "title": "Martial Arts Manhwa Yeolhyeol Gangho to End Next Year After 33 Years",
    "summary": "Manhwa is scheduled to conclude in February 2027 with its 97th collected volume",
@@ -12772,6 +12861,12 @@
      "via": "Googleニュース「アニメ」"
     },
     {
+     "name": "佐賀新聞",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yZ194NXlhLURXbFdzeTB6MGV5SUpCaExFV0ExekEwbVdjTkpyN2kzWndVblgzSTlIYlZRUzJjRnFGd3l5bUdUNmpINVVDX3Y1MjhRU1V3?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
      "name": "オリコン（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tNmpuQ3ZZMkNoNVBKaV9tSUdMVXBQd1Q0YmVDb0lUUUwyWmh3ZVVhdkJ4eVZMRDNFWC1CTjRYWDlkcGZ2cGZIaUZNWHRnZGJHN2t0akJKaXh4OHBTWW1VNkkybkJFVVpWVk5Zek1XUlc5VHBGd2VvODRmQjRjNXM?oc=5",
@@ -12864,6 +12959,34 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-11-22/new-aria-the-scarlet-ammo-short-anime-unveils-title-new-and-returning-cast-april-2027-debut/.244075"
+    }
+   ]
+  },
+  {
+   "title": "「夜桜さんちの大作戦」第2期第2クールのキーパーソン・旦役は三木眞一郎（コメントあり）",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2S0VwcUJuc2E5clZ4TDZrX0RrNExoZFZFOHRES2UxYm9ON0c4eUZzY0tGU0RJM25xN1lzbmF0NHhNSGNyZU5MTEdJSWc?oc=5",
+   "pubDate": "2026-11-22T08:30:00.000Z",
+   "firstSeen": "2026-11-22T21:17:57.098Z",
+   "image": null,
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "new"
+   ],
+   "works": [
+    "夜桜さんちの大作戦"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2S0VwcUJuc2E5clZ4TDZrX0RrNExoZFZFOHRES2UxYm9ON0c4eUZzY0tGU0RJM25xN1lzbmF0NHhNSGNyZU5MTEdJSWc?oc=5"
     }
    ]
   },
@@ -33027,49 +33150,6 @@
    ]
   },
   {
-   "title": "11月21日は“イーブイの日”！劇場版短編アニメ「ピカチュウとイーブイ☆フレンズ」が同日13時よりABEMAで無料放送",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15YmQ1aHJ0X1lCNFNoX0VneTRDRHRNWVJtM0NTUXlGU1piY0FNdlQzMDhVcVpNTDdtenFPY1NuT0R0cTc2Vy1UTGFSSXR4Z2wwRnNfVg?oc=5",
-   "pubDate": "2026-11-20T08:45:00.000Z",
-   "firstSeen": "2026-11-20T09:17:57.531Z",
-   "image": null,
-   "source": "Gamer",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "broadcast",
-    "movie"
-   ],
-   "works": [
-    "ピカチュウとイーブイ☆フレンズ",
-    "ポケモン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Gamer",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15YmQ1aHJ0X1lCNFNoX0VneTRDRHRNWVJtM0NTUXlGU1piY0FNdlQzMDhVcVpNTDdtenFPY1NuT0R0cTc2Vy1UTGFSSXR4Z2wwRnNfVg?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    },
-    {
-     "name": "Excite エキサイト",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wNTBVaFVBZXZ3QmtJbG4wNURjaE1zQkE4UGFLbk1mcnRnRFF4QmtGRmNabmdzal9YdS1tN09TLWZiRzJZTmx0R1ptTW9UdWgxdU1RTG1RZmlTM0R2T2ZyeGExNUtWUGxLaGJ1Yw?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    },
-    {
-     "name": "ABEMA TIMES",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UjBzcnUzVnpxRWtFVXdja0w2aDZIVk5TUUtWY1g2QXFYSjhEMElnQTlfeVJWUGw1ZWg0RHljekFrNjVwaXk3THAwSGV2by13Yk45ZA?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    }
-   ]
-  },
-  {
    "title": "アニメ『新 美味しんぼ』2027年1月4日放送スタート！小野大輔・関智一ら追加キャスト4名＆コメント到着",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xVEdhZTBVRUJ3Z0pBUU5BUE9oZVV3NE4yX1JKNjJzVzdENWtNZlVTSEVMU3BRd25DVkhxNll2WVdYRWhzUktEbkY3TXB0andfT2wyeQ?oc=5",
@@ -36376,6 +36456,55 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/cd5966958d2f531f146233124713cc7b1cba76db?source=rss",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "11月21日は“イーブイの日”！劇場版短編アニメ「ピカチュウとイーブイ☆フレンズ」が同日13時よりABEMAで無料放送",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15YmQ1aHJ0X1lCNFNoX0VneTRDRHRNWVJtM0NTUXlGU1piY0FNdlQzMDhVcVpNTDdtenFPY1NuT0R0cTc2Vy1UTGFSSXR4Z2wwRnNfVg?oc=5",
+   "pubDate": "2026-11-20T04:40:01.000Z",
+   "firstSeen": "2026-11-20T09:17:57.531Z",
+   "image": null,
+   "source": "Gamer",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "broadcast",
+    "movie"
+   ],
+   "works": [
+    "ピカチュウとイーブイ☆フレンズ",
+    "ポケモン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Gamer",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15YmQ1aHJ0X1lCNFNoX0VneTRDRHRNWVJtM0NTUXlGU1piY0FNdlQzMDhVcVpNTDdtenFPY1NuT0R0cTc2Vy1UTGFSSXR4Z2wwRnNfVg?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wNTBVaFVBZXZ3QmtJbG4wNURjaE1zQkE4UGFLbk1mcnRnRFF4QmtGRmNabmdzal9YdS1tN09TLWZiRzJZTmx0R1ptTW9UdWgxdU1RTG1RZmlTM0R2T2ZyeGExNUtWUGxLaGJ1Yw?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
+     "name": "ABEMA TIMES",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UjBzcnUzVnpxRWtFVXdja0w2aDZIVk5TUUtWY1g2QXFYSjhEMElnQTlfeVJWUGw1ZWg0RHljekFrNjVwaXk3THAwSGV2by13Yk45ZA?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
+     "name": "PR TIMES",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhYXJMOXh2LVVZTnNLTTVhSjljcnEzSkwydFZhVkdTSXFqaUNWemYwekdvR216ZlNtTF9Lb0hiUzJUUDdTQTJVS010UFBGTGktdXN0TFNHaEI5bkNJMlcyM29PVDFqaGhUcnc?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
   },
@@ -79249,9 +79378,9 @@
     },
     {
      "name": "超！アニメディア",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSSjZQTG5DUmx0OUk3WjNzMDgyeWVBYm5qZE9GMHBBNEhWVnpRVmZLQ0YyNld0LUFyZDFnNEw0NzA2ZUVJdmNsWi1oTTNYNjI0X050TEtsZnJ4N1F5TzNJOGV6bw?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
   },
@@ -91171,9 +91300,9 @@
     },
     {
      "name": "Yahoo!ニュース",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VbS12M3FnX1ZPcGsxZVV1bXRnMFV5Tm0wZ0t4OGhaTV9ILWM0RDVuM3RVOHRTMl9TVm9LZlc4WVBGdExkSlg2ZmdKemtwYXluaWplMVRObXNIY3AyX001V3RoRHhzVUxTa0NYRE5mS1lXeVExRU9lajNZUjBJY1E?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「劇場版 アニメ」",
      "syndicated": true
     }
    ]
@@ -192365,144 +192494,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/8d886aff11eddc543038af5a63067d79a00c8ab9?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "津田健次郎が実写映画で初主演 短編「息子の鑑」11月27日から下北沢トリウッドで公開(映画.com)",
-   "summary": "俳優としても活躍する声優の津田健次郎が、実写映画で初めて主演を務める短編「息子の鑑」が、11月27日から東京のミニシアター・下北沢トリウッドを皮切りに順次公開されることが分かった。あわせて、ポスターと",
-   "link": "https://news.yahoo.co.jp/articles/7738c1f459963d25758f4b7be2a1e5c7091ca0c7?source=rss",
-   "pubDate": "2026-11-06T23:00:00.000Z",
-   "firstSeen": "2026-11-06T23:12:06.483Z",
-   "image": null,
-   "source": "映画.com（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "cast",
-    "movie",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画.com（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/7738c1f459963d25758f4b7be2a1e5c7091ca0c7?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ドラマ「花ざかりの君たちへ」のメインキャスト12人 [画像ギャラリー 2/15]",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LUkVXU3dObmVRdGxPSGd0OEJpaDR3QjJ5MEpJdVhGN050WERkSERlSy1xWmw5bUZpazFpNU9SY1dUR0VhM2JzaTdWM2Y2X3V3WU1vZVlTbHFQRDJuaGcyNmJB?oc=5",
-   "pubDate": "2026-11-06T22:52:47.000Z",
-   "firstSeen": "2026-11-07T03:17:57.766Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "cast"
-   ],
-   "works": [
-    "花ざかりの君たちへ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LUkVXU3dObmVRdGxPSGd0OEJpaDR3QjJ5MEpJdVhGN050WERkSERlSy1xWmw5bUZpazFpNU9SY1dUR0VhM2JzaTdWM2Y2X3V3WU1vZVlTbHFQRDJuaGcyNmJB?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "ドラマ「花ざかりの君たちへ」キービジュアル [画像ギャラリー 1/15]",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcjJRTUlkdGFWMzY4OHdyeTZUWDBUUExVeHlLckFwazVGWDF2djR0bEswVjBBbVpWNzlKY2xOYWhyMFBuMW9SYkQtaWRFWHptMWNWUzhJclVzWVl4aWYxQ3Rn?oc=5",
-   "pubDate": "2026-11-06T22:52:46.000Z",
-   "firstSeen": "2026-11-07T21:17:55.257Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "visual"
-   ],
-   "works": [
-    "花ざかりの君たちへ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcjJRTUlkdGFWMzY4OHdyeTZUWDBUUExVeHlLckFwazVGWDF2djR0bEswVjBBbVpWNzlKY2xOYWhyMFBuMW9SYkQtaWRFWHptMWNWUzhJclVzWVl4aWYxQ3Rn?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "放送コードギリギリ…『美味しんぼ』海原雄山の伝説の激怒回（1）美味しい料理で仲直りのはずが…出汁で修羅場に(映画チャンネル)",
-   "summary": "1983年の連載開始から43年を迎えたグルメ漫画『美味しんぼ』。主人公・山岡士郎の父であり、最大の宿敵でもある海原雄山は、確かな味覚と料理の腕を持つ一方、度を越した暴言や横暴な振る舞いでも強烈な印象を",
-   "link": "https://news.yahoo.co.jp/articles/2ec60a3ac06d98146d557dd990fe391679e67466?source=rss",
-   "pubDate": "2026-11-06T22:50:12.000Z",
-   "firstSeen": "2026-11-06T23:12:06.483Z",
-   "image": null,
-   "source": "映画チャンネル（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 5,
-   "categories": [
-    "media"
-   ],
-   "works": [
-    "美味しんぼ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画チャンネル（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/2ec60a3ac06d98146d557dd990fe391679e67466?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "ドラマ「花ざかりの君たちへ」より、佐野泉役の長谷川慎 [画像ギャラリー 4/14]",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Qi1MVlg2WWZKcnRwTnJWdURETFdvekpfYlJQRVJHaGFPY1FXUFhQem1xU0JHa2l3cDFBa1hObko0SnEycVRjVG95RE1mUVpRaUhSVmtNVTdyd2F0YmJPcA?oc=5",
-   "pubDate": "2026-11-06T22:48:10.000Z",
-   "firstSeen": "2026-11-07T03:17:57.766Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Qi1MVlg2WWZKcnRwTnJWdURETFdvekpfYlJQRVJHaGFPY1FXUFhQem1xU0JHa2l3cDFBa1hObko0SnEycVRjVG95RE1mUVpRaUhSVmtNVTdyd2F0YmJPcA?oc=5"
     }
    ]
   }
