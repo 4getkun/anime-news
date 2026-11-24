@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-24T21:16:00.316Z",
+ "generatedAt": "2026-11-24T21:18:42.142Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5394,
+  "exact": 5395,
   "syndicated": 492,
   "similar": 696,
-  "syndicatedTotal": 6417,
+  "syndicatedTotal": 6418,
   "syndicatedLeft": 1199
  },
  "calendar": [
@@ -9816,7 +9816,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 98,
+   "fetched": 100,
    "archived": 851,
    "accepted": 772
   },
@@ -9905,8 +9905,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29488,
-   "accepted": 3421
+   "archived": 29490,
+   "accepted": 3422
   },
   {
    "id": "prtimes",
@@ -9916,7 +9916,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28803,
+   "archived": 28804,
    "accepted": 501
   },
   {
@@ -10038,6 +10038,12 @@
      "name": "インサイド",
      "sourceId": "inside-games",
      "link": "https://www.inside-games.jp/article/2026/11/25/191501.html"
+    },
+    {
+     "name": "インサイド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/bfbe47712f797d089d43dcadae1d40bf3dbe8bdc?source=rss",
+     "syndicated": true
     }
    ]
   },
