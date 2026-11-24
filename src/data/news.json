@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-24T14:18:52.222Z",
+ "generatedAt": "2026-11-24T15:18:25.488Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5383,
+  "exact": 5376,
   "syndicated": 492,
-  "similar": 695,
-  "syndicatedTotal": 6400,
-  "syndicatedLeft": 1198
+  "similar": 694,
+  "syndicatedTotal": 6398,
+  "syndicatedLeft": 1203
  },
  "calendar": [
   {
@@ -5484,6 +5484,22 @@
    "precision": "day",
    "verb": "release",
    "label": "発売",
+   "work": "葬送のフリーレン",
+   "title": "『葬送のフリーレン』小説の物語、短期集中連載へ(オリコン)",
+   "link": "https://news.yahoo.co.jp/articles/d2544501fa9a525f0a1f8c23a7b0dea58e97a29e?source=rss",
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [
+    "media"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-02",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
    "work": "anan",
    "title": "櫻井翔／阿部亮平（Snow Man）／川島如恵留（Travis Japan）が『anan』表紙、プーさんのような優しい世界(Billboard JAPAN)",
    "link": "https://news.yahoo.co.jp/articles/59faffaaa11f3b2f8d953cb1c3e205a772585d9a?source=rss",
@@ -5520,6 +5536,23 @@
    "source": "gamebiz【ゲームビズ】",
    "sources": 1,
    "categories": [],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-03",
+   "precision": "day",
+   "verb": "release",
+   "label": "発売",
+   "work": "ドラクエ",
+   "title": "乃木坂46一ノ瀬美空、トム・ブラウンと『ドラクエ』新CM出演 着ぐるみでモンスターに“変身”も(オリコン)",
+   "link": "https://news.yahoo.co.jp/articles/4548eed2eee1e5731d2365db6eac9ef3f225de63?source=rss",
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [
+    "cast",
+    "game"
+   ],
    "platforms": [],
    "spoiler": false
   },
@@ -9120,31 +9153,12 @@
    "title": "「みなみけ これから」14年ぶり新作アニメが2027年4月より放送！ ティザービジュアル＆PV公開",
    "link": "https://animeanime.jp/article/2026/11/09/104621.html",
    "source": "アニメ！アニメ！",
-   "sources": 6,
+   "sources": 5,
    "categories": [
     "new",
     "visual",
     "broadcast",
     "cast"
-   ],
-   "platforms": [],
-   "spoiler": false
-  },
-  {
-   "date": "2027-04",
-   "precision": "month",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": "涙雨とセレナーデ",
-   "title": "TVアニメ『涙雨とセレナーデ』2027年4月放送決定！キービジュアル・ティザーPV・メインキャスト＆スタッフ一挙解禁！",
-   "link": "https://www.lisani.jp/0000321928/",
-   "source": "リスアニ！",
-   "sources": 4,
-   "categories": [
-    "broadcast",
-    "visual",
-    "cast",
-    "media"
    ],
    "platforms": [],
    "spoiler": false
@@ -9178,6 +9192,25 @@
    "sources": 3,
    "categories": [
     "new"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-04",
+   "precision": "month",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "涙雨とセレナーデ",
+   "title": "TVアニメ『涙雨とセレナーデ』2027年4月放送決定！キービジュアル・ティザーPV・メインキャスト＆スタッフ一挙解禁！",
+   "link": "https://www.lisani.jp/0000321928/",
+   "source": "リスアニ！",
+   "sources": 3,
+   "categories": [
+    "broadcast",
+    "visual",
+    "cast",
+    "media"
    ],
    "platforms": [],
    "spoiler": false
@@ -9754,8 +9787,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 910,
-   "accepted": 908
+   "archived": 908,
+   "accepted": 906
   },
   {
    "id": "lisani",
@@ -9798,8 +9831,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1596,
-   "accepted": 608
+   "archived": 1600,
+   "accepted": 609
   },
   {
    "id": "gnews-anime",
@@ -9809,8 +9842,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5287,
-   "accepted": 5005
+   "archived": 5288,
+   "accepted": 5006
   },
   {
    "id": "gnews-tvanime",
@@ -9820,8 +9853,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1149,
-   "accepted": 1082
+   "archived": 1148,
+   "accepted": 1081
   },
   {
    "id": "gnews-movie",
@@ -9830,9 +9863,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 98,
+   "fetched": 96,
    "archived": 844,
-   "accepted": 764
+   "accepted": 765
   },
   {
    "id": "gnews-seiyu",
@@ -9842,8 +9875,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2416,
-   "accepted": 2141
+   "archived": 2404,
+   "accepted": 2130
   },
   {
    "id": "natalie-eiga",
@@ -9875,7 +9908,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1164,
+   "archived": 1165,
    "accepted": 96
   },
   {
@@ -9886,8 +9919,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1175,
-   "accepted": 268
+   "archived": 1176,
+   "accepted": 269
   },
   {
    "id": "gamespark",
@@ -9897,7 +9930,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1193,
+   "archived": 1196,
    "accepted": 85
   },
   {
@@ -9919,8 +9952,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29461,
-   "accepted": 3414
+   "archived": 29458,
+   "accepted": 3413
   },
   {
    "id": "prtimes",
@@ -9930,8 +9963,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28605,
-   "accepted": 497
+   "archived": 28669,
+   "accepted": 500
   },
   {
    "id": "ann",
@@ -9968,6 +10001,312 @@
   }
  ],
  "items": [
+  {
+   "title": "【99円】『名探偵マーニー』木々津克久氏によるマンガ『フランケン・ふらん』Kindle版全8巻を「99円」で買えるセール開催中。続編『Frantic』1～3巻も今なら“無料”で読める",
+   "summary": "美少女天才外科医・ふらんが、依頼人の悩みを“人体改造手術”で解決していくメディカルホラーマンガ。続編『Frantic』1～3巻も今なら“無料”で読める",
+   "link": "https://news.denfaminicogamer.jp/news/2611243f",
+   "pubDate": "2026-11-24T15:10:06.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/PhotoshopExtension_Image-2026-11-24T235508.826.png",
+   "source": "電ファミニコゲーマー",
+   "sourceId": "denfaminico",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "new"
+   ],
+   "works": [
+    "名探偵マーニー",
+    "フランケン・ふらん",
+    "Frantic"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電ファミニコゲーマー",
+     "sourceId": "denfaminico",
+     "link": "https://news.denfaminicogamer.jp/news/2611243f"
+    }
+   ]
+  },
+  {
+   "title": "連載開始から話題沸騰の『ファーストペンギン・レクイエム』（タダノなつ）、コミックス第1巻の予約受付を本日11月24日より開始！ 各書店限定の購入特典情報も公開",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000003414.000047877.html",
+   "pubDate": "2026-11-24T15:10:02.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "goods",
+    "media"
+   ],
+   "works": [
+    "ファーストペンギン・レクイエム"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000003414.000047877.html"
+    }
+   ]
+  },
+  {
+   "title": "【AVIOT】AVIOT ×劇場版『チェンソーマン レゼ篇』コラボワイヤレスイヤホン・関連グッズが本日11月24日（火）より予約開始",
+   "summary": "コンシューマーエレクトロニクス製品の製造・販売を行うプレシードジャパン株式会社（本社：東京都渋谷区）が運営する「AVIOT」は、完全ワイヤレスイヤホン「TE-V1R」をベースモデルとし、新規描きおろしイラスト...",
+   "link": "https://prtimes.jp/main/html/rd/p/000000308.000027368.html",
+   "pubDate": "2026-11-24T15:10:02.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "movie",
+    "goods"
+   ],
+   "works": [
+    "チェンソーマン レゼ篇"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000000308.000027368.html"
+    }
+   ]
+  },
+  {
+   "title": "『葬送のフリーレン』小説の物語、短期集中連載へ(オリコン)",
+   "summary": "漫画『葬送のフリーレン』の短期集中連載『葬送のフリーレン 別譚』が、12月2日発売の『週刊少年サンデー』にてスタートすることが発表された。『葬送のフリーレン』を別視点から描く。【画像】小さい頃のフェル",
+   "link": "https://news.yahoo.co.jp/articles/d2544501fa9a525f0a1f8c23a7b0dea58e97a29e?source=rss",
+   "pubDate": "2026-11-24T15:10:00.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 5,
+   "categories": [
+    "media"
+   ],
+   "works": [
+    "葬送のフリーレン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d2544501fa9a525f0a1f8c23a7b0dea58e97a29e?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "クランチロールがUAE国民の日祝日用のアニメ視聴リストを発表",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQck82N1diU2JXZUZUTVg3N2FhRWRjbVFLTXE0d0NxZ1B2LVZvc2diQXZQRmtobXBjbGNseDJFWE8xRlJZX28tS3ZtUzVsOEo0UUJMNmc3OGRsdzEwSldkWXh4T1VoU0cyZUVnY2l4QXdnVnNWSGd6SllKemNYczdvaWNnby1GbVY5c195MUFLekhmOHBDcnRkREI3VFZqdzg5eldkbUdvRDJldGJhQ2xNb1R2RG1QQXhhZnFKcHB4eXlYSTA5bkM5M3BUcXZJbjBxaDk0cHFCRy15V2t0bFhQOGxNZmw5WTQ4TUlaZzZnekQ4ZnVGNWp3RDBac2pmOENsXzBuYk9iT0lGN3czUExYMEUydUtLLWhReU50cVRWOWxPYnktbDVKVFQyUk1KOTVVODV5cW5iMVJZa05CRG40V1hlY1BZQnVwbm45ZTlZal91NGgyX2tUMW8xQnl4OW0xRTloNzZGblRFT1JnMTRtVUJIc3R4TG51RlBZLVZZYUtOaF90N0pnWi1iX1pycm9XS01BRmFpbV9ROHFpZUZ0OQ?oc=5",
+   "pubDate": "2026-11-24T15:04:41.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "アラブニュース",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アラブニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQck82N1diU2JXZUZUTVg3N2FhRWRjbVFLTXE0d0NxZ1B2LVZvc2diQXZQRmtobXBjbGNseDJFWE8xRlJZX28tS3ZtUzVsOEo0UUJMNmc3OGRsdzEwSldkWXh4T1VoU0cyZUVnY2l4QXdnVnNWSGd6SllKemNYczdvaWNnby1GbVY5c195MUFLekhmOHBDcnRkREI3VFZqdzg5eldkbUdvRDJldGJhQ2xNb1R2RG1QQXhhZnFKcHB4eXlYSTA5bkM5M3BUcXZJbjBxaDk0cHFCRy15V2t0bFhQOGxNZmw5WTQ4TUlaZzZnekQ4ZnVGNWp3RDBac2pmOENsXzBuYk9iT0lGN3czUExYMEUydUtLLWhReU50cVRWOWxPYnktbDVKVFQyUk1KOTVVODV5cW5iMVJZa05CRG40V1hlY1BZQnVwbm45ZTlZal91NGgyX2tUMW8xQnl4OW0xRTloNzZGblRFT1JnMTRtVUJIc3R4TG51RlBZLVZZYUtOaF90N0pnWi1iX1pycm9XS01BRmFpbV9ROHFpZUZ0OQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "「ワイド・エンゲージメント型」と「ディープ・エンゲージメント型」に分かれはじめたアニメIP",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXlLX2RXMnpja1g1RkpmYk1wVWdjdmxXeHNDV0FOU0otaGY5VGs4eHNWZ3JvY0N2aU43eXZmU3ZoYUlmLUpuU2xlWDZ3ZUlFMXVFRml2ckc3TWduaUJUU2NLckFWWFJzNVBEbVNJalE2MzRvck1IQjdYS0tJNHFJa2tiOFppVmkyUkhB?oc=5",
+   "pubDate": "2026-11-24T15:00:00.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "日経クロストレンド",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "日経クロストレンド",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXlLX2RXMnpja1g1RkpmYk1wVWdjdmxXeHNDV0FOU0otaGY5VGs4eHNWZ3JvY0N2aU43eXZmU3ZoYUlmLUpuU2xlWDZ3ZUlFMXVFRml2ckc3TWduaUJUU2NLckFWWFJzNVBEbVNJalE2MzRvck1IQjdYS0tJNHFJa2tiOFppVmkyUkhB?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "ハセガワ、1/72スケールプラモデル「九州 J7W1 局地戦闘機 震電 『ゴジラ-1.0』 劇中登場仕様」本日出荷開始！(HOBBY Watch)",
+   "summary": "ハセガワは、プラモデル「九州 J7W1 局地戦闘機 震電 『ゴジラ-1.0』 劇中登場仕様」を11月25日に出荷開始する。価格は2,640円。【この記事に関する別の画像を見る】 本商品は、映画「ゴジラ",
+   "link": "https://news.yahoo.co.jp/articles/c095d480c365a7f38b2a643eb8b2a489117b76e4?source=rss",
+   "pubDate": "2026-11-24T15:00:00.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "HOBBY Watch（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "ゴジラ-1.0"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "HOBBY Watch（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c095d480c365a7f38b2a643eb8b2a489117b76e4?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "乃木坂46一ノ瀬美空、トム・ブラウンと『ドラクエ』新CM出演 着ぐるみでモンスターに“変身”も(オリコン)",
+   "summary": "アイドルグループ・乃木坂46の一ノ瀬美空とお笑いコンビ・トム・ブラウン（布川ひろき、みちお）が、12月3日発売のゲーム『ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ』（スクウェア・エ",
+   "link": "https://news.yahoo.co.jp/articles/4548eed2eee1e5731d2365db6eac9ef3f225de63?source=rss",
+   "pubDate": "2026-11-24T15:00:00.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "game"
+   ],
+   "works": [
+    "ドラクエ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/4548eed2eee1e5731d2365db6eac9ef3f225de63?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ブルーロック」潔世一の刺繍ワッペン入り！もこもこルームウェアがパシオスNetで11月25日販売開始",
+   "summary": "TVアニメ「ブルーロック」×パシオス 紳士もこもこルームウェアの特徴 今回登場するのは、長袖トップスとロングパンツがそろった上下セットのルームウェア。もこもこ素材をベースに、刺繍をポイントとして取り入れたデザインです。 左胸には「ISAGI…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/666683",
+   "pubDate": "2026-11-24T14:56:42.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/7c330b70926b438093bdc7ea574b95bb.webp",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 10,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/666683"
+    }
+   ]
+  },
+  {
+   "title": "5歳でデビューした元子役・村山輝星（16）、笑顔の最新ショットに「大きくなりましたね」「かわいい」などの声(ABEMA TIMES)",
+   "summary": "子役時代から注目されている俳優の村山輝星（16）。成長した姿に、反響が寄せられている。【映像】成長した村山輝星の最新ショット（複数カット） 5歳から芸能事務所に所属し、NHK Eテレの『えいごであそぼ",
+   "link": "https://news.yahoo.co.jp/articles/1f5e7824aa37fcb01a379c4a973961e3b8a7bba3?source=rss",
+   "pubDate": "2026-11-24T14:45:31.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/1f5e7824aa37fcb01a379c4a973961e3b8a7bba3?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ゴジラ-0.0』が3週連続No. 1を達成！『シン・ゴジラ』や前作を凌駕するハイスピードで“興収50億円”に到達(MOVIE WALKER PRESS)",
+   "summary": "11月20日から11月22日までの全国映画動員ランキングが発表。まだまだ勢いが止まらない『ゴジラ-0.0』(公開中)が今週も堂々と首位をキープ。これで公開から3週連続でNo.1を達成したことになる。■",
+   "link": "https://news.yahoo.co.jp/articles/67e366352bc94675ad575d58899ff02ccc0bcc62?source=rss",
+   "pubDate": "2026-11-24T14:30:00.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie",
+    "ranking"
+   ],
+   "works": [
+    "ゴジラ-0.0",
+    "シン・ゴジラ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "MOVIE WALKER PRESS（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/67e366352bc94675ad575d58899ff02ccc0bcc62?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "「Suicaのペンギン」つるつるでかわいい“ピッコロ缶”が11月25日より数量限定で復活。一時完売となった人気商品が“ファイナルコール”販売",
    "summary": "2027年3月末に卒業し、「うさぎ」へバトンを渡すペンギンの缶にチョコレートが全5粒。「カファレル グランスタ東京店」限定で登場",
@@ -11847,6 +12186,36 @@
    ]
   },
   {
+   "title": "劇場アニメ『魔法使いの夜』、公開直後に続編制作決定！4日間で興収5億円突破",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MQzBDRUZEVURkRDlHSlVyYngwaDUxRUh2QklPVG13TGNjU0N3OThPMVBQbzgtbXVibU5tRFZNVkNLV3NVMkhHQlN3MFlDaDdZ?oc=5",
+   "pubDate": "2026-11-24T10:23:16.000Z",
+   "firstSeen": "2026-11-24T11:17:54.378Z",
+   "image": null,
+   "source": "玩具人 TOY PEOPLE",
+   "sourceId": "gnews-movie",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 14,
+   "categories": [
+    "new",
+    "movie"
+   ],
+   "works": [
+    "魔法使いの夜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "玩具人 TOY PEOPLE",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MQzBDRUZEVURkRDlHSlVyYngwaDUxRUh2QklPVG13TGNjU0N3OThPMVBQbzgtbXVibU5tRFZNVkNLV3NVMkhHQlN3MFlDaDdZ?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    }
+   ]
+  },
+  {
    "title": "アニメ聖地の車両基地で宿泊_来年4月開始_浜松",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tX2tvaExNUFB3dXdxSkVQeUEyR0VpRUhvSmczMExOeTBNcWxKT1hmN1ZpTXdfNWVQTDNOclB0ck12WlVRNWV1OGNYbktWNG1xM2lzTzlLZ3RLVGJINjd3?oc=5",
@@ -13558,6 +13927,13 @@
      "name": "アニメ！アニメ！",
      "sourceId": "animeanime",
      "link": "https://animeanime.jp/article/2026/11/24/105052.html"
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvQjIwbVlHSXFnUTZrVFlMLXk2VzBhZDQzaWswT3lMTWN3djdYQW9JZElBWDJ2UlpVRFFrZHBoMms2RWZTLTlyVUVhaTFfcGRBVEJ1WkpLLVJuY2VEZ2h4MmRTMEUxQW0yUndoaWNmQzQta19WdHFpSzNzc2hxRnc?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -15137,48 +15513,6 @@
    ]
   },
   {
-   "title": "劇場アニメ「魔法使いの夜」続編決定。公開4日間で興収5億円突破",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISHV1N0lITUpxWHYteW01bUtqekVPQ0s5RFZQcFJKOEQ3aTdlOWE1dU1kT2NETTJMVGI0dlNsaTNueHJYamsydGVPUU9ocHNURktUV3UzZ1F6bjYyc2RnTDhWSQ?oc=5",
-   "pubDate": "2026-11-24T07:26:57.000Z",
-   "firstSeen": "2026-11-24T08:17:53.170Z",
-   "image": null,
-   "source": "AV Watch",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "new",
-    "movie"
-   ],
-   "works": [
-    "魔法使いの夜"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "AV Watch",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISHV1N0lITUpxWHYteW01bUtqekVPQ0s5RFZQcFJKOEQ3aTdlOWE1dU1kT2NETTJMVGI0dlNsaTNueHJYamsydGVPUU9ocHNURktUV3UzZ1F6bjYyc2RnTDhWSQ?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    },
-    {
-     "name": "千葉テレビ放送株式会社",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBycGhMRlhQMXdzYkZKSmt0bDduMTR4bUNGc3dNXzhnQ1lHVmFaNWRlZVhnS0ZCdGI2emNlM1U4TXFJUGVUX0hUanBEcjhDNzYwa2FZLWY4dDg0QWp5VlQ4?oc=5",
-     "via": "Googleニュース「アニメ」"
-    },
-    {
-     "name": "玩具人 TOY PEOPLE",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MQzBDRUZEVURkRDlHSlVyYngwaDUxRUh2QklPVG13TGNjU0N3OThPMVBQbzgtbXVibU5tRFZNVkNLV3NVMkhHQlN3MFlDaDdZ?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    }
-   ]
-  },
-  {
    "title": "「ポケモン」声優の松本梨香 アキレス腱断裂「ライブの際に」…今後の活動について説明「当面は車いす」",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIX1hKUGlMWVdDbmc3X251dkJMeFhhTDEtekNBdVF0bFAxczJZaXdKdWktZHFwdG9KRlZSTTFveDZGLTltWF9aSjVPOEYxLURvOUlVdGFnSmRXcW5lWDJZNEp5OXI2YjZrbGxoVjdyRE0?oc=5",
@@ -15907,18 +16241,18 @@
    ]
   },
   {
-   "title": "『魔法使いの夜』続編制作発表「ぜひご期待ください！」 公開4日間で興収5億円突破",
+   "title": "劇場アニメ「魔法使いの夜」続編決定。公開4日間で興収5億円突破",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DT0V0QzFkOXVtak9McU1iLWJlVzBzOGhacEhreHpnUEZJc0g5U2V6UDNjTU9NTUZibEN0WnBmQVlBa05OeVdZYzd4WVc5NFBCY1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISHV1N0lITUpxWHYteW01bUtqekVPQ0s5RFZQcFJKOEQ3aTdlOWE1dU1kT2NETTJMVGI0dlNsaTNueHJYamsydGVPUU9ocHNURktUV3UzZ1F6bjYyc2RnTDhWSQ?oc=5",
    "pubDate": "2026-11-24T06:49:00.000Z",
    "firstSeen": "2026-11-24T08:17:53.170Z",
    "image": null,
-   "source": "山陽新聞",
+   "source": "AV Watch",
    "sourceId": "gnews-movie",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 4,
+   "score": 8,
    "categories": [
     "new",
     "movie"
@@ -15929,15 +16263,33 @@
    "spoiler": false,
    "sources": [
     {
+     "name": "AV Watch",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISHV1N0lITUpxWHYteW01bUtqekVPQ0s5RFZQcFJKOEQ3aTdlOWE1dU1kT2NETTJMVGI0dlNsaTNueHJYamsydGVPUU9ocHNURktUV3UzZ1F6bjYyc2RnTDhWSQ?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
      "name": "山陽新聞",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DT0V0QzFkOXVtak9McU1iLWJlVzBzOGhacEhreHpnUEZJc0g5U2V6UDNjTU9NTUZibEN0WnBmQVlBa05OeVdZYzd4WVc5NFBCY1E?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
     },
     {
+     "name": "千葉テレビ放送株式会社",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBycGhMRlhQMXdzYkZKSmt0bDduMTR4bUNGc3dNXzhnQ1lHVmFaNWRlZVhnS0ZCdGI2emNlM1U4TXFJUGVUX0hUanBEcjhDNzYwa2FZLWY4dDg0QWp5VlQ4?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
      "name": "オリコンニュース",
      "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9idXdRU1NQc3JwN1ZyWEZoSXAtUHJxM05SdnQybEJoY1ozV0VxQ19jaGs0TU5pZ2xxZ3p3RUgxLWNtc3hfZUVvOTRxOEowNVFSLUQ5TTBn?oc=5",
+     "via": "Googleニュース「劇場版 アニメ」"
+    },
+    {
+     "name": "アニメイトタイムズ",
+     "sourceId": "gnews-movie",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sV1U4TXlGTDBKbFBEVTFpVGZRdkpobVQ0Qk13X0prc3dvaUJaSzJuSzd5Qk94Q2t4ZGRoemxYNVBVTHQ4d0RMUHE2QXFuRG5XT2p4S3Zod1hiUEFpVVd1ekppZjU5RllMdHY0?oc=5",
      "via": "Googleニュース「劇場版 アニメ」"
     }
    ]
@@ -18355,6 +18707,34 @@
      "name": "にじめん",
      "sourceId": "nijimen",
      "link": "https://nijimen.kusuguru.co.jp/topics/666021"
+    }
+   ]
+  },
+  {
+   "title": "【10周年】『Fate/Grand Order』の“OVER THE SAME SKY”の大人気商品を、全国アニメイト・アニメイト通販で予約受付開始。",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000009255.000016756.html",
+   "pubDate": "2026-11-24T03:04:39.000Z",
+   "firstSeen": "2026-11-24T15:17:53.952Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "Fate/Grand Order"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000009255.000016756.html"
     }
    ]
   },
@@ -191656,357 +192036,6 @@
      "name": "Anime News Network",
      "sourceId": "ann",
      "link": "https://www.animenewsnetwork.com/news/2026-11-08/live-action-golden-kamuy-karafuto-pursuit-arc-series-unveils-more-cast/.243635"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『魔法騎士レイアース』第6話のあらすじ公開！ 光たちは『魔神』がいる場所へと向かい…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rLWZBaUQxNHRYV3pBZ3ZEMGtQVmlNNFF6X1pUdFAxdHpSRHBtM0FJOGxWOVVFTTIzbGs2WHZtX0J1MHhlU19xLU1LS1NESzBUNlNGNQ?oc=5",
-   "pubDate": "2026-11-09T04:23:35.000Z",
-   "firstSeen": "2026-11-09T05:18:02.947Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [],
-   "works": [
-    "魔法騎士レイアース",
-    "魔神"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rLWZBaUQxNHRYV3pBZ3ZEMGtQVmlNNFF6X1pUdFAxdHpSRHBtM0FJOGxWOVVFTTIzbGs2WHZtX0J1MHhlU19xLU1LS1NESzBUNlNGNQ?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "Fool Night Manga Crosses 1 Million Copies Worldwide",
-   "summary": "Anime of manga will debut globally on Netflix on November 26",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-08/fool-night-manga-crosses-1-million-copies-worldwide/.243609",
-   "pubDate": "2026-11-09T04:22:41.000Z",
-   "firstSeen": "2026-11-09T05:18:02.947Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 8,
-   "categories": [
-    "broadcast",
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-08/fool-night-manga-crosses-1-million-copies-worldwide/.243609"
-    }
-   ]
-  },
-  {
-   "title": "「平成敗残兵☆すみれちゃん」次週ヤンマガで連載再開、新連載「邪神のクソガキ」も（試し読みあり）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YSnotT2NLZmszNTVMeVlqUUR4UGloV1R5dFZkT205UDJ4bFd6LW1Rb0lFT0FmaFNJM3U2MjJQYkI2UkdGbmhzR213bjk?oc=5",
-   "pubDate": "2026-11-09T04:21:00.000Z",
-   "firstSeen": "2026-11-09T11:17:55.285Z",
-   "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "media"
-   ],
-   "works": [
-    "平成敗残兵☆すみれちゃん",
-    "邪神のクソガキ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YSnotT2NLZmszNTVMeVlqUUR4UGloV1R5dFZkT205UDJ4bFd6LW1Rb0lFT0FmaFNJM3U2MjJQYkI2UkdGbmhzR213bjk?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "『宇崎ちゃんは遊びたい！』ついに第一部完！ コミックス15巻本日発売、記念PVを公開！ 累計380万部突破、過去2度のTVアニメ化も。",
-   "summary": "株式会社KADOKAWA（本社：東京都千代田区、取締役 代表執行役社長 CEO：夏野剛）から刊行のコミック『宇崎ちゃんは遊びたい！』（著：丈）が、本日2026年11月9日（月）発売の第15巻をもって第一部完結となりまし...",
-   "link": "https://prtimes.jp/main/html/rd/p/000020540.000007006.html",
-   "pubDate": "2026-11-09T04:15:19.000Z",
-   "firstSeen": "2026-11-09T05:18:02.947Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "new",
-    "visual",
-    "media"
-   ],
-   "works": [
-    "宇崎ちゃんは遊びたい!"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000020540.000007006.html"
-    }
-   ]
-  },
-  {
-   "title": "Interview: ONE OR EIGHT - First Manila Concert and “EN-GÏNE” Album",
-   "summary": "The group behind the Black Clover ED Yellow Brick Road and the viral sensation Tokyo Drift talks about their music, band dynamics and perfor…",
-   "link": "https://www.animenewsnetwork.com/advertorial/2026-11-08/interview-one-or-eight-first-manila-concert-and-en-gine-album/.243467",
-   "pubDate": "2026-11-09T04:09:57.000Z",
-   "firstSeen": "2026-11-09T04:17:55.243Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/advertorial/2026-11-08/interview-one-or-eight-first-manila-concert-and-en-gine-album/.243467"
-    }
-   ]
-  },
-  {
-   "title": "TVアニメ『涙雨とセレナーデ』2027年4月から放送開始！ 陽菜と孝章が明治時代の町並みの中に佇む第一弾キービジュアルも公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kVWRaWWF5Q2d3dVBSX21YcEhkdF9mYjI2R29zV3ZLM3FoTUR6aHdYRi1rLXp6aTVkZ1FzOHduUjZpUDUxdWNoUEtuSHNWTkZySEprUA?oc=5",
-   "pubDate": "2026-11-09T04:04:47.000Z",
-   "firstSeen": "2026-11-09T04:17:55.243Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 26,
-   "categories": [
-    "broadcast",
-    "visual"
-   ],
-   "works": [
-    "涙雨とセレナーデ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kVWRaWWF5Q2d3dVBSX21YcEhkdF9mYjI2R29zV3ZLM3FoTUR6aHdYRi1rLXp6aTVkZ1FzOHduUjZpUDUxdWNoUEtuSHNWTkZySEprUA?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』新たな本編映像が公開！ 咲太の前に現れたのは…",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56VGctZ1NhMWpmajIwRDY2d19LTUpYVks3X1Z3Zlo4YjNtM1ZRbGdDSnNJbW1PMXNWeHNHZjN1QXhvWWNQc2Z4QmZEQUEteENSQkxNOA?oc=5",
-   "pubDate": "2026-11-09T04:04:47.000Z",
-   "firstSeen": "2026-11-09T04:17:55.243Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [
-    "青春ブタ野郎はディアフレンドの夢を見ない"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56VGctZ1NhMWpmajIwRDY2d19LTUpYVks3X1Z3Zlo4YjNtM1ZRbGdDSnNJbW1PMXNWeHNHZjN1QXhvWWNQc2Z4QmZEQUEteENSQkxNOA?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "『パラライ』劇場アニメが2027年に公開決定！ 朱雀野アレンたちがステージに勢ぞろいした超ティザービジュアルも解禁",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SlZ4bHNEeVZKb2szLWpwUmlXaEdhbUp2UkRBSHZ4OS1vLVpaU0NBVDAzQXVYTkRGT3gyMlctNUdRejNWMTlDUlFUTTlkcHpvUDlPeA?oc=5",
-   "pubDate": "2026-11-09T04:04:47.000Z",
-   "firstSeen": "2026-11-09T05:18:02.947Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "visual",
-    "event"
-   ],
-   "works": [
-    "パラライ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SlZ4bHNEeVZKb2szLWpwUmlXaEdhbUp2UkRBSHZ4OS1vLVpaU0NBVDAzQXVYTkRGT3gyMlctNUdRejNWMTlDUlFUTTlkcHpvUDlPeA?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『みなみけ これから』2027年4月から放送開始！ チアキ、カナ、ハルカが大きくジャンプするティザービジュアルも公開",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44a25Ed3RGeXE5eHcyLTNuZHV2U2pMMzVrdy1aWURicGFXUVVUMG55MlB5RUhhQ3pUMHpWN0lZZllWbzlSWjVIVENwU19iZHhVejU1WA?oc=5",
-   "pubDate": "2026-11-09T04:04:47.000Z",
-   "firstSeen": "2026-11-09T10:17:57.699Z",
-   "image": null,
-   "source": "eeo",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 10,
-   "categories": [
-    "broadcast",
-    "visual"
-   ],
-   "works": [
-    "みなみけ これから"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "eeo",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44a25Ed3RGeXE5eHcyLTNuZHV2U2pMMzVrdy1aWURicGFXUVVUMG55MlB5RUhhQ3pUMHpWN0lZZllWbzlSWjVIVENwU19iZHhVejU1WA?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "Ingoku Danchi: Deviant's Apartment Complex Anime's English Dub Streams on November 11",
-   "summary": "English dub cast revealed for anime based on writer Sakusei Kenkyūjo, artist Yui Jōyama's manga",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-08/ingoku-danchi-deviant-apartment-complex-anime-english-dub-streams-on-november-11/.243606",
-   "pubDate": "2026-11-09T04:02:35.000Z",
-   "firstSeen": "2026-11-09T04:17:55.243Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 10,
-   "categories": [
-    "cast",
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-08/ingoku-danchi-deviant-apartment-complex-anime-english-dub-streams-on-november-11/.243606"
-    }
-   ]
-  },
-  {
-   "title": "人気男性声優が総出演！ライブイベント「『Toxic-a-Holic』1st Live -Mirage-」PV解禁！",
-   "summary": "「毒物男子×謎」をテーマにした侵食型プロジェクト『Toxic-a-Holic（トキシカホリック）』は20...",
-   "link": "https://www.lisani.jp/0000321803/",
-   "pubDate": "2026-11-09T04:00:05.000Z",
-   "firstSeen": "2026-11-09T04:17:55.243Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611081800-yh-017.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "visual",
-    "cast",
-    "event"
-   ],
-   "works": [
-    "Toxic-a-Holic"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000321803/"
-    },
-    {
-     "name": "Excite エキサイト",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fYjQ1WFZSRlQ4NllhVkxuM3NOX1RJZU1Db18tcWlvc1RyNlJqbEZ4Q2NmMW1wT0RoajBtdG1vSFZrelg0bTJ3VER1T2Myd20zcUtCQkl5X1lIT0F2YWx3c2x1dFVxUQ?oc=5",
-     "via": "Googleニュース「声優」"
-    },
-    {
-     "name": "2026年11月9日掲載（ライブドアニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByN0ZzZFZickxtT295RzZoNDNsV2hPUlNQcDNhMV9MTW13UkE2akpqbWlfNFhVSFREV085alJDamF3eWVicWxYOE84TVJMUFU5aGRKSDFJZk1kMl9fZmc?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Perfume Member Ayano Ōmoto Announces Marriage",
-   "summary": "\"NOCCHi's\" partner is actor Kento Shibuya",
-   "link": "https://www.animenewsnetwork.com/interest/2026-11-08/perfume-member-ayano-omoto-announces-marriage/.243622",
-   "pubDate": "2026-11-09T04:00:00.000Z",
-   "firstSeen": "2026-11-09T04:17:55.243Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "romance"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/interest/2026-11-08/perfume-member-ayano-omoto-announces-marriage/.243622"
     }
    ]
   }
