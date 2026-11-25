@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-25T17:18:43.588Z",
+ "generatedAt": "2026-11-25T18:18:48.600Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5382,
+  "exact": 5384,
   "syndicated": 482,
-  "similar": 714,
-  "syndicatedTotal": 6456,
-  "syndicatedLeft": 1226
+  "similar": 716,
+  "syndicatedTotal": 6457,
+  "syndicatedLeft": 1225
  },
  "calendar": [
   {
@@ -7586,13 +7586,14 @@
    "precision": "day",
    "verb": "broadcast",
    "label": "放送",
-   "work": "魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる",
-   "title": "TVアニメ 2027年1月6日(水)より放送決定!『魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる』",
-   "link": "https://prtimes.jp/main/html/rd/p/000002308.000000607.html",
-   "source": "PR TIMES",
+   "work": "結界師の一輪華",
+   "title": "TVアニメ『結界師の一輪華』2027年1月6日放送開始、OP主題歌はなにわ男子「一輪華」に決定",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hblAzWkN3SXd4ZU1vN1NuQXdGUDAtcUhZQzNySkMyTkVyQTR5SmdRZjFYQnhmQTlWcU1yQ2R6TzFoTU54dk9mM0tIeFFtMXZIam8zbA?oc=5",
+   "source": "ABEMA TIMES",
    "sources": 6,
    "categories": [
-    "broadcast"
+    "broadcast",
+    "music"
    ],
    "platforms": [],
    "spoiler": false
@@ -7602,15 +7603,13 @@
    "precision": "day",
    "verb": "broadcast",
    "label": "放送",
-   "work": "結界師の一輪華",
-   "title": "2027年1月6日より放送・配信開始！TVアニメ『結界師の一輪華』メインビジュアル＆メインPVを一挙公開！OP主題歌は、なにわ男子「一輪華」に決定！",
-   "link": "https://www.lisani.jp/0000322766/",
-   "source": "リスアニ！",
-   "sources": 5,
+   "work": "魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる",
+   "title": "TVアニメ 2027年1月6日(水)より放送決定!『魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる』",
+   "link": "https://prtimes.jp/main/html/rd/p/000002308.000000607.html",
+   "source": "PR TIMES",
+   "sources": 6,
    "categories": [
-    "broadcast",
-    "visual",
-    "music"
+    "broadcast"
    ],
    "platforms": [],
    "spoiler": false
@@ -9745,8 +9744,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 923,
-   "accepted": 921
+   "archived": 924,
+   "accepted": 922
   },
   {
    "id": "lisani",
@@ -9800,8 +9799,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5279,
-   "accepted": 4996
+   "archived": 5278,
+   "accepted": 4994
   },
   {
    "id": "gnews-tvanime",
@@ -9811,8 +9810,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1165,
-   "accepted": 1100
+   "archived": 1166,
+   "accepted": 1101
   },
   {
    "id": "gnews-movie",
@@ -9833,8 +9832,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2402,
-   "accepted": 2144
+   "archived": 2403,
+   "accepted": 2146
   },
   {
    "id": "natalie-eiga",
@@ -9921,7 +9920,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28905,
+   "archived": 28951,
    "accepted": 495
   },
   {
@@ -9932,8 +9931,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 707,
-   "accepted": 707
+   "archived": 705,
+   "accepted": 705
   },
   {
    "id": "mal",
@@ -9954,8 +9953,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 219,
-   "accepted": 219
+   "archived": 218,
+   "accepted": 218
   }
  ],
  "items": [
@@ -10873,6 +10872,13 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hblAzWkN3SXd4ZU1vN1NuQXdGUDAtcUhZQzNySkMyTkVyQTR5SmdRZjFYQnhmQTlWcU1yQ2R6TzFoTU54dk9mM0tIeFFtMXZIam8zbA?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "Infoseek",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44RzY5SWZNU3B3YWctdTVVRVBpaVdTY3BOTndCOWJjRkk5X3hEcHFHb256LWdpcmk5SmUxTjlJY3loLW51cGlnRy10aXJXLTk4TUNVZ0tCbWhFWU5NR2R6dURJelZzLVHSAWxBVV95cUxPcUt4TkwtTmxTZjNJNGtNZkx4MmEzeTBvRG1XWWlrYnpoSHc2QUQ2U1VCZkFwdFJDYnd6eTM4aS10LXB0X3YxSFNlNk9xVm04TWprVG8zYW1fTWQyMHpHRE9Za3N0NEljNHJzMlo?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
     }
    ]
   },
@@ -13094,10 +13100,10 @@
    "pubDate": "2026-11-25T09:12:00.000Z",
    "firstSeen": "2026-11-25T10:17:59.490Z",
    "image": null,
-   "source": "ナタリー",
-   "sourceId": "gnews-anime",
+   "source": "コミックナタリー",
+   "sourceId": "natalie-comic",
    "syndicated": false,
-   "kind": "aggregator",
+   "kind": "specialist",
    "lang": "ja",
    "score": 2,
    "categories": [
@@ -13107,10 +13113,9 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "ナタリー",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sVmNCa1loLWI5ZE1jcnI4SlpsXzRoem1CU1lpOXFyYzJGZ1hVQ2ZKVmxZTWhYME1pQ2JpRG13QWV3YnZUMEFXR2o5Njg?oc=5",
-     "via": "Googleニュース「アニメ」"
+     "name": "コミックナタリー",
+     "sourceId": "natalie-comic",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sVmNCa1loLWI5ZE1jcnI4SlpsXzRoem1CU1lpOXFyYzJGZ1hVQ2ZKVmxZTWhYME1pQ2JpRG13QWV3YnZUMEFXR2o5Njg?oc=5"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース）",
@@ -16509,13 +16514,13 @@
   {
    "title": "山寺宏一「たぶん生まれて初めての逆オファー」レジェンド声優から「やるべき役がある」放送未公開となった熱い助言明かす",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakpzOXdFTlVEYzJadGc1b1ZlVk1za3kyY2dLOXdkLUxNVGwxd0ktRDFXOFcyOUZGbEE1SjhHVlY4aXVOWFl0ZTBtam81c0JYeG1ubmlkZ1JlRnFnOUptMWR0MnFtY0hjOVRjeEJqdXZ5Y3BlVHp0bFB6d1J6UENQY3hvb0FGN25pSTZRWGhGMTZGeDRoeGhtUkxPVGxXdlhEM0ZNQlRPWnFZMEphSDJNVU85LXBMQdIBuwFBVV95cUxNTTk1clI0TlMzMzV1S0ZYeElLWGlXMVpEWTVXV0djYmRWSzhzaUlaUkc1N3pBOHNVR3ctLXVyU2dyU3NhbUloNVVoNXd1QlFodXRId09PRE50Yjd6T09iQTlBellGYXRUcWFGQmtJRE1USVpGUTR4TFd3cUZHZm02b3lsNEZ1TFZZM3RCWU4tSUE2NEw2RXNYRFpLdEFvNUstMFVwSUdxMHN2WG1mU1pVQWllQTVKYk5lb2Jr?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIT1JYNkFXSnRLa1RFR3pFUGJ2dFVjUEhWTXhtcG5SZHhjS1ZUM3BtWU0tRWtzWE5rUXlHMVpoeDBqQm5kRGhpaXV5cWNxTk81Z1dJcW1sai1iWmEza2dMa1JQSV8yV1JHaC1kNGJFdmRqNnA0MVHSAYoBQVVfeXFMTWVKYlpqQjRXXy0wRmhPVXZPWXg5bXBSZnl4QVB5WVZGVHc1Y2JUSDhjLWxSRGRreDRBN0hMTWlMVFB3WDNKaVBGWmNiV1h5ZlQ1bEJWNHNNSm1nV2xjWmxnMEw2cGcwRURBcGZsNV8yT3FFNU5Wd1V0NXBsSzRGNkV2SS1mb3VXY1Jn?oc=5",
    "pubDate": "2026-11-25T06:39:00.000Z",
    "firstSeen": "2026-11-25T07:17:56.253Z",
    "image": null,
-   "source": "ｄメニューニュース",
+   "source": "サンスポ",
    "sourceId": "gnews-seiyu",
-   "syndicated": true,
+   "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
    "score": 8,
@@ -16525,6 +16530,12 @@
    "works": [],
    "spoiler": false,
    "sources": [
+    {
+     "name": "サンスポ",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIT1JYNkFXSnRLa1RFR3pFUGJ2dFVjUEhWTXhtcG5SZHhjS1ZUM3BtWU0tRWtzWE5rUXlHMVpoeDBqQm5kRGhpaXV5cWNxTk81Z1dJcW1sai1iWmEza2dMa1JQSV8yV1JHaC1kNGJFdmRqNnA0MVHSAYoBQVVfeXFMTWVKYlpqQjRXXy0wRmhPVXZPWXg5bXBSZnl4QVB5WVZGVHc1Y2JUSDhjLWxSRGRreDRBN0hMTWlMVFB3WDNKaVBGWmNiV1h5ZlQ1bEJWNHNNSm1nV2xjWmxnMEw2cGcwRURBcGZsNV8yT3FFNU5Wd1V0NXBsSzRGNkV2SS1mb3VXY1Jn?oc=5",
+     "via": "Googleニュース「声優」"
+    },
     {
      "name": "ｄメニューニュース",
      "sourceId": "gnews-seiyu",
@@ -67973,7 +67984,7 @@
    ]
   },
   {
-   "title": "マツモトケンゴのバトルラブコメ「いじはじ」2027年にTVアニメ化、監督は熊野千尋（コメントあり）",
+   "title": "マツモトケンゴのバトルラブコメ「いじはじ」2027年にTVアニメ化、監督は熊野千尋",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0Y0gyajl0Ti1zamhOLVRMX2k5eGF6RDU3aEp6Zndpd1RDakd3RDg3cE1TUGRJeFFKTVVnajhRSDFXWVpvS0JfVGRyMlM?oc=5",
    "pubDate": "2026-11-20T09:00:00.000Z",
