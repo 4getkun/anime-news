@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-27T19:18:22.944Z",
+ "generatedAt": "2026-11-27T20:18:43.735Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5358,
+  "exact": 5356,
   "syndicated": 479,
   "similar": 693,
-  "syndicatedTotal": 6500,
-  "syndicatedLeft": 1272
+  "syndicatedTotal": 6498,
+  "syndicatedLeft": 1273
  },
  "calendar": [
   {
@@ -9568,8 +9568,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 920,
-   "accepted": 918
+   "archived": 919,
+   "accepted": 917
   },
   {
    "id": "lisani",
@@ -9634,8 +9634,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1208,
-   "accepted": 1144
+   "archived": 1209,
+   "accepted": 1145
   },
   {
    "id": "gnews-movie",
@@ -9644,9 +9644,9 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 100,
-   "archived": 846,
-   "accepted": 763
+   "fetched": 76,
+   "archived": 843,
+   "accepted": 760
   },
   {
    "id": "gnews-seiyu",
@@ -9656,8 +9656,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2394,
-   "accepted": 2127
+   "archived": 2392,
+   "accepted": 2125
   },
   {
    "id": "natalie-eiga",
@@ -9701,7 +9701,7 @@
    "error": null,
    "fetched": 50,
    "archived": 1186,
-   "accepted": 287
+   "accepted": 286
   },
   {
    "id": "gamespark",
@@ -9711,7 +9711,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1191,
+   "archived": 1192,
    "accepted": 93
   },
   {
@@ -9733,8 +9733,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29520,
-   "accepted": 3480
+   "archived": 29532,
+   "accepted": 3479
   },
   {
    "id": "prtimes",
@@ -9744,8 +9744,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 29268,
-   "accepted": 512
+   "archived": 29278,
+   "accepted": 511
   },
   {
    "id": "ann",
@@ -9755,8 +9755,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 690,
-   "accepted": 690
+   "archived": 688,
+   "accepted": 688
   },
   {
    "id": "mal",
@@ -11308,9 +11308,9 @@
     },
     {
      "name": "Yahoo!ニュース",
-     "sourceId": "gnews-movie",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zYXhCU0ZXNGtlZUpIX25ROWpDQUlXaWZOaG9LOTB3d0pTR2xLZTlIRlVobEZHSjdqN19zaU1CeDRuSlNCSDBhNlVyc1JqQlJJZmE2Qi1BVTJCdUZTUmdadzVZYjRMOUtvMTFISHZxQ1RsazZTVUd1R3NGMTdNb1U?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -20466,9 +20466,9 @@
     },
     {
      "name": "Yahoo!ニュース",
-     "sourceId": "gnews-movie",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WTm01eVRuRWd5anF5VnZoYmQ4aDRKZ1l2X3FDclp5Q29MZTdGeFViMS1iQ1V4Qjg4SkE1d0pGUEdtNUpEeXBvSHBZaVIwOWhtaktLVnZMSFo5c1kwYkFpNDVVQm95Nm9zZEdLZi00MG1VTm83MENCQUVaZ2RxcEk?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -26088,7 +26088,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 14,
+   "score": 10,
    "categories": [
     "broadcast"
    ],
@@ -38785,7 +38785,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 12,
+   "score": 8,
    "categories": [
     "broadcast"
    ],
@@ -41190,7 +41190,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 26,
+   "score": 22,
    "categories": [
     "broadcast",
     "visual"
@@ -42767,7 +42767,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 18,
+   "score": 14,
    "categories": [
     "broadcast",
     "cast"
@@ -42958,7 +42958,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 14,
+   "score": 10,
    "categories": [
     "visual",
     "music"
@@ -43960,7 +43960,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 16,
+   "score": 12,
    "categories": [
     "music"
    ],
@@ -44038,7 +44038,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 8,
+   "score": 4,
    "categories": [],
    "works": [
     "ヒストリエ"
@@ -44887,7 +44887,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 24,
+   "score": 20,
    "categories": [
     "music"
    ],
@@ -45578,7 +45578,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 22,
+   "score": 18,
    "categories": [
     "music"
    ],
@@ -45911,7 +45911,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 27,
+   "score": 23,
    "categories": [
     "music"
    ],
@@ -46140,7 +46140,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 22,
+   "score": 18,
    "categories": [
     "music"
    ],
@@ -46489,7 +46489,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 27,
+   "score": 23,
    "categories": [
     "music",
     "visual",
@@ -46566,12 +46566,12 @@
    "pubDate": "2026-11-25T03:00:00.000Z",
    "firstSeen": "2026-11-25T03:17:55.721Z",
    "image": null,
-   "source": "コミックナタリー",
-   "sourceId": "natalie-comic",
+   "source": "ナタリー",
+   "sourceId": "gnews-tvanime",
    "syndicated": false,
-   "kind": "specialist",
+   "kind": "aggregator",
    "lang": "ja",
-   "score": 19,
+   "score": 15,
    "categories": [
     "broadcast"
    ],
@@ -46581,9 +46581,10 @@
    "spoiler": false,
    "sources": [
     {
-     "name": "コミックナタリー",
-     "sourceId": "natalie-comic",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94eVp5T0kycjBHS3N3SWIwbjZZTzU5RkY2YVdjVEZHY3RVTnlrRjhCWjBpeXN3bU1ETWN5VXFEU2F0d3Fkd3c1RXNfa0o?oc=5"
+     "name": "ナタリー",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94eVp5T0kycjBHS3N3SWIwbjZZTzU5RkY2YVdjVEZHY3RVTnlrRjhCWjBpeXN3bU1ETWN5VXFEU2F0d3Fkd3c1RXNfa0o?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
     },
     {
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
@@ -52583,7 +52584,7 @@
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
-   "score": 34,
+   "score": 30,
    "categories": [
     "music"
    ],
@@ -99475,38 +99476,6 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HcV9TeHk5MGVrcnYyaTg4VGFvc0JMa0x3MEx3OEQyQk9XRWRyMnZtbnNtOE1qbDh5YklvMkl1UVczd0loTVBrVDQzQWtWRmpBODhfcFNGaFZ1aFZ5V2xXUEZwblRWeEg5?oc=5",
      "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "【50％還元】『ヒストリエ』や『MMR-マガジンミステリー調査班-』などがKindleにてポイント50％還元されるセール開催中！『フェアリーテイル』、『炎炎ノ消防隊』、『機獣新世紀 ZOIDS』など多数対象",
-   "summary": "『BANANA FISH』『炎炎ノ消防隊』などメディア化作品から『藤子・F・不二雄SF短編』や『ロックマンメガミックス』まで多数対象",
-   "link": "https://news.denfaminicogamer.jp/news/261120r",
-   "pubDate": "2026-11-20T04:50:56.000Z",
-   "firstSeen": "2026-11-20T05:18:05.926Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/2cff03f88fbe3b165644658a98b0a6ae-693x1024.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "ranking"
-   ],
-   "works": [
-    "ヒストリエ",
-    "MMR-マガジンミステリー調査班-",
-    "フェアリーテイル",
-    "炎炎ノ消防隊",
-    "機獣新世紀 ZOIDS"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/261120r"
     }
    ]
   },
@@ -192082,6 +192051,42 @@
      "name": "電ファミニコゲーマー",
      "sourceId": "denfaminico",
      "link": "https://news.denfaminicogamer.jp/news/2611123b"
+    }
+   ]
+  },
+  {
+   "title": "和風男溺泉を探す乱馬と良牙だったがが…！？アニメ『らんま1/2』第31話あらすじ・先行カット公開(ABEMA TIMES)",
+   "summary": "アニメ『らんま1/2』第31話より、あらすじ・先行カット・予告映像が到着した。本作は日本テレビにて毎週土曜日24:55より放送される。【画像】アニメ『らんま1/2』第31話先行カット 『らんま1/2』",
+   "link": "https://news.yahoo.co.jp/articles/c906ca1fccaffe760b153ca5e4ae39041b6c742d?source=rss",
+   "pubDate": "2026-11-12T09:00:36.000Z",
+   "firstSeen": "2026-11-12T09:17:55.741Z",
+   "image": null,
+   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "らんま1/2"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c906ca1fccaffe760b153ca5e4ae39041b6c742d?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "ABEMA TIMES（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NnFGa2VnLVhBTzRUNE1YdlBnU2tMeFVSNFRUWFEwNDM0OHdyb0szYlA3aWJONjRqN0pfX2VtMm1BRFJURXI0UFVQMWxMNmVGZkRlMWlhcUFCLUR4LUx0bVJzR2hsZ0VYeHFYU1VheDVDQ0l4SEJQWlVtWE1yeHM?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   }
