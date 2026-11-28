@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-28T05:18:36.029Z",
+ "generatedAt": "2026-11-28T06:19:41.242Z",
  "count": 6000,
  "dedupe": {
   "exact": 5388,
-  "syndicated": 484,
+  "syndicated": 485,
   "similar": 697,
-  "syndicatedTotal": 6543,
-  "syndicatedLeft": 1279
+  "syndicatedTotal": 6541,
+  "syndicatedLeft": 1282
  },
  "calendar": [
   {
@@ -4991,6 +4991,22 @@
   {
    "date": "2026-12-05",
    "precision": "day",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "BLUE IN GREEN",
+   "title": "Bialystocks、こたけ正義感【弁論2026】EDテーマ「鬼ヶ島」が12/5放送のJ-WAVE『BLUE IN GREEN』で初OA(Billboard JAPAN)",
+   "link": "https://news.yahoo.co.jp/articles/e28fd6fd2594751f228f606e0a5c29a1017cfbb7?source=rss",
+   "source": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+   "sources": 1,
+   "categories": [
+    "music"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2026-12-05",
+   "precision": "day",
    "verb": "stream",
    "label": "配信",
    "work": null,
@@ -7527,7 +7543,7 @@
    "title": "Hana Hope 新曲「Akari.」TVアニメ『ラーメン赤猫 其の二』エンディングテーマに決定！1月10日配信リリースも決定！！",
    "link": "https://prtimes.jp/main/html/rd/p/000005084.000013546.html",
    "source": "PR TIMES",
-   "sources": 2,
+   "sources": 3,
    "categories": [
     "music"
    ],
@@ -7708,6 +7724,22 @@
    "sources": 2,
    "categories": [
     "cast",
+    "event"
+   ],
+   "platforms": [],
+   "spoiler": false
+  },
+  {
+   "date": "2027-01-16",
+   "precision": "day",
+   "verb": "event",
+   "label": "開催",
+   "work": "パンどろぼう",
+   "title": "『パンどろぼう』のキャラクターが大集合！体験型イベント「パンどろぼうひろば にいがた」が2027年1月16日から開催",
+   "link": "https://nijimen.kusuguru.co.jp/topics/670636",
+   "source": "にじめん",
+   "sources": 1,
+   "categories": [
     "event"
    ],
    "platforms": [],
@@ -9340,8 +9372,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 856,
-   "accepted": 850
+   "archived": 857,
+   "accepted": 851
   },
   {
    "id": "natalie-comic",
@@ -9351,8 +9383,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 924,
-   "accepted": 922
+   "archived": 922,
+   "accepted": 920
   },
   {
    "id": "lisani",
@@ -9370,9 +9402,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 49,
    "accepted": 49
   },
@@ -9381,9 +9413,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": true,
-   "error": null,
-   "fetched": 10,
+   "ok": false,
+   "error": "Request timed out after 30000ms",
+   "fetched": 0,
    "archived": 5,
    "accepted": 5
   },
@@ -9395,8 +9427,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1767,
-   "accepted": 662
+   "archived": 1769,
+   "accepted": 664
   },
   {
    "id": "gnews-anime",
@@ -9406,7 +9438,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5221,
+   "archived": 5222,
    "accepted": 4942
   },
   {
@@ -9417,8 +9449,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1219,
-   "accepted": 1152
+   "archived": 1220,
+   "accepted": 1153
   },
   {
    "id": "gnews-movie",
@@ -9427,8 +9459,8 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 74,
-   "archived": 844,
+   "fetched": 100,
+   "archived": 845,
    "accepted": 761
   },
   {
@@ -9439,8 +9471,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2397,
-   "accepted": 2132
+   "archived": 2396,
+   "accepted": 2131
   },
   {
    "id": "natalie-eiga",
@@ -9450,7 +9482,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1129,
+   "archived": 1130,
    "accepted": 175
   },
   {
@@ -9461,8 +9493,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1698,
-   "accepted": 869
+   "archived": 1695,
+   "accepted": 868
   },
   {
    "id": "4gamer",
@@ -9472,7 +9504,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1147,
+   "archived": 1143,
    "accepted": 102
   },
   {
@@ -9483,8 +9515,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1168,
-   "accepted": 287
+   "archived": 1164,
+   "accepted": 286
   },
   {
    "id": "gamespark",
@@ -9494,7 +9526,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1181,
+   "archived": 1178,
    "accepted": 93
   },
   {
@@ -9505,7 +9537,7 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 123,
+   "archived": 124,
    "accepted": 19
   },
   {
@@ -9517,7 +9549,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29568,
-   "accepted": 3514
+   "accepted": 3513
   },
   {
    "id": "prtimes",
@@ -9527,8 +9559,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28746,
-   "accepted": 509
+   "archived": 28649,
+   "accepted": 508
   },
   {
    "id": "ann",
@@ -9566,10 +9598,229 @@
  ],
  "items": [
   {
+   "title": "『お求めいただいた暴君陛下の悪女です』100万部突破記念広告がアニメイト池袋本店に！屋外300インチモニターでも掲出中",
+   "summary": "『お求めいただいた暴君陛下の悪女です』×アニメイト池袋本店 広告掲出の見どころ 原作・天壱さん、制作・SORAJIMAによるフルカラーコミックの広告を、池袋の大きな壁面と画面で楽しめます。掲出場所は北館エスカレーターの壁面と屋外300インチ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/670668",
+   "pubDate": "2026-11-28T06:10:15.000Z",
+   "firstSeen": "2026-11-28T06:18:51.512Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/b35d4daaf9ab4705ad85e3daec580f9b.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 11,
+   "categories": [],
+   "works": [
+    "お求めいただいた暴君陛下の悪女です"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/670668"
+    }
+   ]
+  },
+  {
+   "title": "Bialystocks、こたけ正義感【弁論2026】EDテーマ「鬼ヶ島」が12/5放送のJ-WAVE『BLUE IN GREEN』で初OA(Billboard JAPAN)",
+   "summary": "Bialystocksの新曲「鬼ヶ島」が、12月5日放送のJ-WAVE『BLUE IN GREEN』にて初オンエアされることが決定した。その他の画像 「鬼ヶ島」は、11月4日の宮城公演を皮切りにスター",
+   "link": "https://news.yahoo.co.jp/articles/e28fd6fd2594751f228f606e0a5c29a1017cfbb7?source=rss",
+   "pubDate": "2026-11-28T06:05:03.000Z",
+   "firstSeen": "2026-11-28T06:18:51.512Z",
+   "image": null,
+   "source": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "music"
+   ],
+   "works": [
+    "BLUE IN GREEN"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e28fd6fd2594751f228f606e0a5c29a1017cfbb7?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Bialystocks新曲「鬼ヶ島」初オンエア、こたけ正義感「弁論2026」エンディングテーマ(音楽ナタリー)",
+   "summary": "Bialystocksの新曲「鬼ヶ島」が、12月5日放送のJ-WAVE「BLUE IN GREEN」にて初オンエアされる。【写真】“メロい”と噂のこたけ正義感「鬼ヶ島」は、こたけ正義感の単独ライブ「弁",
+   "link": "https://news.yahoo.co.jp/articles/90f91268776b16092c99819fc12dcd33893cf000?source=rss",
+   "pubDate": "2026-11-28T06:00:12.000Z",
+   "firstSeen": "2026-11-28T06:18:51.512Z",
+   "image": null,
+   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "music"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/90f91268776b16092c99819fc12dcd33893cf000?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【常設は初】ミラコスタにダッフィー＆フレンズがテーマの新客室が登場！2027年5月12日（水）より宿泊開始♪",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/28/105162.html",
+   "pubDate": "2026-11-28T06:00:02.000Z",
+   "firstSeen": "2026-11-28T06:18:51.512Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/28/105162.html"
+    }
+   ]
+  },
+  {
+   "title": "夫はサッカー元日本代表 結婚１０年の丸高愛実がラブラブ夫婦ショット公開！「かわいい」「男前」「理想の夫婦」(スポーツ報知)",
+   "summary": "サッカー元日本代表ＦＷ柿谷曜一朗さんの妻でタレントの丸高愛実が、夫婦ショットを披露した。【写真】ラブラブな笑顔がうらやましい！！体密着の２ショット 丸高は２８日に自身のインスタグラムを更新。「夫婦で家",
+   "link": "https://news.yahoo.co.jp/articles/46f0500f67c8e417d370f87660768a2d0d0f680f?source=rss",
+   "pubDate": "2026-11-28T05:58:51.000Z",
+   "firstSeen": "2026-11-28T06:18:51.512Z",
+   "image": null,
+   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "romance"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/46f0500f67c8e417d370f87660768a2d0d0f680f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "TBS龍宝社長『VIVANT』反響に喜び「最終回まで凄い視聴率」 映画への期待も「皆様のご期待に応えられるものだと…」(オリコン)",
+   "summary": "TBSの社長定例会見が25日、同局内で行われ、龍宝社長が『VIVANT』の反響について言及した。【新映像解禁】衝撃シーンも！ネットざわつく 龍宝社長は「全社一体になっての盛り上げの象徴的なコンテンツと",
+   "link": "https://news.yahoo.co.jp/articles/c617696281fc2c2a03b06a5738ce689e04b7fb93?source=rss",
+   "pubDate": "2026-11-28T05:40:00.000Z",
+   "firstSeen": "2026-11-28T06:18:51.512Z",
+   "image": null,
+   "source": "オリコン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "VIVANT"
+   ],
+   "spoiler": true,
+   "sources": [
+    {
+     "name": "オリコン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c617696281fc2c2a03b06a5738ce689e04b7fb93?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『パンどろぼう』のキャラクターが大集合！体験型イベント「パンどろぼうひろば にいがた」が2027年1月16日から開催",
+   "summary": "『パンどろぼう』の体験型イベント「パンどろぼうひろば にいがた」が新潟県立自然科学館で開催 「パンどろぼうひろば」は、横浜で開催されて総来場者数7万人を突破し、現在は北海道札幌市で開催中の体験型イベントです。その札幌に続き、新潟県…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/670636",
+   "pubDate": "2026-11-28T05:35:03.000Z",
+   "firstSeen": "2026-11-28T06:18:51.512Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/bbd3eb0f3a3d486bb8b56c9152066ffe.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "event"
+   ],
+   "works": [
+    "パンどろぼう"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/670636"
+    }
+   ]
+  },
+  {
+   "title": "『orange』高野苺さんが描き下ろし！早見和真『春までのセンセイ』大重版記念のあらすじ漫画が公開",
+   "summary": "双葉社『春までのセンセイ』大重版記念！高野苺さんが描いたあらすじ漫画 今回のスペシャルコラボで公開されたのは、『orange』『夢みる太陽』で知られる高野苺さんによる描き下ろしのあらすじ漫画です。担任の加賀美先生と3年E組の生徒32人が高野…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/670627",
+   "pubDate": "2026-11-28T05:21:55.000Z",
+   "firstSeen": "2026-11-28T06:18:51.512Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/cd60200c16754610ace3ab6191735ee8.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 2,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "orange",
+    "春までのセンセイ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/670627"
+    }
+   ]
+  },
+  {
    "title": "「ARTIST SUPPORT ITEM」のフットモデルが商品化決定。アニメ『遊☆戯☆王』の作画監督とコラボしたハンドモデルの脚版",
    "summary": "2027年初旬頃より、Makuakeにて応援用の購入プロジェクトが開始される予定。これで自在に足まで描けそうな気がする",
    "link": "https://news.denfaminicogamer.jp/news/261128h",
-   "pubDate": "2026-11-28T05:11:22.000Z",
+   "pubDate": "2026-11-28T05:11:00.000Z",
    "firstSeen": "2026-11-28T05:17:56.586Z",
    "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HYL99STb0AA08Kk-1024x576.jpg",
    "source": "電ファミニコゲーマー",
@@ -12208,6 +12459,41 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81MkE0eEtwN1h6U2gtSWQ4aXlIbEhValNUOGM2NGdZMHYzTENOc1phMXZoTHhsVFc1aDlmTDlkb19xSkRwYUVOR2U2VQ?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sS0VIOWFLVndxMURVVlRJaFR0V3R2c0h0UVh3TlBGU1BBLTRrUlBGN1pueFB6RThuSnZ6OU9ncTdBUkJLQnJleDFsMm5rem9OTXl3eVJVdGgxR3lDeVJPelZHQ25HdS1JREpFSUNuSUZXbW9RUHc?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "【PV】TVアニメ「ラーメン赤猫 其の二」メインPV",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSU2dhWGFsaHBaYUpzZ1NYdHliU085ZzNKVHdaQllsNnMzX2Rudm12ZVdKd090M3JES2dRZl9XZ3U0ZEpZdUd0RGs3RFlpNlE?oc=5",
+   "pubDate": "2026-11-27T23:37:19.000Z",
+   "firstSeen": "2026-11-28T06:18:51.512Z",
+   "image": null,
+   "source": "エンタのおはなし",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "ラーメン赤猫 其の二"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "エンタのおはなし",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSU2dhWGFsaHBaYUpzZ1NYdHliU085ZzNKVHdaQllsNnMzX2Rudm12ZVdKd090M3JES2dRZl9XZ3U0ZEpZdUd0RGs3RFlpNlE?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -12373,6 +12659,13 @@
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4T29admJ5ZmJRWnJIRnEtU0JEMnowR18wTDAyWFoxUm1xWkpRLWNuWDJmVEtvdEZnU2VZaUpUcWdmczk4VEhiRVU3empObTVtYXc?oc=5",
      "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14R2NJbVUtQmNYRlRjQ0NmdURrRVNkdDhJalNTM0twZ212dkhkcm1Ea1R5TU9ycndJaUZuVl9GRVVBeEFfQTAya0VzMFlfUkpMN1Q0OXNsVll4RFNITkJxTzZudGF4MWFTVTUwOEJ3?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
     }
    ]
   },
@@ -15781,6 +16074,12 @@
      "via": "Googleニュース「アニメ」"
     },
     {
+     "name": "毎日新聞",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZ0hkbVBKODJSNm1Ednk1OGpLVlRGcEVSVk56TWdyYUp6MmQxRkNiczJVMlBUNHNxb2Jpb2ZGZnVrTFI0Q2t3TFNQS285ZGZzVkU3X0tqTmRrRGNoQTRnM1V0TDg1NHhh?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
      "name": "2026年11月27日掲載（ライブドアニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VZW5KVm5pdDhJdjlsVDNWU2xuT0JxN2NtMEx4dURUeFpuclloSHN0SjFnQ0pRT2o1M1U1bHFLd1VuWk1QX0lobzhOV1g3VUNJTmhBRWdNWXZkaTBSQU1yWlpB?oc=5",
@@ -18990,7 +19289,7 @@
    "firstSeen": "2026-11-27T10:18:01.786Z",
    "image": null,
    "source": "MANTANWEB（Yahoo!ニュース）",
-   "sourceId": "gnews-anime",
+   "sourceId": "gnews-tvanime",
    "syndicated": true,
    "kind": "aggregator",
    "lang": "ja",
@@ -19004,9 +19303,9 @@
    "sources": [
     {
      "name": "MANTANWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yTHF5ckV3cmxwRzdrY1VkTHQ5dzZFQ3dYdUM2ZWRFWHZnWF9ud2RzVVVTOE9oMUlSVmVlVjd4TkdGRzV6WGRLc1U4b2JwNnJZTmtoNllKZndFdk1fc1VNV3hVRm1jT190SkxPRXN4RnpHVm1ac0lSQ1VOOFN6bU0?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「TVアニメ 放送」",
      "syndicated": true
     }
    ]
@@ -191791,239 +192090,6 @@
      "name": "PR TIMES",
      "sourceId": "prtimes",
      "link": "https://prtimes.jp/main/html/rd/p/000000077.000161935.html"
-    }
-   ]
-  },
-  {
-   "title": "俺の死亡フラグが留まるところを知らないのアニメはいつから？2027年放送予定",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kSjJDSDR6Tk9NMG1FODBTWHdRZFczZDNBamx6d0s2MkFnc21BcXo4OFpDSXpGbmZXU0h3WGdJTnFyVnE2ZXlxd0ZZY3lXa0s5dkpPYWJ4UlNhWHF6M0dnbDFsNFVfWjA?oc=5",
-   "pubDate": "2026-11-12T18:34:40.000Z",
-   "firstSeen": "2026-11-13T01:06:55.743Z",
-   "image": null,
-   "source": "はてなブログ",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "はてなブログ",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kSjJDSDR6Tk9NMG1FODBTWHdRZFczZDNBamx6d0s2MkFnc21BcXo4OFpDSXpGbmZXU0h3WGdJTnFyVnE2ZXlxd0ZZY3lXa0s5dkpPYWJ4UlNhWHF6M0dnbDFsNFVfWjA?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "Professor Layton and The New World of Steam Game Reveals English Dub, Cast",
-   "summary": "Christopher Robin Miller, Lani Minella return as Professor Layton, Luke, respectively",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-12/professor-layton-and-the-new-world-of-steam-game-reveals-english-dub-cast/.243767",
-   "pubDate": "2026-11-12T18:30:41.000Z",
-   "firstSeen": "2026-11-12T19:17:54.457Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "cast",
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-12/professor-layton-and-the-new-world-of-steam-game-reveals-english-dub-cast/.243767"
-    }
-   ]
-  },
-  {
-   "title": "Power Rangers Officially Unveils $4,899 Megazord Redesign Limited to Just 50 Worldwide",
-   "summary": "Power Rangers fans are about to get one of the most incredible collectibles of all time, although they will have to keep watch to get their…",
-   "link": "https://www.cbr.com/power-rangers-megazord-josh-nizzi-prime-1-studio-release/",
-   "pubDate": "2026-11-12T18:20:12.000Z",
-   "firstSeen": "2026-11-12T19:17:54.457Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/04/Power-Rangers-Megazord-header.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/power-rangers-megazord-josh-nizzi-prime-1-studio-release/"
-    }
-   ]
-  },
-  {
-   "title": "Disney to Premiere Lilas Dreams & Memories Documentary About YOASOBI's Lilas Ikuta on December 30",
-   "summary": "2-part documentary about ikura's experience with High School Musical streams/airs on December 30",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-12/disney-to-premiere-lilas-dreams-and-memories-documentary-about-yoasobi-lilas-ikuta-on-december-30/.243764",
-   "pubDate": "2026-11-12T18:00:00.000Z",
-   "firstSeen": "2026-11-12T18:17:57.926Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-12/disney-to-premiere-lilas-dreams-and-memories-documentary-about-yoasobi-lilas-ikuta-on-december-30/.243764"
-    }
-   ]
-  },
-  {
-   "title": "４月デビューのモナキが紅白初出場決定 今年の演歌・歌謡界をリード、「新語・流行語大賞」にもノミネート(スポーツ報知)",
-   "summary": "男性４人組歌謡グループ・モナキが、大みそかの「第７７回ＮＨＫ紅白歌合戦」に初出場が決まったことが１２日、スポーツ報知の取材で分かった。【写真】おヨネ「美男子」「罪深いレベル」蜷川実花さん撮影ショットで",
-   "link": "https://news.yahoo.co.jp/articles/f9fb685b164a536830737d269b17be4a98ceab0a?source=rss",
-   "pubDate": "2026-11-12T17:00:10.000Z",
-   "firstSeen": "2026-11-12T17:17:54.463Z",
-   "image": null,
-   "source": "スポーツ報知（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "スポーツ報知（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/f9fb685b164a536830737d269b17be4a98ceab0a?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Mushoku Tensei: Jobless Reincarnation Volumes 4-6 Light Novel Review",
-   "summary": "These volumes really flesh out Mushoku Tensei's expansive world, introducing a fascinating cast of varied new characters and building on alr…",
-   "link": "https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-4-6/light-novel/.242823",
-   "pubDate": "2026-11-12T17:00:00.000Z",
-   "firstSeen": "2026-11-12T17:17:54.463Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "cast",
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-4-6/light-novel/.242823"
-    }
-   ]
-  },
-  {
-   "title": "Hello Kitty Takes Over U.S. Bank With 3 Limited-Edition Debit Card Designs",
-   "summary": "Customers in the United States are getting the chance to show off Sanrio's most iconic characters with a brand-new set of debit card designs…",
-   "link": "https://www.cbr.com/hello-kitty-bank-of-hawaii-debit-card-check-design/",
-   "pubDate": "2026-11-12T16:35:13.000Z",
-   "firstSeen": "2026-11-12T17:17:54.463Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/hello-kitty-takes-over-u-s-bank-with-3-limited-edition-debit-cards5.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/hello-kitty-bank-of-hawaii-debit-card-check-design/"
-    }
-   ]
-  },
-  {
-   "title": "Fatal Fury City of the Wolves Game Adds Fatal Fury: The Motion Picture's Laocorn on November 19",
-   "summary": "Laocorn trailer, Fatal Fury: The Motion Picture digest movie streamed",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-12/fatal-fury-city-of-the-wolves-game-adds-fatal-fury-the-motion-picture-laocorn-on-november-19/.243765",
-   "pubDate": "2026-11-12T16:31:15.000Z",
-   "firstSeen": "2026-11-12T17:17:54.463Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "visual",
-    "movie",
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-12/fatal-fury-city-of-the-wolves-game-adds-fatal-fury-the-motion-picture-laocorn-on-november-19/.243765"
-    }
-   ]
-  },
-  {
-   "title": "What's New「a-FAN FAN」――今週のパーソナリティは水樹奈々！市ノ瀬加那、高橋李依、水樹奈々、若山詩音、ゲストによるUSENオリジナルのアニメ＆声優プログラム",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJcXo4YmduaV8ycFEzUlBYSHQyNkgzbzFVc09XUEJmQ1VnbDVJV0Jmak5oZGFneVlCaGdSN3F2NmhkaEJLMFZSemdEcHBtREpZc3Jib2xfZzJGSUhCWlVIMWlaTE11NGJYNGIyTkVhemQxVTlLQ2JpN3Nwbw?oc=5",
-   "pubDate": "2026-11-12T16:17:11.000Z",
-   "firstSeen": "2026-11-15T17:17:54.174Z",
-   "image": null,
-   "source": "USENの音楽情報サイト",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "USENの音楽情報サイト",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJcXo4YmduaV8ycFEzUlBYSHQyNkgzbzFVc09XUEJmQ1VnbDVJV0Jmak5oZGFneVlCaGdSN3F2NmhkaEJLMFZSemdEcHBtREpZc3Jib2xfZzJGSUhCWlVIMWlaTE11NGJYNGIyTkVhemQxVTlLQ2JpN3Nwbw?oc=5",
-     "via": "Googleニュース「声優」"
     }
    ]
   }
