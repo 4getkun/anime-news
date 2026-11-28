@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-28T13:18:44.586Z",
+ "generatedAt": "2026-11-28T14:18:47.611Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5402,
-  "syndicated": 492,
+  "exact": 5406,
+  "syndicated": 495,
   "similar": 711,
-  "syndicatedTotal": 6572,
-  "syndicatedLeft": 1291
+  "syndicatedTotal": 6579,
+  "syndicatedLeft": 1293
  },
  "calendar": [
   {
@@ -8762,14 +8762,15 @@
   {
    "date": "2027-04",
    "precision": "month",
-   "verb": "stream",
-   "label": "配信",
-   "work": "緋弾のアリアCorto",
-   "title": "【緋弾のアリア】新作ショートアニメ『緋弾のアリア Corto』2027年4月配信！",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jSTFRQURSVEVuNEdfZzgwTUhJcU00Q0hUMFhiUGppU2tvazJFb29XanoyLVctOHFFZFBTaWVsc2tTNUlHV1M5cS1kYW9QNExGZDZrbDJRb0J0dw?oc=5",
-   "source": "電撃オンライン",
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "LONA",
+   "title": "野木亜紀子原案・脚本のオリジナルアニメ『LONA』4月放送決定 野島裕史、千葉翔也、諏訪部順一ら7人が新たに参加",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GangyZFowdEEwSHZqUHR1YnZBV1ZNWWZTYWlrU2Voc1BZZC16S2VZTkdndTVfMTlDNjlzbWFDcmZYRFZpV0JvaXplQmF1eUE?oc=5",
+   "source": "オリコンニュース",
    "sources": 8,
    "categories": [
+    "cast",
     "broadcast"
    ],
    "platforms": [],
@@ -8778,15 +8779,14 @@
   {
    "date": "2027-04",
    "precision": "month",
-   "verb": "broadcast",
-   "label": "放送",
-   "work": "LONA",
-   "title": "野木亜紀子原案・脚本のオリジナルアニメ『LONA』4月放送決定 野島裕史、千葉翔也、諏訪部順一ら7人が新たに参加",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GangyZFowdEEwSHZqUHR1YnZBV1ZNWWZTYWlrU2Voc1BZZC16S2VZTkdndTVfMTlDNjlzbWFDcmZYRFZpV0JvaXplQmF1eUE?oc=5",
-   "source": "オリコンニュース",
-   "sources": 7,
+   "verb": "stream",
+   "label": "配信",
+   "work": "緋弾のアリアCorto",
+   "title": "【緋弾のアリア】新作ショートアニメ『緋弾のアリア Corto』2027年4月配信！",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jSTFRQURSVEVuNEdfZzgwTUhJcU00Q0hUMFhiUGppU2tvazJFb29XanoyLVctOHFFZFBTaWVsc2tTNUlHV1M5cS1kYW9QNExGZDZrbDJRb0J0dw?oc=5",
+   "source": "電撃オンライン",
+   "sources": 8,
    "categories": [
-    "cast",
     "broadcast"
    ],
    "platforms": [],
@@ -9470,8 +9470,8 @@
    "ok": true,
    "error": null,
    "fetched": 10,
-   "archived": 221,
-   "accepted": 221
+   "archived": 222,
+   "accepted": 222
   },
   {
    "id": "seigura",
@@ -9503,7 +9503,7 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1781,
+   "archived": 1783,
    "accepted": 671
   },
   {
@@ -9514,8 +9514,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5185,
-   "accepted": 4909
+   "archived": 5188,
+   "accepted": 4912
   },
   {
    "id": "gnews-tvanime",
@@ -9525,8 +9525,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1225,
-   "accepted": 1156
+   "archived": 1224,
+   "accepted": 1155
   },
   {
    "id": "gnews-movie",
@@ -9535,7 +9535,7 @@
    "lang": "ja",
    "ok": true,
    "error": null,
-   "fetched": 72,
+   "fetched": 100,
    "archived": 842,
    "accepted": 759
   },
@@ -9547,8 +9547,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2436,
-   "accepted": 2168
+   "archived": 2442,
+   "accepted": 2173
   },
   {
    "id": "natalie-eiga",
@@ -9569,7 +9569,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1675,
+   "archived": 1674,
    "accepted": 857
   },
   {
@@ -9602,7 +9602,7 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1166,
+   "archived": 1163,
    "accepted": 93
   },
   {
@@ -9624,8 +9624,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 29568,
-   "accepted": 3537
+   "archived": 29554,
+   "accepted": 3540
   },
   {
    "id": "prtimes",
@@ -9635,8 +9635,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28508,
-   "accepted": 509
+   "archived": 28450,
+   "accepted": 507
   },
   {
    "id": "ann",
@@ -9646,8 +9646,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 681,
-   "accepted": 681
+   "archived": 682,
+   "accepted": 682
   },
   {
    "id": "mal",
@@ -9673,6 +9673,243 @@
   }
  ],
  "items": [
+  {
+   "title": "50歳で出産・野田聖子議員（66）、15歳息子と『VIVANT』ロケ地での親子ショット公開(ABEMA TIMES)",
+   "summary": "自民党の野田聖子衆議院議員（66）が、障害のある15歳の長男・真輝さんとの親子ショットを披露した。【映像】「パパに似てきた」と話題の野田聖子議員の長男 2011年1月、50歳の時に真輝さんを出産した野",
+   "link": "https://news.yahoo.co.jp/articles/881d526cf9a380667a648f75819f9f0dd3520866?source=rss",
+   "pubDate": "2026-11-28T14:15:33.000Z",
+   "firstSeen": "2026-11-28T14:17:55.487Z",
+   "image": null,
+   "source": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "romance"
+   ],
+   "works": [
+    "VIVANT"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ABEMA TIMES（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/881d526cf9a380667a648f75819f9f0dd3520866?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "＝LOVE 「ベストアーティスト2026」に生出演 「恋、はじめました。」「雪だるまつくろう」を披露(スポニチアネックス)",
+   "summary": "＝LOVEが28日に放送された日本テレビ「ベストアーティスト2026」に出演した。 恋の予感やときめきを表現した最新曲「恋、はじめました。」を歌唱。東京ディズニーシー25周年特別企画として、映画「アナ",
+   "link": "https://news.yahoo.co.jp/articles/e672af7a3f8ec1695af2d3f46e3ae00c74691022?source=rss",
+   "pubDate": "2026-11-28T14:05:57.000Z",
+   "firstSeen": "2026-11-28T14:17:55.487Z",
+   "image": null,
+   "source": "スポニチアネックス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "スポニチアネックス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/e672af7a3f8ec1695af2d3f46e3ae00c74691022?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "BE:FIRST「ベストアーティスト2026」に出演 「Missing」を繊細な表現力で披露(vois ヴォイス)",
+   "summary": "6人組ダンス&ボーカルグループBE:FIRSTが、11月28日に放送された日本テレビ系音楽の祭典「ベストアーティスト2026」に生出演し、「Missing」を披露した。【動画】BE：FIRST / M",
+   "link": "https://news.yahoo.co.jp/articles/519f7d7d7c747e1626e63d9b4ee29ad944fa9d46?source=rss",
+   "pubDate": "2026-11-28T14:04:26.000Z",
+   "firstSeen": "2026-11-28T14:17:55.487Z",
+   "image": null,
+   "source": "vois ヴォイス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "vois ヴォイス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/519f7d7d7c747e1626e63d9b4ee29ad944fa9d46?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "春茶、アニメ『猫と竜』第2期OPテーマを担当 ワンマンライブ東京公演にコバソロがゲスト出演",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrY0ppSWp1SmM4VmxzRTdZZ3dmRlMxeUg4RWZYYlRfOEt3M1hvcG1ldGNLWnFKSzZWRHFLRDc1OEVRNUV3T0lkanZlb2wySWJUMGZqbEQyRXFmT2JMTjF1MjFn?oc=5",
+   "pubDate": "2026-11-28T13:50:00.000Z",
+   "firstSeen": "2026-11-28T14:17:55.487Z",
+   "image": null,
+   "source": "Billboard JAPAN",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 29,
+   "categories": [
+    "new",
+    "cast",
+    "music"
+   ],
+   "works": [
+    "猫と竜"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Billboard JAPAN",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrY0ppSWp1SmM4VmxzRTdZZ3dmRlMxeUg4RWZYYlRfOEt3M1hvcG1ldGNLWnFKSzZWRHFLRDc1OEVRNUV3T0lkanZlb2wySWJUMGZqbEQyRXFmT2JMTjF1MjFn?oc=5",
+     "via": "Googleニュース「アニメ」"
+    },
+    {
+     "name": "Billboard JAPAN（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/d5860673d1ebc50b05a7ab23dfe649fa6c081ff0?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "Yahoo!ニュース",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEVXZmVGR3UE5Lc0VJVmlYaG41UWF1WkNsOWRBNFVscVZ1NE41VmVmampKNjl1S1VhWFk5T0VIYjN0RGRiUnFNVVVqODcxejdNY3J0NnNBTjNodk1RTFkxcmlrTncxUlZNZDN0VGJYTEVzV1dKdFhrdGtBSmNZa2c?oc=5",
+     "via": "Googleニュース「アニメ」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "言葉を超えた身体表現がスクリーンを揺らす 『ワンダンス』が更新した青春映画の現在地(リアルサウンド)",
+   "summary": "リアルサウンド映画部の編集スタッフが週替りでお届けする「週末映画館でこれ観よう！」。毎週末にオススメ映画・特集上映をご紹介。今週は、バンド活動に青春を捧げた宮川が『ワンダンス』をプッシュします。【写真",
+   "link": "https://news.yahoo.co.jp/articles/0ed6e1b3d4750f94f1d8090fca93b8c30699a82e?source=rss",
+   "pubDate": "2026-11-28T13:30:21.000Z",
+   "firstSeen": "2026-11-28T14:17:55.487Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast",
+    "movie"
+   ],
+   "works": [
+    "ワンダンス"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0ed6e1b3d4750f94f1d8090fca93b8c30699a82e?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Naver Webtoon's Cuts Make App Wins Google Play's Best App of the Year Award for 2026 in S. Korea",
+   "summary": "Cuts Make allows users to create short-form animated videos using officially licensed webtoon IP",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-28/naver-webtoon-cuts-make-app-wins-google-play-best-app-of-the-year-award-for-2026-in-s-korea/.244076",
+   "pubDate": "2026-11-28T13:30:00.000Z",
+   "firstSeen": "2026-11-28T14:17:55.487Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-28/naver-webtoon-cuts-make-app-wins-google-play-best-app-of-the-year-award-for-2026-in-s-korea/.244076"
+    }
+   ]
+  },
+  {
+   "title": "“LISANI！TAIPEI 2026”の初日・SATURDAY STAGEが終演！5組のアーティストが台北で熱いステージを繰り広げる！",
+   "summary": "11月28日（土）に“LISANI！TAIPEI 2026”の初日となるSATURDAY STAGEが開催された。 約1年ぶり...",
+   "link": "https://www.lisani.jp/0000323186/",
+   "pubDate": "2026-11-28T13:20:42.000Z",
+   "firstSeen": "2026-11-28T14:17:55.487Z",
+   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/12/2611282000-ak-000.jpg",
+   "source": "リスアニ！",
+   "sourceId": "lisani",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 0,
+   "categories": [
+    "event"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リスアニ！",
+     "sourceId": "lisani",
+     "link": "https://www.lisani.jp/0000323186/"
+    }
+   ]
+  },
+  {
+   "title": "出口夏希、『ルックバック』で最優秀新進女優賞「感謝の気持ちでいっぱいです」＜TAMA映画賞＞(クランクイン！)",
+   "summary": "女優の出口夏希が28日、都内で行われた第18回TAMA映画賞授賞式に出席。最優秀新進女優賞を受賞した喜びを語った。【写真】笑顔がかわいい！ 出口夏希、美背中もちらり 美しいドレス姿 2009年にスター",
+   "link": "https://news.yahoo.co.jp/articles/9cd401b8e54969cfd67120b26e5cec57bb267c69?source=rss",
+   "pubDate": "2026-11-28T13:18:00.000Z",
+   "firstSeen": "2026-11-28T14:17:55.487Z",
+   "image": null,
+   "source": "クランクイン！（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "movie"
+   ],
+   "works": [
+    "ルックバック"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/9cd401b8e54969cfd67120b26e5cec57bb267c69?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
   {
    "title": "『NIKKE』ロザンナ（声優：長谷川育美）の変装衣装がコスガチャに登場！",
    "summary": "",
@@ -10083,6 +10320,11 @@
      "name": "MyAnimeList News",
      "sourceId": "mal",
      "link": "https://myanimelist.net/news/74991913?_location=rss"
+    },
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/interest/2026-11-28/singer-lisa-voice-actor-tatsuhisa-suzuki-announce-divorce/.244275"
     }
    ]
   },
@@ -10165,6 +10407,36 @@
      "name": "47NEWS",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uRkdSZHV6RktUN01MaXR0bVRTeHdrM2lIbEZ4Zm8zSm01Wm4tUWtSenlXM3lmcC1nMUJtVEJTcTItWFRzSWd1VUdEYw?oc=5",
+     "via": "Googleニュース「声優」"
+    }
+   ]
+  },
+  {
+   "title": "『鬼滅の刃』リサ、声優の夫の不倫騒動にもかかわらず出産..結局5年で離婚 [★ジャパン]",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Obmx0VVJ1NkV6Sm02S1puSkZpWEV2alF5ODJLTlE5X3ZaMUNzTjVicGpjWEtCZml6LVFqSXpIQmpjYjFNbGRueFFDTDZVb0dPVGV0ZmJ1MElPWDRFYTN0TVo2c1FBUW52bGQ1N2dtVWRTLUJFSTNJ?oc=5",
+   "pubDate": "2026-11-28T11:24:30.000Z",
+   "firstSeen": "2026-11-28T14:17:55.487Z",
+   "image": null,
+   "source": "스타뉴스",
+   "sourceId": "gnews-seiyu",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 12,
+   "categories": [
+    "cast",
+    "romance"
+   ],
+   "works": [
+    "鬼滅の刃"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "스타뉴스",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Obmx0VVJ1NkV6Sm02S1puSkZpWEV2alF5ODJLTlE5X3ZaMUNzTjVicGpjWEtCZml6LVFqSXpIQmpjYjFNbGRueFFDTDZVb0dPVGV0ZmJ1MElPWDRFYTN0TVo2c1FBUW52bGQ1N2dtVWRTLUJFSTNJ?oc=5",
      "via": "Googleニュース「声優」"
     }
    ]
@@ -10503,6 +10775,12 @@
      "via": "Googleニュース「アニメ」"
     },
     {
+     "name": "山陽新聞",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xRGRiYjZhc3BYRHRKYVVJLWQ3LTZ3dllYTjZBTjZ1N2JsOGZVM0RQYmhhM2RrWXdEQnRjb01PMkw1QjlsRGYtLWU3QVllcks1Tmc?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
      "name": "リアルサウンド（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NUkJRV1V1RW4wTVNIY0FfVlRMWVlvZlktaVhjeUZwVjZiVFRnZ2FnQWRvRFUwcm92RDh0bnhKQXQtVjJ5YUlodm9vM1hDbFZhSy0tX2xnVHhiWVptR0tHNmF6TTJPRGN4dEh2YWliTXl2SUxXU29tQWtRd05jdjg?oc=5",
@@ -10727,6 +11005,13 @@
      "name": "日テレNEWS NNN（Yahoo!ニュース）",
      "sourceId": "gnews-seiyu",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90TDJJU09xeHZseTJkdDNSOU12bHZTMHFNRWp4RjNWSlR1S2JXRE55NlJGWm9CQksxSHZNSG1CX2JncHVFOXo1RkZuSks5UFFiZXVad3VFNkNkNnlXSXQzOE5USjY4TnRhWXhvZFpGVGxINzFNbDh0a1ZhOGJmWGc?oc=5",
+     "via": "Googleニュース「声優」",
+     "syndicated": true
+    },
+    {
+     "name": "au Webポータル",
+     "sourceId": "gnews-seiyu",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYWV5WFlkeGNLMEEwdDlnLU0tNTJISVI3LUJ3YkRXLUI0S2wtSWdoU21ySjg4ZW12MzNPMDZSUVBJbklVb2NXUlpFd3NrQWo4NmR2WlVVOThnUzEzNXpwMmpfSnNiX3dKRnVNVGNn?oc=5",
      "via": "Googleニュース「声優」",
      "syndicated": true
     }
@@ -13133,7 +13418,7 @@
    "firstSeen": "2026-11-28T09:17:58.204Z",
    "image": null,
    "source": "荒川区公式サイト",
-   "sourceId": "gnews-seiyu",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -13146,9 +13431,9 @@
    "sources": [
     {
      "name": "荒川区公式サイト",
-     "sourceId": "gnews-seiyu",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oUTZFVlZ2SXVtaldsdEZyUzBPZFpNdGY0eGxWc0VGWFRoZ09aak5BOHFzUUl4VHZDbTU2T2hINnlyUTZVb1Y1czNNdlBZVllEWUo4ckhIelVsOU0yLUR5QXg2REREZWhWOFpDb2JiT3NZd2xL?oc=5",
-     "via": "Googleニュース「声優」"
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -16815,6 +17100,13 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNaWRCSjJlY1BMZERqVU4wUkJ4dzhtSkhpQ3dFQUxXYWxLcGdvaW0xVGVFMWJiUUEtbnNNSF9ybkc5UVUtOGJkc21VajRCX0lqNDJDYS1tWW5ONXkzV1c1azlJRWlWX2pNbkg0?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "MANTANWEB（Yahoo!ニュース）",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yZHBpeDlnTWlXWVBlZTJLVTVWTjB5aHYzNjBESlhKbXIwS2JuZm5ObzJjYld0MWdVa25HRjYyRVpXYldkbXcwQk1Ta0ZoQUdaTFg5Q3dyLXRWeWNMSC11ZHMwUUR1UE5WMWdZU1I0N3VlNGxIemVNSkkycC1fR00?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
     }
    ]
   },
@@ -21513,7 +21805,7 @@
    "firstSeen": "2026-11-27T11:18:12.672Z",
    "image": null,
    "source": "電撃オンライン",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -21526,9 +21818,9 @@
    "sources": [
     {
      "name": "電撃オンライン",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMjZ5dDFGTnJ5OXVlQi1fWGFKMFA2dGdCR0lVQ2Rvd2NHb2oxQmpHTWVjRXZyUTVUMWlqdDdnS2N6Y0FReVVRcFhxZTZVMEpscnI5M0E4blpTQQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -22351,7 +22643,7 @@
    "firstSeen": "2026-11-27T10:18:01.786Z",
    "image": null,
    "source": "エンタメ特化型情報メディア スパイス",
-   "sourceId": "gnews-tvanime",
+   "sourceId": "gnews-anime",
    "syndicated": false,
    "kind": "aggregator",
    "lang": "ja",
@@ -22367,9 +22659,9 @@
    "sources": [
     {
      "name": "エンタメ特化型情報メディア スパイス",
-     "sourceId": "gnews-tvanime",
+     "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ODFnRktzQ2hBQjZFTlEzMjRDRnQ1cm8zWVdKbG01czJmcHFFVlRCbEhBYkdiYTdwaGVueUJOSEFsWWp1cjVhYWZyZzFsd03SAVRBVV95cUxPQzk5OUVLSU82TmRYVjF1b0p0MGhJTHptdXNKNFBfOGh2bTZXblZsNWVIOU1ENlBVMi1uSWZGLVVsbFhiNWxndWdWblUzZ3dxQ0xOQXM?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -192130,259 +192422,6 @@
      "name": "CBR Anime News",
      "sourceId": "cbr-anime",
      "link": "https://www.cbr.com/transformers-blokees-wheels-spark-of-legacy-wave-5-reveal/"
-    }
-   ]
-  },
-  {
-   "title": "まつげまで白い「セーラームーン」の未来の姿「ネオ・クイーン・セレニティ」、原作サイドとの綿密な打ち合わせを経て立体化を実現【#魂ネイション2026】(HOBBY Watch)",
-   "summary": "「TAMASHII NATION 2026」の「美少女戦士セーラームーン」コーナーでひときわ目を惹くのがフィギュア「Figuarts Zero chouette ネオ・クイーン・セレニティ」だ。202",
-   "link": "https://news.yahoo.co.jp/articles/bc4d85134f1edd525cf396731cd55e1b515d0a7e?source=rss",
-   "pubDate": "2026-11-13T04:08:00.000Z",
-   "firstSeen": "2026-11-13T04:17:56.716Z",
-   "image": null,
-   "source": "HOBBY Watch（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "HOBBY Watch（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/bc4d85134f1edd525cf396731cd55e1b515d0a7e?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「ゼルダの伝説」アニメイトオリジナル商品に新アイテムが追加！(GAME Watch)",
-   "summary": "アニメイトは、「ゼルダの伝説」シリーズのオリジナル商品について新たに3アイテムを12月4日より順次発売する。【画像】「ゼルダの伝説 時のオカリナ アクリルアートパネル」価格：3,300円 ラインナップ",
-   "link": "https://news.yahoo.co.jp/articles/595d0d253246f5fddf5d00be459fa4e1fbb2e44c?source=rss",
-   "pubDate": "2026-11-13T04:08:00.000Z",
-   "firstSeen": "2026-11-13T04:17:56.716Z",
-   "image": null,
-   "source": "GAME Watch（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 10,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "GAME Watch（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/595d0d253246f5fddf5d00be459fa4e1fbb2e44c?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Yuri Is My Job! Manga Gets Short Drama Adaptation Next Spring",
-   "summary": "Drama to debut on Tatedora app",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-12/yuri-is-my-job-manga-gets-short-drama-adaptation-next-spring/.243775",
-   "pubDate": "2026-11-13T04:03:18.000Z",
-   "firstSeen": "2026-11-13T05:18:57.623Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 4,
-   "categories": [
-    "media"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-12/yuri-is-my-job-manga-gets-short-drama-adaptation-next-spring/.243775"
-    }
-   ]
-  },
-  {
-   "title": "『あんさんぶるスターズ！！』より、Ra*bitsの新曲「HAO♡RABI」が配信開始！",
-   "summary": "大人気ゲームアプリ『あんさんぶるスターズ！！』から、Ra*bitsの新曲「HAO♡RABI」がフルサイ...",
-   "link": "https://www.lisani.jp/0000322122/",
-   "pubDate": "2026-11-13T04:00:57.000Z",
-   "firstSeen": "2026-11-13T04:17:56.716Z",
-   "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611121800-yh-014.jpg",
-   "source": "リスアニ！",
-   "sourceId": "lisani",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "broadcast",
-    "game"
-   ],
-   "works": [
-    "あんさんぶるスターズ!!",
-    "HAO♡RABI"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "リスアニ！",
-     "sourceId": "lisani",
-     "link": "https://www.lisani.jp/0000322122/"
-    }
-   ]
-  },
-  {
-   "title": "プロ雀士／声優の伊達朱里紗が「私にはポジティブな言葉をかけてください」と呼びかけ 歴代MVP揃う“強豪卓”での勝利に気持ちを吐露（KAI-YOU）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MYW1Idk1zZHJvdGRfN1kwNFVpamtuME5HNVFGMktlQkE1OE5rODdqaVJneGJJN3hfcHdIZXd6dGhCeE56NWw2YUh1QjhFSlctQTJ6ZGtRenoyZ3BUVzBVR2JzUjgxNzBnM2ZfdFdURVZOOHFEdmFLZFd2MXRXUXM?oc=5",
-   "pubDate": "2026-11-13T04:00:18.000Z",
-   "firstSeen": "2026-11-13T04:17:56.716Z",
-   "image": null,
-   "source": "KAI-YOU（Yahoo!ニュース）",
-   "sourceId": "gnews-seiyu",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "KAI-YOU（Yahoo!ニュース）",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MYW1Idk1zZHJvdGRfN1kwNFVpamtuME5HNVFGMktlQkE1OE5rODdqaVJneGJJN3hfcHdIZXd6dGhCeE56NWw2YUh1QjhFSlctQTJ6ZGtRenoyZ3BUVzBVR2JzUjgxNzBnM2ZfdFdURVZOOHFEdmFLZFd2MXRXUXM?oc=5",
-     "via": "Googleニュース「声優」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "水樹奈々、声優・主題歌を務めたテレビアニメ『天は赤い河のほとり』への溢れる想いを語る！11月の『エンタメ☆カフェ』はテレビアニメ特集",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YV0RaVGRDaE9LdzNrbzlHQ09iSEh1ZlR3dDJrWFRpMFppSDZnSnRWbElieUtHWnQtX1F4dGxkbTdNZUgwai1BLW4yRHpkOGdvUUtvTWFkLWJob0o1MzJkTNIBZkFVX3lxTE9Za0JXcllVS0tzRlV2Z1pMMmg0Mnc5MmJLSjR0TlBDWmU1R19JRTVHNWppRDR0Q1hrT0dzNHBkZHBpZDV4QkFvR3BnYThxQjFVUVNScWE3RFRuOS1iS2tHR2g5VURnQQ?oc=5",
-   "pubDate": "2026-11-13T04:00:00.000Z",
-   "firstSeen": "2026-11-13T04:17:56.716Z",
-   "image": null,
-   "source": "radiko news",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 26,
-   "categories": [
-    "cast",
-    "music"
-   ],
-   "works": [
-    "天は赤い河のほとり",
-    "エンタメ☆カフェ"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "radiko news",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YV0RaVGRDaE9LdzNrbzlHQ09iSEh1ZlR3dDJrWFRpMFppSDZnSnRWbElieUtHWnQtX1F4dGxkbTdNZUgwai1BLW4yRHpkOGdvUUtvTWFkLWJob0o1MzJkTNIBZkFVX3lxTE9Za0JXcllVS0tzRlV2Z1pMMmg0Mnc5MmJLSjR0TlBDWmU1R19JRTVHNWppRDR0Q1hrT0dzNHBkZHBpZDV4QkFvR3BnYThxQjFVUVNScWE3RFRuOS1iS2tHR2g5VURnQQ?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "エムピー役・加藤英美里さんが撮影＆魅力を語る！ アニメ『貸した魔力は【リボ払い】で強制徴収』フィギュアインタビュー",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NaUxSem5HXy11TWM2Z0dIdHZQQ3ZCbi1lblZjQV9Mcnhma1FoTUd3QXB2T0xCaGEycGtwQXZpT0ZuR2dvUnh3bGlmYVE1T2h5SlFKYnJRVzhrN04xQTAtNnl2c1hHcHpOSGRN?oc=5",
-   "pubDate": "2026-11-13T04:00:00.000Z",
-   "firstSeen": "2026-11-13T04:17:56.716Z",
-   "image": null,
-   "source": "アニメイトタイムズ",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "goods"
-   ],
-   "works": [
-    "貸した魔力は【リボ払い】で強制徴収"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "アニメイトタイムズ",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NaUxSem5HXy11TWM2Z0dIdHZQQ3ZCbi1lblZjQV9Mcnhma1FoTUd3QXB2T0xCaGEycGtwQXZpT0ZuR2dvUnh3bGlmYVE1T2h5SlFKYnJRVzhrN04xQTAtNnl2c1hHcHpOSGRN?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「サンライズ50周年」キービジュアル使用の公式グッズ発売決定!A-on STORE・プレミアムバンダイにて11月13日より先行受注開始!",
-   "summary": "株式会社バンダイナムコフィルムワークス［住所：東京都杉並区、代表取締役社長：河野 聡］は、 「サンライズ50周年」キービジュアルを使用した公式グッズとして、アクリルスタンド、アクリルブロック、コレク...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000727.000029654.html",
-   "pubDate": "2026-11-13T04:00:00.000Z",
-   "firstSeen": "2026-11-13T05:18:57.623Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 12,
-   "categories": [
-    "visual",
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000727.000029654.html"
-    }
-   ]
-  },
-  {
-   "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』×サンシャイン60展望台「天空彩宴」開催決定！猫猫と壬氏のメインビジュアル公開、グッズ・キーワードラリー・コラボメニューを予告",
-   "summary": "「サンシャイン60展望台 てんぼうパーク×『劇場版 薬屋のひとりごと 亡妃の秘宝』天空彩宴」詳細 公開されたメインビジュアルでは、空と街並みを背景に、猫猫と壬氏がこちらを振り返っています。 緑の衣装の猫猫と、紫・青系の衣装に身を包んだ壬氏。…",
-   "link": "https://nijimen.kusuguru.co.jp/topics/656030",
-   "pubDate": "2026-11-13T03:58:45.000Z",
-   "firstSeen": "2026-11-13T04:17:56.716Z",
-   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/ba2e2276ebb0417e9232e617442bb1c6.jpg",
-   "source": "にじめん",
-   "sourceId": "nijimen",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "visual",
-    "movie",
-    "goods"
-   ],
-   "works": [
-    "薬屋のひとりごと 亡妃の秘宝"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "にじめん",
-     "sourceId": "nijimen",
-     "link": "https://nijimen.kusuguru.co.jp/topics/656030"
     }
    ]
   }
