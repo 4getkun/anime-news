@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-28T06:19:41.242Z",
+ "generatedAt": "2026-11-28T07:18:41.947Z",
  "count": 6000,
  "dedupe": {
-  "exact": 5388,
-  "syndicated": 485,
-  "similar": 697,
-  "syndicatedTotal": 6541,
-  "syndicatedLeft": 1282
+  "exact": 5387,
+  "syndicated": 484,
+  "similar": 700,
+  "syndicatedTotal": 6566,
+  "syndicatedLeft": 1293
  },
  "calendar": [
   {
@@ -3475,19 +3475,17 @@
    "spoiler": false
   },
   {
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "precision": "day",
-   "verb": "stream",
-   "label": "配信",
-   "work": "ゴジラ-0.0",
-   "title": "映画『ゴジラ-0.0』の密着ドキュメンタリー番組がアマプラにて独占配信決定。“500日間”にわたり制作の舞台裏を追う",
-   "link": "https://news.denfaminicogamer.jp/news/2611133p",
-   "source": "電ファミニコゲーマー",
-   "sources": 1,
+   "verb": "broadcast",
+   "label": "放送",
+   "work": "ベストアーティスト2026",
+   "title": "KO1KEYZが『ベストアーティスト2026』に初出演「アイドルを夢見ていた頃から見ていた番組」(WEBザテレビジョン)",
+   "link": "https://news.yahoo.co.jp/articles/9090c7523021de93551961e93296b0a08f8a3203?source=rss",
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sources": 8,
    "categories": [
-    "broadcast",
-    "movie",
-    "stage"
+    "cast"
    ],
    "platforms": [],
    "spoiler": false
@@ -9372,8 +9370,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 857,
-   "accepted": 851
+   "archived": 858,
+   "accepted": 852
   },
   {
    "id": "natalie-comic",
@@ -9402,9 +9400,9 @@
    "name": "声優グランプリ",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 49,
    "accepted": 49
   },
@@ -9413,9 +9411,9 @@
    "name": "アニメーションビジネス・ジャーナル",
    "kind": "specialist",
    "lang": "ja",
-   "ok": false,
-   "error": "Request timed out after 30000ms",
-   "fetched": 0,
+   "ok": true,
+   "error": null,
+   "fetched": 10,
    "archived": 5,
    "accepted": 5
   },
@@ -9427,8 +9425,8 @@
    "ok": true,
    "error": null,
    "fetched": 20,
-   "archived": 1769,
-   "accepted": 664
+   "archived": 1770,
+   "accepted": 665
   },
   {
    "id": "gnews-anime",
@@ -9438,8 +9436,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 5222,
-   "accepted": 4942
+   "archived": 5213,
+   "accepted": 4934
   },
   {
    "id": "gnews-tvanime",
@@ -9449,8 +9447,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1220,
-   "accepted": 1153
+   "archived": 1215,
+   "accepted": 1148
   },
   {
    "id": "gnews-movie",
@@ -9471,8 +9469,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 2396,
-   "accepted": 2131
+   "archived": 2394,
+   "accepted": 2129
   },
   {
    "id": "natalie-eiga",
@@ -9482,8 +9480,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1130,
-   "accepted": 175
+   "archived": 1128,
+   "accepted": 176
   },
   {
    "id": "inside-games",
@@ -9493,8 +9491,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1695,
-   "accepted": 868
+   "archived": 1689,
+   "accepted": 867
   },
   {
    "id": "4gamer",
@@ -9504,7 +9502,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 1143,
+   "archived": 1139,
    "accepted": 102
   },
   {
@@ -9515,8 +9513,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1164,
-   "accepted": 286
+   "archived": 1163,
+   "accepted": 285
   },
   {
    "id": "gamespark",
@@ -9526,8 +9524,8 @@
    "ok": true,
    "error": null,
    "fetched": 50,
-   "archived": 1178,
-   "accepted": 93
+   "archived": 1176,
+   "accepted": 94
   },
   {
    "id": "otakuma",
@@ -9549,7 +9547,7 @@
    "error": null,
    "fetched": 50,
    "archived": 29568,
-   "accepted": 3513
+   "accepted": 3540
   },
   {
    "id": "prtimes",
@@ -9559,7 +9557,7 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 28649,
+   "archived": 28578,
    "accepted": 508
   },
   {
@@ -9570,8 +9568,8 @@
    "ok": true,
    "error": null,
    "fetched": 100,
-   "archived": 678,
-   "accepted": 678
+   "archived": 679,
+   "accepted": 679
   },
   {
    "id": "mal",
@@ -9597,6 +9595,272 @@
   }
  ],
  "items": [
+  {
+   "title": "『GTA6』推計5,300万本で早くも歴代ランキング上位争いに！初代『ポケモン』や『サイバーパンク2077』超え。市場調査会社が報告",
+   "summary": "",
+   "link": "http://www.gamespark.jp/article/2026/11/28/175412.html",
+   "pubDate": "2026-11-28T07:13:29.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "Game*Spark",
+   "sourceId": "gamespark",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "ranking"
+   ],
+   "works": [
+    "GTA6",
+    "ポケモン",
+    "サイバーパンク2077"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Game*Spark",
+     "sourceId": "gamespark",
+     "link": "http://www.gamespark.jp/article/2026/11/28/175412.html"
+    }
+   ]
+  },
+  {
+   "title": "KO1KEYZが『ベストアーティスト2026』に初出演「アイドルを夢見ていた頃から見ていた番組」(WEBザテレビジョン)",
+   "summary": "櫻井翔が総合司会を務める、11月28日(土)放送の「ベストアーティスト2026」(第一部＝昼4:00-5:00、第二部＝夜7:00-10:54、日本テレビ系※第一部は一部地域を除く)にて、KO1KEY",
+   "link": "https://news.yahoo.co.jp/articles/9090c7523021de93551961e93296b0a08f8a3203?source=rss",
+   "pubDate": "2026-11-28T07:08:00.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "WEBザテレビジョン（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/9090c7523021de93551961e93296b0a08f8a3203?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "暗殺の母は柴田理恵さん！ アニメ『チー付与』実写日常ショートドラマ第1弾“料理”編公開",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FTFFpZVpxSjlwTm1zeC1mODZJQlVleDFHRFdmc21odW80QjZZUi1obFM5cXN0dURJbDdEc1FzU1Zvd3E4bFltc0MzYmFaZ0pPUHFzdU5sTnZ1QQ?oc=5",
+   "pubDate": "2026-11-28T07:04:00.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "電撃オンライン",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 8,
+   "categories": [
+    "stage"
+   ],
+   "works": [
+    "チー付与"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "電撃オンライン",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FTFFpZVpxSjlwTm1zeC1mODZJQlVleDFHRFdmc21odW80QjZZUi1obFM5cXN0dURJbDdEc1FzU1Zvd3E4bFltc0MzYmFaZ0pPUHFzdU5sTnZ1QQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『おねがいアイプリ』5だんが12月3日より順次スタート予定！ミッキーとミニーをインスパイアした「ディズニーコーデ」が登場へ",
+   "summary": "タカラトミーアーツ『おねがいアイプリ』5だんの見どころ 『おねがいアイプリ』は、アイプリカードをフラットパネルの上に置き、画面に合わせて動かして遊ぶリズムゲーム形式のライブ体験ゲームです。大きな横型モニターでは、テレビアニメで放送されるライ…",
+   "link": "https://nijimen.kusuguru.co.jp/topics/670680",
+   "pubDate": "2026-11-28T07:01:56.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/7b334c3b60964450812ff09bd5f67143.jpg",
+   "source": "にじめん",
+   "sourceId": "nijimen",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "game"
+   ],
+   "works": [
+    "おねがいアイプリ"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "にじめん",
+     "sourceId": "nijimen",
+     "link": "https://nijimen.kusuguru.co.jp/topics/670680"
+    }
+   ]
+  },
+  {
+   "title": "「ベストアーティスト2026」タイムテーブル＆特別企画まとめ！STARTOアーティスト9組による 一夜限りのシャッフルメドレーも！",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/28/105164.html",
+   "pubDate": "2026-11-28T07:00:07.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/28/105164.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c37fafd9ed0a0437e4c7b38eb01f419fe1e2bea8?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "“もう付き合っちゃえよ!!!”「葬送のフリーレン」フリーレン＆ヒンメル、フェルン＆シュタルクがカフェデート!? 優雅なグッズ当たるくじ",
+   "summary": "",
+   "link": "https://animeanime.jp/article/2026/11/28/105163.html",
+   "pubDate": "2026-11-28T07:00:03.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "アニメ！アニメ！",
+   "sourceId": "animeanime",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "ja",
+   "score": 10,
+   "categories": [
+    "goods"
+   ],
+   "works": [
+    "葬送のフリーレン"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "アニメ！アニメ！",
+     "sourceId": "animeanime",
+     "link": "https://animeanime.jp/article/2026/11/28/105163.html"
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0c3b6b3cedb6a11379573af8969b62cced8a48c1?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "海外で最も人気のジブリ映画は？ 世界興行収入ランキング8位。猫は強し…「Kawaii」を先取り作品とは？(映画チャンネル)",
+   "summary": "もはや国民的存在となったスタジオジブリ。宮崎駿がアカデミー賞長編アニメーション賞を2度受賞するなど、その評価は国際的にも確立され、日本を代表するコンテンツといっても過言ではないだろう。そこで本稿では、",
+   "link": "https://news.yahoo.co.jp/articles/3bd2c8d5423936f3c0cae9630652d178b658b540?source=rss",
+   "pubDate": "2026-11-28T07:00:02.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "映画チャンネル（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 7,
+   "categories": [
+    "movie",
+    "ranking"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画チャンネル（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/3bd2c8d5423936f3c0cae9630652d178b658b540?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "TVアニメ「妖狐×僕SS」15周年記念PV公開！ | ニュース | アニプレックス オフィシャルサイト",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWEx4eDZDaElYYTdha2NqSC0yeTZrVnFiXzRBOHlyNWFKZTR3Q3FQUlFKN2RXS1hiaDBPLWJUTDh3M2xoay0zNk8wNTktV3UwZ1NhTXE2NXRNdDQ?oc=5",
+   "pubDate": "2026-11-28T06:31:24.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "Aniplex",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 16,
+   "categories": [
+    "visual"
+   ],
+   "works": [
+    "妖狐×僕SS"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Aniplex",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWEx4eDZDaElYYTdha2NqSC0yeTZrVnFiXzRBOHlyNWFKZTR3Q3FQUlFKN2RXS1hiaDBPLWJUTDh3M2xoay0zNk8wNTktV3UwZ1NhTXE2NXRNdDQ?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "Japanese Animation TV Ranking, November 16-22",
+   "summary": "The Apothecary Diaries season 3 earns 3.6% rating",
+   "link": "https://www.animenewsnetwork.com/news/2026-11-28/japanese-animation-tv-ranking-november-16-22/.244250",
+   "pubDate": "2026-11-28T06:30:00.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "Anime News Network",
+   "sourceId": "ann",
+   "syndicated": false,
+   "kind": "specialist",
+   "lang": "en",
+   "score": 0,
+   "categories": [
+    "new",
+    "ranking"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Anime News Network",
+     "sourceId": "ann",
+     "link": "https://www.animenewsnetwork.com/news/2026-11-28/japanese-animation-tv-ranking-november-16-22/.244250"
+    }
+   ]
+  },
   {
    "title": "『お求めいただいた暴君陛下の悪女です』100万部突破記念広告がアニメイト池袋本店に！屋外300インチモニターでも掲出中",
    "summary": "『お求めいただいた暴君陛下の悪女です』×アニメイト池袋本店 広告掲出の見どころ 原作・天壱さん、制作・SORAJIMAによるフルカラーコミックの広告を、池袋の大きな壁面と画面で楽しめます。掲出場所は北館エスカレーターの壁面と屋外300インチ…",
@@ -10109,6 +10373,12 @@
      "name": "Googleニュース「アニメ」",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UUDlxLUo5MHVFMlRiZmhtNXJPRGs2cUZwdkV4bXdBU0poWTdocG8wcTl0empsNUlIekVOVXAzeWlzcVRKeU5Maw?oc=5"
+    },
+    {
+     "name": "千葉テレビ放送",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WSU9PY1RUcEE5REU2WEJJZFRJQ2VjS3Q4OXpjaUFNUHN0TDZ2bmpycjR3MXhldjMtZGVlQ3RmSVVUX0F1dVVIeEJUMzBPTmZxRGlON0NnWnpLTDY4WDFR?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -10521,6 +10791,33 @@
    ]
   },
   {
+   "title": "『ベストアーティスト2026』STARTOアーティスト9組の「楽曲シャッフルメドレー」歌唱楽曲発表(TV LIFE web)",
+   "summary": "11月28日（土）に5時間にわたって生放送される日テレ系音楽の祭典『ベストアーティスト2026』内で行われる、STARTOアーティスト9組による一夜限りの「楽曲シャッフルメドレー」の各グループの歌唱楽",
+   "link": "https://news.yahoo.co.jp/articles/5494d6003ecfadac6df63c50b156526f41b49341?source=rss",
+   "pubDate": "2026-11-28T03:39:56.000Z",
+   "firstSeen": "2026-11-28T04:17:58.499Z",
+   "image": null,
+   "source": "TV LIFE web（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TV LIFE web（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/5494d6003ecfadac6df63c50b156526f41b49341?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "「ウサハナ」「チャーミーキティ」「シュガーバニーズ」が猫背をおたすけ！ハートのクッション入り「ふんばるず」になって登場♪",
    "summary": "",
    "link": "https://animeanime.jp/article/2026/11/28/105157.html",
@@ -10846,6 +11143,13 @@
      "name": "アニメ！アニメ！（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/4b564eb15d156f317f7601de820035faf45a504a?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52VjhWYlpvSGVqMl9HdzZoX2xaZnd2amxfOU9ZUUtKVkpMUGE4dDFDNHFxRnlWenBwbVhlMm1Mbmk0ZjJGNXk0WFpqdy0yRVZpVjdybEpLLVhfa0dsZ1NwQXN3U1ZRUUUzRVc1MlpPOTlPMEJJNmp3dXE0RkFsLU0?oc=5",
+     "via": "Googleニュース「アニメ」",
      "syndicated": true
     }
    ]
@@ -11223,6 +11527,33 @@
      "name": "アニメイトタイムズ",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0QVVyTllITXlIUGh3NGEtaDBkaVpqNmYwYktBRngxdDFiR0NBZ2tHTktYQkRkLS1hNUFEU0h5MjhEYUxVOTRJbHJfbU1zSmI0R2ZqREd0SGJBQXZhVlluNXlqS0EwWWNha0xv?oc=5",
+     "via": "Googleニュース「アニメ」"
+    }
+   ]
+  },
+  {
+   "title": "『名探偵プリキュア！』第43話「私の相棒」、みくるの本名を知ったあんなは戸惑いを隠せない - アニメ - ニュース",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yelJIVEVKbzdodncxeGJpRUFCNk4tYS1XOHdvYnVpOFdDemJneEd2NXh6R1VWa1phWlhkNWo1M1pLbU5xY1FKNjR0dEduaGM?oc=5",
+   "pubDate": "2026-11-28T03:00:00.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "クランクイン！",
+   "sourceId": "gnews-anime",
+   "syndicated": false,
+   "kind": "aggregator",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "名探偵プリキュア!"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "クランクイン！",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yelJIVEVKbzdodncxeGJpRUFCNk4tYS1XOHdvYnVpOFdDemJneEd2NXh6R1VWa1phWlhkNWo1M1pLbU5xY1FKNjR0dEduaGM?oc=5",
      "via": "Googleニュース「アニメ」"
     }
    ]
@@ -11668,6 +11999,33 @@
      "name": "インサイド（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/37cc88772b88f9fc6b647752de7c59d647531d28?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "timelesz新シングル全ジャケット写真解禁！ 『ベストアーティスト2026』で「本当のことを言うと」をテレビ初披露(クランクイン！)",
+   "summary": "2027年2月3日に発売されるtimeleszのDouble A‐sideシングル「ザユウノメイ／本当のことを言うと」より、全形態のジャケット写真が解禁された。また、本日11月28日放送の日本テレビ系",
+   "link": "https://news.yahoo.co.jp/articles/efd934b62026d705ce1b41430d84cacd744cb7ba?source=rss",
+   "pubDate": "2026-11-28T02:00:00.000Z",
+   "firstSeen": "2026-11-28T02:17:56.874Z",
+   "image": null,
+   "source": "クランクイン！（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/efd934b62026d705ce1b41430d84cacd744cb7ba?source=rss",
      "syndicated": true
     }
    ]
@@ -12425,46 +12783,6 @@
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/9453e13d76c06a92f5002dfbf7037133e51823ed?source=rss",
      "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Hana Hope 新曲「Akari.」TVアニメ『ラーメン赤猫 其の二』エンディングテーマに決定！1月10日配信リリースも決定！！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000005084.000013546.html",
-   "pubDate": "2026-11-27T23:42:46.000Z",
-   "firstSeen": "2026-11-28T01:17:53.073Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 18,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "ラーメン赤猫 其の二"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000005084.000013546.html"
-    },
-    {
-     "name": "エンタのおはなし",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81MkE0eEtwN1h6U2gtSWQ4aXlIbEhValNUOGM2NGdZMHYzTENOc1phMXZoTHhsVFc1aDlmTDlkb19xSkRwYUVOR2U2VQ?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    },
-    {
-     "name": "Excite エキサイト",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sS0VIOWFLVndxMURVVlRJaFR0V3R2c0h0UVh3TlBGU1BBLTRrUlBGN1pueFB6RThuSnZ6OU9ncTdBUkJLQnJleDFsMm5rem9OTXl3eVJVdGgxR3lDeVJPelZHQ25HdS1JREpFSUNuSUZXbW9RUHc?oc=5",
-     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -13690,6 +14008,35 @@
      "name": "インサイド（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/6de0591f46f396d564e166fa1e9b7d780fe58073?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "【今夜放送】『ベストアーティスト2026』タイムテーブル 総勢42組が5時間生放送！(クランクイン！)",
+   "summary": "本日11月28日に生放送される『日テレ系音楽の祭典「ベストアーティスト2026」』（日本テレビ系）のタイムテーブルが発表。総勢42組のアーティストが出演し、16時からと19時からの二部構成で計5時間生",
+   "link": "https://news.yahoo.co.jp/articles/0979f1d72101bd882ebafe7fb5f664bbc84167c5?source=rss",
+   "pubDate": "2026-11-27T21:30:00.000Z",
+   "firstSeen": "2026-11-27T21:59:21.931Z",
+   "image": null,
+   "source": "クランクイン！（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/0979f1d72101bd882ebafe7fb5f664bbc84167c5?source=rss",
      "syndicated": true
     }
    ]
@@ -15402,6 +15749,72 @@
    ]
   },
   {
+   "title": "『ベストアーティスト2026』シャッフルメドレー楽曲発表 STARTOアーティスト9組が登場(リアルサウンド)",
+   "summary": "明日11月28日放送の音楽番組『ベストアーティスト2026』（日本テレビ系）の、番組企画『楽曲シャッフルメドレー』の歌唱曲が発表となった。【写真】『ベストアーティスト2026』シャッフルメドレーに登場",
+   "link": "https://news.yahoo.co.jp/articles/cf05b2ad8b016f8d7359b8332fc345e50fb9d605?source=rss",
+   "pubDate": "2026-11-27T12:00:00.000Z",
+   "firstSeen": "2026-11-27T12:18:51.892Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/cf05b2ad8b016f8d7359b8332fc345e50fb9d605?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "モデルプレス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/c154f434ff02be249bdb513116ed76768d0e4580?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "TVガイドWeb（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/fc1388feb3ce56552e400f90734648657e6079ab?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "『ベストアーティスト2026』STARTO9組のメドレー楽曲発表 嵐やSMAPの名曲披露(ENCOUNT)",
+   "summary": "28日放送の日本テレビ系音楽の祭典『ベストアーティスト2026』（第1部：午後4時～午後5時 ※一部地域を除く、第2部：午後7時～午後10時54分）内で披露される、STARTOアーティスト9組による一",
+   "link": "https://news.yahoo.co.jp/articles/fdcb64e6931759e13389900236e0434110f5242f?source=rss",
+   "pubDate": "2026-11-27T12:00:00.000Z",
+   "firstSeen": "2026-11-27T12:18:51.892Z",
+   "image": null,
+   "source": "ENCOUNT（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ENCOUNT（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/fdcb64e6931759e13389900236e0434110f5242f?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "「カイジ」30周年記念スペシャルボックス発売決定 ギャンブル大全や豪華3大付録、福本伸行と麻雀ができるチャンスも(映画.com)",
    "summary": "福本伸行氏の漫画「カイジ」シリーズの30周年記念企画として、「カイジ SPECIAL BOX 1996〜」が2027年2月2日に発売される。26年11月11日よりAmazonほかで注文を受け付け中。",
    "link": "https://news.yahoo.co.jp/articles/5290eae969a5062a524c206edc60ae3bbf027072?source=rss",
@@ -16801,9 +17214,9 @@
     },
     {
      "name": "AV Watch（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
+     "sourceId": "gnews-movie",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Vb0hsWWQwa2UzWkZMRDI1TGtwSk9wdzk4UzFGZ04zNXJhNmFIblAtS2E5azczR2tPU0ZYdU4yNFgtNkQ1aWpQaG9zOXRzVlhkOTJERTNKXzFmYUQtXzlyRkhYVGVUX0FGSHZkMzJnQ3Q3dTdtZjk5SExLQ3VpN1k?oc=5",
-     "via": "Googleニュース「アニメ」",
+     "via": "Googleニュース「劇場版 アニメ」",
      "syndicated": true
     }
    ]
@@ -17367,6 +17780,46 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4td0FlZTN6MmRrNGxsd0xkazZVZ2k5NzlXaGQwZHlRVDg5aHdGRjM0VjdKRmJGM2lzN25VaGpNNUJNV3ZBWklJTERqR3ZQVlRTWFIwUWlka0UyWU9GUWxCeUEwdEVWLWZ6bmtVY05hOHB0bl8tWjgzZU5tTEtqdDg?oc=5",
      "via": "Googleニュース「アニメ」",
      "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Hana Hope 新曲「Akari.」TVアニメ『ラーメン赤猫 其の二』エンディングテーマに決定！1月10日配信リリースも決定！！",
+   "summary": "",
+   "link": "https://prtimes.jp/main/html/rd/p/000005084.000013546.html",
+   "pubDate": "2026-11-27T10:00:02.000Z",
+   "firstSeen": "2026-11-28T01:17:53.073Z",
+   "image": null,
+   "source": "PR TIMES",
+   "sourceId": "prtimes",
+   "syndicated": false,
+   "kind": "press",
+   "lang": "ja",
+   "score": 18,
+   "categories": [
+    "music"
+   ],
+   "works": [
+    "ラーメン赤猫 其の二"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "PR TIMES",
+     "sourceId": "prtimes",
+     "link": "https://prtimes.jp/main/html/rd/p/000005084.000013546.html"
+    },
+    {
+     "name": "エンタのおはなし",
+     "sourceId": "gnews-tvanime",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81MkE0eEtwN1h6U2gtSWQ4aXlIbEhValNUOGM2NGdZMHYzTENOc1phMXZoTHhsVFc1aDlmTDlkb19xSkRwYUVOR2U2VQ?oc=5",
+     "via": "Googleニュース「TVアニメ 放送」"
+    },
+    {
+     "name": "Excite エキサイト",
+     "sourceId": "gnews-anime",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sS0VIOWFLVndxMURVVlRJaFR0V3R2c0h0UVh3TlBGU1BBLTRrUlBGN1pueFB6RThuSnZ6OU9ncTdBUkJLQnJleDFsMm5rem9OTXl3eVJVdGgxR3lDeVJPelZHQ25HdS1JREpFSUNuSUZXbW9RUHc?oc=5",
+     "via": "Googleニュース「アニメ」"
     }
    ]
   },
@@ -22889,6 +23342,32 @@
    ]
   },
   {
+   "title": "「VIVANT」ニューエラのコラボアイテム「59FIFTY®」（税込6600円） [画像・動画ギャラリー 5/22]",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TeldFS0FNUjNqa0E4U2JWRkZVTExnZTJrcUY1cnZDbU1VU2lpQnc4WXQ2ZXczMXVNTU1qeXNvZTRVZUpfTXB2djhxM0pad0U4eXJZZnByQzBUX3A5c0hwMw?oc=5",
+   "pubDate": "2026-11-27T05:34:11.000Z",
+   "firstSeen": "2026-11-28T07:17:54.659Z",
+   "image": null,
+   "source": "映画ナタリー",
+   "sourceId": "natalie-eiga",
+   "syndicated": false,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "goods"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "映画ナタリー",
+     "sourceId": "natalie-eiga",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TeldFS0FNUjNqa0E4U2JWRkZVTExnZTJrcUY1cnZDbU1VU2lpQnc4WXQ2ZXczMXVNTU1qeXNvZTRVZUpfTXB2djhxM0pad0U4eXJZZnByQzBUX3A5c0hwMw?oc=5"
+    }
+   ]
+  },
+  {
    "title": "湯浅政明×吉本ばなな×奈良美智、アニメ映画『ひな菊の人生』2027年公開 本編カットが初解禁 - KAI-YOU",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCNE1MRnNRS21WYmVXejZ4NG9sbkhtcWU4d1R0a2Z5TFpvUWFkcDRSb1lIdmJ6NldnampLOVR0ZmV3RkNxeE1BMw?oc=5",
@@ -23586,7 +24065,7 @@
      "syndicated": true
     },
     {
-     "name": "Yahoo!ニュース",
+     "name": "アニメ！アニメ！（Yahoo!ニュース）",
      "sourceId": "gnews-anime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mX04wZnJDa2NzVVoxWTF0b3p1ai1lSE8zbTlEXzJqUkFDSXJsSHdWMm94Q0ZNcjlfbjMxT1gzZnRWa0Fnd2pETkZkYUlvN2VVbkF5by1raFR0Z3lLbG5PZ3RNeDBIUHlLam9GeDQzTnQ2OWxISzYteHpCTGRDSkE?oc=5",
      "via": "Googleニュース「アニメ」",
@@ -24379,6 +24858,33 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yQ25QeUZjUHJRV2RIRmswelBwRFZvRmpjSHhhY0NRR2ZLVktKT1hvQXJBYi1HdzltQ0JBOEY4bDU4U1BlLW1HUjFvNmdwdFFIVk1TTjZjemRSQW9DUERYVWF2UTdzbk1fQnQxcEYzRVFMQ3pBNE15STVNWQ?oc=5",
      "via": "Googleニュース「TVアニメ 放送」"
+    }
+   ]
+  },
+  {
+   "title": "『ベストアーティスト2026』タイムテーブル発表 STARTOメドレー＆ディズニーシー25周年特別企画も(ENCOUNT)",
+   "summary": "日本テレビ系音楽の祭典『ベストアーティスト2026』（第1部：午後4時～午後5時 ※一部地域を除く、第2部：午後7時～午後10時54分）が28日に放送され、そのタイムテーブルが27日、発表された。【一",
+   "link": "https://news.yahoo.co.jp/articles/1c2c1b0513a3b51c5f7dd75fa398a5dd9ce60790?source=rss",
+   "pubDate": "2026-11-27T03:14:38.000Z",
+   "firstSeen": "2026-11-27T03:17:54.134Z",
+   "image": null,
+   "source": "ENCOUNT（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "ENCOUNT（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/1c2c1b0513a3b51c5f7dd75fa398a5dd9ce60790?source=rss",
+     "syndicated": true
     }
    ]
   },
@@ -28867,6 +29373,62 @@
    ]
   },
   {
+   "title": "『ベストアーティスト2026』タイムテーブル発表 総勢42組が“音楽の旅”をテーマに5時間生放送(リアルサウンド)",
+   "summary": "『ベストアーティスト2026』（日本テレビ系）が11月28日に放送される。あわせて、総勢42組の出演アーティストによるタイムテーブルが発表された。【画像】『ベストアーティスト2026』総勢42組のタイ",
+   "link": "https://news.yahoo.co.jp/articles/5b9e37387f89586e5a534806c235a0f9e606d094?source=rss",
+   "pubDate": "2026-11-26T21:01:04.000Z",
+   "firstSeen": "2026-11-26T21:17:56.716Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/5b9e37387f89586e5a534806c235a0f9e606d094?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ベストアーティスト2026」タイムテーブル発表！ミセス、Snow Man、超特急、桑田佳祐、スピッツ、イコラブらの出演時間は(音楽ナタリー)",
+   "summary": "明日11月28日に日本テレビ系で生放送される音楽特番「ベストアーティスト2026」のタイムテーブルが発表された。【タイムテーブル】第1部には人気グループが多数2001年に放送を開始し、今年で記念すべき",
+   "link": "https://news.yahoo.co.jp/articles/81b48e4618da976041786ff5d3fe817cf3e6ba67?source=rss",
+   "pubDate": "2026-11-26T21:00:19.000Z",
+   "firstSeen": "2026-11-26T21:17:56.716Z",
+   "image": null,
+   "source": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "音楽ナタリー（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/81b48e4618da976041786ff5d3fe817cf3e6ba67?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "だからタッセルってなんだよ！！映画「タコピーの原罪」劇場グッズにファン騒然",
    "summary": "",
    "link": "https://www.inside-games.jp/article/2026/11/27/191617.html",
@@ -28902,6 +29464,31 @@
    ]
   },
   {
+   "title": "「ベストアーティスト2026」タイムテーブル発表(モデルプレス)",
+   "summary": "【モデルプレス＝2026/11/27】櫻井翔が総合司会を務める11月28日放送の日本テレビ系音楽の祭典「ベストアーティスト2026」（第1部：午後4時00分～午後5時00分 ※一部地域を除く／第2部：",
+   "link": "https://news.yahoo.co.jp/articles/24a18b7f355c41ca4a3ae0ea7154d38baed55cfa?source=rss",
+   "pubDate": "2026-11-26T21:00:03.000Z",
+   "firstSeen": "2026-11-26T21:17:56.716Z",
+   "image": null,
+   "source": "モデルプレス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "モデルプレス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/24a18b7f355c41ca4a3ae0ea7154d38baed55cfa?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "【映画ランキング】『ゴジラ-0.0』V3 興収53億円突破！ 押井守監督版『ボトムズ』は3位発進(クランクイン！)",
    "summary": "11月20～22日の全国映画動員ランキングが興行通信社より発表され、公開3週目となる『ゴジラ-0.0』が、週末金土日動員35万2000人、興収5億9000万円をあげ、3週連続で1位を獲得した。11月2",
    "link": "https://news.yahoo.co.jp/articles/a42bc3a2dbb7664fe58a3b8911a1841145a7d5f4?source=rss",
@@ -28929,6 +29516,39 @@
      "name": "クランクイン！（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/a42bc3a2dbb7664fe58a3b8911a1841145a7d5f4?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ベストアーティスト2026」タイムテーブルが公開！ STARTOシャッフルメドレーなど見どころ満載(TVガイドWeb)",
+   "summary": "日本テレビ系で11月28日に放送される「ベストアーティスト2026」（第1部＝午後4：00、一部地域を除く/第2部＝午後7：00）のタイムテーブルが解禁された。 2001年に放送を開始し、26年で25",
+   "link": "https://news.yahoo.co.jp/articles/6846243d8e4d5f8e5fb011ce6c115f33ede9d73f?source=rss",
+   "pubDate": "2026-11-26T21:00:00.000Z",
+   "firstSeen": "2026-11-26T21:17:56.716Z",
+   "image": null,
+   "source": "TVガイドWeb（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "TVガイドWeb（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/6846243d8e4d5f8e5fb011ce6c115f33ede9d73f?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "TV LIFE web（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/865b9f507519e26921c68946cc07df614b6bcd3f?source=rss",
      "syndicated": true
     }
    ]
@@ -97969,6 +98589,35 @@
    ]
   },
   {
+   "title": "『ベストアーティスト2026』第3弾出演者にStray Kids、Juice=Juice、XG、&TEAM、MAZZEL、BoAら15組(リアルサウンド)",
+   "summary": "11月28日に放送される音楽番組『ベストアーティスト2026』（日本テレビ系）の、第3弾出演アーティストが発表された。【画像】『ベストアーティスト2026』第3弾出演者 今回は、IMP.、Ave Mu",
+   "link": "https://news.yahoo.co.jp/articles/9c66f947214c72b67e1a2edb952d1429ddcd41a0?source=rss",
+   "pubDate": "2026-11-20T10:05:14.000Z",
+   "firstSeen": "2026-11-20T10:17:58.326Z",
+   "image": null,
+   "source": "リアルサウンド（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "リアルサウンド（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/9c66f947214c72b67e1a2edb952d1429ddcd41a0?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
    "title": "『羊の皮を着たケモノ』最新4巻の書影が解禁！12月25日発売、九號先生描き下ろしグッズやPOP-UP SHOP・アニメイトGratteコラボも決定",
    "summary": "『羊の皮を着たケモノ④』は12月25日発売！最新刊の書影をチェック 『羊の皮を着たケモノ』は、大学生の日下部大地（くさかべだいち）が主人公のボーイズラブ作品です。姉が婚約者として連れてきた、一流企業に勤める将来有望なイケメン・井川淳（いがわ…",
    "link": "https://nijimen.kusuguru.co.jp/topics/663408",
@@ -99503,6 +100152,33 @@
      "sourceId": "gnews-tvanime",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTjJCQndqOWYwYmk4ZkhWTDhNVGZaSlZ3SUYtWlh2VmdTVGhJWklhYnd5Wjl0WVNsY1p5WWtQTWlYc3VoQTJpZU1TQThYd256TjVSRFZONVduaUlwLU9Uam9nYkZmX2RtbkUxdmNsN3E5dVcyaHdMUGM4Ry04c3M?oc=5",
      "via": "Googleニュース「TVアニメ 放送」",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "Stray KidsからTREASURE、&TEAMまで！「ベストアーティスト2026」第3弾出演アーティストが解禁(Kstyle)",
+   "summary": "2001年に放送がスタートし、今年で記念すべき25周年を迎える日テレ系音楽の祭典「ベストアーティスト2026」の第3弾出演アーティストが発表された。Stray Kids、フジテレビ「トークィーンズ」に",
+   "link": "https://news.yahoo.co.jp/articles/a1682a370311388f553f4e2bb50fb7c1780dbaf1?source=rss",
+   "pubDate": "2026-11-20T09:03:21.000Z",
+   "firstSeen": "2026-11-20T09:17:57.531Z",
+   "image": null,
+   "source": "Kstyle（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 4,
+   "categories": [
+    "cast"
+   ],
+   "works": [],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "Kstyle（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/a1682a370311388f553f4e2bb50fb7c1780dbaf1?source=rss",
      "syndicated": true
     }
    ]
@@ -136677,6 +137353,42 @@
      "name": "コミックナタリー（Yahoo!ニュース エンタメ）",
      "sourceId": "yahoo-ent",
      "link": "https://news.yahoo.co.jp/articles/3744c8108d1669c20d52f22f41098bec71c43320?source=rss",
+     "syndicated": true
+    }
+   ]
+  },
+  {
+   "title": "「ベストアーティスト2026」桑田佳祐が5年ぶりに出演 ドラマ「俺たちの箱根駅伝」主題歌をテレビ初披露(モデルプレス)",
+   "summary": "【モデルプレス＝2026/11/18】櫻井翔が総合司会を務める11月28日放送の日本テレビ系音楽の祭典「ベストアーティスト2026」（第1部：午後4時00分～午後5時00分（※一部地域を除く）／第2部",
+   "link": "https://news.yahoo.co.jp/articles/125f72b67203ac7d7c313245f6c05e51a2bc4c8d?source=rss",
+   "pubDate": "2026-11-17T20:00:00.000Z",
+   "firstSeen": "2026-11-17T20:17:59.619Z",
+   "image": null,
+   "source": "モデルプレス（Yahoo!ニュース エンタメ）",
+   "sourceId": "yahoo-ent",
+   "syndicated": true,
+   "kind": "general",
+   "lang": "ja",
+   "score": 6,
+   "categories": [
+    "cast",
+    "music"
+   ],
+   "works": [
+    "ベストアーティスト2026"
+   ],
+   "spoiler": false,
+   "sources": [
+    {
+     "name": "モデルプレス（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/125f72b67203ac7d7c313245f6c05e51a2bc4c8d?source=rss",
+     "syndicated": true
+    },
+    {
+     "name": "クランクイン！（Yahoo!ニュース エンタメ）",
+     "sourceId": "yahoo-ent",
+     "link": "https://news.yahoo.co.jp/articles/849a74c9490fa2e752d154dbd9657fc6bb5d33aa?source=rss",
      "syndicated": true
     }
    ]
@@ -191420,676 +192132,6 @@
      "name": "にじめん",
      "sourceId": "nijimen",
      "link": "https://nijimen.kusuguru.co.jp/topics/655734"
-    }
-   ]
-  },
-  {
-   "title": "アニメ『呪術廻戦』や劇場版『チェンソーマン レゼ篇』の原画が集結！MAPPA15周年展で楽しむアニメーションの祭典",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJY2pvRnZMX3E1ZEJsR3BDallaS3QxSkFpSGFJemRKelVkQVhTc3QzdENURHhQWl9KVURVVGNPdlAxOGowZXhsVUJJemo0MUR3aTRUaEFIUi1yYjRxZHBoSWhGLWgta1hLeU9QcnpR?oc=5",
-   "pubDate": "2026-11-12T22:00:44.000Z",
-   "firstSeen": "2026-11-12T23:17:57.983Z",
-   "image": null,
-   "source": "au Webポータル",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "呪術廻戦",
-    "チェンソーマン レゼ篇"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "au Webポータル",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJY2pvRnZMX3E1ZEJsR3BDallaS3QxSkFpSGFJemRKelVkQVhTc3QzdENURHhQWl9KVURVVGNPdlAxOGowZXhsVUJJemo0MUR3aTRUaEFIUi1yYjRxZHBoSWhGLWgta1hLeU9QcnpR?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    },
-    {
-     "name": "ｄメニューニュース",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95Q0VielNINHNqWUdrOTZ6dGJpV3JoNFhIS1V2dHpKMjBTd25TUkREZmJoSXMyaWRKS1JsYkhNTnZodjBTdFF4SUNCTm1MdmVJajhDYWJmNllVT3c1THd2TDdnb05uM0lRS2poaGhvNUhRekdvWGfSAXtBVV95cUxQNTlNZHowWkpmTUpualJ0c2NYN0VQMDl0LV95d3hEa25pemktUUJ4aVZ1b29XWFI0S01Jc0Y2SWhGSlRmMXlINnlPaHZaMENjVjlCYlZuMDlnajZlTVM3X0ZNZFBWcUtkRTV6WElnNzhqYWUzU1plOUliSjQ?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "映画『ゴジラ-0.0』の密着ドキュメンタリー番組がアマプラにて独占配信決定。“500日間”にわたり制作の舞台裏を追う",
-   "summary": "前作を上回る膨大なCG作業量や、完成予定日が迫っても終わらないVFX制作の様子が記録されている。11月27日より配信",
-   "link": "https://news.denfaminicogamer.jp/news/2611133p",
-   "pubDate": "2026-11-12T22:00:42.000Z",
-   "firstSeen": "2026-11-12T23:17:57.983Z",
-   "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/9687ce655869460c2f01446d2438d2c6-1-1024x576.jpg",
-   "source": "電ファミニコゲーマー",
-   "sourceId": "denfaminico",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "broadcast",
-    "movie",
-    "stage"
-   ],
-   "works": [
-    "ゴジラ-0.0"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "電ファミニコゲーマー",
-     "sourceId": "denfaminico",
-     "link": "https://news.denfaminicogamer.jp/news/2611133p"
-    }
-   ]
-  },
-  {
-   "title": "【コスプレ】常夏の太陽のような眩しい笑顔に胸キュン！制服から伸びる美脚も眩しい『学マス』紫雲清夏の美女レイヤー【写真8枚】",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/13/190861.html",
-   "pubDate": "2026-11-12T22:00:03.000Z",
-   "firstSeen": "2026-11-12T23:17:57.983Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [],
-   "works": [
-    "学マス"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/13/190861.html"
-    }
-   ]
-  },
-  {
-   "title": "「ゴジラ-0.0」500日間の完全密着ドキュメンタリー、プライムビデオで配信決定",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rdU1VNmZDR19YckRWaHY2RXdsMTZ6djYxZ05Bamg4NE1CQWZRWkMyOUJjbURRazJmVy1FeDRoNFV5ODExZzhnOEM0bw?oc=5",
-   "pubDate": "2026-11-12T22:00:00.000Z",
-   "firstSeen": "2026-11-12T23:17:57.983Z",
-   "image": null,
-   "source": "映画ナタリー",
-   "sourceId": "natalie-eiga",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "broadcast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "映画ナタリー",
-     "sourceId": "natalie-eiga",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rdU1VNmZDR19YckRWaHY2RXdsMTZ6djYxZ05Bamg4NE1CQWZRWkMyOUJjbURRazJmVy1FeDRoNFV5ODExZzhnOEM0bw?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "Sailor Moon Confirms 2027 Release Date for New Neo-Queen Serenity",
-   "summary": "Sailor Moon fans are getting a chance to bring home one of the most sought-after Neo-Queen Serenity designs of all time, and it's coming soo…",
-   "link": "https://www.cbr.com/sailor-moon-neo-queen-serenity-new-shfiguarts-release/",
-   "pubDate": "2026-11-12T21:40:20.000Z",
-   "firstSeen": "2026-11-12T23:17:57.983Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/06/sailor-moon-s-neo-queen-serenity-by-naoko-takeuchi.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/sailor-moon-neo-queen-serenity-new-shfiguarts-release/"
-    }
-   ]
-  },
-  {
-   "title": "【カリオストロの城の2CVや銭形パトカー！ 名探偵コナンの旧車たちも】アニメ作中に描かれたこだわり名車｜特撮／アニメの中の旧車（NOSWEB）",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ydU1sMDJhNFotb3lfZWp3MVdWZGozQTJ3dEtuMWpFSjM4OEhveEx4eHpTdFllTnp0Rnl1bldGYjI1SExEUWJMMzVJb3NUc1hpaXB2OXZqQndZWjh1bG0zQUdaMjlJMTQ3VDJ1RnE5Q2dlRlYyb3NLS0dlSDJCOUE?oc=5",
-   "pubDate": "2026-11-12T21:19:40.000Z",
-   "firstSeen": "2026-11-12T23:17:57.983Z",
-   "image": null,
-   "source": "NOSWEB（Yahoo!ニュース）",
-   "sourceId": "gnews-anime",
-   "syndicated": true,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "NOSWEB（Yahoo!ニュース）",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ydU1sMDJhNFotb3lfZWp3MVdWZGozQTJ3dEtuMWpFSjM4OEhveEx4eHpTdFllTnp0Rnl1bldGYjI1SExEUWJMMzVJb3NUc1hpaXB2OXZqQndZWjh1bG0zQUdaMjlJMTQ3VDJ1RnE5Q2dlRlYyb3NLS0dlSDJCOUE?oc=5",
-     "via": "Googleニュース「アニメ」",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「ポーズは何かの伏線？」映画『VIVANT』キービジュアルの中で…異彩放つ1人に注目集まる「どうしたん」「様子が1人おかしい」(中日スポーツ)",
-   "summary": "TBS系日曜劇場「VIVANT」は12日、公式インスタグラムを更新し、12月4日に劇場公開される映画「VIVANT」のキービジュアルを公開。主要キャラクターの中で、後方に小さくうつるチョッキー（タナパ",
-   "link": "https://news.yahoo.co.jp/articles/332d7b1aa6063f1bfe72d0c4271fa815873027e1?source=rss",
-   "pubDate": "2026-11-12T21:15:52.000Z",
-   "firstSeen": "2026-11-12T21:17:55.058Z",
-   "image": null,
-   "source": "中日スポーツ（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "visual",
-    "movie"
-   ],
-   "works": [
-    "VIVANT"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "中日スポーツ（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/332d7b1aa6063f1bfe72d0c4271fa815873027e1?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「プーマ」×「たまごっち」コラボが発売！双方のロゴなどを組み合わせた特別なデザイン",
-   "summary": "",
-   "link": "https://www.inside-games.jp/article/2026/11/13/190857.html",
-   "pubDate": "2026-11-12T21:10:02.000Z",
-   "firstSeen": "2026-11-12T21:17:55.058Z",
-   "image": null,
-   "source": "インサイド",
-   "sourceId": "inside-games",
-   "syndicated": false,
-   "kind": "general",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "goods"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "インサイド",
-     "sourceId": "inside-games",
-     "link": "https://www.inside-games.jp/article/2026/11/13/190857.html"
-    },
-    {
-     "name": "インサイド（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/82bf6c456e924071fa99822b6243eae47c94b125?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "「カラクリ庄左ヱ門の段」 | アニメ 忍たま乱太郎",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93OXRhM0I3SHZjMmhiMXZ4a2VYVE42bWwtdG8zanB3UWJNYkNmSzV3VUxHbElQLTY2Z0U0SHdZRVN1VnZBUjEzQl90VkdBUU9HSE44VXpCcjQtTkpaRGZJMDB3VXJjdE5uZjQwbDhrLVI4SXROYzhBUEFNcEo?oc=5",
-   "pubDate": "2026-11-12T21:07:09.000Z",
-   "firstSeen": "2026-11-13T10:17:56.930Z",
-   "image": null,
-   "source": "NHK ONE",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "NHK ONE",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93OXRhM0I3SHZjMmhiMXZ4a2VYVE42bWwtdG8zanB3UWJNYkNmSzV3VUxHbElQLTY2Z0U0SHdZRVN1VnZBUjEzQl90VkdBUU9HSE44VXpCcjQtTkpaRGZJMDB3VXJjdE5uZjQwbDhrLVI4SXROYzhBUEFNcEo?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「そりゃリュウも惚れる！」阿部寛『超ドアップ野崎』にファン胸キュン 映画『VIVANT』モノクロキービジュアルに「目すてき」「このポスター欲しい」(中日スポーツ)",
-   "summary": "TBS系日曜劇場「VIVANT」は12日、公式インスタグラムを更新し、12月4日に劇場公開される映画「VIVANT」のキービジュアルの一環で、公安刑事の野崎を演じる阿部寛（62）のモノクロ顔写真を公開",
-   "link": "https://news.yahoo.co.jp/articles/f1bf4c8dbcaba5a20d70da430e3402376aa09510?source=rss",
-   "pubDate": "2026-11-12T21:05:52.000Z",
-   "firstSeen": "2026-11-12T21:17:55.058Z",
-   "image": null,
-   "source": "中日スポーツ（Yahoo!ニュース エンタメ）",
-   "sourceId": "yahoo-ent",
-   "syndicated": true,
-   "kind": "general",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "visual",
-    "movie"
-   ],
-   "works": [
-    "超ドアップ野崎",
-    "VIVANT"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "中日スポーツ（Yahoo!ニュース エンタメ）",
-     "sourceId": "yahoo-ent",
-     "link": "https://news.yahoo.co.jp/articles/f1bf4c8dbcaba5a20d70da430e3402376aa09510?source=rss",
-     "syndicated": true
-    }
-   ]
-  },
-  {
-   "title": "Sanrio's Brand-New, Adorable Comic Blind Box Is Officially Here",
-   "summary": "This new Sanrio blind box is a collector's dream, including the complete Hello Kitty and Friends: Hello World! series alongside exclusive ex…",
-   "link": "https://www.cbr.com/sanrio-comic-mystery-box-hello-kitty-idw-publishing/",
-   "pubDate": "2026-11-12T21:00:13.000Z",
-   "firstSeen": "2026-11-12T21:17:55.058Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/hello-kitty-and-friends-supercute-adventure-hello-kitty-kuromi-and-pompompurin.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/sanrio-comic-mystery-box-hello-kitty-idw-publishing/"
-    }
-   ]
-  },
-  {
-   "title": "Mellow原作・主題歌のオリジナルアニメ「東の果ての月の下に」第2話「雨の路地、黒猫」をYouTubeで公開 毎週金曜20:00更新（全12話）",
-   "summary": "株式会社プエンテ（本社：埼玉県所沢市、代表取締役：保科一男）は、Mellowの小説と同名楽曲を原作とするオリジナルアニメ「東の果ての月の下に」（全12話）の第2話「雨の路地、黒猫」を、2026年11月13日（金）20...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000078.000161935.html",
-   "pubDate": "2026-11-12T20:52:35.000Z",
-   "firstSeen": "2026-11-12T21:17:55.058Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "music"
-   ],
-   "works": [
-    "東の果ての月の下に"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000078.000161935.html"
-    }
-   ]
-  },
-  {
-   "title": "2027年劇場版『名探偵コナン』キャスト一覧 映画登場キャラクターと発表内容をまとめ",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ScVR3S0taN2ZicmpIOHNjR3A5cFVKbmdSemhQR0x6ajBTeFhpWlN0QWNKVkI3T2pmOGR6U0dfNjFzLVR6QW1nMlo5U0FEWU50aEE1ZlMxWnFVdw?oc=5",
-   "pubDate": "2026-11-12T20:37:15.000Z",
-   "firstSeen": "2026-11-13T14:17:57.705Z",
-   "image": null,
-   "source": "人鳥日記",
-   "sourceId": "gnews-movie",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast",
-    "movie"
-   ],
-   "works": [
-    "名探偵コナン"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "人鳥日記",
-     "sourceId": "gnews-movie",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ScVR3S0taN2ZicmpIOHNjR3A5cFVKbmdSemhQR0x6ajBTeFhpWlN0QWNKVkI3T2pmOGR6U0dfNjFzLVR6QW1nMlo5U0FEWU50aEE1ZlMxWnFVdw?oc=5",
-     "via": "Googleニュース「劇場版 アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "Avatar: The Last Airbender Sequel Gets Official New Release on December 11",
-   "summary": "Avatar: The Last Airbender's official sequel is getting a new release this December.",
-   "link": "https://www.cbr.com/avatar-aang-the-last-airbender-vinyl-release-date/",
-   "pubDate": "2026-11-12T20:20:12.000Z",
-   "firstSeen": "2026-11-12T21:17:55.058Z",
-   "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/12/15-best-character-arcs-in-avatar-the-last-airbender-ranked.jpg",
-   "source": "CBR Anime News",
-   "sourceId": "cbr-anime",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "new"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "CBR Anime News",
-     "sourceId": "cbr-anime",
-     "link": "https://www.cbr.com/avatar-aang-the-last-airbender-vinyl-release-date/"
-    }
-   ]
-  },
-  {
-   "title": "世界三大ファンタスティック映画祭「シッチェス」入選！黒木華×佐藤直紀×古山俊輔監督の短編アニメーション『ファースト・ライト』Filmarksアプリほか11月12日(木)17時より期間限定無料公開！",
-   "summary": "",
-   "link": "https://prtimes.jp/main/html/rd/p/000009133.000001719.html",
-   "pubDate": "2026-11-12T20:10:02.000Z",
-   "firstSeen": "2026-11-12T20:17:58.113Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 6,
-   "categories": [
-    "cast",
-    "movie",
-    "game"
-   ],
-   "works": [
-    "ファースト・ライト"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000009133.000001719.html"
-    }
-   ]
-  },
-  {
-   "title": "東京：自主映画 高３短編受賞 PFFアワード アニメと実写融合：地域ニュース",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uS29nam1KcWxtbHVPZWNZVHJvQVdKRDM3eDd3cmpfZ2FwTll6ajNTeXZnS0xYZWhKUS1UeUpSZXo5SGxzYmcyenh1WHg1U0R4SEVuNWZuQUlQa2hDdUFDV3RIMXNJeV9KdEFXcE1OMDFBSHhWVVE?oc=5",
-   "pubDate": "2026-11-12T20:00:00.000Z",
-   "firstSeen": "2026-11-12T20:17:58.113Z",
-   "image": null,
-   "source": "読売新聞",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "読売新聞",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uS29nam1KcWxtbHVPZWNZVHJvQVdKRDM3eDd3cmpfZ2FwTll6ajNTeXZnS0xYZWhKUS1UeUpSZXo5SGxzYmcyenh1WHg1U0R4SEVuNWZuQUlQa2hDdUFDV3RIMXNJeV9KdEFXcE1OMDFBSHhWVVE?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "暮らしと心潤す豊かな水 アニメ映画「聲の形」 大垣",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oLVR0S3NQajAxV2ZqY2ZIUWEySE1IUW5fcGRrRTZMaHNpUkVGLXhhNkg3WHJjd29TdEZ0c1hTSEY2eWYtNE1pWC13bjhGaU5ZVjFTUGxB?oc=5",
-   "pubDate": "2026-11-12T20:00:00.000Z",
-   "firstSeen": "2026-11-12T20:17:58.113Z",
-   "image": null,
-   "source": "岐阜新聞デジタル",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 16,
-   "categories": [
-    "movie"
-   ],
-   "works": [
-    "聲の形"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "岐阜新聞デジタル",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oLVR0S3NQajAxV2ZqY2ZIUWEySE1IUW5fcGRrRTZMaHNpUkVGLXhhNkg3WHJjd29TdEZ0c1hTSEY2eWYtNE1pWC13bjhGaU5ZVjFTUGxB?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "Sega Streams Sonic the Hedgehog: Memories and Beyond Short Animated Film on YouTube",
-   "summary": "Short commemorating franchise's 35th anniversary features Sonic & friends vs. Metal Sonic",
-   "link": "https://www.animenewsnetwork.com/news/2026-11-12/sega-streams-sonic-the-hedgehog-memories-and-beyond-short-animated-film-on-youtube/.243768",
-   "pubDate": "2026-11-12T20:00:00.000Z",
-   "firstSeen": "2026-11-12T20:17:58.113Z",
-   "image": null,
-   "source": "Anime News Network",
-   "sourceId": "ann",
-   "syndicated": false,
-   "kind": "specialist",
-   "lang": "en",
-   "score": 0,
-   "categories": [
-    "movie"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "Anime News Network",
-     "sourceId": "ann",
-     "link": "https://www.animenewsnetwork.com/news/2026-11-12/sega-streams-sonic-the-hedgehog-memories-and-beyond-short-animated-film-on-youtube/.243768"
-    }
-   ]
-  },
-  {
-   "title": "畑芽育、今年を表す漢字一文字は…「動」音楽番組ＭＣ、声優にも挑戦「とてもアクティブに動いた一年だった」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01bW5zNE9BVGtITXVJWDI0d3pqY1hrN3pWYU4xcEdZT05jUTc3aGkwUDlIU0JQX0h2M3JiaGRTMjB0SHBhVTJPVVY0NVVSRDFReURPVGV6U3R4aEVRckZnZWFKWGZiZk44dlE?oc=5",
-   "pubDate": "2026-11-12T20:00:00.000Z",
-   "firstSeen": "2026-11-12T23:17:57.983Z",
-   "image": null,
-   "source": "デイリースポーツ",
-   "sourceId": "gnews-seiyu",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [
-    "cast"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "デイリースポーツ",
-     "sourceId": "gnews-seiyu",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01bW5zNE9BVGtITXVJWDI0d3pqY1hrN3pWYU4xcEdZT05jUTc3aGkwUDlIU0JQX0h2M3JiaGRTMjB0SHBhVTJPVVY0NVVSRDFReURPVGV6U3R4aEVRckZnZWFKWGZiZk44dlE?oc=5",
-     "via": "Googleニュース「声優」"
-    }
-   ]
-  },
-  {
-   "title": "東京：自主映画 高３受賞 実写とアニメ大胆に融合 工芸高・藤井さん：地域ニュース",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QRF9HNmgwVEVoMVhMZk9qdzA0UXNtRC1JSDRHMDBBLVNWb0NDT2dMVTNZd1JfaEo5elVpQ0Q1QTdzZ1hyWmhDQUFGbEpkSHpPbTRheW14UEJHOVI5OE9DVWpGVmkxSWZXdG8yZHhPQURLdHM?oc=5",
-   "pubDate": "2026-11-12T20:00:00.000Z",
-   "firstSeen": "2026-11-13T08:17:53.896Z",
-   "image": null,
-   "source": "読売新聞",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "movie",
-    "stage"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "読売新聞",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QRF9HNmgwVEVoMVhMZk9qdzA0UXNtRC1JSDRHMDBBLVNWb0NDT2dMVTNZd1JfaEo5elVpQ0Q1QTdzZ1hyWmhDQUFGbEpkSHpPbTRheW14UEJHOVI5OE9DVWpGVmkxSWZXdG8yZHhPQURLdHM?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "「東京リベンジャーズ」三天戦争編 第５８話【アニメイズム】",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDcXRMTDdLWTlnMXV6cERoa1JuSHpkUGx0THJKd2Y0TGljNXl6WWw3a1pPUWhQdEd0dE05Y1pqSkY3YXB1Q0c2alh6ZENyS0NOOTRWbFV3?oc=5",
-   "pubDate": "2026-11-12T19:37:56.000Z",
-   "firstSeen": "2026-11-12T20:17:58.113Z",
-   "image": null,
-   "source": "TBSテレビ",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 8,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "TBSテレビ",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDcXRMTDdLWTlnMXV6cERoa1JuSHpkUGx0THJKd2Y0TGljNXl6WWw3a1pPUWhQdEd0dE05Y1pqSkY3YXB1Q0c2alh6ZENyS0NOOTRWbFV3?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "七つ屋 志のぶの宝石匣のアニメはいつから？2027年放送と視聴先",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CdTdvdGl5VzJZb1o3MkVMNDEyWHFCcFBtUi1uUV9hYUJBZV9lMk1WZ01oR0QxM1NKQVVXdlFnbXZOSXZsN1VTQ2RNMXdNVDFYNTBHYVBFQzdpeWhSM1Q0N3JLY195c0ZsUTBfS0pkR3NYQzlU?oc=5",
-   "pubDate": "2026-11-12T19:33:05.000Z",
-   "firstSeen": "2026-11-13T02:17:54.889Z",
-   "image": null,
-   "source": "はてなブログ",
-   "sourceId": "gnews-tvanime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "はてなブログ",
-     "sourceId": "gnews-tvanime",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CdTdvdGl5VzJZb1o3MkVMNDEyWHFCcFBtUi1uUV9hYUJBZV9lMk1WZ01oR0QxM1NKQVVXdlFnbXZOSXZsN1VTQ2RNMXdNVDFYNTBHYVBFQzdpeWhSM1Q0N3JLY195c0ZsUTBfS0pkR3NYQzlU?oc=5",
-     "via": "Googleニュース「TVアニメ 放送」"
-    }
-   ]
-  },
-  {
-   "title": "北広島でエンタメ初祭典 アニメ、ゲーム融合 あすから「きたコン」",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VUFdQS2lrMEFqUUVITlZMZFdBSnc3OWJXaTBDZXlWOUY0cGpFTjZEN3RpZDFHZkNLZDRzWkJiQTBQNXN3OWJldFhRQXJKSVBaX0V3dURHMXMwdw?oc=5",
-   "pubDate": "2026-11-12T19:00:00.000Z",
-   "firstSeen": "2026-11-12T19:17:54.457Z",
-   "image": null,
-   "source": "北海道新聞デジタル",
-   "sourceId": "gnews-anime",
-   "syndicated": false,
-   "kind": "aggregator",
-   "lang": "ja",
-   "score": 4,
-   "categories": [
-    "game"
-   ],
-   "works": [],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "北海道新聞デジタル",
-     "sourceId": "gnews-anime",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VUFdQS2lrMEFqUUVITlZMZFdBSnc3OWJXaTBDZXlWOUY0cGpFTjZEN3RpZDFHZkNLZDRzWkJiQTBQNXN3OWJldFhRQXJKSVBaX0V3dURHMXMwdw?oc=5",
-     "via": "Googleニュース「アニメ」"
-    }
-   ]
-  },
-  {
-   "title": "Mellow主題歌のオリジナルアニメ「蒼い月の使者」、主題歌ティザーPVをYouTubeで公開 第1話は11/20(金)19:00配信、毎週金曜19:00更新（全12話）",
-   "summary": "株式会社プエンテ（本社：埼玉県所沢市、代表取締役社長：保科一男）は、Mellowが主題歌を手がけるオリジナルアニメ「蒼い月の使者」の主題歌ティザーPVを、2026年11月13日（金）19:00にYouTubeでプレミア公開し...",
-   "link": "https://prtimes.jp/main/html/rd/p/000000077.000161935.html",
-   "pubDate": "2026-11-12T18:38:25.000Z",
-   "firstSeen": "2026-11-12T19:17:54.457Z",
-   "image": null,
-   "source": "PR TIMES",
-   "sourceId": "prtimes",
-   "syndicated": false,
-   "kind": "press",
-   "lang": "ja",
-   "score": 14,
-   "categories": [
-    "visual",
-    "music"
-   ],
-   "works": [
-    "蒼い月の使者"
-   ],
-   "spoiler": false,
-   "sources": [
-    {
-     "name": "PR TIMES",
-     "sourceId": "prtimes",
-     "link": "https://prtimes.jp/main/html/rd/p/000000077.000161935.html"
     }
    ]
   }
